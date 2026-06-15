@@ -1,0 +1,692 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ghost Analytics | GhostIQ</title>
+  <style>
+    :root {
+      --bg: #050605;
+      --panel: #090d0b;
+      --panel-2: #0d1511;
+      --line: rgba(255,255,255,.11);
+      --edge: rgba(0,255,102,.36);
+      --green: #8cff2f;
+      --green-2: #00ff66;
+      --blue: #58c8ff;
+      --orange: #ff8a38;
+      --red: #ff4f66;
+      --text: #f7f8f6;
+      --muted: #98a39c;
+      --soft: #dfe5df;
+      --radius: 8px;
+      --shadow: 0 28px 90px rgba(0,0,0,.5);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 70% 7%, rgba(140,255,47,.16), transparent 24rem),
+        radial-gradient(circle at 20% 10%, rgba(0,255,102,.12), transparent 22rem),
+        linear-gradient(180deg, #060807 0%, #030403 100%);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(140,255,47,.045) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(140,255,47,.035) 1px, transparent 1px);
+      background-size: 44px 44px;
+      mask-image: linear-gradient(to bottom, rgba(0,0,0,.9), transparent 68%);
+    }
+
+    body::after {
+      content: "";
+      position: fixed;
+      inset: auto 0 0 0;
+      height: 240px;
+      pointer-events: none;
+      background:
+        repeating-linear-gradient(165deg, transparent 0 18px, rgba(140,255,47,.06) 19px, transparent 20px);
+      opacity: .25;
+      mask-image: linear-gradient(to top, rgba(0,0,0,.7), transparent);
+    }
+
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; }
+    .shell { width: min(1460px, calc(100% - 32px)); margin: 0 auto; }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(5,6,5,.84);
+      backdrop-filter: blur(18px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .nav {
+      min-height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+    }
+
+    .logo {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 190px;
+    }
+
+    .logo img {
+      height: 58px;
+      width: auto;
+      object-fit: contain;
+      filter: drop-shadow(0 0 18px rgba(140,255,47,.22));
+    }
+
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+
+    nav a {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid transparent;
+    }
+
+    nav a:hover {
+      color: var(--text);
+      border-color: var(--edge);
+      background: rgba(140,255,47,.06);
+    }
+
+    .nav-action {
+      color: #071007;
+      background: var(--green);
+      font-weight: 900;
+      border-color: transparent;
+    }
+
+    .hero {
+      min-height: 660px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(380px, .95fr);
+      gap: 32px;
+      align-items: center;
+      padding: 54px 0 36px;
+    }
+
+    .eyebrow {
+      color: var(--green);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .25em;
+      font-weight: 900;
+    }
+
+    h1 {
+      margin: 15px 0 14px;
+      max-width: 760px;
+      font-size: clamp(46px, 7vw, 98px);
+      line-height: .92;
+      letter-spacing: 0;
+    }
+
+    h1 span { color: var(--green); }
+    p { color: var(--muted); line-height: 1.65; }
+
+    .hero p {
+      max-width: 650px;
+      font-size: 17px;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 24px;
+    }
+
+    .button {
+      display: inline-flex;
+      min-height: 46px;
+      align-items: center;
+      justify-content: center;
+      padding: 0 17px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.045);
+      color: var(--text);
+      font-weight: 900;
+    }
+
+    .button.primary {
+      background: var(--green);
+      color: #061006;
+      border-color: transparent;
+      box-shadow: 0 0 30px rgba(140,255,47,.2);
+    }
+
+    .hero-stage {
+      position: relative;
+      min-height: 520px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(90deg, rgba(3,5,4,.1), rgba(3,5,4,.28)),
+        url("assets/ghost-official-sports-hero.png") center / cover no-repeat,
+        #080b0a;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .hero-stage::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(180deg, transparent 0%, rgba(0,0,0,.1) 44%, rgba(0,0,0,.82) 100%);
+      opacity: .92;
+    }
+
+    .hero-ghost {
+      position: absolute;
+      right: 24px;
+      top: 22px;
+      width: 118px;
+      border-radius: 8px;
+      filter: drop-shadow(0 0 28px rgba(140,255,47,.22));
+      z-index: 2;
+    }
+
+    .signal-panel {
+      position: absolute;
+      left: 22px;
+      right: 22px;
+      bottom: 22px;
+      z-index: 3;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .signal {
+      border: 1px solid rgba(255,255,255,.12);
+      background: rgba(5,8,7,.82);
+      border-radius: 8px;
+      padding: 14px;
+    }
+
+    .signal small {
+      display: block;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .13em;
+      font-size: 10px;
+    }
+
+    .signal b {
+      display: block;
+      color: var(--green);
+      font-size: 36px;
+      line-height: 1;
+      margin: 10px 0 4px;
+    }
+
+    .product-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    .product {
+      border: 1px solid rgba(255,255,255,.11);
+      background: rgba(255,255,255,.035);
+      border-radius: 8px;
+      padding: 15px;
+    }
+
+    .product strong {
+      display: block;
+      font-size: 24px;
+    }
+    .product span { color: var(--green); }
+    .product small {
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .12em;
+    }
+
+    section { padding: 36px 0; }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 20px;
+      margin-bottom: 16px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: clamp(28px, 3.2vw, 48px);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .status {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(255,255,255,.04);
+      padding: 8px 10px;
+    }
+
+    .chip.live::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: var(--green);
+      box-shadow: 0 0 18px var(--green);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 14px;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.045), rgba(255,255,255,.02)),
+        rgba(8,12,10,.9);
+      border-radius: 8px;
+      padding: 16px;
+      box-shadow: 0 18px 55px rgba(0,0,0,.25);
+    }
+
+    .span-3 { grid-column: span 3; }
+    .span-4 { grid-column: span 4; }
+    .span-5 { grid-column: span 5; }
+    .span-6 { grid-column: span 6; }
+    .span-7 { grid-column: span 7; }
+    .span-12 { grid-column: span 12; }
+
+    .metric small, .card small {
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      font-size: 11px;
+    }
+
+    .metric b {
+      display: block;
+      color: var(--green);
+      font-size: 34px;
+      line-height: 1;
+      margin-top: 10px;
+    }
+
+    .board-table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+    }
+
+    .board-table th, .board-table td {
+      text-align: left;
+      padding: 13px 10px;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      font-size: 14px;
+    }
+
+    .board-table th {
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-size: 11px;
+    }
+
+    .grade {
+      color: var(--green);
+      font-size: 24px;
+      font-weight: 950;
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 7px;
+    }
+
+    .badge {
+      display: inline-flex;
+      border: 1px solid rgba(255,255,255,.13);
+      border-radius: 999px;
+      padding: 5px 8px;
+      font-size: 10px;
+      line-height: 1;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+    }
+    .badge.weather { color: var(--green); border-color: rgba(140,255,47,.4); }
+    .badge.hot { color: var(--orange); border-color: rgba(255,138,56,.4); }
+    .badge.ev { color: var(--blue); border-color: rgba(88,200,255,.4); }
+    .badge.pitcher { color: var(--red); border-color: rgba(255,79,102,.42); }
+    .badge.sleep { color: #61ffe3; border-color: rgba(97,255,227,.36); }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+
+    .tab {
+      min-height: 38px;
+      border: 1px solid var(--line);
+      color: var(--muted);
+      background: rgba(255,255,255,.035);
+      border-radius: 999px;
+      padding: 0 12px;
+      font-weight: 850;
+    }
+
+    .tab.active {
+      background: var(--green);
+      color: #061006;
+      border-color: transparent;
+    }
+
+    .pair {
+      border-left: 3px solid var(--green);
+      min-height: 168px;
+    }
+
+    .pair strong, .card strong {
+      display: block;
+      font-size: 18px;
+      margin-bottom: 8px;
+    }
+
+    .definition {
+      min-height: 150px;
+    }
+
+    .definition p { margin-bottom: 0; }
+
+    .audit-list {
+      display: grid;
+      gap: 10px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .audit-list li {
+      display: flex;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 11px 0;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      color: var(--muted);
+    }
+
+    .audit-list b { color: var(--text); }
+
+    footer {
+      border-top: 1px solid var(--line);
+      margin-top: 34px;
+      padding: 30px 0 44px;
+      color: var(--muted);
+    }
+
+    @media (max-width: 980px) {
+      .shell { width: min(100% - 22px, 1460px); }
+      nav { display: none; }
+      .hero {
+        grid-template-columns: 1fr;
+        min-height: auto;
+        padding-top: 28px;
+      }
+      .hero-stage { min-height: 430px; }
+      .hero-ghost { width: 94px; right: 14px; }
+      .signal-panel { grid-template-columns: 1fr; }
+      .product-strip { grid-template-columns: 1fr 1fr; }
+      .span-3, .span-4, .span-5, .span-6, .span-7 { grid-column: span 12; }
+      .section-head { flex-direction: column; align-items: start; }
+      .board-table { min-width: 720px; }
+      .table-wrap { overflow-x: auto; }
+    }
+
+    @media (max-width: 560px) {
+      h1 { font-size: 46px; }
+      .product-strip { grid-template-columns: 1fr; }
+      .logo img { height: 46px; }
+      .hero-stage { min-height: 500px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="shell nav">
+      <a class="logo" href="#" aria-label="Ghost Analytics home">
+        <img src="assets/ghost-official-logo.png" alt="Ghost Analytics">
+      </a>
+      <nav aria-label="Primary">
+        <a href="#plays">Plays</a>
+        <a href="#pairings">Pairings</a>
+        <a href="#signals">Signals</a>
+        <a href="#results">Results</a>
+        <a href="#tools">Tools</a>
+        <a class="nav-action" href="#plays">Get Started</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell hero">
+      <div>
+        <div class="eyebrow">Powered by GhostIQ</div>
+        <h1>The plays they don’t see. <span>We do.</span></h1>
+        <p>Ghost Analytics turns matchup data, batted-ball quality, weather, lineups, and nightly audit results into clean decision boards across every sport. BarrelIQ is the first live tool: MLB home run intelligence built to find edge before it becomes obvious.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#plays">View Today’s Plays</a>
+          <a class="button" href="#signals">Explore GhostIQ</a>
+        </div>
+
+        <div class="product-strip" aria-label="GhostIQ products">
+          <div class="product"><strong>Barrel<span>IQ</span></strong><small>MLB Analytics</small></div>
+          <div class="product"><strong>RedZone<span>IQ</span></strong><small>NFL Coming Soon</small></div>
+          <div class="product"><strong>Court<span>IQ</span></strong><small>NBA Coming Soon</small></div>
+          <div class="product"><strong>Ghost<span>IQ</span></strong><small>Model Core</small></div>
+        </div>
+      </div>
+
+      <div class="hero-stage" aria-label="GhostIQ live board preview">
+        <img class="hero-ghost" src="assets/ghost-official-icon.png" alt="">
+        <div class="signal-panel">
+          <div class="signal"><small>Edge Index</small><b>8.2</b><span>Strong slate signal</span></div>
+          <div class="signal"><small>Active Signals</small><b>28</b><span>Lineups monitoring</span></div>
+          <div class="signal"><small>Confirmed</small><b>12</b><span>Lineups locked</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="plays" class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">BarrelIQ Live</div>
+          <h2>Today’s HR Targets</h2>
+        </div>
+        <div class="status">
+          <span class="chip live">Live Mode</span>
+          <span class="chip">Eastern Time</span>
+          <span class="chip">Confirmed + Projected Split</span>
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="card span-3 metric"><small>Edge Grade</small><b>A-</b></div>
+        <div class="card span-3 metric"><small>Weather Edges</small><b>5</b></div>
+        <div class="card span-3 metric"><small>Pairing Pool</small><b>14</b></div>
+        <div class="card span-3 metric"><small>Audit Loop</small><b>On</b></div>
+        <div class="card span-12 table-wrap">
+          <table class="board-table">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Player</th>
+                <th>Matchup</th>
+                <th>Grade</th>
+                <th>Edge</th>
+                <th>Signals</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td><strong>Primary Target</strong><small> Confirmed · Batting 2nd</small></td>
+                <td>Team vs Opp</td>
+                <td class="grade">A</td>
+                <td>8.7</td>
+                <td><div class="badges"><span class="badge ev">EV Edge</span><span class="badge pitcher">Pitcher Target</span></div></td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td><strong>Weather Target</strong><small> Confirmed · Batting 4th</small></td>
+                <td>Team vs Opp</td>
+                <td class="grade">B+</td>
+                <td>8.1</td>
+                <td><div class="badges"><span class="badge weather">Weather Edge</span><span class="badge hot">Hot Bat</span></div></td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td><strong>Sleeper Target</strong><small> Projected · Monitor lineup</small></td>
+                <td>Team vs Opp</td>
+                <td class="grade">B</td>
+                <td>7.6</td>
+                <td><div class="badges"><span class="badge sleep">Sleeper</span><span class="badge ev">EV Edge</span></div></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section id="pairings" class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Built Separately</div>
+          <h2>Pairing Engine</h2>
+        </div>
+        <p>Pairings are not just the top names grouped together. They use exposure caps, volatility, game independence, and stack logic.</p>
+      </div>
+
+      <div class="tabs">
+        <button class="tab active">Balanced 2</button>
+        <button class="tab">Power Pair</button>
+        <button class="tab">Weather Stack</button>
+        <button class="tab">Aggressive 3</button>
+        <button class="tab">No Force</button>
+      </div>
+
+      <div class="grid">
+        <div class="card span-4 pair">
+          <small>Balanced</small>
+          <strong>Anchor + Independent Edge</strong>
+          <p>Designed to avoid overusing the same player across every combination.</p>
+          <div class="badges"><span class="badge ev">EV Edge</span><span class="badge pitcher">Pitcher Target</span></div>
+        </div>
+        <div class="card span-4 pair">
+          <small>Stack Logic</small>
+          <strong>Weather + Park Agreement</strong>
+          <p>Same-game combos only show when the environment and pitcher profile support it.</p>
+          <div class="badges"><span class="badge weather">Weather Edge</span><span class="badge hot">Hot Bat</span></div>
+        </div>
+        <div class="card span-4 pair">
+          <small>Discipline</small>
+          <strong>No Forced 4-Leg</strong>
+          <p>If the pool is weak, GhostIQ should say so instead of pretending there is a play.</p>
+          <div class="badges"><span class="badge">Volatility Check</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="signals" class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Signal Guide</div>
+          <h2>What The Labels Mean</h2>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="card span-4 definition"><strong>Weather Edge</strong><p>Park and weather are helping home run conditions: wind, temperature, roof, air density, or HR park factor.</p></div>
+        <div class="card span-4 definition"><strong>Hot Bat</strong><p>Recent form is strong. It matters, but it does not override the matchup model.</p></div>
+        <div class="card span-4 definition"><strong>EV Edge</strong><p>The hitter’s batted-ball quality is strong: exit velocity, EV50, hard-hit rate, or barrel rate.</p></div>
+        <div class="card span-4 definition"><strong>Pitcher Target</strong><p>The opposing pitcher is allowing HR-friendly contact, barrels, xSLG, xISO, or split damage.</p></div>
+        <div class="card span-4 definition"><strong>Sleeper</strong><p>A lower-profile hitter with enough data support to matter, usually with higher volatility.</p></div>
+        <div class="card span-4 definition"><strong>Tough Pitcher</strong><p>The hitter has real signals, but the opposing pitcher creates resistance.</p></div>
+      </div>
+    </section>
+
+    <section id="results" class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Learning Loop</div>
+          <h2>Nightly Results Audit</h2>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="card span-5">
+          <strong>What GhostIQ Tracks</strong>
+          <ul class="audit-list">
+            <li><span>Top target hit rate</span><b>Daily</b></li>
+            <li><span>Pairing results</span><b>Separate</b></li>
+            <li><span>Miss reasons</span><b>Tagged</b></li>
+            <li><span>Model drift</span><b>Logged</b></li>
+          </ul>
+        </div>
+        <div class="card span-7">
+          <strong>What Gets Improved</strong>
+          <p>Weather misses, pitcher split gaps, lineup misses, overvalued hot streaks, and pairing concentration problems become model adjustments. The site should show confidence without pretending baseball is predictable.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell">Ghost Analytics · Powered by GhostIQ · BarrelIQ MLB beta · Eastern Time</div>
+  </footer>
+</body>
+</html>
