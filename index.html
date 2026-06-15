@@ -550,17 +550,17 @@
           <h2>Today’s HR Targets</h2>
         </div>
         <div class="status">
-          <span class="chip live">Live Mode</span>
-          <span class="chip">Eastern Time</span>
-          <span class="chip">Confirmed + Projected Split</span>
+          <span class="chip live" id="freshnessChip">Loading Data</span>
+          <span class="chip" id="updatedChip">Eastern Time</span>
+          <span class="chip" id="confirmedChip">Confirmed + Projected Split</span>
         </div>
       </div>
 
       <div class="grid">
-        <div class="card span-3 metric"><small>Edge Grade</small><b>A-</b></div>
-        <div class="card span-3 metric"><small>Weather Edges</small><b>5</b></div>
-        <div class="card span-3 metric"><small>Pairing Pool</small><b>14</b></div>
-        <div class="card span-3 metric"><small>Audit Loop</small><b>On</b></div>
+        <div class="card span-3 metric"><small>Top Grade</small><b id="topGrade">--</b></div>
+        <div class="card span-3 metric"><small>Weather Edges</small><b id="weatherCount">--</b></div>
+        <div class="card span-3 metric"><small>Pairing Pool</small><b id="pairingCount">--</b></div>
+        <div class="card span-3 metric"><small>Audit Loop</small><b id="auditStatus">--</b></div>
         <div class="card span-12 table-wrap">
           <table class="board-table">
             <thead>
@@ -573,31 +573,8 @@
                 <th>Signals</th>
               </tr>
             </thead>
-            <tbody>
-              <tr>
-                <td>1</td>
-                <td><strong>Primary Target</strong><small> Confirmed · Batting 2nd</small></td>
-                <td>Team vs Opp</td>
-                <td class="grade">A</td>
-                <td>8.7</td>
-                <td><div class="badges"><span class="badge ev">EV Edge</span><span class="badge pitcher">Pitcher Target</span></div></td>
-              </tr>
-              <tr>
-                <td>2</td>
-                <td><strong>Weather Target</strong><small> Confirmed · Batting 4th</small></td>
-                <td>Team vs Opp</td>
-                <td class="grade">B+</td>
-                <td>8.1</td>
-                <td><div class="badges"><span class="badge weather">Weather Edge</span><span class="badge hot">Hot Bat</span></div></td>
-              </tr>
-              <tr>
-                <td>3</td>
-                <td><strong>Sleeper Target</strong><small> Projected · Monitor lineup</small></td>
-                <td>Team vs Opp</td>
-                <td class="grade">B</td>
-                <td>7.6</td>
-                <td><div class="badges"><span class="badge sleep">Sleeper</span><span class="badge ev">EV Edge</span></div></td>
-              </tr>
+            <tbody id="targetRows">
+              <tr><td colspan="6">Loading BarrelIQ targets...</td></tr>
             </tbody>
           </table>
         </div>
@@ -613,32 +590,17 @@
         <p>Pairings are not just the top names grouped together. They use exposure caps, volatility, game independence, and stack logic.</p>
       </div>
 
-      <div class="tabs">
-        <button class="tab active">Balanced 2</button>
-        <button class="tab">Power Pair</button>
-        <button class="tab">Weather Stack</button>
-        <button class="tab">Aggressive 3</button>
-        <button class="tab">No Force</button>
+      <div class="tabs" id="pairingTabs">
+        <button class="tab active" data-size="2">2-Leg</button>
+        <button class="tab" data-size="3">3-Leg</button>
+        <button class="tab" data-size="4">4-Leg</button>
       </div>
 
-      <div class="grid">
+      <div class="grid" id="pairingCards">
         <div class="card span-4 pair">
-          <small>Balanced</small>
-          <strong>Anchor + Independent Edge</strong>
-          <p>Designed to avoid overusing the same player across every combination.</p>
-          <div class="badges"><span class="badge ev">EV Edge</span><span class="badge pitcher">Pitcher Target</span></div>
-        </div>
-        <div class="card span-4 pair">
-          <small>Stack Logic</small>
-          <strong>Weather + Park Agreement</strong>
-          <p>Same-game combos only show when the environment and pitcher profile support it.</p>
-          <div class="badges"><span class="badge weather">Weather Edge</span><span class="badge hot">Hot Bat</span></div>
-        </div>
-        <div class="card span-4 pair">
-          <small>Discipline</small>
-          <strong>No Forced 4-Leg</strong>
-          <p>If the pool is weak, GhostIQ should say so instead of pretending there is a play.</p>
-          <div class="badges"><span class="badge">Volatility Check</span></div>
+          <small>Loading</small>
+          <strong>Pairing engine warming up</strong>
+          <p>GhostIQ will show fewer pairings instead of forcing weak combinations.</p>
         </div>
       </div>
     </section>
@@ -650,7 +612,7 @@
           <h2>What The Labels Mean</h2>
         </div>
       </div>
-      <div class="grid">
+      <div class="grid" id="labelCards">
         <div class="card span-4 definition"><strong>Weather Edge</strong><p>Park and weather are helping home run conditions: wind, temperature, roof, air density, or HR park factor.</p></div>
         <div class="card span-4 definition"><strong>Hot Bat</strong><p>Recent form is strong. It matters, but it does not override the matchup model.</p></div>
         <div class="card span-4 definition"><strong>EV Edge</strong><p>The hitter’s batted-ball quality is strong: exit velocity, EV50, hard-hit rate, or barrel rate.</p></div>
@@ -670,7 +632,7 @@
       <div class="grid">
         <div class="card span-5">
           <strong>What GhostIQ Tracks</strong>
-          <ul class="audit-list">
+          <ul class="audit-list" id="auditList">
             <li><span>Top target hit rate</span><b>Daily</b></li>
             <li><span>Pairing results</span><b>Separate</b></li>
             <li><span>Miss reasons</span><b>Tagged</b></li>
@@ -688,5 +650,133 @@
   <footer>
     <div class="shell">Ghost Analytics · Powered by GhostIQ · BarrelIQ MLB beta · Eastern Time</div>
   </footer>
+  <script>
+    const payloadPath = "outputs/live_mlb_payload.json";
+    let ghostPayload = null;
+    let activePairingSize = "2";
+
+    const labelClass = {
+      "Weather Edge": "weather",
+      "Hot Bat": "hot",
+      "EV Edge": "ev",
+      "Pitcher Target": "pitcher",
+      "Sleeper": "sleep",
+      "Tough Pitcher": "pitcher",
+      "Confirmed": "weather",
+      "Projected": "",
+      "Watch": ""
+    };
+
+    function esc(value) {
+      return String(value ?? "").replace(/[&<>"']/g, char => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
+      }[char]));
+    }
+
+    function badges(labels) {
+      return `<div class="badges">${(labels || []).map(label =>
+        `<span class="badge ${labelClass[label] || ""}">${esc(label)}</span>`
+      ).join("")}</div>`;
+    }
+
+    function renderTargets(rows) {
+      const targetRows = document.querySelector("#targetRows");
+      targetRows.innerHTML = (rows || []).slice(0, 20).map(row => `
+        <tr>
+          <td>${esc(row.rank)}</td>
+          <td>
+            <strong>${esc(row.player)}</strong>
+            <small> ${row.confirmed ? "Confirmed" : "Projected"} · Batting ${esc(row.batting_order || "--")}</small>
+          </td>
+          <td>${esc(row.matchup)}<br><small>vs ${esc(row.pitcher || "TBD")} ${esc(row.pitcher_hand || "")}</small></td>
+          <td class="grade">${esc(row.ghost_grade)}</td>
+          <td>${esc(row.edge_index)}</td>
+          <td>${badges(row.labels)}</td>
+        </tr>
+      `).join("") || `<tr><td colspan="6">No targets loaded yet.</td></tr>`;
+    }
+
+    function renderPairings(size) {
+      activePairingSize = size;
+      const rows = (ghostPayload?.pairings || {})[size] || [];
+      const cards = document.querySelector("#pairingCards");
+      cards.innerHTML = rows.map(row => `
+        <div class="card span-4 pair">
+          <small>${esc(row.type)} · ${esc(row.volatility)} Volatility</small>
+          <strong>${esc(row.names)}</strong>
+          <p>${esc(row.reason)}</p>
+          <p><small>${esc(row.teams)} · Avg Edge ${esc(row.avg_edge)} · Combo ${esc(row.combo_score)}</small></p>
+          ${badges(String(row.labels || "").split(" / ").flatMap(item => item.split(", ")).filter(Boolean))}
+        </div>
+      `).join("") || `
+        <div class="card span-4 pair">
+          <small>No Force</small>
+          <strong>No ${size}-leg pairing passed the rules</strong>
+          <p>GhostIQ is refusing to force a weak combo. This is intentional.</p>
+          <div class="badges"><span class="badge">Volatility Check</span></div>
+        </div>`;
+    }
+
+    function renderLabels(definitions) {
+      const labelCards = document.querySelector("#labelCards");
+      labelCards.innerHTML = Object.entries(definitions || {}).map(([label, body]) => `
+        <div class="card span-4 definition">
+          <strong>${esc(label)}</strong>
+          <p>${esc(body)}</p>
+        </div>
+      `).join("");
+    }
+
+    function renderAudit(payload) {
+      const audit = payload.audit_summary || {};
+      document.querySelector("#auditList").innerHTML = `
+        <li><span>Top target tracking</span><b>${esc(audit.status || "Ready")}</b></li>
+        <li><span>Pairing results</span><b>Separate</b></li>
+        <li><span>Miss reasons</span><b>Tagged</b></li>
+        <li><span>Model drift</span><b>Logged</b></li>
+      `;
+    }
+
+    function renderStatus(payload) {
+      const status = payload.status || {};
+      const top = (payload.top_targets || [])[0] || {};
+      const pairings = payload.pairings || {};
+      const pairingTotal = Object.values(pairings).reduce((sum, rows) => sum + (rows || []).length, 0);
+      document.querySelector("#freshnessChip").textContent = status.freshness || "Loaded";
+      document.querySelector("#updatedChip").textContent = `Updated ${payload.generated_at || "ET"}`;
+      document.querySelector("#confirmedChip").textContent = `${status.confirmed_count || 0} confirmed · ${status.projected_count || 0} projected`;
+      document.querySelector("#topGrade").textContent = top.ghost_grade || "--";
+      document.querySelector("#weatherCount").textContent = (payload.weather_edges || []).length;
+      document.querySelector("#pairingCount").textContent = pairingTotal;
+      document.querySelector("#auditStatus").textContent = payload.audit_summary?.status === "framework_ready" ? "Ready" : "On";
+    }
+
+    async function loadPayload() {
+      try {
+        const response = await fetch(`${payloadPath}?t=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error("payload missing");
+        ghostPayload = await response.json();
+        renderStatus(ghostPayload);
+        renderTargets(ghostPayload.top_targets || []);
+        renderPairings(activePairingSize);
+        renderLabels(ghostPayload.label_definitions || {});
+        renderAudit(ghostPayload);
+      } catch (error) {
+        document.querySelector("#freshnessChip").textContent = "Data Not Connected";
+        document.querySelector("#targetRows").innerHTML = `<tr><td colspan="6">Live MLB payload is not uploaded yet.</td></tr>`;
+      }
+    }
+
+    document.querySelectorAll("#pairingTabs .tab").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll("#pairingTabs .tab").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        renderPairings(button.dataset.size);
+      });
+    });
+
+    loadPayload();
+    setInterval(loadPayload, 60000);
+  </script>
 </body>
 </html>
