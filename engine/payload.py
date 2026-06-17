@@ -55,6 +55,7 @@ def build_from_rankings(input_csv: Path, output_json: Path) -> dict:
             "4": build_pairings(pair_source, 4),
         },
         "weather_edges": weather_edges(rows),
+        "park_conditions": park_conditions(rows),
         "label_definitions": LABEL_DEFINITIONS,
         "audit_summary": {
             "status": "framework_ready",
@@ -81,6 +82,10 @@ def target_payload(row: dict) -> dict:
         "pitcher": row.get("pitcher"),
         "pitcher_hand": row.get("pitcher_hand"),
         "ballpark": row.get("ballpark"),
+        "park_hr_factor": safe_round(row.get("park_hr_factor")),
+        "weather_temp": row.get("weather_temp"),
+        "wind_speed": row.get("wind_speed"),
+        "wind_direction": row.get("wind_direction"),
         "game_start_time": row.get("game_start_time"),
         "confirmed": confirmed(row.get("confirmed_lineup")),
         "edge_index": row.get("edge_index"),
@@ -116,3 +121,45 @@ def weather_edges(rows: list[dict]) -> list[dict]:
             }
         )
     return sorted(edges, key=lambda item: item["environment_score"], reverse=True)[:10]
+
+
+def park_conditions(rows: list[dict]) -> list[dict]:
+    parks: dict[str, list[dict]] = {}
+    for row in rows:
+        park = str(row.get("ballpark") or "Unknown")
+        parks.setdefault(park, []).append(row)
+
+    conditions = []
+    for park, park_rows in parks.items():
+        best = max(park_rows, key=lambda row: number(row.get("edge_index")))
+        env = sum(number(row.get("environment_score")) for row in park_rows) / len(park_rows)
+        park_factor = sum(number(row.get("park_hr_factor"), 100) for row in park_rows) / len(park_rows)
+        wind_speed = max(number(row.get("wind_speed")) for row in park_rows)
+        temp_values = [number(row.get("weather_temp")) for row in park_rows if row.get("weather_temp") not in ("", None)]
+        temp = round(sum(temp_values) / len(temp_values), 1) if temp_values else ""
+        direction = best.get("wind_direction", "")
+        if env >= 72:
+            grade = "Green"
+        elif env >= 58:
+            grade = "Watch"
+        elif env >= 44:
+            grade = "Neutral"
+        else:
+            grade = "Resist"
+
+        conditions.append(
+            {
+                "ballpark": park,
+                "teams": sorted({str(row.get("team")) for row in park_rows}),
+                "environment_score": round(env, 1),
+                "park_hr_factor": round(park_factor, 1),
+                "temperature": temp,
+                "wind_speed": safe_round(wind_speed),
+                "wind_direction": direction,
+                "condition_grade": grade,
+                "top_player": best.get("player"),
+                "top_edge": best.get("edge_index"),
+                "source_note": "MLB Stats API weather feed + GhostIQ park factor table",
+            }
+        )
+    return sorted(conditions, key=lambda item: item["environment_score"], reverse=True)

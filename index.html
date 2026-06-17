@@ -6,601 +6,534 @@
   <title>Ghost Analytics | GhostIQ</title>
   <style>
     :root {
-      --bg: #050605;
-      --panel: #090d0b;
-      --panel-2: #0d1511;
-      --line: rgba(255,255,255,.11);
-      --edge: rgba(0,255,102,.36);
-      --green: #8cff2f;
+      --bg: #050705;
+      --panel: #0a0d0b;
+      --panel-2: #0e1410;
+      --ink: #f8faf6;
+      --muted: #a0aaa3;
+      --soft: #d7ded8;
+      --line: rgba(255,255,255,.12);
+      --green: #80ff3f;
       --green-2: #00ff66;
-      --blue: #58c8ff;
-      --orange: #ff8a38;
-      --red: #ff4f66;
-      --text: #f7f8f6;
-      --muted: #98a39c;
-      --soft: #dfe5df;
+      --cyan: #5ce6ff;
+      --amber: #ffbe5c;
+      --red: #ff596f;
       --radius: 8px;
-      --shadow: 0 28px 90px rgba(0,0,0,.5);
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
     * { box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
+    html { scroll-behavior: smooth; background: var(--bg); }
     body {
       margin: 0;
-      color: var(--text);
-      background:
-        radial-gradient(circle at 70% 7%, rgba(140,255,47,.16), transparent 24rem),
-        radial-gradient(circle at 20% 10%, rgba(0,255,102,.12), transparent 22rem),
-        linear-gradient(180deg, #060807 0%, #030403 100%);
+      color: var(--ink);
+      background: var(--bg);
+      min-height: 100vh;
     }
-
-    body::before {
-      content: "";
-      position: fixed;
-      inset: 0;
-      pointer-events: none;
-      background-image:
-        linear-gradient(rgba(140,255,47,.045) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(140,255,47,.035) 1px, transparent 1px);
-      background-size: 44px 44px;
-      mask-image: linear-gradient(to bottom, rgba(0,0,0,.9), transparent 68%);
-    }
-
-    body::after {
-      content: "";
-      position: fixed;
-      inset: auto 0 0 0;
-      height: 240px;
-      pointer-events: none;
-      background:
-        repeating-linear-gradient(165deg, transparent 0 18px, rgba(140,255,47,.06) 19px, transparent 20px);
-      opacity: .25;
-      mask-image: linear-gradient(to top, rgba(0,0,0,.7), transparent);
-    }
-
     a { color: inherit; text-decoration: none; }
     button { font: inherit; }
-    .shell { width: min(1460px, calc(100% - 32px)); margin: 0 auto; }
+    .shell { width: min(1380px, calc(100% - 32px)); margin: 0 auto; }
 
     header {
       position: sticky;
       top: 0;
-      z-index: 20;
-      background: rgba(5,6,5,.84);
-      backdrop-filter: blur(18px);
+      z-index: 50;
+      background: rgba(5,7,5,.92);
       border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(14px);
     }
-
     .nav {
-      min-height: 76px;
+      min-height: 70px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 18px;
     }
-
-    .logo {
-      display: inline-flex;
-      align-items: center;
-      gap: 12px;
-      min-width: 190px;
-    }
-
-    .logo img {
-      height: 58px;
+    .brand img {
+      display: block;
+      height: 50px;
       width: auto;
-      object-fit: contain;
-      filter: drop-shadow(0 0 18px rgba(140,255,47,.22));
+      filter: drop-shadow(0 0 18px rgba(128,255,63,.2));
     }
-
-    nav {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      color: var(--muted);
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: .08em;
-    }
-
+    nav { display: flex; gap: 8px; align-items: center; }
     nav a {
-      padding: 10px 12px;
-      border-radius: 8px;
+      color: var(--muted);
       border: 1px solid transparent;
+      border-radius: var(--radius);
+      padding: 10px 12px;
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+      letter-spacing: .04em;
     }
-
-    nav a:hover {
-      color: var(--text);
-      border-color: var(--edge);
-      background: rgba(140,255,47,.06);
-    }
-
-    .nav-action {
-      color: #071007;
-      background: var(--green);
-      font-weight: 900;
-      border-color: transparent;
-    }
+    nav a:hover { color: var(--ink); border-color: rgba(128,255,63,.35); background: rgba(128,255,63,.06); }
+    nav .cta { color: #051005; background: var(--green); border-color: transparent; }
 
     .hero {
-      min-height: 660px;
-      display: grid;
-      grid-template-columns: minmax(0, 1.05fr) minmax(380px, .95fr);
-      gap: 32px;
-      align-items: center;
-      padding: 54px 0 36px;
+      padding: 24px 0 28px;
     }
-
+    .hero-frame {
+      min-height: 590px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: minmax(0, .9fr) minmax(420px, 1.1fr);
+      background:
+        radial-gradient(circle at 78% 32%, rgba(128,255,63,.18), transparent 18rem),
+        linear-gradient(135deg, #07100b 0%, #050705 58%, #030403 100%),
+        #050705;
+      box-shadow: 0 30px 95px rgba(0,0,0,.48);
+    }
+    .hero-frame::after {
+      content: "";
+      pointer-events: none;
+      grid-column: 2;
+      grid-row: 1;
+      align-self: center;
+      justify-self: center;
+      width: min(58%, 330px);
+      aspect-ratio: 1;
+      background: url("assets/ghost-official-icon.png") center / contain no-repeat;
+      filter: drop-shadow(0 0 42px rgba(128,255,63,.22));
+      opacity: .9;
+    }
+    .hero-copy {
+      padding: clamp(24px, 5vw, 58px);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-width: 0;
+    }
     .eyebrow {
       color: var(--green);
       font-size: 12px;
+      line-height: 1.2;
       text-transform: uppercase;
-      letter-spacing: .25em;
-      font-weight: 900;
+      font-weight: 950;
+      letter-spacing: .22em;
     }
-
     h1 {
-      margin: 15px 0 14px;
-      max-width: 760px;
-      font-size: clamp(46px, 7vw, 98px);
-      line-height: .92;
+      margin: 16px 0 14px;
+      max-width: 660px;
+      font-size: clamp(42px, 6vw, 78px);
+      line-height: .96;
       letter-spacing: 0;
+      text-transform: uppercase;
     }
-
     h1 span { color: var(--green); }
-    p { color: var(--muted); line-height: 1.65; }
-
-    .hero p {
-      max-width: 650px;
-      font-size: 17px;
-    }
-
-    .hero-actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-top: 24px;
-    }
-
+    p { color: var(--muted); line-height: 1.62; }
+    .hero-copy p { max-width: 590px; font-size: 16px; }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
     .button {
+      min-height: 44px;
       display: inline-flex;
-      min-height: 46px;
       align-items: center;
       justify-content: center;
-      padding: 0 17px;
-      border-radius: 8px;
-      border: 1px solid var(--line);
-      background: rgba(255,255,255,.045);
-      color: var(--text);
-      font-weight: 900;
-    }
-
-    .button.primary {
-      background: var(--green);
-      color: #061006;
-      border-color: transparent;
-      box-shadow: 0 0 30px rgba(140,255,47,.2);
-    }
-
-    .hero-stage {
-      position: relative;
-      min-height: 520px;
-      border: 1px solid rgba(255,255,255,.12);
       border-radius: var(--radius);
-      background:
-        linear-gradient(90deg, rgba(3,5,4,.1), rgba(3,5,4,.28)),
-        url("assets/ghost-official-sports-hero.png") center / cover no-repeat,
-        #080b0a;
-      overflow: hidden;
-      box-shadow: var(--shadow);
+      border: 1px solid var(--line);
+      padding: 0 16px;
+      background: rgba(255,255,255,.05);
+      color: var(--ink);
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
     }
+    .button.primary { background: var(--green); color: #051005; border-color: transparent; }
 
-    .hero-stage::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background:
-        linear-gradient(180deg, transparent 0%, rgba(0,0,0,.1) 44%, rgba(0,0,0,.82) 100%);
-      opacity: .92;
-    }
-
-    .hero-ghost {
-      position: absolute;
-      right: 24px;
-      top: 22px;
-      width: 118px;
-      border-radius: 8px;
-      filter: drop-shadow(0 0 28px rgba(140,255,47,.22));
-      z-index: 2;
-    }
-
-    .signal-panel {
-      position: absolute;
-      left: 22px;
-      right: 22px;
-      bottom: 22px;
-      z-index: 3;
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-    }
-
-    .signal {
-      border: 1px solid rgba(255,255,255,.12);
-      background: rgba(5,8,7,.82);
-      border-radius: 8px;
+    .hero-live {
+      align-self: end;
+      margin-top: 34px;
+      width: min(100%, 640px);
+      border: 1px solid rgba(255,255,255,.13);
+      border-radius: var(--radius);
+      background: rgba(5,7,5,.78);
+      backdrop-filter: blur(10px);
       padding: 14px;
     }
-
-    .signal small {
-      display: block;
+    .live-top {
+      display: grid;
+      grid-template-columns: 92px 1fr;
+      gap: 14px;
+      align-items: center;
+    }
+    .live-score {
+      color: var(--green);
+      font-size: 58px;
+      line-height: .92;
+      font-weight: 950;
+    }
+    .meter {
+      height: 9px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.08);
+      border: 1px solid rgba(255,255,255,.12);
+      overflow: hidden;
+      margin-top: 10px;
+    }
+    .meter i { display: block; height: 100%; width: var(--value, 60%); background: linear-gradient(90deg, var(--green-2), var(--green)); }
+    .mini-list {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-top: 12px;
+    }
+    .mini-player {
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,.04);
+      padding: 10px;
+      min-width: 0;
+    }
+    .mini-player small, .card small, .park-metric small {
       color: var(--muted);
       text-transform: uppercase;
-      letter-spacing: .13em;
+      letter-spacing: .1em;
       font-size: 10px;
     }
-
-    .signal b {
+    .mini-player b {
       display: block;
-      color: var(--green);
-      font-size: 36px;
-      line-height: 1;
-      margin: 10px 0 4px;
+      margin-top: 4px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
-
     .product-strip {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
-      margin-top: 22px;
+      grid-template-columns: repeat(5, 1fr);
+      border-top: 1px solid rgba(255,255,255,.1);
+      background: rgba(5,7,5,.86);
     }
-
     .product {
-      border: 1px solid rgba(255,255,255,.11);
-      background: rgba(255,255,255,.035);
-      border-radius: 8px;
-      padding: 15px;
+      min-height: 82px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 18px;
+      border-right: 1px solid rgba(255,255,255,.1);
     }
+    .product:last-child { border-right: 0; }
+    .sport-icon {
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(255,255,255,.24);
+      color: var(--green);
+      font-weight: 950;
+      font-size: 11px;
+    }
+    .product b { display: block; font-size: 15px; }
+    .product span { color: var(--muted); font-size: 12px; }
 
-    .product strong {
-      display: block;
-      font-size: 24px;
-    }
-    .product span { color: var(--green); }
-    .product small {
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: .12em;
-    }
-
-    section { padding: 36px 0; }
+    section { padding: 34px 0; }
     .section-head {
       display: flex;
       justify-content: space-between;
       align-items: end;
-      gap: 20px;
+      gap: 18px;
       margin-bottom: 16px;
     }
-
     h2 {
       margin: 0;
-      font-size: clamp(28px, 3.2vw, 48px);
+      font-size: clamp(30px, 3.2vw, 48px);
       line-height: 1;
-      letter-spacing: 0;
+      text-transform: uppercase;
     }
-
-    .status {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      color: var(--muted);
-      font-size: 12px;
-    }
-
-    .chip {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      background: rgba(255,255,255,.04);
-      padding: 8px 10px;
-    }
-
-    .chip.live::before {
-      content: "";
-      width: 8px;
-      height: 8px;
-      border-radius: 999px;
-      background: var(--green);
-      box-shadow: 0 0 18px var(--green);
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(12, 1fr);
-      gap: 14px;
-    }
+    .section-head p { max-width: 620px; margin: 0; }
+    .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 14px; }
+    .span-3 { grid-column: span 3; }
+    .span-4 { grid-column: span 4; }
+    .span-6 { grid-column: span 6; }
+    .span-12 { grid-column: span 12; }
 
     .card {
       border: 1px solid var(--line);
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.045), rgba(255,255,255,.02)),
-        rgba(8,12,10,.9);
-      border-radius: 8px;
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255,255,255,.046), rgba(255,255,255,.018)), var(--panel);
       padding: 16px;
-      box-shadow: 0 18px 55px rgba(0,0,0,.25);
+      box-shadow: 0 18px 50px rgba(0,0,0,.24);
     }
-
-    .span-3 { grid-column: span 3; }
-    .span-4 { grid-column: span 4; }
-    .span-5 { grid-column: span 5; }
-    .span-6 { grid-column: span 6; }
-    .span-7 { grid-column: span 7; }
-    .span-12 { grid-column: span 12; }
-
-    .metric small, .card small {
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: .1em;
-      font-size: 11px;
-    }
-
-    .metric b {
+    .stat b {
       display: block;
       color: var(--green);
       font-size: 34px;
       line-height: 1;
-      margin-top: 10px;
+      margin-top: 8px;
     }
 
-    .board-table {
-      width: 100%;
-      border-collapse: collapse;
+    .park-card {
+      padding: 0;
+      min-height: 360px;
       overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background: var(--panel);
     }
-
-    .board-table th, .board-table td {
-      text-align: left;
-      padding: 13px 10px;
-      border-bottom: 1px solid rgba(255,255,255,.08);
-      font-size: 14px;
+    .park-photo {
+      position: relative;
+      min-height: 156px;
+      background:
+        linear-gradient(135deg, rgba(128,255,63,.16), transparent),
+        linear-gradient(135deg, #101711, #050705);
+      background-size: cover;
+      background-position: center;
     }
-
-    .board-table th {
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: .12em;
-      font-size: 11px;
+    .park-photo::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(0,0,0,.1), rgba(5,7,5,.88));
     }
-
-    .grade {
+    .park-photo .park-logo {
+      position: absolute;
+      left: 12px;
+      bottom: 12px;
+      z-index: 2;
+      width: 44px;
+      height: 44px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: rgba(5,7,5,.84);
+      border: 1px solid rgba(128,255,63,.55);
       color: var(--green);
-      font-size: 24px;
+      font-size: 12px;
+      font-weight: 950;
+      box-shadow: 0 0 26px rgba(128,255,63,.12);
+    }
+    .condition-pill {
+      position: absolute;
+      right: 12px;
+      bottom: 16px;
+      z-index: 2;
+      border: 1px solid rgba(128,255,63,.48);
+      color: var(--green);
+      border-radius: 999px;
+      padding: 7px 9px;
+      font-size: 10px;
+      font-weight: 950;
+      text-transform: uppercase;
+      background: rgba(5,7,5,.8);
+    }
+    .condition-pill.watch { color: var(--amber); border-color: rgba(255,190,92,.48); }
+    .condition-pill.neutral { color: var(--soft); border-color: rgba(255,255,255,.2); }
+    .condition-pill.resist { color: var(--red); border-color: rgba(255,89,111,.45); }
+    .park-body { padding: 15px; display: flex; flex-direction: column; flex: 1; }
+    .park-body strong {
+      display: block;
+      font-size: 20px;
+      line-height: 1.1;
+      min-height: 44px;
+    }
+    .park-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 9px;
+      margin: 14px 0;
+    }
+    .park-metric {
+      border: 1px solid rgba(255,255,255,.09);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,.035);
+      padding: 10px;
+    }
+    .park-metric b { display: block; margin-top: 4px; color: var(--ink); }
+    .park-foot {
+      margin-top: auto;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255,255,255,.08);
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .label-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
+    .signal-chip {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,.035);
+      padding: 12px;
+      min-height: 102px;
+    }
+    .signal-icon {
+      width: 30px;
+      height: 30px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      margin-bottom: 10px;
+      color: #061006;
+      background: var(--green);
+      font-size: 11px;
       font-weight: 950;
     }
+    .signal-chip.hot .signal-icon { background: var(--amber); }
+    .signal-chip.ev .signal-icon { background: var(--cyan); }
+    .signal-chip.pitcher .signal-icon { background: var(--red); color: white; }
+    .signal-chip.sleep .signal-icon { background: #63ffe8; }
+    .signal-chip b { display: block; font-size: 13px; }
+    .signal-chip p { margin: 6px 0 0; font-size: 12px; line-height: 1.45; }
 
-    .badges {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-top: 7px;
-    }
-
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; min-width: 800px; }
+    th, td { text-align: left; padding: 13px 10px; border-bottom: 1px solid rgba(255,255,255,.08); font-size: 14px; }
+    th { color: var(--muted); text-transform: uppercase; letter-spacing: .1em; font-size: 10px; }
+    .grade { color: var(--green); font-size: 23px; font-weight: 950; }
+    .badges { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
     .badge {
       display: inline-flex;
-      border: 1px solid rgba(255,255,255,.13);
+      align-items: center;
+      border: 1px solid rgba(255,255,255,.14);
       border-radius: 999px;
+      color: var(--muted);
       padding: 5px 8px;
       font-size: 10px;
-      line-height: 1;
-      text-transform: uppercase;
-      letter-spacing: .08em;
-      color: var(--muted);
-    }
-    .badge.weather { color: var(--green); border-color: rgba(140,255,47,.4); }
-    .badge.hot { color: var(--orange); border-color: rgba(255,138,56,.4); }
-    .badge.ev { color: var(--blue); border-color: rgba(88,200,255,.4); }
-    .badge.pitcher { color: var(--red); border-color: rgba(255,79,102,.42); }
-    .badge.sleep { color: #61ffe3; border-color: rgba(97,255,227,.36); }
-
-    .tabs {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 14px;
-    }
-
-    .tab {
-      min-height: 38px;
-      border: 1px solid var(--line);
-      color: var(--muted);
-      background: rgba(255,255,255,.035);
-      border-radius: 999px;
-      padding: 0 12px;
       font-weight: 850;
+      text-transform: uppercase;
+      white-space: nowrap;
     }
+    .badge.weather { color: var(--green); border-color: rgba(128,255,63,.42); }
+    .badge.hot { color: var(--amber); border-color: rgba(255,190,92,.42); }
+    .badge.ev { color: var(--cyan); border-color: rgba(92,230,255,.42); }
+    .badge.pitcher { color: var(--red); border-color: rgba(255,89,111,.42); }
+    .badge.sleep { color: #63ffe8; border-color: rgba(99,255,232,.42); }
 
-    .tab.active {
-      background: var(--green);
-      color: #061006;
-      border-color: transparent;
-    }
-
-    .pair {
-      border-left: 3px solid var(--green);
-      min-height: 168px;
-    }
-
-    .pair strong, .card strong {
-      display: block;
-      font-size: 18px;
-      margin-bottom: 8px;
-    }
-
-    .definition {
-      min-height: 150px;
-    }
-
-    .definition p { margin-bottom: 0; }
-
-    .audit-list {
-      display: grid;
-      gap: 10px;
-      margin: 0;
-      padding: 0;
-      list-style: none;
-    }
-
-    .audit-list li {
+    .source-card strong { display: block; font-size: 20px; margin-bottom: 8px; }
+    .source-list { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 9px; }
+    .source-list li {
       display: flex;
       justify-content: space-between;
-      gap: 14px;
-      padding: 11px 0;
+      gap: 12px;
       border-bottom: 1px solid rgba(255,255,255,.08);
+      padding-bottom: 9px;
       color: var(--muted);
+      font-size: 13px;
     }
+    .source-list b { color: var(--ink); }
+    footer { border-top: 1px solid var(--line); margin-top: 28px; padding: 32px 0 46px; color: var(--muted); }
 
-    .audit-list b { color: var(--text); }
-
-    footer {
-      border-top: 1px solid var(--line);
-      margin-top: 34px;
-      padding: 30px 0 44px;
-      color: var(--muted);
-    }
-
-    @media (max-width: 980px) {
-      .shell { width: min(100% - 22px, 1460px); }
+    @media (max-width: 1060px) {
       nav { display: none; }
-      .hero {
-        grid-template-columns: 1fr;
-        min-height: auto;
-        padding-top: 28px;
-      }
-      .hero-stage { min-height: 430px; }
-      .hero-ghost { width: 94px; right: 14px; }
-      .signal-panel { grid-template-columns: 1fr; }
-      .product-strip { grid-template-columns: 1fr 1fr; }
-      .span-3, .span-4, .span-5, .span-6, .span-7 { grid-column: span 12; }
+      .hero-frame { grid-template-columns: 1fr; min-height: auto; background-position: center top; }
+      .hero-frame::after { display: none; }
+      .hero-copy { min-height: 610px; background: linear-gradient(180deg, rgba(5,7,5,.2), rgba(5,7,5,.96)); }
+      .product-strip { grid-template-columns: repeat(2, 1fr); }
+      .product { border-bottom: 1px solid rgba(255,255,255,.1); }
+      .span-3, .span-4, .span-6 { grid-column: span 12; }
+      .label-grid { grid-template-columns: repeat(2, 1fr); }
       .section-head { flex-direction: column; align-items: start; }
-      .board-table { min-width: 720px; }
-      .table-wrap { overflow-x: auto; }
     }
 
-    @media (max-width: 560px) {
-      h1 { font-size: 46px; }
-      .product-strip { grid-template-columns: 1fr; }
-      .logo img { height: 46px; }
-      .hero-stage { min-height: 500px; }
+    @media (max-width: 620px) {
+      .shell { width: min(100% - 22px, 1380px); }
+      .brand img { height: 44px; }
+      .hero { padding-top: 14px; }
+      .hero-frame { border-radius: 8px; }
+      .hero-copy { min-height: 590px; padding: 22px; justify-content: end; background: transparent; }
+      h1 { font-size: 39px; }
+      .mini-list { grid-template-columns: 1fr; }
+      .live-top { grid-template-columns: 1fr; }
+      .product-strip, .label-grid { grid-template-columns: 1fr; }
+      .product { min-height: 70px; }
     }
   </style>
 </head>
 <body>
   <header>
     <div class="shell nav">
-      <a class="logo" href="#" aria-label="Ghost Analytics home">
+      <a class="brand" href="#" aria-label="Ghost Analytics">
         <img src="assets/ghost-official-logo.png" alt="Ghost Analytics">
       </a>
       <nav aria-label="Primary">
         <a href="#plays">Plays</a>
-        <a href="#pairings">Pairings</a>
+        <a href="#parks">Park Conditions</a>
         <a href="#signals">Signals</a>
-        <a href="#results">Results</a>
-        <a href="#tools">Tools</a>
-        <a class="nav-action" href="#plays">Get Started</a>
+        <a href="#sources">Sources</a>
+        <a class="cta" href="#plays">View Board</a>
       </nav>
     </div>
   </header>
 
   <main>
     <section class="shell hero">
-      <div>
-        <div class="eyebrow">Powered by GhostIQ</div>
-        <h1>The plays they don’t see. <span>We do.</span></h1>
-        <p>Ghost Analytics turns matchup data, batted-ball quality, weather, lineups, and nightly audit results into clean decision boards across every sport. BarrelIQ is the first live tool: MLB home run intelligence built to find edge before it becomes obvious.</p>
-        <div class="hero-actions">
-          <a class="button primary" href="#plays">View Today’s Plays</a>
-          <a class="button" href="#signals">Explore GhostIQ</a>
-        </div>
-
-        <div class="product-strip" aria-label="GhostIQ products">
-          <div class="product"><strong>Barrel<span>IQ</span></strong><small>MLB Analytics</small></div>
-          <div class="product"><strong>RedZone<span>IQ</span></strong><small>NFL Coming Soon</small></div>
-          <div class="product"><strong>Court<span>IQ</span></strong><small>NBA Coming Soon</small></div>
-          <div class="product"><strong>Ghost<span>IQ</span></strong><small>Model Core</small></div>
+      <div class="hero-frame">
+        <div class="hero-copy">
+          <div class="eyebrow">Powered by GhostIQ</div>
+          <h1>The plays they don’t see. <span>We do.</span></h1>
+          <p>BarrelIQ reads lineups, pitcher vulnerability, batted-ball authority, park shape, and weather movement into one live HR decision board. The model is built to find today’s edge, not chase yesterday’s names.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#plays">View Today’s Board</a>
+            <a class="button" href="#parks">Park Conditions</a>
+          </div>
+          <div class="hero-live">
+            <div class="live-top">
+              <div class="live-score" id="heroGrade">--</div>
+              <div>
+                <small>Current board leader</small>
+                <p id="heroMeta">Waiting on live payload.</p>
+                <div class="meter"><i id="heroMeter"></i></div>
+              </div>
+            </div>
+            <div class="mini-list" id="heroRows">
+              <div class="mini-player"><small>Loading</small><b>GhostIQ</b></div>
+            </div>
+          </div>
         </div>
       </div>
+      <div class="product-strip">
+        <div class="product"><span class="sport-icon">MLB</span><div><b>BarrelIQ</b><span>Live HR board</span></div></div>
+        <div class="product"><span class="sport-icon">NFL</span><div><b>RedZoneIQ</b><span>Coming soon</span></div></div>
+        <div class="product"><span class="sport-icon">NBA</span><div><b>CourtIQ</b><span>Coming soon</span></div></div>
+        <div class="product"><span class="sport-icon">NHL</span><div><b>IceIQ</b><span>Coming soon</span></div></div>
+        <div class="product"><span class="sport-icon">IQ</span><div><b>GhostIQ</b><span>Model core</span></div></div>
+      </div>
+    </section>
 
-      <div class="hero-stage" aria-label="GhostIQ live board preview">
-        <img class="hero-ghost" src="assets/ghost-official-icon.png" alt="">
-        <div class="signal-panel">
-          <div class="signal"><small>Edge Index</small><b>8.2</b><span>Strong slate signal</span></div>
-          <div class="signal"><small>Active Signals</small><b>28</b><span>Lineups monitoring</span></div>
-          <div class="signal"><small>Confirmed</small><b>12</b><span>Lineups locked</span></div>
+    <section id="parks" class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">GhostIQ Park Code</div>
+          <h2>Park Conditions</h2>
         </div>
+        <p>Actual park visuals, weather, wind, HR factor, and top fit. Photos load from public venue thumbnails when available; GhostIQ keeps the scoring separate from the visual layer.</p>
+      </div>
+      <div class="grid" id="parkCards">
+        <div class="card span-4 park-card"><div class="park-body"><strong>Loading park board</strong><p>Checking live weather and park conditions.</p></div></div>
       </div>
     </section>
 
     <section id="plays" class="shell">
       <div class="section-head">
         <div>
-          <div class="eyebrow">BarrelIQ Live</div>
+          <div class="eyebrow">BarrelIQ Board</div>
           <h2>Today’s HR Targets</h2>
         </div>
-        <div class="status">
-          <span class="chip live" id="freshnessChip">Loading Data</span>
-          <span class="chip" id="updatedChip">Eastern Time</span>
-          <span class="chip" id="confirmedChip">Confirmed + Projected Split</span>
-        </div>
+        <p id="statusLine">Loading Eastern timestamp and lineup status.</p>
       </div>
-
       <div class="grid">
-        <div class="card span-3 metric"><small>Top Grade</small><b id="topGrade">--</b></div>
-        <div class="card span-3 metric"><small>Weather Edges</small><b id="weatherCount">--</b></div>
-        <div class="card span-3 metric"><small>Pairing Pool</small><b id="pairingCount">--</b></div>
-        <div class="card span-3 metric"><small>Audit Loop</small><b id="auditStatus">--</b></div>
+        <div class="card span-3 stat"><small>Top Grade</small><b id="topGrade">--</b></div>
+        <div class="card span-3 stat"><small>Live Targets</small><b id="targetCount">--</b></div>
+        <div class="card span-3 stat"><small>Park Edges</small><b id="parkCount">--</b></div>
+        <div class="card span-3 stat"><small>Pairing Pool</small><b id="pairingCount">--</b></div>
         <div class="card span-12 table-wrap">
-          <table class="board-table">
+          <table>
             <thead>
               <tr>
                 <th>Rank</th>
                 <th>Player</th>
-                <th>Matchup</th>
+                <th>Game</th>
                 <th>Grade</th>
                 <th>Edge</th>
+                <th>Park</th>
                 <th>Signals</th>
               </tr>
             </thead>
             <tbody id="targetRows">
-              <tr><td colspan="6">Loading BarrelIQ targets...</td></tr>
+              <tr><td colspan="7">Loading GhostIQ targets...</td></tr>
             </tbody>
           </table>
-        </div>
-      </div>
-    </section>
-
-    <section id="pairings" class="shell">
-      <div class="section-head">
-        <div>
-          <div class="eyebrow">Built Separately</div>
-          <h2>Pairing Engine</h2>
-        </div>
-        <p>Pairings are not just the top names grouped together. They use exposure caps, volatility, game independence, and stack logic.</p>
-      </div>
-
-      <div class="tabs" id="pairingTabs">
-        <button class="tab active" data-size="2">2-Leg</button>
-        <button class="tab" data-size="3">3-Leg</button>
-        <button class="tab" data-size="4">4-Leg</button>
-      </div>
-
-      <div class="grid" id="pairingCards">
-        <div class="card span-4 pair">
-          <small>Loading</small>
-          <strong>Pairing engine warming up</strong>
-          <p>GhostIQ will show fewer pairings instead of forcing weak combinations.</p>
         </div>
       </div>
     </section>
@@ -608,53 +541,61 @@
     <section id="signals" class="shell">
       <div class="section-head">
         <div>
-          <div class="eyebrow">Signal Guide</div>
-          <h2>What The Labels Mean</h2>
+          <div class="eyebrow">Signal System</div>
+          <h2>Label Language</h2>
         </div>
+        <p>Labels use restrained Ghost colors and compact symbols so the board scans fast without becoming noisy.</p>
       </div>
-      <div class="grid" id="labelCards">
-        <div class="card span-4 definition"><strong>Weather Edge</strong><p>Park and weather are helping home run conditions: wind, temperature, roof, air density, or HR park factor.</p></div>
-        <div class="card span-4 definition"><strong>Hot Bat</strong><p>Recent form is strong. It matters, but it does not override the matchup model.</p></div>
-        <div class="card span-4 definition"><strong>EV Edge</strong><p>The hitter’s batted-ball quality is strong: exit velocity, EV50, hard-hit rate, or barrel rate.</p></div>
-        <div class="card span-4 definition"><strong>Pitcher Target</strong><p>The opposing pitcher is allowing HR-friendly contact, barrels, xSLG, xISO, or split damage.</p></div>
-        <div class="card span-4 definition"><strong>Sleeper</strong><p>A lower-profile hitter with enough data support to matter, usually with higher volatility.</p></div>
-        <div class="card span-4 definition"><strong>Tough Pitcher</strong><p>The hitter has real signals, but the opposing pitcher creates resistance.</p></div>
-      </div>
+      <div class="label-grid" id="labelGrid"></div>
     </section>
 
-    <section id="results" class="shell">
+    <section id="sources" class="shell">
       <div class="section-head">
         <div>
-          <div class="eyebrow">Learning Loop</div>
-          <h2>Nightly Results Audit</h2>
+          <div class="eyebrow">Weather Verification</div>
+          <h2>Source Health</h2>
         </div>
       </div>
       <div class="grid">
-        <div class="card span-5">
-          <strong>What GhostIQ Tracks</strong>
-          <ul class="audit-list" id="auditList">
-            <li><span>Top target hit rate</span><b>Daily</b></li>
-            <li><span>Pairing results</span><b>Separate</b></li>
-            <li><span>Miss reasons</span><b>Tagged</b></li>
-            <li><span>Model drift</span><b>Logged</b></li>
+        <div class="card span-6 source-card">
+          <strong>What the current build verifies</strong>
+          <p>The live weather fields currently come from MLB’s official game feed. Lineups are checked against MLB and RotoWire. Park impact is GhostIQ’s internal HR factor table.</p>
+          <ul class="source-list">
+            <li><span>Weather temp, wind speed, wind direction</span><b>MLB Stats API</b></li>
+            <li><span>Confirmed and projected lineups</span><b>MLB + RotoWire</b></li>
+            <li><span>Batted-ball and pitcher metrics</span><b>Baseball Savant</b></li>
+            <li><span>Park HR impact</span><b>GhostIQ table</b></li>
           </ul>
         </div>
-        <div class="card span-7">
-          <strong>What Gets Improved</strong>
-          <p>Weather misses, pitcher split gaps, lineup misses, overvalued hot streaks, and pairing concentration problems become model adjustments. The site should show confidence without pretending baseball is predictable.</p>
+        <div class="card span-6 source-card">
+          <strong>Next upgrade to reduce weather misses</strong>
+          <p>The weather engine still needs a dedicated cross-check against Ballpark Pal-style park conditions, humidity, air density, roof status, and late wind movement closer to first pitch.</p>
+          <ul class="source-list">
+            <li><span>Dedicated park/weather cross-check</span><b>Next</b></li>
+            <li><span>Humidity and air density</span><b>Needed</b></li>
+            <li><span>Roof/dome logic</span><b>Needed</b></li>
+            <li><span>Late wind movement alert</span><b>Needed</b></li>
+          </ul>
         </div>
       </div>
     </section>
   </main>
 
   <footer>
-    <div class="shell">Ghost Analytics · Powered by GhostIQ · BarrelIQ MLB beta · Eastern Time</div>
+    <div class="shell">Ghost Analytics · BarrelIQ Live · Powered by GhostIQ · Eastern Time</div>
   </footer>
-  <script>
-    const payloadPath = "outputs/live_mlb_payload.json";
-    let ghostPayload = null;
-    let activePairingSize = "2";
 
+  <script>
+    const payloadPaths = ["../outputs/live_mlb_payload.json", "outputs/live_mlb_payload.json"];
+    const parkPageAliases = {
+      "UNIQLO Field at Dodger Stadium": "Dodger Stadium",
+      "George M. Steinbrenner Field": "George M. Steinbrenner Field",
+      "Oriole Park at Camden Yards": "Oriole Park at Camden Yards",
+      "Sutter Health Park": "Sutter Health Park",
+      "Great American Ball Park": "Great American Ball Park",
+      "Rogers Centre": "Rogers Centre",
+      "loanDepot park": "LoanDepot Park"
+    };
     const labelClass = {
       "Weather Edge": "weather",
       "Hot Bat": "hot",
@@ -666,11 +607,31 @@
       "Projected": "",
       "Watch": ""
     };
+    const labelIcon = {
+      "Weather Edge": "WX",
+      "Hot Bat": "HOT",
+      "EV Edge": "EV",
+      "Pitcher Target": "PT",
+      "Sleeper": "SL",
+      "Tough Pitcher": "TP",
+      "Confirmed": "OK",
+      "Projected": "PR",
+      "Watch": "W"
+    };
 
     function esc(value) {
       return String(value ?? "").replace(/[&<>"']/g, char => ({
         "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
       }[char]));
+    }
+
+    function initials(text) {
+      return String(text || "GA").split(/\s+/).filter(Boolean).slice(0, 2).map(word => word[0]).join("").toUpperCase();
+    }
+
+    function pct(edge) {
+      const value = Number(edge || 0);
+      return `${Math.max(12, Math.min(100, value * 11))}%`;
     }
 
     function badges(labels) {
@@ -679,104 +640,128 @@
       ).join("")}</div>`;
     }
 
-    function renderTargets(rows) {
-      const targetRows = document.querySelector("#targetRows");
-      targetRows.innerHTML = (rows || []).slice(0, 20).map(row => `
-        <tr>
-          <td>${esc(row.rank)}</td>
-          <td>
-            <strong>${esc(row.player)}</strong>
-            <small> ${row.confirmed ? "Confirmed" : "Projected"} · Batting ${esc(row.batting_order || "--")}</small>
-          </td>
-          <td>${esc(row.matchup)}<br><small>vs ${esc(row.pitcher || "TBD")} ${esc(row.pitcher_hand || "")}</small></td>
-          <td class="grade">${esc(row.ghost_grade)}</td>
-          <td>${esc(row.edge_index)}</td>
-          <td>${badges(row.labels)}</td>
-        </tr>
-      `).join("") || `<tr><td colspan="6">No targets loaded yet.</td></tr>`;
+    async function loadPayload() {
+      for (const path of payloadPaths) {
+        try {
+          const response = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) continue;
+          return await response.json();
+        } catch (error) {}
+      }
+      throw new Error("payload unavailable");
     }
 
-    function renderPairings(size) {
-      activePairingSize = size;
-      const rows = (ghostPayload?.pairings || {})[size] || [];
-      const cards = document.querySelector("#pairingCards");
-      cards.innerHTML = rows.map(row => `
-        <div class="card span-4 pair">
-          <small>${esc(row.type)} · ${esc(row.volatility)} Volatility</small>
-          <strong>${esc(row.names)}</strong>
-          <p>${esc(row.reason)}</p>
-          <p><small>${esc(row.teams)} · Avg Edge ${esc(row.avg_edge)} · Combo ${esc(row.combo_score)}</small></p>
-          ${badges(String(row.labels || "").split(" / ").flatMap(item => item.split(", ")).filter(Boolean))}
-        </div>
-      `).join("") || `
-        <div class="card span-4 pair">
-          <small>No Force</small>
-          <strong>No ${size}-leg pairing passed the rules</strong>
-          <p>GhostIQ is refusing to force a weak combo. This is intentional.</p>
-          <div class="badges"><span class="badge">Volatility Check</span></div>
-        </div>`;
+    async function parkPhotoUrl(ballpark) {
+      const title = parkPageAliases[ballpark] || ballpark;
+      const endpoint = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
+      try {
+        const response = await fetch(endpoint);
+        if (!response.ok) return "";
+        const data = await response.json();
+        return data?.thumbnail?.source || data?.originalimage?.source || "";
+      } catch (error) {
+        return "";
+      }
     }
 
-    function renderLabels(definitions) {
-      const labelCards = document.querySelector("#labelCards");
-      labelCards.innerHTML = Object.entries(definitions || {}).map(([label, body]) => `
-        <div class="card span-4 definition">
-          <strong>${esc(label)}</strong>
-          <p>${esc(body)}</p>
+    async function hydrateParkPhotos() {
+      const cards = [...document.querySelectorAll("[data-park-name]")];
+      await Promise.all(cards.map(async card => {
+        const url = await parkPhotoUrl(card.dataset.parkName);
+        if (url) card.style.backgroundImage = `linear-gradient(180deg, rgba(0,0,0,.05), rgba(5,7,5,.84)), url("${url}")`;
+      }));
+    }
+
+    function renderHero(payload) {
+      const top = (payload.top_targets || [])[0] || {};
+      document.querySelector("#heroGrade").textContent = top.ghost_grade || "--";
+      document.querySelector("#heroMeter").style.setProperty("--value", pct(top.edge_index));
+      document.querySelector("#heroMeta").textContent = top.player ? `${top.player} · ${top.matchup} · Edge ${top.edge_index}` : "Waiting on live payload.";
+      document.querySelector("#heroRows").innerHTML = (payload.top_targets || []).slice(0, 3).map((row, index) => `
+        <div class="mini-player">
+          <small>#${index + 1} · ${esc(row.team)}</small>
+          <b>${esc(row.player)}</b>
         </div>
       `).join("");
     }
 
-    function renderAudit(payload) {
-      const audit = payload.audit_summary || {};
-      document.querySelector("#auditList").innerHTML = `
-        <li><span>Top target tracking</span><b>${esc(audit.status || "Ready")}</b></li>
-        <li><span>Pairing results</span><b>Separate</b></li>
-        <li><span>Miss reasons</span><b>Tagged</b></li>
-        <li><span>Model drift</span><b>Logged</b></li>
-      `;
+    function renderParks(payload) {
+      const parks = payload.park_conditions || payload.weather_edges || [];
+      document.querySelector("#parkCards").innerHTML = parks.slice(0, 9).map(park => {
+        const grade = String(park.condition_grade || "Watch");
+        const klass = grade.toLowerCase();
+        return `
+          <article class="card span-4 park-card">
+            <div class="park-photo" data-park-name="${esc(park.ballpark)}">
+              <span class="park-logo">${esc(initials(park.ballpark))}</span>
+              <span class="condition-pill ${klass}">${esc(grade)}</span>
+            </div>
+            <div class="park-body">
+              <strong>${esc(park.ballpark)}</strong>
+              <div class="park-grid">
+                <div class="park-metric"><small>Environment</small><b>${esc(park.environment_score ?? "--")}</b></div>
+                <div class="park-metric"><small>HR Factor</small><b>${esc(park.park_hr_factor ?? "--")}</b></div>
+                <div class="park-metric"><small>Temp</small><b>${park.temperature ? `${esc(park.temperature)} F` : "--"}</b></div>
+                <div class="park-metric"><small>Wind</small><b>${esc(park.wind_speed || "--")} ${esc(park.wind_direction || "")}</b></div>
+              </div>
+              <div class="park-foot">Top fit: ${esc(park.top_player || "--")} · Edge ${esc(park.top_edge || "--")} · ${(park.teams || []).map(esc).join(" / ")}</div>
+            </div>
+          </article>
+        `;
+      }).join("") || `<div class="card span-4 park-card"><div class="park-body"><strong>No park conditions loaded</strong><p>Payload needs park condition data.</p></div></div>`;
+      hydrateParkPhotos();
+    }
+
+    function renderTargets(payload) {
+      const rows = payload.top_targets || [];
+      document.querySelector("#targetRows").innerHTML = rows.slice(0, 24).map(row => `
+        <tr>
+          <td>${esc(row.rank)}</td>
+          <td><strong>${esc(row.player)}</strong><br><small>${row.confirmed ? "Confirmed" : "Projected"} · Bat ${esc(row.batting_order || "--")}</small></td>
+          <td>${esc(row.matchup)}<br><small>vs ${esc(row.pitcher || "TBD")} ${esc(row.pitcher_hand || "")}</small></td>
+          <td class="grade">${esc(row.ghost_grade)}</td>
+          <td>${esc(row.edge_index)}</td>
+          <td>${esc(row.ballpark || "--")}</td>
+          <td>${badges(row.labels)}</td>
+        </tr>
+      `).join("") || `<tr><td colspan="7">No live targets loaded.</td></tr>`;
+    }
+
+    function renderLabels(payload) {
+      const definitions = payload.label_definitions || {};
+      document.querySelector("#labelGrid").innerHTML = Object.entries(definitions).map(([label, body]) => `
+        <div class="signal-chip ${labelClass[label] || ""}">
+          <span class="signal-icon">${esc(labelIcon[label] || "G")}</span>
+          <b>${esc(label)}</b>
+          <p>${esc(body)}</p>
+        </div>
+      `).join("");
     }
 
     function renderStatus(payload) {
       const status = payload.status || {};
       const top = (payload.top_targets || [])[0] || {};
       const pairings = payload.pairings || {};
-      const pairingTotal = Object.values(pairings).reduce((sum, rows) => sum + (rows || []).length, 0);
-      document.querySelector("#freshnessChip").textContent = status.freshness || "Loaded";
-      document.querySelector("#updatedChip").textContent = `Updated ${payload.generated_at || "ET"}`;
-      document.querySelector("#confirmedChip").textContent = `${status.confirmed_count || 0} confirmed · ${status.projected_count || 0} projected`;
+      const pairCount = Object.values(pairings).reduce((sum, rows) => sum + (rows || []).length, 0);
+      document.querySelector("#statusLine").textContent = `Updated ${payload.generated_at || "ET"} · ${status.confirmed_count || 0} confirmed · ${status.projected_count || 0} projected · ${status.source_health || "live payload"}`;
       document.querySelector("#topGrade").textContent = top.ghost_grade || "--";
-      document.querySelector("#weatherCount").textContent = (payload.weather_edges || []).length;
-      document.querySelector("#pairingCount").textContent = pairingTotal;
-      document.querySelector("#auditStatus").textContent = payload.audit_summary?.status === "framework_ready" ? "Ready" : "On";
+      document.querySelector("#targetCount").textContent = (payload.top_targets || []).length;
+      document.querySelector("#parkCount").textContent = (payload.park_conditions || payload.weather_edges || []).length;
+      document.querySelector("#pairingCount").textContent = pairCount;
     }
 
-    async function loadPayload() {
-      try {
-        const response = await fetch(`${payloadPath}?t=${Date.now()}`, { cache: "no-store" });
-        if (!response.ok) throw new Error("payload missing");
-        ghostPayload = await response.json();
-        renderStatus(ghostPayload);
-        renderTargets(ghostPayload.top_targets || []);
-        renderPairings(activePairingSize);
-        renderLabels(ghostPayload.label_definitions || {});
-        renderAudit(ghostPayload);
-      } catch (error) {
-        document.querySelector("#freshnessChip").textContent = "Data Not Connected";
-        document.querySelector("#targetRows").innerHTML = `<tr><td colspan="6">Live MLB payload is not uploaded yet.</td></tr>`;
-      }
-    }
-
-    document.querySelectorAll("#pairingTabs .tab").forEach(button => {
-      button.addEventListener("click", () => {
-        document.querySelectorAll("#pairingTabs .tab").forEach(item => item.classList.remove("active"));
-        button.classList.add("active");
-        renderPairings(button.dataset.size);
+    loadPayload()
+      .then(payload => {
+        renderHero(payload);
+        renderParks(payload);
+        renderTargets(payload);
+        renderLabels(payload);
+        renderStatus(payload);
+      })
+      .catch(() => {
+        document.querySelector("#statusLine").textContent = "Live payload not found for this draft.";
+        document.querySelector("#targetRows").innerHTML = `<tr><td colspan="7">Live data file is not available.</td></tr>`;
       });
-    });
-
-    loadPayload();
-    setInterval(loadPayload, 60000);
   </script>
 </body>
 </html>
