@@ -1,0 +1,73 @@
+name: GhostIQ MLB Live Refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Refresh mode"
+        required: true
+        default: "auto"
+        type: choice
+        options:
+          - auto
+          - full
+          - remaining
+  schedule:
+    # GitHub schedules use UTC.
+    # 8:07 AM-3:52 PM ET: full slate refresh every 15 minutes.
+    - cron: "7,22,37,52 12-19 * * *"
+    # 4:03 PM-11:58 PM ET: remaining slate refresh every 5 minutes.
+    - cron: "3-58/5 20-23 * * *"
+    - cron: "3-58/5 0-3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ghostiq-mlb-live-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh-live-data:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Choose refresh mode
+        id: choose
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          schedule="${{ github.event.schedule }}"
+          if [ "$schedule" = "7,22,37,52 12-19 * * *" ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=remaining" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Refresh MLB data
+        run: python refresh_live_mlb.py --mode "${{ steps.choose.outputs.mode }}"
+
+      - name: Commit updated live payload
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A outputs audits
+          git commit -m "Update GhostIQ MLB live data" || echo "No data changes to commit"
+          git push
