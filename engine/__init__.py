@@ -1,0 +1,2 @@
+"""Ghost Analytics engine package."""
+
