@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Juan Soto | NYM | Aaron Nola | 3 | 73.6 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Kyle Schwarber | PHI | Sean Manaea | 2 | 71.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Randal Grichuk | CWS | Ryan Weathers | 2 | 71.6 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Colson Montgomery | CWS | Ryan Weathers | 4 | 68.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Miguel Vargas | CWS | Ryan Weathers | 3 | 67.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 6 | Dominic Canzone | SEA | Shane Baz | 4 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Byron Buxton | MIN | Jack Leiter | 2 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 8 | Nelson Velázquez | STL | Noah Cameron | 4 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Bobby Witt Jr. | KC | Matthew Liberatore | 2 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Pete Alonso | BAL | Bryan Woo | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Nick Kurtz | ATH |  | 1 | 62.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Jared Young | NYM | Aaron Nola | 4 | 62.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Bryce Harper | PHI | Sean Manaea | 3 | 60.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 14 | Braden Montgomery | CWS | Ryan Weathers | 6 | 60.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 15 | Bo Bichette | NYM | Aaron Nola | 2 | 59.8 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Kody Clemens | MIN | Jack Leiter | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Ben Rice | NYY | Bryan Hudson | 1 | 59.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 18 | Jordan Walker | STL | Noah Cameron | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Paul Goldschmidt | NYY | Bryan Hudson | 2 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Jac Caglianone | KC | Matthew Liberatore | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | Tanner Bibee | 2 | 69.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Shohei Ohtani | LAD | Trey Gibson | 1 | 67.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | James Wood | WSH | Griffin Jax | 1 | 66.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Nick Kurtz | ATH | José Soriano | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Esmerlyn Valdez | PIT | Kyle Freeland | 5 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 6 | Bryce Eldridge | SF |  | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Lars Nootbaar | STL | Seth Lugo | 5 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 8 | Pete Alonso | BAL | Roki Sasaki | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Ben Rice | NYY | Rhett Lowder | 1 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Bryan Reynolds | PIT | Kyle Freeland | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Brandon Nimmo | TEX | Randy Vásquez | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Alec Burleson | STL | Seth Lugo | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Brandon Lowe | PIT | Kyle Freeland | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Byron Buxton | MIN | Michael Soroka | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Jordan Walker | STL | Seth Lugo | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Jackson Chourio | MIL | Martín Pérez | 1 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Jac Caglianone | KC | Michael McGreevy | 3 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Pete Crow-Armstrong | CHC | Kevin Gausman | 1 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Joc Pederson | TEX | Randy Vásquez | 1 | 56.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 20 | Freddie Freeman | LAD | Trey Gibson | 3 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Juan Soto + Kyle Schwarber | Avg HR Score: 72.8
-- Kyle Schwarber + Randal Grichuk | Avg HR Score: 71.8
-- Randal Grichuk + Colson Montgomery | Avg HR Score: 69.8
-- Colson Montgomery + Miguel Vargas | Avg HR Score: 68.0
-- Miguel Vargas + Dominic Canzone | Avg HR Score: 66.7
+- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 68.6
+- Shohei Ohtani + James Wood | Avg HR Score: 67.1
+- James Wood + Nick Kurtz | Avg HR Score: 64.4
+- Nick Kurtz + Esmerlyn Valdez | Avg HR Score: 62.1
+- Esmerlyn Valdez + Bryce Eldridge | Avg HR Score: 61.6
 
 ## Best 3-Leg Pairings
 
-- Juan Soto + Kyle Schwarber + Randal Grichuk | Avg HR Score: 72.4
-- Kyle Schwarber + Randal Grichuk + Colson Montgomery | Avg HR Score: 70.5
-- Randal Grichuk + Colson Montgomery + Miguel Vargas | Avg HR Score: 69.2
-- Colson Montgomery + Miguel Vargas + Dominic Canzone | Avg HR Score: 67.1
-- Miguel Vargas + Dominic Canzone + Byron Buxton | Avg HR Score: 66.2
+- Yordan Alvarez + Shohei Ohtani + James Wood | Avg HR Score: 67.8
+- Shohei Ohtani + James Wood + Nick Kurtz | Avg HR Score: 65.6
+- James Wood + Nick Kurtz + Esmerlyn Valdez | Avg HR Score: 63.5
+- Nick Kurtz + Esmerlyn Valdez + Bryce Eldridge | Avg HR Score: 61.9
+- Esmerlyn Valdez + Bryce Eldridge + Lars Nootbaar | Avg HR Score: 61.4
 
 ## Best 4-Leg Pairings
 
-- Juan Soto + Kyle Schwarber + Randal Grichuk + Colson Montgomery | Avg HR Score: 71.3
-- Kyle Schwarber + Randal Grichuk + Colson Montgomery + Miguel Vargas | Avg HR Score: 69.8
-- Randal Grichuk + Colson Montgomery + Miguel Vargas + Dominic Canzone | Avg HR Score: 68.2
-- Colson Montgomery + Miguel Vargas + Dominic Canzone + Byron Buxton | Avg HR Score: 66.6
-- Miguel Vargas + Dominic Canzone + Byron Buxton + Nelson Velázquez | Avg HR Score: 65.9
+- Yordan Alvarez + Shohei Ohtani + James Wood + Nick Kurtz | Avg HR Score: 66.5
+- Shohei Ohtani + James Wood + Nick Kurtz + Esmerlyn Valdez | Avg HR Score: 64.6
+- James Wood + Nick Kurtz + Esmerlyn Valdez + Bryce Eldridge | Avg HR Score: 63.0
+- Nick Kurtz + Esmerlyn Valdez + Bryce Eldridge + Lars Nootbaar | Avg HR Score: 61.6
+- Esmerlyn Valdez + Bryce Eldridge + Lars Nootbaar + Pete Alonso | Avg HR Score: 61.2
