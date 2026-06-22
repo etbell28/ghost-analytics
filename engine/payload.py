@@ -86,6 +86,10 @@ def target_payload(row: dict) -> dict:
         "weather_temp": row.get("weather_temp"),
         "wind_speed": row.get("wind_speed"),
         "wind_direction": row.get("wind_direction"),
+        "weather_source": row.get("weather_source"),
+        "weather_url": row.get("weather_url"),
+        "weather_humidity": row.get("weather_humidity"),
+        "weather_precip_pct": row.get("weather_precip_pct"),
         "game_start_time": row.get("game_start_time"),
         "confirmed": confirmed(row.get("confirmed_lineup")),
         "edge_index": row.get("edge_index"),
@@ -138,6 +142,10 @@ def park_conditions(rows: list[dict]) -> list[dict]:
         temp_values = [number(row.get("weather_temp")) for row in park_rows if row.get("weather_temp") not in ("", None)]
         temp = round(sum(temp_values) / len(temp_values), 1) if temp_values else ""
         direction = best.get("wind_direction", "")
+        humidity_values = [number(row.get("weather_humidity")) for row in park_rows if row.get("weather_humidity") not in ("", None)]
+        precip_values = [number(row.get("weather_precip_pct")) for row in park_rows if row.get("weather_precip_pct") not in ("", None)]
+        humidity = round(sum(humidity_values) / len(humidity_values), 1) if humidity_values else ""
+        precip = round(sum(precip_values) / len(precip_values), 1) if precip_values else ""
         if env >= 72:
             grade = "Green"
         elif env >= 58:
@@ -156,10 +164,13 @@ def park_conditions(rows: list[dict]) -> list[dict]:
                 "temperature": temp,
                 "wind_speed": safe_round(wind_speed),
                 "wind_direction": direction,
+                "humidity": humidity,
+                "precip_pct": precip,
                 "condition_grade": grade,
                 "top_player": best.get("player"),
                 "top_edge": best.get("edge_index"),
-                "source_note": "MLB Stats API weather feed + GhostIQ park factor table",
+                "weather_url": best.get("weather_url"),
+                "source_note": best.get("weather_source") or "MLB Stats API weather feed + GhostIQ park factor table",
             }
         )
     return sorted(conditions, key=lambda item: item["environment_score"], reverse=True)

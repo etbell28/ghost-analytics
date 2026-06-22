@@ -5,7 +5,7 @@ import json
 import re
 import unicodedata
 import urllib.request
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 
@@ -64,6 +64,7 @@ PARK_HR_FACTORS = {
     "Petco Park": 91,
     "PNC Park": 94,
     "Progressive Field": 100,
+    "Rate Field": 98,
     "Rogers Centre": 105,
     "Sutter Health Park": 106,
     "T-Mobile Park": 96,
@@ -71,6 +72,44 @@ PARK_HR_FACTORS = {
     "Truist Park": 106,
     "Wrigley Field": 104,
     "Yankee Stadium": 119,
+}
+
+
+PARK_WEATHER = {
+    "Angel Stadium": {"lat": 33.8003, "lon": -117.8827, "name": "Anaheim, CA"},
+    "American Family Field": {"lat": 43.0280, "lon": -87.9712, "name": "Milwaukee, WI"},
+    "Busch Stadium": {"lat": 38.6226, "lon": -90.1928, "name": "St. Louis, MO"},
+    "Chase Field": {"lat": 33.4455, "lon": -112.0667, "name": "Phoenix, AZ"},
+    "Citi Field": {"lat": 40.7571, "lon": -73.8458, "name": "Queens, NY"},
+    "Citizens Bank Park": {"lat": 39.9061, "lon": -75.1665, "name": "Philadelphia, PA"},
+    "Comerica Park": {"lat": 42.3390, "lon": -83.0485, "name": "Detroit, MI"},
+    "Coors Field": {"lat": 39.7559, "lon": -104.9942, "name": "Denver, CO"},
+    "Daikin Park": {"lat": 29.7573, "lon": -95.3555, "name": "Houston, TX"},
+    "Dodger Stadium": {"lat": 34.0739, "lon": -118.2400, "name": "Los Angeles, CA"},
+    "Fenway Park": {"lat": 42.3467, "lon": -71.0972, "name": "Boston, MA"},
+    "George M. Steinbrenner Field": {"lat": 27.9799, "lon": -82.5072, "name": "Tampa, FL"},
+    "Globe Life Field": {"lat": 32.7473, "lon": -97.0842, "name": "Arlington, TX"},
+    "Great American Ball Park": {"lat": 39.0979, "lon": -84.5082, "name": "Cincinnati, OH"},
+    "Kauffman Stadium": {"lat": 39.0517, "lon": -94.4803, "name": "Kansas City, MO"},
+    "Las Vegas Ballpark": {"lat": 36.1587, "lon": -115.3330, "name": "Las Vegas, NV"},
+    "loanDepot park": {"lat": 25.7781, "lon": -80.2197, "name": "Miami, FL"},
+    "Minute Maid Park": {"lat": 29.7573, "lon": -95.3555, "name": "Houston, TX"},
+    "Nationals Park": {"lat": 38.8730, "lon": -77.0074, "name": "Washington, DC"},
+    "Oracle Park": {"lat": 37.7786, "lon": -122.3893, "name": "San Francisco, CA"},
+    "Oriole Park at Camden Yards": {"lat": 39.2840, "lon": -76.6217, "name": "Baltimore, MD"},
+    "Petco Park": {"lat": 32.7073, "lon": -117.1573, "name": "San Diego, CA"},
+    "PNC Park": {"lat": 40.4469, "lon": -80.0057, "name": "Pittsburgh, PA"},
+    "Progressive Field": {"lat": 41.4962, "lon": -81.6852, "name": "Cleveland, OH"},
+    "Rate Field": {"lat": 41.8300, "lon": -87.6338, "name": "Chicago, IL"},
+    "Rogers Centre": {"lat": 43.6414, "lon": -79.3894, "name": "Toronto, ON"},
+    "Sutter Health Park": {"lat": 38.5804, "lon": -121.5139, "name": "West Sacramento, CA"},
+    "T-Mobile Park": {"lat": 47.5914, "lon": -122.3325, "name": "Seattle, WA"},
+    "Target Field": {"lat": 44.9817, "lon": -93.2776, "name": "Minneapolis, MN"},
+    "Truist Park": {"lat": 33.8907, "lon": -84.4677, "name": "Atlanta, GA"},
+    "Tropicana Field": {"lat": 27.7682, "lon": -82.6534, "name": "St. Petersburg, FL"},
+    "UNIQLO Field at Dodger Stadium": {"lat": 34.0739, "lon": -118.2400, "name": "Los Angeles, CA"},
+    "Wrigley Field": {"lat": 41.9484, "lon": -87.6553, "name": "Chicago, IL"},
+    "Yankee Stadium": {"lat": 40.8296, "lon": -73.9262, "name": "Bronx, NY"},
 }
 
 
@@ -113,6 +152,10 @@ FIELDS = [
     "weather_temp",
     "wind_speed",
     "wind_direction",
+    "weather_source",
+    "weather_url",
+    "weather_humidity",
+    "weather_precip_pct",
     "confirmed_lineup",
     "rotowire_confirmed_lineup",
     "rotowire_batting_order",
@@ -182,6 +225,56 @@ def weather_parts(weather):
     speed = speed_match.group(1) if speed_match else ""
     direction = wind.split(",", 1)[1].strip() if "," in wind else wind
     return temp, speed, direction
+
+
+def weather_url(lat, lon):
+    return f"https://forecast.weather.gov/MapClick.php?lat={lat:.4f}&lon={lon:.4f}"
+
+
+def game_hour_iso(game_date):
+    try:
+        dt = datetime.fromisoformat(str(game_date).replace("Z", "+00:00"))
+    except ValueError:
+        return ""
+    return dt.astimezone(timezone.utc).replace(minute=0, second=0, microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def open_meteo_weather(venue, game_date):
+    park = PARK_WEATHER.get(venue)
+    if not park:
+        return {}
+    lat = park["lat"]
+    lon = park["lon"]
+    url = (
+        "https://api.open-meteo.com/v1/forecast"
+        f"?latitude={lat}&longitude={lon}"
+        "&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,wind_speed_10m,wind_direction_10m"
+        "&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=UTC"
+        "&forecast_days=2"
+    )
+    data = safe_fetch_json(url)
+    hourly = data.get("hourly", {})
+    times = hourly.get("time", [])
+    if not times:
+        return {"weather_url": weather_url(lat, lon), "weather_source": "NOAA link only"}
+
+    target = game_hour_iso(game_date)
+    target_key = target.replace("Z", "")
+    try:
+        index = times.index(target_key)
+    except ValueError:
+        index = 0
+
+    wind_dir = hourly.get("wind_direction_10m", [""])[index]
+    return {
+        "weather_temp": round(float(hourly.get("temperature_2m", [""])[index])),
+        "wind_speed": round(float(hourly.get("wind_speed_10m", [""])[index])),
+        "wind_direction": f"{round(float(wind_dir))} deg",
+        "weather_humidity": round(float(hourly.get("relative_humidity_2m", [""])[index])),
+        "weather_precip_pct": round(float(hourly.get("precipitation_probability", [""])[index])),
+        "weather_source": "Open-Meteo forecast; MLB fallback",
+        "weather_url": weather_url(lat, lon),
+    }
 
 
 def handedness(player_ids):
@@ -389,12 +482,25 @@ def game_context(game_pk):
     box = fetch_json(f"https://statsapi.mlb.com/api/v1/game/{game_pk}/boxscore")
     venue = feed["gameData"].get("venue", {}).get("name", "")
     temp, wind_speed, wind_direction = weather_parts(feed["gameData"].get("weather", {}))
+    forecast = open_meteo_weather(venue, feed["gameData"].get("datetime", {}).get("dateTime", ""))
+    if not forecast:
+        park = PARK_WEATHER.get(venue)
+        forecast = {
+            "weather_source": "MLB Stats API weather feed",
+            "weather_url": weather_url(park["lat"], park["lon"]) if park else "",
+            "weather_humidity": "",
+            "weather_precip_pct": "",
+        }
     return box, {
         "ballpark": venue,
         "park_hr_factor": PARK_HR_FACTORS.get(venue, 100),
-        "weather_temp": temp,
-        "wind_speed": wind_speed,
-        "wind_direction": wind_direction,
+        "weather_temp": forecast.get("weather_temp", temp),
+        "wind_speed": forecast.get("wind_speed", wind_speed),
+        "wind_direction": wind_direction or forecast.get("wind_direction", ""),
+        "weather_source": forecast.get("weather_source", "MLB Stats API weather feed"),
+        "weather_url": forecast.get("weather_url", ""),
+        "weather_humidity": forecast.get("weather_humidity", ""),
+        "weather_precip_pct": forecast.get("weather_precip_pct", ""),
     }
 
 

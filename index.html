@@ -348,6 +348,20 @@
       font-size: 12px;
       line-height: 1.45;
     }
+    .weather-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 34px;
+      margin-top: 10px;
+      border: 1px solid rgba(128,255,63,.35);
+      border-radius: var(--radius);
+      color: var(--green);
+      background: rgba(128,255,63,.06);
+      font-size: 11px;
+      font-weight: 900;
+      text-transform: uppercase;
+    }
 
     .label-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
     .signal-chip {
@@ -497,7 +511,7 @@
           <div class="eyebrow">GhostIQ Park Code</div>
           <h2>Park Conditions</h2>
         </div>
-        <p>Actual park visuals, weather, wind, HR factor, and top fit. Photos load from public venue thumbnails when available; GhostIQ keeps the scoring separate from the visual layer.</p>
+        <p>Actual park visuals, hourly forecast, wind, humidity, rain chance, HR factor, and top fit. Weather links open the park forecast source for fast cross-checking.</p>
       </div>
       <div class="grid" id="parkCards">
         <div class="card span-4 park-card"><div class="park-body"><strong>Loading park board</strong><p>Checking live weather and park conditions.</p></div></div>
@@ -559,9 +573,10 @@
       <div class="grid">
         <div class="card span-6 source-card">
           <strong>What the current build verifies</strong>
-          <p>The live weather fields currently come from MLB’s official game feed. Lineups are checked against MLB and RotoWire. Park impact is GhostIQ’s internal HR factor table.</p>
+          <p>The live weather fields now use a park-coordinate hourly forecast with MLB weather as fallback. Lineups are checked against MLB and RotoWire. Park impact is GhostIQ’s internal HR factor table.</p>
           <ul class="source-list">
-            <li><span>Weather temp, wind speed, wind direction</span><b>MLB Stats API</b></li>
+            <li><span>Weather temp, wind speed, wind direction</span><b>Open-Meteo + MLB fallback</b></li>
+            <li><span>External park forecast links</span><b>NOAA</b></li>
             <li><span>Confirmed and projected lineups</span><b>MLB + RotoWire</b></li>
             <li><span>Batted-ball and pitcher metrics</span><b>Baseball Savant</b></li>
             <li><span>Park HR impact</span><b>GhostIQ table</b></li>
@@ -569,10 +584,11 @@
         </div>
         <div class="card span-6 source-card">
           <strong>Next upgrade to reduce weather misses</strong>
-          <p>The weather engine still needs a dedicated cross-check against Ballpark Pal-style park conditions, humidity, air density, roof status, and late wind movement closer to first pitch.</p>
+          <p>The weather engine now has daily park forecast links, but still needs Ballpark Pal-style air density, roof status, and late wind movement checks closer to first pitch.</p>
           <ul class="source-list">
-            <li><span>Dedicated park/weather cross-check</span><b>Next</b></li>
-            <li><span>Humidity and air density</span><b>Needed</b></li>
+            <li><span>Dedicated park/weather cross-check</span><b>Started</b></li>
+            <li><span>Humidity</span><b>Active</b></li>
+            <li><span>Air density</span><b>Needed</b></li>
             <li><span>Roof/dome logic</span><b>Needed</b></li>
             <li><span>Late wind movement alert</span><b>Needed</b></li>
           </ul>
@@ -703,8 +719,14 @@
                 <div class="park-metric"><small>HR Factor</small><b>${esc(park.park_hr_factor ?? "--")}</b></div>
                 <div class="park-metric"><small>Temp</small><b>${park.temperature ? `${esc(park.temperature)} F` : "--"}</b></div>
                 <div class="park-metric"><small>Wind</small><b>${esc(park.wind_speed || "--")} ${esc(park.wind_direction || "")}</b></div>
+                <div class="park-metric"><small>Humidity</small><b>${park.humidity ? `${esc(park.humidity)}%` : "--"}</b></div>
+                <div class="park-metric"><small>Rain</small><b>${park.precip_pct ? `${esc(park.precip_pct)}%` : "--"}</b></div>
               </div>
-              <div class="park-foot">Top fit: ${esc(park.top_player || "--")} · Edge ${esc(park.top_edge || "--")} · ${(park.teams || []).map(esc).join(" / ")}</div>
+              <div class="park-foot">
+                Top fit: ${esc(park.top_player || "--")} · Edge ${esc(park.top_edge || "--")} · ${(park.teams || []).map(esc).join(" / ")}
+                <br>Source: ${esc(park.source_note || "Weather source pending")}
+                ${park.weather_url ? `<a class="weather-link" href="${esc(park.weather_url)}" target="_blank" rel="noopener">Open Park Weather</a>` : ""}
+              </div>
             </div>
           </article>
         `;
