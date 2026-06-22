@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Zebby Matthews | 1 | 66.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Foster Griffin | 2 | 65.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Byron Buxton | MIN | Eric Lauer | 2 | 65.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Juan Soto | NYM | Shota Imanaga | 3 | 62.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Colson Montgomery | CWS | Gavin Williams | 4 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | James Wood | WSH |  | 1 | 62.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 7 | Alec Burleson | STL | Merrill Kelly | 3 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 8 | Yordan Alvarez | HOU | Dylan Cease | 2 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Lars Nootbaar | STL | Merrill Kelly | 5 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 10 | Jake Bauers | MIL | Brady Singer | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 11 | JJ Wetherholt | STL | Merrill Kelly | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Pete Crow-Armstrong | CHC | Kodai Senga | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Jordan Walker | STL | Merrill Kelly | 4 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 14 | Jackson Chourio | MIL | Brady Singer | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Pete Alonso | BAL | Sam Aldegheri | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Sal Stewart | CIN |  | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Matt Olson | ATL | Michael King | 3 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Ben Rice | NYY | Framber Valdez | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | John Rave | KC | Drew Rasmussen | 8 | 56.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 20 | Andrew Benintendi | CWS | Gavin Williams | 3 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Kyle Schwarber | PHI | Foster Griffin | 2 | 72.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Juan Soto | NYM | Shota Imanaga | 3 | 68.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Shohei Ohtani | LAD | Zebby Matthews | 1 | 68.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Byron Buxton | MIN | Eric Lauer | 2 | 67.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Colson Montgomery | CWS | Gavin Williams | 5 | 66.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 6 | Jake Bauers | MIL | Brady Singer | 5 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 7 | Pete Crow-Armstrong | CHC | Kodai Senga | 1 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Jackson Chourio | MIL | Brady Singer | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 9 | James Wood | WSH | Tim Mayza | 1 | 63.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 10 | Yordan Alvarez | HOU | Dylan Cease | 2 | 63.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Alec Burleson | STL | Merrill Kelly | 3 | 63.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 12 | John Rave | KC | Drew Rasmussen | 7 | 63.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 13 | Lars Nootbaar | STL | Merrill Kelly | 5 | 62.5 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 14 | Ben Rice | NYY | Framber Valdez | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Bryce Harper | PHI | Foster Griffin | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 16 | Pete Alonso | BAL | Sam Aldegheri | 3 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Andrew Benintendi | CWS | Gavin Williams | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | JJ Wetherholt | STL | Merrill Kelly | 1 | 61.7 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Jordan Walker | STL | Merrill Kelly | 4 | 61.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 20 | Brice Turang | MIL | Brady Singer | 3 | 61.0 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber | Avg HR Score: 66.2
-- Kyle Schwarber + Byron Buxton | Avg HR Score: 65.6
-- Byron Buxton + Juan Soto | Avg HR Score: 64.0
-- Juan Soto + Colson Montgomery | Avg HR Score: 62.5
-- Colson Montgomery + James Wood | Avg HR Score: 62.2
+- Kyle Schwarber + Juan Soto | Avg HR Score: 70.3
+- Juan Soto + Shohei Ohtani | Avg HR Score: 68.6
+- Shohei Ohtani + Byron Buxton | Avg HR Score: 67.9
+- Byron Buxton + Colson Montgomery | Avg HR Score: 66.8
+- Colson Montgomery + Jake Bauers | Avg HR Score: 65.6
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Byron Buxton | Avg HR Score: 65.9
-- Kyle Schwarber + Byron Buxton + Juan Soto | Avg HR Score: 64.6
-- Byron Buxton + Juan Soto + Colson Montgomery | Avg HR Score: 63.4
-- Juan Soto + Colson Montgomery + James Wood | Avg HR Score: 62.4
-- Colson Montgomery + James Wood + Alec Burleson | Avg HR Score: 61.7
+- Kyle Schwarber + Juan Soto + Shohei Ohtani | Avg HR Score: 69.7
+- Juan Soto + Shohei Ohtani + Byron Buxton | Avg HR Score: 68.1
+- Shohei Ohtani + Byron Buxton + Colson Montgomery | Avg HR Score: 67.4
+- Byron Buxton + Colson Montgomery + Jake Bauers | Avg HR Score: 66.1
+- Colson Montgomery + Jake Bauers + Pete Crow-Armstrong | Avg HR Score: 65.2
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Byron Buxton + Juan Soto | Avg HR Score: 65.1
-- Kyle Schwarber + Byron Buxton + Juan Soto + Colson Montgomery | Avg HR Score: 64.0
-- Byron Buxton + Juan Soto + Colson Montgomery + James Wood | Avg HR Score: 63.1
-- Juan Soto + Colson Montgomery + James Wood + Alec Burleson | Avg HR Score: 62.0
-- Colson Montgomery + James Wood + Alec Burleson + Yordan Alvarez | Avg HR Score: 61.4
+- Kyle Schwarber + Juan Soto + Shohei Ohtani + Byron Buxton | Avg HR Score: 69.1
+- Juan Soto + Shohei Ohtani + Byron Buxton + Colson Montgomery | Avg HR Score: 67.7
+- Shohei Ohtani + Byron Buxton + Colson Montgomery + Jake Bauers | Avg HR Score: 66.8
+- Byron Buxton + Colson Montgomery + Jake Bauers + Pete Crow-Armstrong | Avg HR Score: 65.7
+- Colson Montgomery + Jake Bauers + Pete Crow-Armstrong + Jackson Chourio | Avg HR Score: 65.0
