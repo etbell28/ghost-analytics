@@ -11,17 +11,17 @@
 | 7 | Pete Crow-Armstrong | CHC | Kodai Senga | 1 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Jackson Chourio | MIL | Brady Singer | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 9 | James Wood | WSH | Tim Mayza | 1 | 63.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 10 | Yordan Alvarez | HOU | Dylan Cease | 2 | 63.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Alec Burleson | STL | Merrill Kelly | 3 | 63.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 12 | John Rave | KC | Drew Rasmussen | 7 | 63.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 13 | Lars Nootbaar | STL | Merrill Kelly | 5 | 62.5 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 14 | Ben Rice | NYY | Framber Valdez | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Bryce Harper | PHI | Foster Griffin | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | Pete Alonso | BAL | Sam Aldegheri | 3 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Andrew Benintendi | CWS | Gavin Williams | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | JJ Wetherholt | STL | Merrill Kelly | 1 | 61.7 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Jordan Walker | STL | Merrill Kelly | 4 | 61.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 20 | Brice Turang | MIL | Brady Singer | 3 | 61.0 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Pete Alonso | BAL | Sam Aldegheri | 3 | 63.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Yordan Alvarez | HOU | Dylan Cease | 2 | 63.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Alec Burleson | STL | Merrill Kelly | 3 | 63.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 13 | John Rave | KC | Drew Rasmussen | 7 | 63.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 14 | Hunter Goodman | COL | Jake Bennett | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Wilyer Abreu | BOS | Ryan Feltner | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Lars Nootbaar | STL | Merrill Kelly | 5 | 62.5 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 17 | Willson Contreras | BOS | Ryan Feltner | 4 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 18 | Ben Rice | NYY | Framber Valdez | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Bryce Harper | PHI | Foster Griffin | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Andrew Benintendi | CWS | Gavin Williams | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
