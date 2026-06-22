@@ -1,8 +1,8 @@
 {
   "report_date": "2026-06-22",
-  "generated_at": "2026-06-22T16:40:30.118640-04:00",
+  "generated_at": "2026-06-22T16:35:59.254468-04:00",
   "product": "BarrelIQ",
-  "input_payload": "/home/runner/work/ghost-analytics/ghost-analytics/outputs/live_mlb_payload.json",
+  "input_payload": "/Users/ebell/Documents/Codex/GhostAnalytics/outputs/live_mlb_payload.json",
   "status": "framework_ready",
   "summary": {
     "top_targets": 30,

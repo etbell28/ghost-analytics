@@ -362,6 +362,59 @@
       font-weight: 900;
       text-transform: uppercase;
     }
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .tab {
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--muted);
+      background: rgba(255,255,255,.035);
+      padding: 0 13px;
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    .tab.active {
+      color: #051005;
+      border-color: transparent;
+      background: var(--green);
+    }
+    .pair-card {
+      min-height: 206px;
+      border-left: 3px solid var(--green);
+    }
+    .pair-card strong {
+      display: block;
+      font-size: 20px;
+      line-height: 1.2;
+      margin: 8px 0 10px;
+    }
+    .pair-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin: 10px 0;
+    }
+    .pair-meta span {
+      display: inline-flex;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 999px;
+      color: var(--muted);
+      padding: 6px 8px;
+      font-size: 10px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+    .pair-card p {
+      margin: 0;
+      font-size: 13px;
+    }
 
     .label-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
     .signal-chip {
@@ -462,6 +515,7 @@
       </a>
       <nav aria-label="Primary">
         <a href="#plays">Plays</a>
+        <a href="#pairings">Pairings</a>
         <a href="#parks">Park Conditions</a>
         <a href="#signals">Signals</a>
         <a href="#sources">Sources</a>
@@ -552,6 +606,28 @@
       </div>
     </section>
 
+    <section id="pairings" class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Pairing Engine</div>
+          <h2>Best Pairings</h2>
+        </div>
+        <p>Pairings are built separately from rankings. GhostIQ checks game independence, exposure, volatility, weather stack logic, and refuses to force weak 4-leg cards.</p>
+      </div>
+      <div class="tabs" id="pairingTabs" aria-label="Pairing size">
+        <button class="tab active" type="button" data-size="2">2-Leg</button>
+        <button class="tab" type="button" data-size="3">3-Leg</button>
+        <button class="tab" type="button" data-size="4">4-Leg</button>
+      </div>
+      <div class="grid" id="pairingCards">
+        <div class="card span-4 pair-card">
+          <small>Loading</small>
+          <strong>Pairing engine warming up</strong>
+          <p>GhostIQ will show fewer pairings instead of forcing weak combinations.</p>
+        </div>
+      </div>
+    </section>
+
     <section id="signals" class="shell">
       <div class="section-head">
         <div>
@@ -634,6 +710,7 @@
       "Projected": "PR",
       "Watch": "W"
     };
+    let activePairingSize = "2";
 
     function esc(value) {
       return String(value ?? "").replace(/[&<>"']/g, char => ({
@@ -749,6 +826,41 @@
       `).join("") || `<tr><td colspan="7">No live targets loaded.</td></tr>`;
     }
 
+    function renderPairings(size = activePairingSize) {
+      activePairingSize = String(size);
+      const rows = (window.ghostPayload?.pairings || {})[activePairingSize] || [];
+      const cards = document.querySelector("#pairingCards");
+      if (!cards) return;
+
+      cards.innerHTML = rows.map(row => {
+        const labelParts = String(row.labels || "")
+          .split(" / ")
+          .flatMap(part => part.split(", "))
+          .map(part => part.trim())
+          .filter(Boolean);
+        return `
+          <article class="card span-4 pair-card">
+            <small>${esc(row.type || `${activePairingSize}-Leg`)} · ${esc(row.volatility || "Volatility")}</small>
+            <strong>${esc(row.names || "Pairing")}</strong>
+            <div class="pair-meta">
+              <span>Avg Edge ${esc(row.avg_edge ?? "--")}</span>
+              <span>Combo ${esc(row.combo_score ?? "--")}</span>
+              <span>${esc(row.teams || "Teams")}</span>
+            </div>
+            <p>${esc(row.reason || "GhostIQ pairing rules approved this combination.")}</p>
+            ${badges(labelParts)}
+          </article>
+        `;
+      }).join("") || `
+        <div class="card span-4 pair-card">
+          <small>No Force</small>
+          <strong>No ${esc(activePairingSize)}-leg pairing passed the rules</strong>
+          <p>GhostIQ is refusing to force a weak card. This is intentional.</p>
+          <div class="badges"><span class="badge">Volatility Check</span><span class="badge">Exposure Cap</span></div>
+        </div>
+      `;
+    }
+
     function renderLabels(payload) {
       const definitions = payload.label_definitions || {};
       document.querySelector("#labelGrid").innerHTML = Object.entries(definitions).map(([label, body]) => `
@@ -772,11 +884,21 @@
       document.querySelector("#pairingCount").textContent = pairCount;
     }
 
+    document.querySelectorAll("#pairingTabs .tab").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll("#pairingTabs .tab").forEach(tab => tab.classList.remove("active"));
+        button.classList.add("active");
+        renderPairings(button.dataset.size);
+      });
+    });
+
     loadPayload()
       .then(payload => {
+        window.ghostPayload = payload;
         renderHero(payload);
         renderParks(payload);
         renderTargets(payload);
+        renderPairings(activePairingSize);
         renderLabels(payload);
         renderStatus(payload);
       })
