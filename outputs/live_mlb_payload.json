@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Friday, June 26, 2026",
-  "generated_at": "04:38 AM EDT",
-  "generated_iso": "2026-06-26T04:38:09.670539-04:00",
+  "generated_at": "07:21 AM EDT",
+  "generated_iso": "2026-06-26T07:21:38.724895-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -46,15 +46,15 @@
       ],
       "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 83.3,
+        "hitter_power": 83.5,
         "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 81.7,
+        "batted_ball_fit": 81.3,
         "environment": 52.8,
         "lineup_opportunity": 95.5,
         "recent_form": 85.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 68.3
+      "legacy_hr_score": 68.4
     },
     {
       "rank": 2,
@@ -141,6 +141,48 @@
     },
     {
       "rank": 4,
+      "player": "Shohei Ohtani",
+      "team": "LAD",
+      "opponent": "SD",
+      "matchup": "LAD vs SD",
+      "batting_order": "1",
+      "pitcher": "Walker Buehler",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "73",
+      "wind_speed": null,
+      "wind_direction": "297 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "68",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-06-27T01:45:00Z",
+      "confirmed": false,
+      "edge_index": 6.3,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 83.2,
+        "pitcher_vulnerability": 40.6,
+        "batted_ball_fit": 69.1,
+        "environment": 45.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 76.1,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 67.5
+    },
+    {
+      "rank": 5,
       "player": "Yordan Alvarez",
       "team": "HOU",
       "opponent": "DET",
@@ -170,60 +212,59 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 84.9,
+        "hitter_power": 84.1,
         "pitcher_vulnerability": 43.5,
-        "batted_ball_fit": 64.3,
+        "batted_ball_fit": 63.8,
         "environment": 53.6,
         "lineup_opportunity": 95.5,
         "recent_form": 34.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 68.8
+      "legacy_hr_score": 68.5
     },
     {
-      "rank": 5,
-      "player": "Shohei Ohtani",
-      "team": "LAD",
-      "opponent": "SD",
-      "matchup": "LAD vs SD",
-      "batting_order": "1",
-      "pitcher": "Walker Buehler",
+      "rank": 6,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "AZ",
+      "matchup": "TB vs AZ",
+      "batting_order": "4",
+      "pitcher": "Zac Gallen",
       "pitcher_hand": "R",
-      "ballpark": "Petco Park",
+      "ballpark": "Tropicana Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "86",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-06-27T01:45:00Z",
+      "wind_direction": "226 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "60",
+      "weather_precip_pct": "9",
+      "game_start_time": "2026-06-26T23:10:00Z",
       "confirmed": false,
-      "edge_index": 6.1,
+      "edge_index": 6.0,
       "ghost_grade": "B-",
       "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Projected",
         "Hot Bat",
-        "EV Edge",
-        "Tough Pitcher"
+        "EV Edge"
       ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "label_summary": "Projected + Hot Bat + EV Edge",
       "components": {
-        "hitter_power": 83.2,
-        "pitcher_vulnerability": 40.6,
-        "batted_ball_fit": 69.1,
-        "environment": 22.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 76.1,
+        "hitter_power": 61.5,
+        "pitcher_vulnerability": 54.7,
+        "batted_ball_fit": 53.4,
+        "environment": 55.1,
+        "lineup_opportunity": 90.4,
+        "recent_form": 98.1,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 64.0
+      "legacy_hr_score": 63.7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "player": "James Wood",
       "team": "WSH",
       "opponent": "BAL",
@@ -253,18 +294,18 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 85.3,
+        "hitter_power": 84.4,
         "pitcher_vulnerability": 38.5,
-        "batted_ball_fit": 62.7,
+        "batted_ball_fit": 61.8,
         "environment": 58.6,
         "lineup_opportunity": 88.7,
         "recent_form": 0.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 63.1
+      "legacy_hr_score": 62.8
     },
     {
-      "rank": 7,
+      "rank": 8,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "CIN",
@@ -283,7 +324,7 @@
       "weather_precip_pct": "48",
       "game_start_time": "2026-06-26T22:40:00Z",
       "confirmed": false,
-      "edge_index": 5.9,
+      "edge_index": 5.8,
       "ghost_grade": "B-",
       "confidence": "Watch",
       "volatility": "Medium",
@@ -295,56 +336,15 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher + Sleeper",
       "components": {
-        "hitter_power": 87.2,
+        "hitter_power": 83.9,
         "pitcher_vulnerability": 39.1,
-        "batted_ball_fit": 69.2,
+        "batted_ball_fit": 69.4,
         "environment": 38.3,
         "lineup_opportunity": 81.9,
         "recent_form": 8.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 62.8
-    },
-    {
-      "rank": 8,
-      "player": "Junior Caminero",
-      "team": "TB",
-      "opponent": "AZ",
-      "matchup": "TB vs AZ",
-      "batting_order": "4",
-      "pitcher": "Zac Gallen",
-      "pitcher_hand": "R",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "86",
-      "wind_speed": null,
-      "wind_direction": "226 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "60",
-      "weather_precip_pct": "9",
-      "game_start_time": "2026-06-26T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 59.0,
-        "pitcher_vulnerability": 54.7,
-        "batted_ball_fit": 51.3,
-        "environment": 55.1,
-        "lineup_opportunity": 90.4,
-        "recent_form": 98.1,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 62.9
+      "legacy_hr_score": 61.7
     },
     {
       "rank": 9,
@@ -377,7 +377,7 @@
       ],
       "label_summary": "Projected + Hot Bat + EV Edge",
       "components": {
-        "hitter_power": 66.1,
+        "hitter_power": 65.6,
         "pitcher_vulnerability": 41.2,
         "batted_ball_fit": 56.4,
         "environment": 44.0,
@@ -385,7 +385,7 @@
         "recent_form": 78.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 60.5
+      "legacy_hr_score": 60.3
     },
     {
       "rank": 10,
@@ -501,58 +501,18 @@
       ],
       "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 73.6,
+        "hitter_power": 73.2,
         "pitcher_vulnerability": 26.9,
-        "batted_ball_fit": 46.3,
+        "batted_ball_fit": 45.7,
         "environment": 52.8,
         "lineup_opportunity": 92.1,
         "recent_form": 74.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 62.5
+      "legacy_hr_score": 62.4
     },
     {
       "rank": 13,
-      "player": "Jake Bauers",
-      "team": "MIL",
-      "opponent": "CHC",
-      "matchup": "MIL vs CHC",
-      "batting_order": "5",
-      "pitcher": "Colin Rea",
-      "pitcher_hand": "R",
-      "ballpark": "American Family Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "62",
-      "wind_speed": null,
-      "wind_direction": "73 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
-      "weather_humidity": "90",
-      "weather_precip_pct": "4",
-      "game_start_time": "2026-06-26T23:45:00Z",
-      "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 60.1,
-        "pitcher_vulnerability": 58.4,
-        "batted_ball_fit": 49.3,
-        "environment": 43.1,
-        "lineup_opportunity": 81.9,
-        "recent_form": 43.2,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.1
-    },
-    {
-      "rank": 14,
       "player": "Nick Kurtz",
       "team": "ATH",
       "opponent": "LAA",
@@ -582,15 +542,56 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 77.8,
+        "hitter_power": 77.2,
         "pitcher_vulnerability": 16.6,
-        "batted_ball_fit": 62.6,
+        "batted_ball_fit": 62.4,
         "environment": 53.7,
         "lineup_opportunity": 95.5,
         "recent_form": 22.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 59.4
+      "legacy_hr_score": 59.2
+    },
+    {
+      "rank": 14,
+      "player": "Kazuma Okamoto",
+      "team": "TOR",
+      "opponent": "TEX",
+      "matchup": "TOR vs TEX",
+      "batting_order": "6",
+      "pitcher": "Nathan Eovaldi",
+      "pitcher_hand": "R",
+      "ballpark": "Rogers Centre",
+      "park_hr_factor": 0.0,
+      "weather_temp": "61",
+      "wind_speed": null,
+      "wind_direction": "67 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
+      "weather_humidity": "92",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-06-26T23:07:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 60.8,
+        "pitcher_vulnerability": 40.5,
+        "batted_ball_fit": 54.6,
+        "environment": 48.4,
+        "lineup_opportunity": 71.7,
+        "recent_form": 91.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 56.1
     },
     {
       "rank": 15,
@@ -674,63 +675,63 @@
     },
     {
       "rank": 17,
-      "player": "Corey Seager",
-      "team": "TEX",
-      "opponent": "TOR",
-      "matchup": "TEX vs TOR",
-      "batting_order": "2",
-      "pitcher": "Patrick Corbin",
-      "pitcher_hand": "L",
-      "ballpark": "Rogers Centre",
+      "player": "Jake Bauers",
+      "team": "MIL",
+      "opponent": "CHC",
+      "matchup": "MIL vs CHC",
+      "batting_order": "5",
+      "pitcher": "Colin Rea",
+      "pitcher_hand": "R",
+      "ballpark": "American Family Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "61",
+      "weather_temp": "",
       "wind_speed": null,
-      "wind_direction": "67 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
-      "weather_humidity": "92",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-06-26T23:07:00Z",
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-06-26T23:45:00Z",
       "confirmed": false,
       "edge_index": 5.3,
       "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Volatile",
+      "volatility": "Medium",
       "labels": [
         "Projected",
-        "Watch"
+        "EV Edge"
       ],
-      "label_summary": "Projected + Watch",
+      "label_summary": "Projected + EV Edge",
       "components": {
-        "hitter_power": 60.4,
-        "pitcher_vulnerability": 44.4,
-        "batted_ball_fit": 44.7,
-        "environment": 48.4,
-        "lineup_opportunity": 95.5,
-        "recent_form": 45.5,
+        "hitter_power": 60.1,
+        "pitcher_vulnerability": 58.4,
+        "batted_ball_fit": 49.3,
+        "environment": 27.6,
+        "lineup_opportunity": 81.9,
+        "recent_form": 43.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 58.0
+      "legacy_hr_score": 58.8
     },
     {
       "rank": 18,
-      "player": "Kazuma Okamoto",
-      "team": "TOR",
-      "opponent": "TEX",
-      "matchup": "TOR vs TEX",
-      "batting_order": "6",
-      "pitcher": "Nathan Eovaldi",
-      "pitcher_hand": "R",
-      "ballpark": "Rogers Centre",
+      "player": "Bryce Harper",
+      "team": "PHI",
+      "opponent": "NYM",
+      "matchup": "PHI vs NYM",
+      "batting_order": "3",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Citi Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "61",
+      "weather_temp": "75",
       "wind_speed": null,
-      "wind_direction": "67 deg",
+      "wind_direction": "160 deg",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
-      "weather_humidity": "92",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-06-26T23:07:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-06-26T23:10:00Z",
       "confirmed": false,
       "edge_index": 5.3,
       "ghost_grade": "C+",
@@ -738,20 +739,19 @@
       "volatility": "High",
       "labels": [
         "Projected",
-        "Hot Bat",
-        "EV Edge"
+        "Hot Bat"
       ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
+      "label_summary": "Projected + Hot Bat",
       "components": {
-        "hitter_power": 59.3,
-        "pitcher_vulnerability": 40.5,
-        "batted_ball_fit": 53.7,
-        "environment": 48.4,
-        "lineup_opportunity": 71.7,
-        "recent_form": 91.0,
+        "hitter_power": 56.4,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 36.6,
+        "environment": 52.8,
+        "lineup_opportunity": 92.1,
+        "recent_form": 100.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 55.6
+      "legacy_hr_score": 59.7
     },
     {
       "rank": 19,
@@ -795,23 +795,23 @@
     },
     {
       "rank": 20,
-      "player": "Bryce Harper",
-      "team": "PHI",
-      "opponent": "NYM",
-      "matchup": "PHI vs NYM",
-      "batting_order": "3",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Citi Field",
+      "player": "Corey Seager",
+      "team": "TEX",
+      "opponent": "TOR",
+      "matchup": "TEX vs TOR",
+      "batting_order": "2",
+      "pitcher": "Patrick Corbin",
+      "pitcher_hand": "L",
+      "ballpark": "Rogers Centre",
       "park_hr_factor": 0.0,
-      "weather_temp": "75",
+      "weather_temp": "61",
       "wind_speed": null,
-      "wind_direction": "160 deg",
+      "wind_direction": "67 deg",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
-      "weather_humidity": "63",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-06-26T23:10:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
+      "weather_humidity": "92",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-06-26T23:07:00Z",
       "confirmed": false,
       "edge_index": 5.2,
       "ghost_grade": "C+",
@@ -819,19 +819,19 @@
       "volatility": "High",
       "labels": [
         "Projected",
-        "Hot Bat"
+        "Watch"
       ],
-      "label_summary": "Projected + Hot Bat",
+      "label_summary": "Projected + Watch",
       "components": {
-        "hitter_power": 55.6,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 36.3,
-        "environment": 52.8,
-        "lineup_opportunity": 92.1,
-        "recent_form": 100.0,
+        "hitter_power": 59.1,
+        "pitcher_vulnerability": 44.4,
+        "batted_ball_fit": 43.9,
+        "environment": 48.4,
+        "lineup_opportunity": 95.5,
+        "recent_form": 45.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 59.5
+      "legacy_hr_score": 57.6
     },
     {
       "rank": 21,
@@ -1063,7 +1063,7 @@
       ],
       "label_summary": "Projected + Watch",
       "components": {
-        "hitter_power": 49.7,
+        "hitter_power": 49.3,
         "pitcher_vulnerability": 54.7,
         "batted_ball_fit": 26.0,
         "environment": 55.1,
@@ -1071,50 +1071,10 @@
         "recent_form": 59.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 61.3
+      "legacy_hr_score": 61.2
     },
     {
       "rank": 27,
-      "player": "Ben Rice",
-      "team": "NYY",
-      "opponent": "BOS",
-      "matchup": "NYY vs BOS",
-      "batting_order": "2",
-      "pitcher": "Payton Tolle",
-      "pitcher_hand": "L",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "86 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "48",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-06-26T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 63.5,
-        "pitcher_vulnerability": 29.0,
-        "batted_ball_fit": 45.8,
-        "environment": 50.2,
-        "lineup_opportunity": 95.5,
-        "recent_form": 48.7,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.7
-    },
-    {
-      "rank": 28,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "MIA",
@@ -1154,7 +1114,7 @@
       "legacy_hr_score": 54.7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "ATL",
@@ -1183,9 +1143,9 @@
       ],
       "label_summary": "Projected + EV Edge",
       "components": {
-        "hitter_power": 70.2,
+        "hitter_power": 70.3,
         "pitcher_vulnerability": 34.6,
-        "batted_ball_fit": 51.9,
+        "batted_ball_fit": 51.5,
         "environment": 44.3,
         "lineup_opportunity": 71.7,
         "recent_form": 18.3,
@@ -1194,7 +1154,7 @@
       "legacy_hr_score": 56.3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "CWS",
@@ -1232,6 +1192,46 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 57.7
+    },
+    {
+      "rank": 30,
+      "player": "Ben Rice",
+      "team": "NYY",
+      "opponent": "BOS",
+      "matchup": "NYY vs BOS",
+      "batting_order": "2",
+      "pitcher": "Payton Tolle",
+      "pitcher_hand": "L",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "86 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "48",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-06-26T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 62.2,
+        "pitcher_vulnerability": 29.0,
+        "batted_ball_fit": 44.9,
+        "environment": 50.2,
+        "lineup_opportunity": 95.5,
+        "recent_form": 48.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 55.3
     }
   ],
   "confirmed_targets": [],
@@ -1268,15 +1268,15 @@
       ],
       "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 83.3,
+        "hitter_power": 83.5,
         "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 81.7,
+        "batted_ball_fit": 81.3,
         "environment": 52.8,
         "lineup_opportunity": 95.5,
         "recent_form": 85.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 68.3
+      "legacy_hr_score": 68.4
     },
     {
       "rank": 2,
@@ -1363,6 +1363,48 @@
     },
     {
       "rank": 4,
+      "player": "Shohei Ohtani",
+      "team": "LAD",
+      "opponent": "SD",
+      "matchup": "LAD vs SD",
+      "batting_order": "1",
+      "pitcher": "Walker Buehler",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "73",
+      "wind_speed": null,
+      "wind_direction": "297 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "68",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-06-27T01:45:00Z",
+      "confirmed": false,
+      "edge_index": 6.3,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 83.2,
+        "pitcher_vulnerability": 40.6,
+        "batted_ball_fit": 69.1,
+        "environment": 45.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 76.1,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 67.5
+    },
+    {
+      "rank": 5,
       "player": "Yordan Alvarez",
       "team": "HOU",
       "opponent": "DET",
@@ -1392,60 +1434,59 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 84.9,
+        "hitter_power": 84.1,
         "pitcher_vulnerability": 43.5,
-        "batted_ball_fit": 64.3,
+        "batted_ball_fit": 63.8,
         "environment": 53.6,
         "lineup_opportunity": 95.5,
         "recent_form": 34.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 68.8
+      "legacy_hr_score": 68.5
     },
     {
-      "rank": 5,
-      "player": "Shohei Ohtani",
-      "team": "LAD",
-      "opponent": "SD",
-      "matchup": "LAD vs SD",
-      "batting_order": "1",
-      "pitcher": "Walker Buehler",
+      "rank": 6,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "AZ",
+      "matchup": "TB vs AZ",
+      "batting_order": "4",
+      "pitcher": "Zac Gallen",
       "pitcher_hand": "R",
-      "ballpark": "Petco Park",
+      "ballpark": "Tropicana Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "86",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-06-27T01:45:00Z",
+      "wind_direction": "226 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "60",
+      "weather_precip_pct": "9",
+      "game_start_time": "2026-06-26T23:10:00Z",
       "confirmed": false,
-      "edge_index": 6.1,
+      "edge_index": 6.0,
       "ghost_grade": "B-",
       "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Projected",
         "Hot Bat",
-        "EV Edge",
-        "Tough Pitcher"
+        "EV Edge"
       ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "label_summary": "Projected + Hot Bat + EV Edge",
       "components": {
-        "hitter_power": 83.2,
-        "pitcher_vulnerability": 40.6,
-        "batted_ball_fit": 69.1,
-        "environment": 22.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 76.1,
+        "hitter_power": 61.5,
+        "pitcher_vulnerability": 54.7,
+        "batted_ball_fit": 53.4,
+        "environment": 55.1,
+        "lineup_opportunity": 90.4,
+        "recent_form": 98.1,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 64.0
+      "legacy_hr_score": 63.7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "player": "James Wood",
       "team": "WSH",
       "opponent": "BAL",
@@ -1475,18 +1516,18 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 85.3,
+        "hitter_power": 84.4,
         "pitcher_vulnerability": 38.5,
-        "batted_ball_fit": 62.7,
+        "batted_ball_fit": 61.8,
         "environment": 58.6,
         "lineup_opportunity": 88.7,
         "recent_form": 0.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 63.1
+      "legacy_hr_score": 62.8
     },
     {
-      "rank": 7,
+      "rank": 8,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "CIN",
@@ -1505,7 +1546,7 @@
       "weather_precip_pct": "48",
       "game_start_time": "2026-06-26T22:40:00Z",
       "confirmed": false,
-      "edge_index": 5.9,
+      "edge_index": 5.8,
       "ghost_grade": "B-",
       "confidence": "Watch",
       "volatility": "Medium",
@@ -1517,56 +1558,15 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher + Sleeper",
       "components": {
-        "hitter_power": 87.2,
+        "hitter_power": 83.9,
         "pitcher_vulnerability": 39.1,
-        "batted_ball_fit": 69.2,
+        "batted_ball_fit": 69.4,
         "environment": 38.3,
         "lineup_opportunity": 81.9,
         "recent_form": 8.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 62.8
-    },
-    {
-      "rank": 8,
-      "player": "Junior Caminero",
-      "team": "TB",
-      "opponent": "AZ",
-      "matchup": "TB vs AZ",
-      "batting_order": "4",
-      "pitcher": "Zac Gallen",
-      "pitcher_hand": "R",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "86",
-      "wind_speed": null,
-      "wind_direction": "226 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "60",
-      "weather_precip_pct": "9",
-      "game_start_time": "2026-06-26T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 59.0,
-        "pitcher_vulnerability": 54.7,
-        "batted_ball_fit": 51.3,
-        "environment": 55.1,
-        "lineup_opportunity": 90.4,
-        "recent_form": 98.1,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 62.9
+      "legacy_hr_score": 61.7
     },
     {
       "rank": 9,
@@ -1599,7 +1599,7 @@
       ],
       "label_summary": "Projected + Hot Bat + EV Edge",
       "components": {
-        "hitter_power": 66.1,
+        "hitter_power": 65.6,
         "pitcher_vulnerability": 41.2,
         "batted_ball_fit": 56.4,
         "environment": 44.0,
@@ -1607,7 +1607,7 @@
         "recent_form": 78.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 60.5
+      "legacy_hr_score": 60.3
     },
     {
       "rank": 10,
@@ -1723,58 +1723,18 @@
       ],
       "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 73.6,
+        "hitter_power": 73.2,
         "pitcher_vulnerability": 26.9,
-        "batted_ball_fit": 46.3,
+        "batted_ball_fit": 45.7,
         "environment": 52.8,
         "lineup_opportunity": 92.1,
         "recent_form": 74.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 62.5
+      "legacy_hr_score": 62.4
     },
     {
       "rank": 13,
-      "player": "Jake Bauers",
-      "team": "MIL",
-      "opponent": "CHC",
-      "matchup": "MIL vs CHC",
-      "batting_order": "5",
-      "pitcher": "Colin Rea",
-      "pitcher_hand": "R",
-      "ballpark": "American Family Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "62",
-      "wind_speed": null,
-      "wind_direction": "73 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
-      "weather_humidity": "90",
-      "weather_precip_pct": "4",
-      "game_start_time": "2026-06-26T23:45:00Z",
-      "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 60.1,
-        "pitcher_vulnerability": 58.4,
-        "batted_ball_fit": 49.3,
-        "environment": 43.1,
-        "lineup_opportunity": 81.9,
-        "recent_form": 43.2,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.1
-    },
-    {
-      "rank": 14,
       "player": "Nick Kurtz",
       "team": "ATH",
       "opponent": "LAA",
@@ -1804,15 +1764,56 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 77.8,
+        "hitter_power": 77.2,
         "pitcher_vulnerability": 16.6,
-        "batted_ball_fit": 62.6,
+        "batted_ball_fit": 62.4,
         "environment": 53.7,
         "lineup_opportunity": 95.5,
         "recent_form": 22.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 59.4
+      "legacy_hr_score": 59.2
+    },
+    {
+      "rank": 14,
+      "player": "Kazuma Okamoto",
+      "team": "TOR",
+      "opponent": "TEX",
+      "matchup": "TOR vs TEX",
+      "batting_order": "6",
+      "pitcher": "Nathan Eovaldi",
+      "pitcher_hand": "R",
+      "ballpark": "Rogers Centre",
+      "park_hr_factor": 0.0,
+      "weather_temp": "61",
+      "wind_speed": null,
+      "wind_direction": "67 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
+      "weather_humidity": "92",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-06-26T23:07:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 60.8,
+        "pitcher_vulnerability": 40.5,
+        "batted_ball_fit": 54.6,
+        "environment": 48.4,
+        "lineup_opportunity": 71.7,
+        "recent_form": 91.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 56.1
     },
     {
       "rank": 15,
@@ -1896,63 +1897,63 @@
     },
     {
       "rank": 17,
-      "player": "Corey Seager",
-      "team": "TEX",
-      "opponent": "TOR",
-      "matchup": "TEX vs TOR",
-      "batting_order": "2",
-      "pitcher": "Patrick Corbin",
-      "pitcher_hand": "L",
-      "ballpark": "Rogers Centre",
+      "player": "Jake Bauers",
+      "team": "MIL",
+      "opponent": "CHC",
+      "matchup": "MIL vs CHC",
+      "batting_order": "5",
+      "pitcher": "Colin Rea",
+      "pitcher_hand": "R",
+      "ballpark": "American Family Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "61",
+      "weather_temp": "",
       "wind_speed": null,
-      "wind_direction": "67 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
-      "weather_humidity": "92",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-06-26T23:07:00Z",
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-06-26T23:45:00Z",
       "confirmed": false,
       "edge_index": 5.3,
       "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Volatile",
+      "volatility": "Medium",
       "labels": [
         "Projected",
-        "Watch"
+        "EV Edge"
       ],
-      "label_summary": "Projected + Watch",
+      "label_summary": "Projected + EV Edge",
       "components": {
-        "hitter_power": 60.4,
-        "pitcher_vulnerability": 44.4,
-        "batted_ball_fit": 44.7,
-        "environment": 48.4,
-        "lineup_opportunity": 95.5,
-        "recent_form": 45.5,
+        "hitter_power": 60.1,
+        "pitcher_vulnerability": 58.4,
+        "batted_ball_fit": 49.3,
+        "environment": 27.6,
+        "lineup_opportunity": 81.9,
+        "recent_form": 43.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 58.0
+      "legacy_hr_score": 58.8
     },
     {
       "rank": 18,
-      "player": "Kazuma Okamoto",
-      "team": "TOR",
-      "opponent": "TEX",
-      "matchup": "TOR vs TEX",
-      "batting_order": "6",
-      "pitcher": "Nathan Eovaldi",
-      "pitcher_hand": "R",
-      "ballpark": "Rogers Centre",
+      "player": "Bryce Harper",
+      "team": "PHI",
+      "opponent": "NYM",
+      "matchup": "PHI vs NYM",
+      "batting_order": "3",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Citi Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "61",
+      "weather_temp": "75",
       "wind_speed": null,
-      "wind_direction": "67 deg",
+      "wind_direction": "160 deg",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
-      "weather_humidity": "92",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-06-26T23:07:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-06-26T23:10:00Z",
       "confirmed": false,
       "edge_index": 5.3,
       "ghost_grade": "C+",
@@ -1960,20 +1961,19 @@
       "volatility": "High",
       "labels": [
         "Projected",
-        "Hot Bat",
-        "EV Edge"
+        "Hot Bat"
       ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
+      "label_summary": "Projected + Hot Bat",
       "components": {
-        "hitter_power": 59.3,
-        "pitcher_vulnerability": 40.5,
-        "batted_ball_fit": 53.7,
-        "environment": 48.4,
-        "lineup_opportunity": 71.7,
-        "recent_form": 91.0,
+        "hitter_power": 56.4,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 36.6,
+        "environment": 52.8,
+        "lineup_opportunity": 92.1,
+        "recent_form": 100.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 55.6
+      "legacy_hr_score": 59.7
     },
     {
       "rank": 19,
@@ -2017,23 +2017,23 @@
     },
     {
       "rank": 20,
-      "player": "Bryce Harper",
-      "team": "PHI",
-      "opponent": "NYM",
-      "matchup": "PHI vs NYM",
-      "batting_order": "3",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Citi Field",
+      "player": "Corey Seager",
+      "team": "TEX",
+      "opponent": "TOR",
+      "matchup": "TEX vs TOR",
+      "batting_order": "2",
+      "pitcher": "Patrick Corbin",
+      "pitcher_hand": "L",
+      "ballpark": "Rogers Centre",
       "park_hr_factor": 0.0,
-      "weather_temp": "75",
+      "weather_temp": "61",
       "wind_speed": null,
-      "wind_direction": "160 deg",
+      "wind_direction": "67 deg",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
-      "weather_humidity": "63",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-06-26T23:10:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
+      "weather_humidity": "92",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-06-26T23:07:00Z",
       "confirmed": false,
       "edge_index": 5.2,
       "ghost_grade": "C+",
@@ -2041,19 +2041,19 @@
       "volatility": "High",
       "labels": [
         "Projected",
-        "Hot Bat"
+        "Watch"
       ],
-      "label_summary": "Projected + Hot Bat",
+      "label_summary": "Projected + Watch",
       "components": {
-        "hitter_power": 55.6,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 36.3,
-        "environment": 52.8,
-        "lineup_opportunity": 92.1,
-        "recent_form": 100.0,
+        "hitter_power": 59.1,
+        "pitcher_vulnerability": 44.4,
+        "batted_ball_fit": 43.9,
+        "environment": 48.4,
+        "lineup_opportunity": 95.5,
+        "recent_form": 45.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 59.5
+      "legacy_hr_score": 57.6
     },
     {
       "rank": 21,
@@ -2285,7 +2285,7 @@
       ],
       "label_summary": "Projected + Watch",
       "components": {
-        "hitter_power": 49.7,
+        "hitter_power": 49.3,
         "pitcher_vulnerability": 54.7,
         "batted_ball_fit": 26.0,
         "environment": 55.1,
@@ -2293,50 +2293,10 @@
         "recent_form": 59.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 61.3
+      "legacy_hr_score": 61.2
     },
     {
       "rank": 27,
-      "player": "Ben Rice",
-      "team": "NYY",
-      "opponent": "BOS",
-      "matchup": "NYY vs BOS",
-      "batting_order": "2",
-      "pitcher": "Payton Tolle",
-      "pitcher_hand": "L",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "86 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "48",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-06-26T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 63.5,
-        "pitcher_vulnerability": 29.0,
-        "batted_ball_fit": 45.8,
-        "environment": 50.2,
-        "lineup_opportunity": 95.5,
-        "recent_form": 48.7,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.7
-    },
-    {
-      "rank": 28,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "MIA",
@@ -2376,7 +2336,7 @@
       "legacy_hr_score": 54.7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "ATL",
@@ -2405,9 +2365,9 @@
       ],
       "label_summary": "Projected + EV Edge",
       "components": {
-        "hitter_power": 70.2,
+        "hitter_power": 70.3,
         "pitcher_vulnerability": 34.6,
-        "batted_ball_fit": 51.9,
+        "batted_ball_fit": 51.5,
         "environment": 44.3,
         "lineup_opportunity": 71.7,
         "recent_form": 18.3,
@@ -2416,7 +2376,7 @@
       "legacy_hr_score": 56.3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "CWS",
@@ -2454,6 +2414,46 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 57.7
+    },
+    {
+      "rank": 30,
+      "player": "Ben Rice",
+      "team": "NYY",
+      "opponent": "BOS",
+      "matchup": "NYY vs BOS",
+      "batting_order": "2",
+      "pitcher": "Payton Tolle",
+      "pitcher_hand": "L",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "86 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "48",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-06-26T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 62.2,
+        "pitcher_vulnerability": 29.0,
+        "batted_ball_fit": 44.9,
+        "environment": 50.2,
+        "lineup_opportunity": 95.5,
+        "recent_form": 48.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 55.3
     }
   ],
   "pairings": {
@@ -2469,6 +2469,16 @@
         "reason": "independent games · pitcher target included"
       },
       {
+        "names": "Kyle Schwarber + Shohei Ohtani",
+        "teams": "PHI vs NYM / LAD vs SD",
+        "avg_edge": 6.5,
+        "combo_score": 6.74,
+        "type": "Power Pair",
+        "volatility": "Medium",
+        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "reason": "independent games"
+      },
+      {
         "names": "Kyle Schwarber + Yordan Alvarez",
         "teams": "PHI vs NYM / HOU vs DET",
         "avg_edge": 6.5,
@@ -2477,6 +2487,16 @@
         "volatility": "Medium",
         "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
+      },
+      {
+        "names": "Byron Buxton + Shohei Ohtani",
+        "teams": "MIN vs COL / LAD vs SD",
+        "avg_edge": 6.4,
+        "combo_score": 6.69,
+        "type": "Power Pair",
+        "volatility": "Medium",
+        "labels": "Projected, EV Edge, Pitcher Target / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "reason": "independent games · pitcher target included"
       },
       {
         "names": "Byron Buxton + Yordan Alvarez",
@@ -2489,57 +2509,47 @@
         "reason": "independent games · pitcher target included"
       },
       {
-        "names": "Kyle Schwarber + John Rave",
-        "teams": "PHI vs NYM / KC vs CWS",
-        "avg_edge": 6.6,
-        "combo_score": 6.61,
-        "type": "Sleeper Pair",
-        "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher, Sleeper",
-        "reason": "independent games · sleeper leverage"
-      },
-      {
-        "names": "Byron Buxton + John Rave",
-        "teams": "MIN vs COL / KC vs CWS",
-        "avg_edge": 6.5,
-        "combo_score": 6.56,
-        "type": "Sleeper Pair",
-        "volatility": "Medium",
-        "labels": "Projected, EV Edge, Pitcher Target / Projected, EV Edge, Tough Pitcher, Sleeper",
-        "reason": "independent games · pitcher target included · sleeper leverage"
-      },
-      {
-        "names": "John Rave + Yordan Alvarez",
-        "teams": "KC vs CWS / HOU vs DET",
+        "names": "Shohei Ohtani + Yordan Alvarez",
+        "teams": "LAD vs SD / HOU vs DET",
         "avg_edge": 6.3,
-        "combo_score": 6.41,
-        "type": "Sleeper Pair",
-        "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, EV Edge, Tough Pitcher",
-        "reason": "independent games · sleeper leverage"
-      },
-      {
-        "names": "Shohei Ohtani + James Wood",
-        "teams": "LAD vs SD / WSH vs BAL",
-        "avg_edge": 6.0,
-        "combo_score": 6.22,
+        "combo_score": 6.54,
         "type": "Power Pair",
         "volatility": "Medium",
         "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
-        "names": "Shohei Ohtani + Esmerlyn Valdez",
-        "teams": "LAD vs SD / PIT vs CIN",
-        "avg_edge": 6.0,
-        "combo_score": 6.14,
+        "names": "John Rave + Junior Caminero",
+        "teams": "KC vs CWS / TB vs AZ",
+        "avg_edge": 6.2,
+        "combo_score": 6.19,
         "type": "Sleeper Pair",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher, Sleeper",
+        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, Hot Bat, EV Edge",
+        "reason": "independent games · sleeper leverage"
+      },
+      {
+        "names": "John Rave + James Wood",
+        "teams": "KC vs CWS / WSH vs BAL",
+        "avg_edge": 6.2,
+        "combo_score": 6.19,
+        "type": "Sleeper Pair",
+        "volatility": "Medium",
+        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games · sleeper leverage"
       }
     ],
     "3": [
+      {
+        "names": "Kyle Schwarber + Byron Buxton + Shohei Ohtani",
+        "teams": "PHI vs NYM / MIN vs COL / LAD vs SD",
+        "avg_edge": 6.5,
+        "combo_score": 6.89,
+        "type": "Aggressive 3",
+        "volatility": "Medium",
+        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "reason": "independent games · pitcher target included"
+      },
       {
         "names": "Kyle Schwarber + Byron Buxton + Yordan Alvarez",
         "teams": "PHI vs NYM / MIN vs COL / HOU vs DET",
@@ -2551,24 +2561,24 @@
         "reason": "independent games · pitcher target included"
       },
       {
-        "names": "Kyle Schwarber + Byron Buxton + Shohei Ohtani",
-        "teams": "PHI vs NYM / MIN vs COL / LAD vs SD",
-        "avg_edge": 6.5,
-        "combo_score": 6.79,
+        "names": "John Rave + Shohei Ohtani + Yordan Alvarez",
+        "teams": "KC vs CWS / LAD vs SD / HOU vs DET",
+        "avg_edge": 6.3,
+        "combo_score": 6.51,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target / Projected, Hot Bat, EV Edge, Tough Pitcher",
-        "reason": "independent games · pitcher target included"
+        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
+        "reason": "independent games · sleeper leverage"
       },
       {
-        "names": "Yordan Alvarez + Shohei Ohtani + James Wood",
-        "teams": "HOU vs DET / LAD vs SD / WSH vs BAL",
+        "names": "John Rave + Junior Caminero + James Wood",
+        "teams": "KC vs CWS / TB vs AZ / WSH vs BAL",
         "avg_edge": 6.1,
-        "combo_score": 6.42,
+        "combo_score": 6.24,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
-        "reason": "independent games"
+        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, Hot Bat, EV Edge / Projected, EV Edge, Tough Pitcher",
+        "reason": "independent games · sleeper leverage"
       }
     ],
     "4": []
@@ -2588,7 +2598,7 @@
       "ballpark": "Tropicana Field",
       "environment_score": 55.1,
       "top_player": "Junior Caminero",
-      "top_edge": 5.9,
+      "top_edge": 6.0,
       "teams": [
         "TB"
       ]
@@ -2627,7 +2637,7 @@
       "ballpark": "Fenway Park",
       "environment_score": 50.2,
       "top_player": "Ben Rice",
-      "top_edge": 5.1,
+      "top_edge": 5.0,
       "teams": [
         "BOS",
         "NYY"
@@ -2668,7 +2678,7 @@
       "precip_pct": 9.0,
       "condition_grade": "Neutral",
       "top_player": "Junior Caminero",
-      "top_edge": 5.9,
+      "top_edge": 6.0,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
@@ -2744,7 +2754,7 @@
       "precip_pct": 0.0,
       "condition_grade": "Neutral",
       "top_player": "Ben Rice",
-      "top_edge": 5.1,
+      "top_edge": 5.0,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
@@ -2781,9 +2791,28 @@
       "humidity": 92.0,
       "precip_pct": 15.0,
       "condition_grade": "Neutral",
-      "top_player": "Corey Seager",
+      "top_player": "Kazuma Okamoto",
       "top_edge": 5.3,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Petco Park",
+      "teams": [
+        "LAD",
+        "SD"
+      ],
+      "environment_score": 45.6,
+      "park_hr_factor": 100.0,
+      "temperature": 73.0,
+      "wind_speed": 0.0,
+      "wind_direction": "297 deg",
+      "humidity": 68.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Neutral",
+      "top_player": "Shohei Ohtani",
+      "top_edge": 6.3,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -2844,25 +2873,6 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "American Family Field",
-      "teams": [
-        "CHC",
-        "MIL"
-      ],
-      "environment_score": 43.1,
-      "park_hr_factor": 100.0,
-      "temperature": 62.0,
-      "wind_speed": 0.0,
-      "wind_direction": "73 deg",
-      "humidity": 90.0,
-      "precip_pct": 4.0,
-      "condition_grade": "Resist",
-      "top_player": "Jake Bauers",
-      "top_edge": 5.5,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
       "ballpark": "Busch Stadium",
       "teams": [
         "MIA",
@@ -2896,17 +2906,17 @@
       "precip_pct": 48.0,
       "condition_grade": "Resist",
       "top_player": "Esmerlyn Valdez",
-      "top_edge": 5.9,
+      "top_edge": 5.8,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.4469&lon=-80.0057",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Petco Park",
+      "ballpark": "American Family Field",
       "teams": [
-        "LAD",
-        "SD"
+        "CHC",
+        "MIL"
       ],
-      "environment_score": 22.6,
+      "environment_score": 27.6,
       "park_hr_factor": 100.0,
       "temperature": "",
       "wind_speed": 0.0,
@@ -2914,9 +2924,9 @@
       "humidity": "",
       "precip_pct": "",
       "condition_grade": "Resist",
-      "top_player": "Shohei Ohtani",
-      "top_edge": 6.1,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "top_player": "Jake Bauers",
+      "top_edge": 5.3,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
       "source_note": "NOAA link only"
     }
   ],
