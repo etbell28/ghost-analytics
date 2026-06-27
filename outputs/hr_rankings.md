@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Randy Vásquez | 1 | 72.8 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Christian Scott | 2 | 68.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Pete Alonso | BAL | Foster Griffin | 3 | 66.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | John Rave | KC | Davis Martin | 7 | 65.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 5 | James Wood | WSH | Brandon Young | 1 | 65.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Kahlil Watson | CLE | Logan Gilbert | 5 | 64.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 7 | Byron Buxton | MIN | Michael Lorenzen | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 8 | Kazuma Okamoto | TOR | Cal Quantrill | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 9 | Jac Caglianone | KC | Davis Martin | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Max Muncy | LAD | Randy Vásquez | 5 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 11 | Freddie Freeman | LAD | Randy Vásquez | 3 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Lars Nootbaar | STL | Ryan Gusto | 5 | 62.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 13 | Juan Soto | NYM | Tim Mayza | 2 | 61.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Alec Burleson | STL | Ryan Gusto | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Corbin Carroll | AZ | Cole Sulser | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Dominic Canzone | SEA | Slade Cecconi | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Jordan Walker | STL | Ryan Gusto | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Nick Kurtz | ATH | Reid Detmers | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 19 | Bryce Harper | PHI | Christian Scott | 3 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Ketel Marte | AZ | Cole Sulser | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Nick Kurtz | ATH | Reid Detmers | 2 | 62.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 2 | Shohei Ohtani | LAD | Kyle Hart | 1 | 59.8 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 3 | Matt Olson | ATL | Logan Webb | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Shea Langeliers | ATH | Reid Detmers | 3 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Rafael Devers | SF | Bryce Elder | 4 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Bryce Eldridge | SF | Bryce Elder | 6 | 57.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 7 | Drake Baldwin | ATL | Logan Webb | 4 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Michael Harris II | ATL | Logan Webb | 1 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Zach Neto | LAA | Jack Perkins | 1 | 54.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Casey Schmitt | SF | Bryce Elder | 2 | 53.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Denzer Guzman | LAA | Jack Perkins | 2 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Jorge Soler | LAA | Jack Perkins | 4 | 51.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Tyler Soderstrom | ATH | Reid Detmers | 4 | 51.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Jo Adell | LAA | Jack Perkins | 6 | 51.0 | Longshot | Watch List | Strong Barrel |
+| 15 | Colby Thomas | ATH | Reid Detmers | 6 | 50.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Henry Bolte | ATH | Reid Detmers | 1 | 50.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | Max Muncy | ATH | Reid Detmers | 7 | 50.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Jackson Merrill | SD | Yoshinobu Yamamoto | 3 | 49.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Manny Machado | SD | Yoshinobu Yamamoto | 4 | 49.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Max Muncy | LAD | Kyle Hart | 5 | 49.6 | Longshot | Watch List | Strong Barrel |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber | Avg HR Score: 70.6
-- Kyle Schwarber + Pete Alonso | Avg HR Score: 67.2
-- Pete Alonso + John Rave | Avg HR Score: 66.0
-- John Rave + James Wood | Avg HR Score: 65.8
-- James Wood + Kahlil Watson | Avg HR Score: 64.9
+- Nick Kurtz + Shohei Ohtani | Avg HR Score: 61.3
+- Shohei Ohtani + Matt Olson | Avg HR Score: 59.2
+- Matt Olson + Shea Langeliers | Avg HR Score: 58.4
+- Shea Langeliers + Rafael Devers | Avg HR Score: 57.6
+- Rafael Devers + Bryce Eldridge | Avg HR Score: 57.2
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Pete Alonso | Avg HR Score: 69.1
-- Kyle Schwarber + Pete Alonso + John Rave | Avg HR Score: 66.8
-- Pete Alonso + John Rave + James Wood | Avg HR Score: 65.9
-- John Rave + James Wood + Kahlil Watson | Avg HR Score: 65.2
-- James Wood + Kahlil Watson + Byron Buxton | Avg HR Score: 64.4
+- Nick Kurtz + Shohei Ohtani + Matt Olson | Avg HR Score: 60.5
+- Shohei Ohtani + Matt Olson + Shea Langeliers | Avg HR Score: 58.8
+- Matt Olson + Shea Langeliers + Rafael Devers | Avg HR Score: 58.0
+- Shea Langeliers + Rafael Devers + Bryce Eldridge | Avg HR Score: 57.5
+- Rafael Devers + Bryce Eldridge + Drake Baldwin | Avg HR Score: 57.2
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Pete Alonso + John Rave | Avg HR Score: 68.3
-- Kyle Schwarber + Pete Alonso + John Rave + James Wood | Avg HR Score: 66.5
-- Pete Alonso + John Rave + James Wood + Kahlil Watson | Avg HR Score: 65.5
-- John Rave + James Wood + Kahlil Watson + Byron Buxton | Avg HR Score: 64.8
-- James Wood + Kahlil Watson + Byron Buxton + Kazuma Okamoto | Avg HR Score: 64.1
+- Nick Kurtz + Shohei Ohtani + Matt Olson + Shea Langeliers | Avg HR Score: 59.9
+- Shohei Ohtani + Matt Olson + Shea Langeliers + Rafael Devers | Avg HR Score: 58.5
+- Matt Olson + Shea Langeliers + Rafael Devers + Bryce Eldridge | Avg HR Score: 57.8
+- Shea Langeliers + Rafael Devers + Bryce Eldridge + Drake Baldwin | Avg HR Score: 57.4
+- Rafael Devers + Bryce Eldridge + Drake Baldwin + Michael Harris II | Avg HR Score: 56.9
