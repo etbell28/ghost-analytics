@@ -17,11 +17,11 @@
 | 13 | James Wood | WSH | Connelly Early | 1 | 63.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 14 | Byron Buxton | MIN | Mike Burrows | 2 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 15 | Bryce Harper | PHI | Bubba Chandler | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Jake Bauers | MIL | Rhett Lowder | 5 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 17 | Nick Kurtz | ATH | Justin Wrobleski | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 18 | Corey Seager | TEX | Tanner Bibee | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Seiya Suzuki | CHC | JP Sears | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Ian Happ | CHC | JP Sears | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Nick Kurtz | ATH | Justin Wrobleski | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Corey Seager | TEX | Tanner Bibee | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Seiya Suzuki | CHC | JP Sears | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Ian Happ | CHC | JP Sears | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Pete Alonso | BAL | Erick Fedde | 4 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
