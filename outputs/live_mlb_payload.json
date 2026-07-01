@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Wednesday, July 1, 2026",
-  "generated_at": "07:42 AM EDT",
-  "generated_iso": "2026-07-01T07:42:30.057389-04:00",
+  "generated_at": "07:43 AM EDT",
+  "generated_iso": "2026-07-01T07:43:28.768909-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -344,6 +344,47 @@
     },
     {
       "rank": 9,
+      "player": "Hunter Goodman",
+      "team": "COL",
+      "opponent": "MIA",
+      "matchup": "COL vs MIA",
+      "batting_order": "3",
+      "pitcher": "Max Meyer",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "65 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "24",
+      "weather_precip_pct": "6",
+      "game_start_time": "2026-07-02T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 62.3,
+        "pitcher_vulnerability": 42.7,
+        "batted_ball_fit": 59.4,
+        "environment": 62.7,
+        "lineup_opportunity": 92.1,
+        "recent_form": 73.2,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 61.3
+    },
+    {
+      "rank": 10,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "CWS",
@@ -383,7 +424,7 @@
       "legacy_hr_score": 64.9
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "AZ",
@@ -424,7 +465,7 @@
       "legacy_hr_score": 66.8
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "James Wood",
       "team": "WSH",
       "opponent": "BOS",
@@ -465,7 +506,7 @@
       "legacy_hr_score": 60.4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "TB",
@@ -505,7 +546,7 @@
       "legacy_hr_score": 60.9
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Matt Olson",
       "team": "ATL",
       "opponent": "STL",
@@ -545,7 +586,7 @@
       "legacy_hr_score": 64.7
     },
     {
-      "rank": 14,
+      "rank": 15,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "TB",
@@ -586,7 +627,7 @@
       "legacy_hr_score": 65.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "TOR",
@@ -627,7 +668,7 @@
       "legacy_hr_score": 63.6
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "NYY",
@@ -667,48 +708,47 @@
       "legacy_hr_score": 63.2
     },
     {
-      "rank": 17,
-      "player": "Hunter Goodman",
-      "team": "COL",
-      "opponent": "MIA",
-      "matchup": "COL vs MIA",
-      "batting_order": "3",
-      "pitcher": "Max Meyer",
-      "pitcher_hand": "R",
+      "rank": 18,
+      "player": "Kyle Stowers",
+      "team": "MIA",
+      "opponent": "COL",
+      "matchup": "MIA vs COL",
+      "batting_order": "6",
+      "pitcher": "Kyle Freeland",
+      "pitcher_hand": "L",
       "ballpark": "Coors Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "81",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
+      "wind_direction": "65 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "24",
+      "weather_precip_pct": "6",
       "game_start_time": "2026-07-02T00:40:00Z",
       "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
+      "edge_index": 5.6,
+      "ghost_grade": "B-",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Projected",
-        "Hot Bat",
         "EV Edge"
       ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
+      "label_summary": "Projected + EV Edge",
       "components": {
-        "hitter_power": 62.3,
-        "pitcher_vulnerability": 42.7,
-        "batted_ball_fit": 59.4,
-        "environment": 38.7,
-        "lineup_opportunity": 92.1,
-        "recent_form": 73.2,
+        "hitter_power": 57.9,
+        "pitcher_vulnerability": 62.5,
+        "batted_ball_fit": 49.6,
+        "environment": 62.7,
+        "lineup_opportunity": 71.7,
+        "recent_form": 28.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 57.7
+      "legacy_hr_score": 59.5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "CHC",
@@ -749,7 +789,7 @@
       "legacy_hr_score": 61.4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "BAL",
@@ -789,7 +829,7 @@
       "legacy_hr_score": 58.1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Kerry Carpenter",
       "team": "DET",
       "opponent": "NYY",
@@ -829,7 +869,7 @@
       "legacy_hr_score": 62.4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "BAL",
@@ -869,7 +909,7 @@
       "legacy_hr_score": 59.5
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "MIL",
@@ -907,46 +947,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 61.4
-    },
-    {
-      "rank": 23,
-      "player": "Kyle Stowers",
-      "team": "MIA",
-      "opponent": "COL",
-      "matchup": "MIA vs COL",
-      "batting_order": "6",
-      "pitcher": "Kyle Freeland",
-      "pitcher_hand": "L",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-02T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 57.9,
-        "pitcher_vulnerability": 62.5,
-        "batted_ball_fit": 49.6,
-        "environment": 38.7,
-        "lineup_opportunity": 71.7,
-        "recent_form": 28.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.9
     },
     {
       "rank": 24,
@@ -990,6 +990,46 @@
     },
     {
       "rank": 25,
+      "player": "Heriberto Hernandez",
+      "team": "MIA",
+      "opponent": "COL",
+      "matchup": "MIA vs COL",
+      "batting_order": "4",
+      "pitcher": "Kyle Freeland",
+      "pitcher_hand": "L",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "65 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "24",
+      "weather_precip_pct": "6",
+      "game_start_time": "2026-07-02T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 48.4,
+        "pitcher_vulnerability": 62.5,
+        "batted_ball_fit": 38.8,
+        "environment": 62.7,
+        "lineup_opportunity": 90.4,
+        "recent_form": 19.9,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 61.1
+    },
+    {
+      "rank": 26,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "CHC",
@@ -1029,7 +1069,7 @@
       "legacy_hr_score": 59.2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "STL",
@@ -1069,7 +1109,7 @@
       "legacy_hr_score": 61.4
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Corey Seager",
       "team": "TEX",
       "opponent": "CLE",
@@ -1109,7 +1149,7 @@
       "legacy_hr_score": 57.8
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Jackson Chourio",
       "team": "MIL",
       "opponent": "CIN",
@@ -1149,7 +1189,7 @@
       "legacy_hr_score": 61.5
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Jonathan Aranda",
       "team": "TB",
       "opponent": "KC",
@@ -1187,46 +1227,6 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 63.2
-    },
-    {
-      "rank": 30,
-      "player": "Spencer Torkelson",
-      "team": "DET",
-      "opponent": "NYY",
-      "matchup": "DET vs NYY",
-      "batting_order": "5",
-      "pitcher": "Will Warren",
-      "pitcher_hand": "R",
-      "ballpark": "Yankee Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "87",
-      "wind_speed": null,
-      "wind_direction": "188 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "weather_humidity": "41",
-      "weather_precip_pct": "1",
-      "game_start_time": "2026-07-01T17:35:00Z",
-      "confirmed": false,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 52.5,
-        "pitcher_vulnerability": 42.9,
-        "batted_ball_fit": 45.4,
-        "environment": 67.2,
-        "lineup_opportunity": 81.9,
-        "recent_form": 64.3,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 56.9
     }
   ],
   "confirmed_targets": [],
@@ -1561,6 +1561,47 @@
     },
     {
       "rank": 9,
+      "player": "Hunter Goodman",
+      "team": "COL",
+      "opponent": "MIA",
+      "matchup": "COL vs MIA",
+      "batting_order": "3",
+      "pitcher": "Max Meyer",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "65 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "24",
+      "weather_precip_pct": "6",
+      "game_start_time": "2026-07-02T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 62.3,
+        "pitcher_vulnerability": 42.7,
+        "batted_ball_fit": 59.4,
+        "environment": 62.7,
+        "lineup_opportunity": 92.1,
+        "recent_form": 73.2,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 61.3
+    },
+    {
+      "rank": 10,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "CWS",
@@ -1600,7 +1641,7 @@
       "legacy_hr_score": 64.9
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "AZ",
@@ -1641,7 +1682,7 @@
       "legacy_hr_score": 66.8
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "James Wood",
       "team": "WSH",
       "opponent": "BOS",
@@ -1682,7 +1723,7 @@
       "legacy_hr_score": 60.4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "TB",
@@ -1722,7 +1763,7 @@
       "legacy_hr_score": 60.9
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Matt Olson",
       "team": "ATL",
       "opponent": "STL",
@@ -1762,7 +1803,7 @@
       "legacy_hr_score": 64.7
     },
     {
-      "rank": 14,
+      "rank": 15,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "TB",
@@ -1803,7 +1844,7 @@
       "legacy_hr_score": 65.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "TOR",
@@ -1844,7 +1885,7 @@
       "legacy_hr_score": 63.6
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "NYY",
@@ -1884,48 +1925,47 @@
       "legacy_hr_score": 63.2
     },
     {
-      "rank": 17,
-      "player": "Hunter Goodman",
-      "team": "COL",
-      "opponent": "MIA",
-      "matchup": "COL vs MIA",
-      "batting_order": "3",
-      "pitcher": "Max Meyer",
-      "pitcher_hand": "R",
+      "rank": 18,
+      "player": "Kyle Stowers",
+      "team": "MIA",
+      "opponent": "COL",
+      "matchup": "MIA vs COL",
+      "batting_order": "6",
+      "pitcher": "Kyle Freeland",
+      "pitcher_hand": "L",
       "ballpark": "Coors Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "81",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
+      "wind_direction": "65 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "24",
+      "weather_precip_pct": "6",
       "game_start_time": "2026-07-02T00:40:00Z",
       "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
+      "edge_index": 5.6,
+      "ghost_grade": "B-",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Projected",
-        "Hot Bat",
         "EV Edge"
       ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
+      "label_summary": "Projected + EV Edge",
       "components": {
-        "hitter_power": 62.3,
-        "pitcher_vulnerability": 42.7,
-        "batted_ball_fit": 59.4,
-        "environment": 38.7,
-        "lineup_opportunity": 92.1,
-        "recent_form": 73.2,
+        "hitter_power": 57.9,
+        "pitcher_vulnerability": 62.5,
+        "batted_ball_fit": 49.6,
+        "environment": 62.7,
+        "lineup_opportunity": 71.7,
+        "recent_form": 28.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 57.7
+      "legacy_hr_score": 59.5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "CHC",
@@ -1966,7 +2006,7 @@
       "legacy_hr_score": 61.4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "BAL",
@@ -2006,7 +2046,7 @@
       "legacy_hr_score": 58.1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Kerry Carpenter",
       "team": "DET",
       "opponent": "NYY",
@@ -2046,7 +2086,7 @@
       "legacy_hr_score": 62.4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "BAL",
@@ -2086,7 +2126,7 @@
       "legacy_hr_score": 59.5
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "MIL",
@@ -2124,46 +2164,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 61.4
-    },
-    {
-      "rank": 23,
-      "player": "Kyle Stowers",
-      "team": "MIA",
-      "opponent": "COL",
-      "matchup": "MIA vs COL",
-      "batting_order": "6",
-      "pitcher": "Kyle Freeland",
-      "pitcher_hand": "L",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-02T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 57.9,
-        "pitcher_vulnerability": 62.5,
-        "batted_ball_fit": 49.6,
-        "environment": 38.7,
-        "lineup_opportunity": 71.7,
-        "recent_form": 28.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.9
     },
     {
       "rank": 24,
@@ -2207,6 +2207,46 @@
     },
     {
       "rank": 25,
+      "player": "Heriberto Hernandez",
+      "team": "MIA",
+      "opponent": "COL",
+      "matchup": "MIA vs COL",
+      "batting_order": "4",
+      "pitcher": "Kyle Freeland",
+      "pitcher_hand": "L",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "65 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "24",
+      "weather_precip_pct": "6",
+      "game_start_time": "2026-07-02T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 48.4,
+        "pitcher_vulnerability": 62.5,
+        "batted_ball_fit": 38.8,
+        "environment": 62.7,
+        "lineup_opportunity": 90.4,
+        "recent_form": 19.9,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 61.1
+    },
+    {
+      "rank": 26,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "CHC",
@@ -2246,7 +2286,7 @@
       "legacy_hr_score": 59.2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "STL",
@@ -2286,7 +2326,7 @@
       "legacy_hr_score": 61.4
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Corey Seager",
       "team": "TEX",
       "opponent": "CLE",
@@ -2326,7 +2366,7 @@
       "legacy_hr_score": 57.8
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Jackson Chourio",
       "team": "MIL",
       "opponent": "CIN",
@@ -2366,7 +2406,7 @@
       "legacy_hr_score": 61.5
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Jonathan Aranda",
       "team": "TB",
       "opponent": "KC",
@@ -2404,46 +2444,6 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 63.2
-    },
-    {
-      "rank": 30,
-      "player": "Spencer Torkelson",
-      "team": "DET",
-      "opponent": "NYY",
-      "matchup": "DET vs NYY",
-      "batting_order": "5",
-      "pitcher": "Will Warren",
-      "pitcher_hand": "R",
-      "ballpark": "Yankee Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "87",
-      "wind_speed": null,
-      "wind_direction": "188 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "weather_humidity": "41",
-      "weather_precip_pct": "1",
-      "game_start_time": "2026-07-01T17:35:00Z",
-      "confirmed": false,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 52.5,
-        "pitcher_vulnerability": 42.9,
-        "batted_ball_fit": 45.4,
-        "environment": 67.2,
-        "lineup_opportunity": 81.9,
-        "recent_form": 64.3,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 56.9
     }
   ],
   "pairings": {
@@ -2624,6 +2624,16 @@
       ]
     },
     {
+      "ballpark": "Coors Field",
+      "environment_score": 62.7,
+      "top_player": "Hunter Goodman",
+      "top_edge": 5.8,
+      "teams": [
+        "COL",
+        "MIA"
+      ]
+    },
+    {
       "ballpark": "Progressive Field",
       "environment_score": 61.1,
       "top_player": "Corey Seager",
@@ -2651,16 +2661,6 @@
       "teams": [
         "HOU",
         "MIN"
-      ]
-    },
-    {
-      "ballpark": "Citizens Bank Park",
-      "environment_score": 59.3,
-      "top_player": "Esmerlyn Valdez",
-      "top_edge": 6.4,
-      "teams": [
-        "PHI",
-        "PIT"
       ]
     }
   ],
@@ -2776,6 +2776,25 @@
       "top_player": "Matt Olson",
       "top_edge": 5.7,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.8907&lon=-84.4677",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Coors Field",
+      "teams": [
+        "COL",
+        "MIA"
+      ],
+      "environment_score": 62.7,
+      "park_hr_factor": 100.0,
+      "temperature": 81.0,
+      "wind_speed": 0.0,
+      "wind_direction": "65 deg",
+      "humidity": 24.0,
+      "precip_pct": 6.0,
+      "condition_grade": "Watch",
+      "top_player": "Hunter Goodman",
+      "top_edge": 5.8,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -2910,25 +2929,6 @@
       "top_edge": 5.8,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Coors Field",
-      "teams": [
-        "COL",
-        "MIA"
-      ],
-      "environment_score": 38.7,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Hunter Goodman",
-      "top_edge": 5.5,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
