@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Tuesday, July 7, 2026",
-  "generated_at": "07:21 AM EDT",
-  "generated_iso": "2026-07-07T07:21:52.480719-04:00",
+  "generated_at": "07:25 AM EDT",
+  "generated_iso": "2026-07-07T07:25:40.446723-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -97,23 +97,23 @@
     },
     {
       "rank": 3,
-      "player": "Kyle Schwarber",
-      "team": "PHI",
-      "opponent": "CIN",
-      "matchup": "PHI vs CIN",
+      "player": "Mike Trout",
+      "team": "LAA",
+      "opponent": "TEX",
+      "matchup": "LAA vs TEX",
       "batting_order": "2",
-      "pitcher": "Andrew Abbott",
-      "pitcher_hand": "L",
-      "ballpark": "Great American Ball Park",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "96",
       "wind_speed": null,
-      "wind_direction": "148 deg",
+      "wind_direction": "165 deg",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
-      "weather_humidity": "89",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-07-07T23:10:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "39",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-08T00:05:00Z",
       "confirmed": false,
       "edge_index": 6.4,
       "ghost_grade": "B",
@@ -121,20 +121,20 @@
       "volatility": "Medium",
       "labels": [
         "Projected",
-        "EV Edge",
-        "Tough Pitcher"
+        "Hot Bat",
+        "EV Edge"
       ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "label_summary": "Projected + Hot Bat + EV Edge",
       "components": {
-        "hitter_power": 82.4,
-        "pitcher_vulnerability": 41.9,
-        "batted_ball_fit": 79.0,
-        "environment": 58.8,
+        "hitter_power": 73.6,
+        "pitcher_vulnerability": 49.5,
+        "batted_ball_fit": 60.1,
+        "environment": 60.6,
         "lineup_opportunity": 95.5,
-        "recent_form": 12.0,
-        "bvp_pitch_mix": 54.0
+        "recent_form": 87.0,
+        "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 64.5
+      "legacy_hr_score": 67.5
     },
     {
       "rank": 4,
@@ -180,6 +180,47 @@
     },
     {
       "rank": 5,
+      "player": "Kyle Schwarber",
+      "team": "PHI",
+      "opponent": "CIN",
+      "matchup": "PHI vs CIN",
+      "batting_order": "2",
+      "pitcher": "Andrew Abbott",
+      "pitcher_hand": "L",
+      "ballpark": "Great American Ball Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-07T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 6.1,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 82.4,
+        "pitcher_vulnerability": 41.9,
+        "batted_ball_fit": 79.0,
+        "environment": 39.3,
+        "lineup_opportunity": 95.5,
+        "recent_form": 12.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 61.6
+    },
+    {
+      "rank": 6,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "KC",
@@ -217,47 +258,6 @@
         "bvp_pitch_mix": 56.0
       },
       "legacy_hr_score": 68.5
-    },
-    {
-      "rank": 6,
-      "player": "Mike Trout",
-      "team": "LAA",
-      "opponent": "TEX",
-      "matchup": "LAA vs TEX",
-      "batting_order": "2",
-      "pitcher": "Jacob deGrom",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-08T00:05:00Z",
-      "confirmed": false,
-      "edge_index": 6.0,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 73.6,
-        "pitcher_vulnerability": 49.5,
-        "batted_ball_fit": 60.1,
-        "environment": 27.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 87.0,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 62.5
     },
     {
       "rank": 7,
@@ -544,46 +544,6 @@
     },
     {
       "rank": 14,
-      "player": "Sal Stewart",
-      "team": "CIN",
-      "opponent": "PHI",
-      "matchup": "CIN vs PHI",
-      "batting_order": "2",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Great American Ball Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "148 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
-      "weather_humidity": "89",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-07-07T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 63.1,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 42.4,
-        "environment": 58.8,
-        "lineup_opportunity": 95.5,
-        "recent_form": 56.2,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.1
-    },
-    {
-      "rank": 15,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "ATL",
@@ -624,7 +584,7 @@
       "legacy_hr_score": 56.7
     },
     {
-      "rank": 16,
+      "rank": 15,
       "player": "Dominic Canzone",
       "team": "SEA",
       "opponent": "MIA",
@@ -664,7 +624,7 @@
       "legacy_hr_score": 61.3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "player": "Kyle Stowers",
       "team": "MIA",
       "opponent": "SEA",
@@ -705,7 +665,7 @@
       "legacy_hr_score": 58.7
     },
     {
-      "rank": 18,
+      "rank": 17,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "MIL",
@@ -745,7 +705,7 @@
       "legacy_hr_score": 58.5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "ATH",
@@ -784,6 +744,46 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 59.9
+    },
+    {
+      "rank": 19,
+      "player": "Zach Neto",
+      "team": "LAA",
+      "opponent": "TEX",
+      "matchup": "LAA vs TEX",
+      "batting_order": "1",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "96",
+      "wind_speed": null,
+      "wind_direction": "165 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "39",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-08T00:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 50.8,
+        "pitcher_vulnerability": 49.5,
+        "batted_ball_fit": 45.3,
+        "environment": 60.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 63.1,
+        "bvp_pitch_mix": 56.0
+      },
+      "legacy_hr_score": 57.8
     },
     {
       "rank": 20,
@@ -987,6 +987,46 @@
     },
     {
       "rank": 25,
+      "player": "Sal Stewart",
+      "team": "CIN",
+      "opponent": "PHI",
+      "matchup": "CIN vs PHI",
+      "batting_order": "2",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Great American Ball Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-07T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 63.1,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 42.4,
+        "environment": 39.3,
+        "lineup_opportunity": 95.5,
+        "recent_form": 56.2,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 58.2
+    },
+    {
+      "rank": 26,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "TOR",
@@ -1027,7 +1067,7 @@
       "legacy_hr_score": 55.5
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "TB",
@@ -1067,7 +1107,7 @@
       "legacy_hr_score": 56.8
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "TOR",
@@ -1108,7 +1148,7 @@
       "legacy_hr_score": 58.2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "AZ",
@@ -1148,7 +1188,7 @@
       "legacy_hr_score": 58.0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Francisco Alvarez",
       "team": "NYM",
       "opponent": "KC",
@@ -1186,46 +1226,6 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 55.0
-    },
-    {
-      "rank": 30,
-      "player": "Jac Caglianone",
-      "team": "KC",
-      "opponent": "NYM",
-      "matchup": "KC vs NYM",
-      "batting_order": "3",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Citi Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "66",
-      "wind_speed": null,
-      "wind_direction": "50 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
-      "weather_humidity": "91",
-      "weather_precip_pct": "45",
-      "game_start_time": "2026-07-07T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 62.5,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 54.3,
-        "environment": 43.3,
-        "lineup_opportunity": 92.1,
-        "recent_form": 7.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.7
     }
   ],
   "confirmed_targets": [],
@@ -1313,23 +1313,23 @@
     },
     {
       "rank": 3,
-      "player": "Kyle Schwarber",
-      "team": "PHI",
-      "opponent": "CIN",
-      "matchup": "PHI vs CIN",
+      "player": "Mike Trout",
+      "team": "LAA",
+      "opponent": "TEX",
+      "matchup": "LAA vs TEX",
       "batting_order": "2",
-      "pitcher": "Andrew Abbott",
-      "pitcher_hand": "L",
-      "ballpark": "Great American Ball Park",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "96",
       "wind_speed": null,
-      "wind_direction": "148 deg",
+      "wind_direction": "165 deg",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
-      "weather_humidity": "89",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-07-07T23:10:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "39",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-08T00:05:00Z",
       "confirmed": false,
       "edge_index": 6.4,
       "ghost_grade": "B",
@@ -1337,20 +1337,20 @@
       "volatility": "Medium",
       "labels": [
         "Projected",
-        "EV Edge",
-        "Tough Pitcher"
+        "Hot Bat",
+        "EV Edge"
       ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "label_summary": "Projected + Hot Bat + EV Edge",
       "components": {
-        "hitter_power": 82.4,
-        "pitcher_vulnerability": 41.9,
-        "batted_ball_fit": 79.0,
-        "environment": 58.8,
+        "hitter_power": 73.6,
+        "pitcher_vulnerability": 49.5,
+        "batted_ball_fit": 60.1,
+        "environment": 60.6,
         "lineup_opportunity": 95.5,
-        "recent_form": 12.0,
-        "bvp_pitch_mix": 54.0
+        "recent_form": 87.0,
+        "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 64.5
+      "legacy_hr_score": 67.5
     },
     {
       "rank": 4,
@@ -1396,6 +1396,47 @@
     },
     {
       "rank": 5,
+      "player": "Kyle Schwarber",
+      "team": "PHI",
+      "opponent": "CIN",
+      "matchup": "PHI vs CIN",
+      "batting_order": "2",
+      "pitcher": "Andrew Abbott",
+      "pitcher_hand": "L",
+      "ballpark": "Great American Ball Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-07T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 6.1,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 82.4,
+        "pitcher_vulnerability": 41.9,
+        "batted_ball_fit": 79.0,
+        "environment": 39.3,
+        "lineup_opportunity": 95.5,
+        "recent_form": 12.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 61.6
+    },
+    {
+      "rank": 6,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "KC",
@@ -1433,47 +1474,6 @@
         "bvp_pitch_mix": 56.0
       },
       "legacy_hr_score": 68.5
-    },
-    {
-      "rank": 6,
-      "player": "Mike Trout",
-      "team": "LAA",
-      "opponent": "TEX",
-      "matchup": "LAA vs TEX",
-      "batting_order": "2",
-      "pitcher": "Jacob deGrom",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-08T00:05:00Z",
-      "confirmed": false,
-      "edge_index": 6.0,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 73.6,
-        "pitcher_vulnerability": 49.5,
-        "batted_ball_fit": 60.1,
-        "environment": 27.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 87.0,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 62.5
     },
     {
       "rank": 7,
@@ -1760,46 +1760,6 @@
     },
     {
       "rank": 14,
-      "player": "Sal Stewart",
-      "team": "CIN",
-      "opponent": "PHI",
-      "matchup": "CIN vs PHI",
-      "batting_order": "2",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Great American Ball Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "148 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
-      "weather_humidity": "89",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-07-07T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 63.1,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 42.4,
-        "environment": 58.8,
-        "lineup_opportunity": 95.5,
-        "recent_form": 56.2,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.1
-    },
-    {
-      "rank": 15,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "ATL",
@@ -1840,7 +1800,7 @@
       "legacy_hr_score": 56.7
     },
     {
-      "rank": 16,
+      "rank": 15,
       "player": "Dominic Canzone",
       "team": "SEA",
       "opponent": "MIA",
@@ -1880,7 +1840,7 @@
       "legacy_hr_score": 61.3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "player": "Kyle Stowers",
       "team": "MIA",
       "opponent": "SEA",
@@ -1921,7 +1881,7 @@
       "legacy_hr_score": 58.7
     },
     {
-      "rank": 18,
+      "rank": 17,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "MIL",
@@ -1961,7 +1921,7 @@
       "legacy_hr_score": 58.5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "ATH",
@@ -2000,6 +1960,46 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 59.9
+    },
+    {
+      "rank": 19,
+      "player": "Zach Neto",
+      "team": "LAA",
+      "opponent": "TEX",
+      "matchup": "LAA vs TEX",
+      "batting_order": "1",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "96",
+      "wind_speed": null,
+      "wind_direction": "165 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "39",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-08T00:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 50.8,
+        "pitcher_vulnerability": 49.5,
+        "batted_ball_fit": 45.3,
+        "environment": 60.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 63.1,
+        "bvp_pitch_mix": 56.0
+      },
+      "legacy_hr_score": 57.8
     },
     {
       "rank": 20,
@@ -2203,6 +2203,46 @@
     },
     {
       "rank": 25,
+      "player": "Sal Stewart",
+      "team": "CIN",
+      "opponent": "PHI",
+      "matchup": "CIN vs PHI",
+      "batting_order": "2",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Great American Ball Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-07T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 63.1,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 42.4,
+        "environment": 39.3,
+        "lineup_opportunity": 95.5,
+        "recent_form": 56.2,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 58.2
+    },
+    {
+      "rank": 26,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "TOR",
@@ -2243,7 +2283,7 @@
       "legacy_hr_score": 55.5
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "TB",
@@ -2283,7 +2323,7 @@
       "legacy_hr_score": 56.8
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "TOR",
@@ -2324,7 +2364,7 @@
       "legacy_hr_score": 58.2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "AZ",
@@ -2364,7 +2404,7 @@
       "legacy_hr_score": 58.0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Francisco Alvarez",
       "team": "NYM",
       "opponent": "KC",
@@ -2402,46 +2442,6 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 55.0
-    },
-    {
-      "rank": 30,
-      "player": "Jac Caglianone",
-      "team": "KC",
-      "opponent": "NYM",
-      "matchup": "KC vs NYM",
-      "batting_order": "3",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Citi Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "66",
-      "wind_speed": null,
-      "wind_direction": "50 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
-      "weather_humidity": "91",
-      "weather_precip_pct": "45",
-      "game_start_time": "2026-07-07T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 62.5,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 54.3,
-        "environment": 43.3,
-        "lineup_opportunity": 92.1,
-        "recent_form": 7.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.7
     }
   ],
   "pairings": {
@@ -2457,33 +2457,33 @@
         "reason": "independent games"
       },
       {
-        "names": "James Wood + Kyle Schwarber",
-        "teams": "WSH vs HOU / PHI vs CIN",
+        "names": "James Wood + Mike Trout",
+        "teams": "WSH vs HOU / LAA vs TEX",
         "avg_edge": 6.6,
         "combo_score": 6.79,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge, Tough Pitcher",
+        "labels": "Projected, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge",
         "reason": "independent games"
       },
       {
-        "names": "Shohei Ohtani + Kyle Schwarber",
-        "teams": "LAD vs COL / PHI vs CIN",
+        "names": "Shohei Ohtani + Mike Trout",
+        "teams": "LAD vs COL / LAA vs TEX",
         "avg_edge": 6.4,
         "combo_score": 6.64,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge / Projected, EV Edge, Tough Pitcher",
+        "labels": "Projected, EV Edge / Projected, Hot Bat, EV Edge",
         "reason": "independent games"
       },
       {
-        "names": "James Wood + Juan Soto",
-        "teams": "WSH vs HOU / NYM vs KC",
+        "names": "James Wood + Kyle Schwarber",
+        "teams": "WSH vs HOU / PHI vs CIN",
         "avg_edge": 6.4,
         "combo_score": 6.61,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge",
+        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
@@ -2497,65 +2497,65 @@
         "reason": "independent games"
       },
       {
-        "names": "Kyle Schwarber + Yordan Alvarez",
-        "teams": "PHI vs CIN / HOU vs WSH",
+        "names": "Mike Trout + Yordan Alvarez",
+        "teams": "LAA vs TEX / HOU vs WSH",
         "avg_edge": 6.3,
         "combo_score": 6.54,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "labels": "Projected, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
-        "names": "Yordan Alvarez + Juan Soto",
-        "teams": "HOU vs WSH / NYM vs KC",
+        "names": "Yordan Alvarez + Kyle Schwarber",
+        "teams": "HOU vs WSH / PHI vs CIN",
         "avg_edge": 6.2,
         "combo_score": 6.36,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge",
+        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
-        "names": "Juan Soto + Mike Trout",
-        "teams": "NYM vs KC / LAA vs TEX",
-        "avg_edge": 6.0,
-        "combo_score": 6.22,
+        "names": "Kyle Schwarber + Juan Soto",
+        "teams": "PHI vs CIN / NYM vs KC",
+        "avg_edge": 6.1,
+        "combo_score": 6.3,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge / Projected, Hot Bat, EV Edge",
+        "labels": "Projected, EV Edge, Tough Pitcher / Projected, EV Edge",
         "reason": "independent games"
       }
     ],
     "3": [
       {
-        "names": "James Wood + Shohei Ohtani + Kyle Schwarber",
-        "teams": "WSH vs HOU / LAD vs COL / PHI vs CIN",
+        "names": "James Wood + Shohei Ohtani + Mike Trout",
+        "teams": "WSH vs HOU / LAD vs COL / LAA vs TEX",
         "avg_edge": 6.5,
         "combo_score": 6.86,
+        "type": "Aggressive 3",
+        "volatility": "Medium",
+        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge / Projected, Hot Bat, EV Edge",
+        "reason": "independent games"
+      },
+      {
+        "names": "James Wood + Shohei Ohtani + Kyle Schwarber",
+        "teams": "WSH vs HOU / LAD vs COL / PHI vs CIN",
+        "avg_edge": 6.4,
+        "combo_score": 6.72,
         "type": "Aggressive 3",
         "volatility": "Medium",
         "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
-        "names": "James Wood + Shohei Ohtani + Juan Soto",
-        "teams": "WSH vs HOU / LAD vs COL / NYM vs KC",
-        "avg_edge": 6.4,
-        "combo_score": 6.72,
-        "type": "Aggressive 3",
-        "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge / Projected, EV Edge",
-        "reason": "independent games"
-      },
-      {
-        "names": "Kyle Schwarber + Yordan Alvarez + Juan Soto",
-        "teams": "PHI vs CIN / HOU vs WSH / NYM vs KC",
+        "names": "Mike Trout + Yordan Alvarez + Kyle Schwarber",
+        "teams": "LAA vs TEX / HOU vs WSH / PHI vs CIN",
         "avg_edge": 6.2,
         "combo_score": 6.56,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge",
+        "labels": "Projected, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       }
     ],
@@ -2563,13 +2563,13 @@
   },
   "weather_edges": [
     {
-      "ballpark": "Great American Ball Park",
-      "environment_score": 58.8,
-      "top_player": "Kyle Schwarber",
+      "ballpark": "Globe Life Field",
+      "environment_score": 60.6,
+      "top_player": "Mike Trout",
       "top_edge": 6.4,
       "teams": [
-        "CIN",
-        "PHI"
+        "LAA",
+        "TEX"
       ]
     },
     {
@@ -2615,22 +2615,22 @@
   ],
   "park_conditions": [
     {
-      "ballpark": "Great American Ball Park",
+      "ballpark": "Globe Life Field",
       "teams": [
-        "CIN",
-        "PHI"
+        "LAA",
+        "TEX"
       ],
-      "environment_score": 58.8,
+      "environment_score": 60.6,
       "park_hr_factor": 100.0,
-      "temperature": 80.0,
+      "temperature": 96.0,
       "wind_speed": 0.0,
-      "wind_direction": "148 deg",
-      "humidity": 89.0,
-      "precip_pct": 23.0,
+      "wind_direction": "165 deg",
+      "humidity": 39.0,
+      "precip_pct": 3.0,
       "condition_grade": "Watch",
-      "top_player": "Kyle Schwarber",
+      "top_player": "Mike Trout",
       "top_edge": 6.4,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -2880,12 +2880,12 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Globe Life Field",
+      "ballpark": "Great American Ball Park",
       "teams": [
-        "LAA",
-        "TEX"
+        "CIN",
+        "PHI"
       ],
-      "environment_score": 27.6,
+      "environment_score": 39.3,
       "park_hr_factor": 100.0,
       "temperature": "",
       "wind_speed": 0.0,
@@ -2893,9 +2893,9 @@
       "humidity": "",
       "precip_pct": "",
       "condition_grade": "Resist",
-      "top_player": "Mike Trout",
-      "top_edge": 6.0,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "top_player": "Kyle Schwarber",
+      "top_edge": 6.1,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
       "source_note": "NOAA link only"
     }
   ],
