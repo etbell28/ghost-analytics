@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Michael Lorenzen | 1 | 72.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Max Kepler | AZ | Germán Márquez | 5 | 64.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 3 | Max Muncy | LAD | Michael Lorenzen | 4 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Ketel Marte | AZ | Germán Márquez | 1 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Freddie Freeman | LAD | Michael Lorenzen | 3 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Willson Contreras | BOS | Noah Schultz | 4 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Jake Bauers | MIL | Hunter Dobbins | 5 | 61.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 8 | Corbin Carroll | AZ | Germán Márquez | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Jackson Merrill | SD | Zac Gallen | 2 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Manny Machado | SD | Zac Gallen | 4 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Nelson Velázquez | STL | Robert Gasser | 4 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Fernando Tatis Jr. | SD | Zac Gallen | 1 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Zach Neto | LAA | Jacob deGrom | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Jordan Walker | STL | Robert Gasser | 3 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Joc Pederson | TEX | José Soriano | 1 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Dalton Rushing | LAD | Michael Lorenzen | 7 | 57.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Brandon Nimmo | TEX | José Soriano | 4 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Josh Bell | MIN | Joey Cantillo | 3 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Rafael Devers | SF | Spencer Miles | 4 | 56.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Randal Grichuk | CWS | Payton Tolle | 2 | 56.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Mike Trout | LAA | MacKenzie Gore | 2 | 69.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Yordan Alvarez | HOU | Foster Griffin | 2 | 69.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Kyle Schwarber | PHI | Chase Burns | 2 | 68.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | James Wood | WSH | Spencer Arrighetti | 1 | 68.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Mickey Moniak | COL | Roki Sasaki | 2 | 66.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Esmerlyn Valdez | PIT | Grant Holmes | 4 | 63.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Juan Soto | NYM | Steven Cruz | 2 | 63.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Hunter Goodman | COL | Roki Sasaki | 3 | 63.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 9 | Matt Olson | ATL | Jared Jones | 3 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Pete Alonso | BAL | Colin Rea | 4 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 11 | Nick Kurtz | ATH | Troy Melton | 1 | 61.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Kody Clemens | MIN | Slade Cecconi | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Sal Stewart | CIN |  | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Pete Crow-Armstrong | CHC | Dean Kremer | 1 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Kyle Stowers | MIA | George Kirby | 2 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Dominic Canzone | SEA | Tyler Phillips | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Ben Rice | NYY | Shane McClanahan | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Riley Greene | DET | Jeffrey Springs | 4 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Zach Neto | LAA | MacKenzie Gore | 1 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Brandon Lowe | PIT | Grant Holmes | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Max Kepler | Avg HR Score: 68.6
-- Max Kepler + Max Muncy | Avg HR Score: 64.5
-- Max Muncy + Ketel Marte | Avg HR Score: 63.6
-- Ketel Marte + Freddie Freeman | Avg HR Score: 63.0
-- Freddie Freeman + Willson Contreras | Avg HR Score: 62.2
+- Mike Trout + Yordan Alvarez | Avg HR Score: 69.5
+- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 69.0
+- Kyle Schwarber + James Wood | Avg HR Score: 68.6
+- James Wood + Mickey Moniak | Avg HR Score: 67.3
+- Mickey Moniak + Esmerlyn Valdez | Avg HR Score: 64.9
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Max Kepler + Max Muncy | Avg HR Score: 67.0
-- Max Kepler + Max Muncy + Ketel Marte | Avg HR Score: 64.1
-- Max Muncy + Ketel Marte + Freddie Freeman | Avg HR Score: 63.3
-- Ketel Marte + Freddie Freeman + Willson Contreras | Avg HR Score: 62.5
-- Freddie Freeman + Willson Contreras + Jake Bauers | Avg HR Score: 61.9
+- Mike Trout + Yordan Alvarez + Kyle Schwarber | Avg HR Score: 69.2
+- Yordan Alvarez + Kyle Schwarber + James Wood | Avg HR Score: 68.8
+- Kyle Schwarber + James Wood + Mickey Moniak | Avg HR Score: 67.8
+- James Wood + Mickey Moniak + Esmerlyn Valdez | Avg HR Score: 66.1
+- Mickey Moniak + Esmerlyn Valdez + Juan Soto | Avg HR Score: 64.6
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Max Kepler + Max Muncy + Ketel Marte | Avg HR Score: 66.1
-- Max Kepler + Max Muncy + Ketel Marte + Freddie Freeman | Avg HR Score: 63.7
-- Max Muncy + Ketel Marte + Freddie Freeman + Willson Contreras | Avg HR Score: 62.9
-- Ketel Marte + Freddie Freeman + Willson Contreras + Jake Bauers | Avg HR Score: 62.2
-- Freddie Freeman + Willson Contreras + Jake Bauers + Corbin Carroll | Avg HR Score: 61.8
+- Mike Trout + Yordan Alvarez + Kyle Schwarber + James Wood | Avg HR Score: 69.0
+- Yordan Alvarez + Kyle Schwarber + James Wood + Mickey Moniak | Avg HR Score: 68.2
+- Kyle Schwarber + James Wood + Mickey Moniak + Esmerlyn Valdez | Avg HR Score: 66.8
+- James Wood + Mickey Moniak + Esmerlyn Valdez + Juan Soto | Avg HR Score: 65.5
+- Mickey Moniak + Esmerlyn Valdez + Juan Soto + Hunter Goodman | Avg HR Score: 64.4
