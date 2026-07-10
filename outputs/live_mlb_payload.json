@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Friday, July 10, 2026",
-  "generated_at": "12:48 PM EDT",
-  "generated_iso": "2026-07-10T12:48:31.581418-04:00",
+  "generated_at": "02:14 PM EDT",
+  "generated_iso": "2026-07-10T14:14:01.513940-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -179,47 +179,6 @@
     },
     {
       "rank": 5,
-      "player": "Shohei Ohtani",
-      "team": "LAD",
-      "opponent": "AZ",
-      "matchup": "LAD vs AZ",
-      "batting_order": "1",
-      "pitcher": "Eduardo Rodriguez",
-      "pitcher_hand": "L",
-      "ballpark": "UNIQLO Field at Dodger Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "248 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
-      "weather_humidity": "58",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-11T02:10:00Z",
-      "confirmed": false,
-      "edge_index": 6.3,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 80.3,
-        "pitcher_vulnerability": 44.9,
-        "batted_ball_fit": 66.8,
-        "environment": 53.1,
-        "lineup_opportunity": 88.7,
-        "recent_form": 52.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 64.8
-    },
-    {
-      "rank": 6,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "COL",
@@ -261,7 +220,7 @@
       "legacy_hr_score": 66.2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "CIN",
@@ -302,7 +261,7 @@
       "legacy_hr_score": 68.7
     },
     {
-      "rank": 8,
+      "rank": 7,
       "player": "Munetaka Murakami",
       "team": "CWS",
       "opponent": "ATH",
@@ -341,6 +300,47 @@
         "bvp_pitch_mix": 56.0
       },
       "legacy_hr_score": 61.9
+    },
+    {
+      "rank": 8,
+      "player": "Shohei Ohtani",
+      "team": "LAD",
+      "opponent": "AZ",
+      "matchup": "LAD vs AZ",
+      "batting_order": "1",
+      "pitcher": "Eduardo Rodriguez",
+      "pitcher_hand": "L",
+      "ballpark": "UNIQLO Field at Dodger Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-11T02:10:00Z",
+      "confirmed": false,
+      "edge_index": 6.0,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 80.3,
+        "pitcher_vulnerability": 44.9,
+        "batted_ball_fit": 66.8,
+        "environment": 27.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 52.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 60.9
     },
     {
       "rank": 9,
@@ -1405,47 +1405,6 @@
     },
     {
       "rank": 5,
-      "player": "Shohei Ohtani",
-      "team": "LAD",
-      "opponent": "AZ",
-      "matchup": "LAD vs AZ",
-      "batting_order": "1",
-      "pitcher": "Eduardo Rodriguez",
-      "pitcher_hand": "L",
-      "ballpark": "UNIQLO Field at Dodger Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "248 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
-      "weather_humidity": "58",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-11T02:10:00Z",
-      "confirmed": false,
-      "edge_index": 6.3,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 80.3,
-        "pitcher_vulnerability": 44.9,
-        "batted_ball_fit": 66.8,
-        "environment": 53.1,
-        "lineup_opportunity": 88.7,
-        "recent_form": 52.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 64.8
-    },
-    {
-      "rank": 6,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "COL",
@@ -1487,7 +1446,7 @@
       "legacy_hr_score": 66.2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "CIN",
@@ -1528,7 +1487,7 @@
       "legacy_hr_score": 68.7
     },
     {
-      "rank": 8,
+      "rank": 7,
       "player": "Munetaka Murakami",
       "team": "CWS",
       "opponent": "ATH",
@@ -1567,6 +1526,47 @@
         "bvp_pitch_mix": 56.0
       },
       "legacy_hr_score": 61.9
+    },
+    {
+      "rank": 8,
+      "player": "Shohei Ohtani",
+      "team": "LAD",
+      "opponent": "AZ",
+      "matchup": "LAD vs AZ",
+      "batting_order": "1",
+      "pitcher": "Eduardo Rodriguez",
+      "pitcher_hand": "L",
+      "ballpark": "UNIQLO Field at Dodger Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-11T02:10:00Z",
+      "confirmed": false,
+      "edge_index": 6.0,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 80.3,
+        "pitcher_vulnerability": 44.9,
+        "batted_ball_fit": 66.8,
+        "environment": 27.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 52.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 60.9
     },
     {
       "rank": 9,
@@ -2527,24 +2527,24 @@
         "reason": "independent games"
       },
       {
-        "names": "Shohei Ohtani + Bryce Eldridge",
-        "teams": "LAD vs AZ / SF vs COL",
-        "avg_edge": 6.2,
-        "combo_score": 6.4,
+        "names": "Bryce Eldridge + Pete Crow-Armstrong",
+        "teams": "SF vs COL / CHC vs CIN",
+        "avg_edge": 6.1,
+        "combo_score": 6.3,
         "type": "Sleeper Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target, Sleeper",
+        "labels": "Projected, EV Edge, Pitcher Target, Sleeper / Projected, Hot Bat, Pitcher Target",
         "reason": "independent games · pitcher target included · sleeper leverage"
       },
       {
-        "names": "Shohei Ohtani + Pete Crow-Armstrong",
-        "teams": "LAD vs AZ / CHC vs CIN",
-        "avg_edge": 6.2,
-        "combo_score": 6.4,
-        "type": "Balanced 2",
+        "names": "Bryce Eldridge + Munetaka Murakami",
+        "teams": "SF vs COL / CWS vs ATH",
+        "avg_edge": 6.1,
+        "combo_score": 6.3,
+        "type": "Sleeper Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Hot Bat, Pitcher Target",
-        "reason": "independent games · pitcher target included"
+        "labels": "Projected, EV Edge, Pitcher Target, Sleeper / Projected, EV Edge, Tough Pitcher",
+        "reason": "independent games · pitcher target included · sleeper leverage"
       }
     ],
     "3": [
@@ -2569,23 +2569,13 @@
         "reason": "independent games"
       },
       {
-        "names": "James Wood + Mike Trout + Shohei Ohtani",
-        "teams": "WSH vs NYY / LAA vs MIN / LAD vs AZ",
-        "avg_edge": 6.5,
-        "combo_score": 6.86,
+        "names": "James Wood + Mike Trout + Bryce Eldridge",
+        "teams": "WSH vs NYY / LAA vs MIN / SF vs COL",
+        "avg_edge": 6.4,
+        "combo_score": 6.76,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge / Projected, EV Edge, Tough Pitcher",
-        "reason": "independent games"
-      },
-      {
-        "names": "Shohei Ohtani + Bryce Eldridge + Pete Crow-Armstrong",
-        "teams": "LAD vs AZ / SF vs COL / CHC vs CIN",
-        "avg_edge": 6.2,
-        "combo_score": 6.49,
-        "type": "Aggressive 3",
-        "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target, Sleeper / Projected, Hot Bat, Pitcher Target",
+        "labels": "Projected, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge / Projected, EV Edge, Pitcher Target, Sleeper",
         "reason": "independent games · pitcher target included · sleeper leverage"
       },
       {
@@ -2597,6 +2587,16 @@
         "volatility": "Medium",
         "labels": "Projected, EV Edge, Pitcher Target, Sleeper / Projected, Hot Bat, Pitcher Target / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games · pitcher target included · sleeper leverage"
+      },
+      {
+        "names": "Pete Crow-Armstrong + Munetaka Murakami + Shohei Ohtani",
+        "teams": "CHC vs CIN / CWS vs ATH / LAD vs AZ",
+        "avg_edge": 6.1,
+        "combo_score": 6.36,
+        "type": "Aggressive 3",
+        "volatility": "Medium",
+        "labels": "Projected, Hot Bat, Pitcher Target / Projected, EV Edge, Tough Pitcher / Projected, EV Edge, Tough Pitcher",
+        "reason": "independent games · pitcher target included"
       }
     ],
     "4": []
@@ -2630,15 +2630,6 @@
       "teams": [
         "SEA",
         "TB"
-      ]
-    },
-    {
-      "ballpark": "UNIQLO Field at Dodger Stadium",
-      "environment_score": 53.1,
-      "top_player": "Shohei Ohtani",
-      "top_edge": 6.3,
-      "teams": [
-        "LAD"
       ]
     },
     {
@@ -2718,24 +2709,6 @@
       "top_player": "Junior Caminero",
       "top_edge": 5.9,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "UNIQLO Field at Dodger Stadium",
-      "teams": [
-        "LAD"
-      ],
-      "environment_score": 53.1,
-      "park_hr_factor": 100.0,
-      "temperature": 80.0,
-      "wind_speed": 0.0,
-      "wind_direction": "248 deg",
-      "humidity": 58.0,
-      "precip_pct": 0.0,
-      "condition_grade": "Neutral",
-      "top_player": "Shohei Ohtani",
-      "top_edge": 6.3,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -2946,6 +2919,24 @@
       "top_edge": 5.9,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
       "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "UNIQLO Field at Dodger Stadium",
+      "teams": [
+        "LAD"
+      ],
+      "environment_score": 27.6,
+      "park_hr_factor": 100.0,
+      "temperature": "",
+      "wind_speed": 0.0,
+      "wind_direction": "",
+      "humidity": "",
+      "precip_pct": "",
+      "condition_grade": "Resist",
+      "top_player": "Shohei Ohtani",
+      "top_edge": 6.0,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
+      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {

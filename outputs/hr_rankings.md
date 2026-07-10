@@ -13,15 +13,15 @@
 | 9 | Bryce Eldridge | SF | Tanner Gordon | 7 | 66.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 10 | Matt Olson | ATL | Kyle Leahy | 3 | 65.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Juan Soto | NYM | Sonny Gray | 2 | 65.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 64.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 13 | Manny Machado | SD | Shane Bieber | 4 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Jackson Merrill | SD | Shane Bieber | 2 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 15 | Michael Busch | CHC | Hunter Greene | 3 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 16 | Michael Conforto | CHC | Hunter Greene | 7 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge, Hot Hitter/Streak |
-| 17 | Nick Kurtz | ATH | Sean Burke | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Kazuma Okamoto | TOR | JP Sears | 4 | 63.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Seiya Suzuki | CHC | Hunter Greene | 4 | 62.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Dominic Canzone | SEA | Nick Martinez | 3 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Manny Machado | SD | Shane Bieber | 4 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Jackson Merrill | SD | Shane Bieber | 2 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 14 | Michael Busch | CHC | Hunter Greene | 3 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 15 | Michael Conforto | CHC | Hunter Greene | 7 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge, Hot Hitter/Streak |
+| 16 | Nick Kurtz | ATH | Sean Burke | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Kazuma Okamoto | TOR | JP Sears | 4 | 63.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Seiya Suzuki | CHC | Hunter Greene | 4 | 62.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Dominic Canzone | SEA | Nick Martinez | 3 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Riley Greene | DET | Aaron Nola | 3 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
