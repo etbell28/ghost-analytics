@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Friday, July 10, 2026",
-  "generated_at": "10:48 AM EDT",
-  "generated_iso": "2026-07-10T10:48:20.444430-04:00",
+  "generated_at": "12:48 PM EDT",
+  "generated_iso": "2026-07-10T12:48:31.581418-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -303,6 +303,47 @@
     },
     {
       "rank": 8,
+      "player": "Munetaka Murakami",
+      "team": "CWS",
+      "opponent": "ATH",
+      "matchup": "CWS vs ATH",
+      "batting_order": "2",
+      "pitcher": "Jacob Lopez",
+      "pitcher_hand": "L",
+      "ballpark": "Rate Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "227 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
+      "weather_humidity": "74",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-10T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.1,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 85.5,
+        "pitcher_vulnerability": 21.5,
+        "batted_ball_fit": 75.1,
+        "environment": 49.0,
+        "lineup_opportunity": 95.5,
+        "recent_form": 67.0,
+        "bvp_pitch_mix": 56.0
+      },
+      "legacy_hr_score": 61.9
+    },
+    {
+      "rank": 9,
       "player": "Matt Olson",
       "team": "ATL",
       "opponent": "STL",
@@ -343,7 +384,7 @@
       "legacy_hr_score": 65.6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "SEA",
@@ -383,7 +424,7 @@
       "legacy_hr_score": 62.2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "TOR",
@@ -423,7 +464,7 @@
       "legacy_hr_score": 64.3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "MIL",
@@ -462,48 +503,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 61.0
-    },
-    {
-      "rank": 12,
-      "player": "Kody Clemens",
-      "team": "MIN",
-      "opponent": "LAA",
-      "matchup": "MIN vs LAA",
-      "batting_order": "3",
-      "pitcher": "Grayson Rodriguez",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "84",
-      "wind_speed": null,
-      "wind_direction": "71 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "39",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-11T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.8,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
-      "components": {
-        "hitter_power": 54.8,
-        "pitcher_vulnerability": 67.7,
-        "batted_ball_fit": 41.0,
-        "environment": 51.6,
-        "lineup_opportunity": 92.1,
-        "recent_form": 88.7,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 66.6
     },
     {
       "rank": 13,
@@ -547,22 +546,64 @@
     },
     {
       "rank": 14,
-      "player": "Munetaka Murakami",
-      "team": "CWS",
-      "opponent": "ATH",
-      "matchup": "CWS vs ATH",
-      "batting_order": "2",
-      "pitcher": "Jacob Lopez",
-      "pitcher_hand": "L",
+      "player": "Kody Clemens",
+      "team": "MIN",
+      "opponent": "LAA",
+      "matchup": "MIN vs LAA",
+      "batting_order": "4",
+      "pitcher": "Grayson Rodriguez",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "84",
+      "wind_speed": null,
+      "wind_direction": "71 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "39",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-11T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Pitcher Target"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
+      "components": {
+        "hitter_power": 54.8,
+        "pitcher_vulnerability": 67.7,
+        "batted_ball_fit": 41.0,
+        "environment": 51.6,
+        "lineup_opportunity": 90.4,
+        "recent_form": 88.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 66.4
+    },
+    {
+      "rank": 15,
+      "player": "Nick Kurtz",
+      "team": "ATH",
+      "opponent": "CWS",
+      "matchup": "ATH vs CWS",
+      "batting_order": "1",
+      "pitcher": "Sean Burke",
+      "pitcher_hand": "R",
       "ballpark": "Rate Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
+      "wind_direction": "227 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "74",
+      "weather_precip_pct": "8",
       "game_start_time": "2026-07-10T23:40:00Z",
       "confirmed": false,
       "edge_index": 5.8,
@@ -576,18 +617,18 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 85.5,
-        "pitcher_vulnerability": 21.5,
-        "batted_ball_fit": 75.1,
-        "environment": 26.5,
-        "lineup_opportunity": 95.5,
-        "recent_form": 67.0,
-        "bvp_pitch_mix": 56.0
+        "hitter_power": 75.5,
+        "pitcher_vulnerability": 43.1,
+        "batted_ball_fit": 62.1,
+        "environment": 49.0,
+        "lineup_opportunity": 88.7,
+        "recent_form": 23.4,
+        "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 58.6
+      "legacy_hr_score": 63.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "BOS",
@@ -629,7 +670,7 @@
       "legacy_hr_score": 65.4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "COL",
@@ -671,7 +712,7 @@
       "legacy_hr_score": 66.4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "player": "Kazuma Okamoto",
       "team": "TOR",
       "opponent": "SD",
@@ -711,7 +752,7 @@
       "legacy_hr_score": 63.0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Seiya Suzuki",
       "team": "CHC",
       "opponent": "CIN",
@@ -752,7 +793,7 @@
       "legacy_hr_score": 62.8
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "TOR",
@@ -793,7 +834,7 @@
       "legacy_hr_score": 62.1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Michael Conforto",
       "team": "CHC",
       "opponent": "CIN",
@@ -834,7 +875,7 @@
       "legacy_hr_score": 63.4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Hunter Goodman",
       "team": "COL",
       "opponent": "SF",
@@ -874,7 +915,7 @@
       "legacy_hr_score": 61.3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Heliot Ramos",
       "team": "SF",
       "opponent": "COL",
@@ -915,24 +956,24 @@
       "legacy_hr_score": 61.6
     },
     {
-      "rank": 23,
-      "player": "Nick Kurtz",
-      "team": "ATH",
-      "opponent": "CWS",
-      "matchup": "ATH vs CWS",
-      "batting_order": "1",
-      "pitcher": "Sean Burke",
+      "rank": 24,
+      "player": "Ryan Jeffers",
+      "team": "MIN",
+      "opponent": "LAA",
+      "matchup": "MIN vs LAA",
+      "batting_order": "3",
+      "pitcher": "Grayson Rodriguez",
       "pitcher_hand": "R",
-      "ballpark": "Rate Field",
+      "ballpark": "Target Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "84",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-10T23:40:00Z",
+      "wind_direction": "71 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "39",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-11T00:10:00Z",
       "confirmed": false,
       "edge_index": 5.5,
       "ghost_grade": "C+",
@@ -940,23 +981,22 @@
       "volatility": "High",
       "labels": [
         "Projected",
-        "EV Edge",
-        "Tough Pitcher"
+        "Pitcher Target"
       ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "label_summary": "Projected + Pitcher Target",
       "components": {
-        "hitter_power": 75.5,
-        "pitcher_vulnerability": 43.1,
-        "batted_ball_fit": 62.1,
-        "environment": 26.5,
-        "lineup_opportunity": 88.7,
-        "recent_form": 23.4,
-        "bvp_pitch_mix": 50.0
+        "hitter_power": 51.3,
+        "pitcher_vulnerability": 67.7,
+        "batted_ball_fit": 37.2,
+        "environment": 51.6,
+        "lineup_opportunity": 92.1,
+        "recent_form": 59.6,
+        "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 60.0
+      "legacy_hr_score": 61.3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "PHI",
@@ -996,7 +1036,7 @@
       "legacy_hr_score": 62.2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player": "Dominic Canzone",
       "team": "SEA",
       "opponent": "TB",
@@ -1037,7 +1077,7 @@
       "legacy_hr_score": 62.6
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Michael Busch",
       "team": "CHC",
       "opponent": "CIN",
@@ -1077,7 +1117,7 @@
       "legacy_hr_score": 64.0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "WSH",
@@ -1118,7 +1158,7 @@
       "legacy_hr_score": 59.1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Jackson Merrill",
       "team": "SD",
       "opponent": "TOR",
@@ -1156,47 +1196,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 64.2
-    },
-    {
-      "rank": 29,
-      "player": "Josh Bell",
-      "team": "MIN",
-      "opponent": "LAA",
-      "matchup": "MIN vs LAA",
-      "batting_order": "4",
-      "pitcher": "Grayson Rodriguez",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "84",
-      "wind_speed": null,
-      "wind_direction": "71 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "39",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-11T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Hot Bat + Pitcher Target",
-      "components": {
-        "hitter_power": 47.8,
-        "pitcher_vulnerability": 67.3,
-        "batted_ball_fit": 31.0,
-        "environment": 51.6,
-        "lineup_opportunity": 90.4,
-        "recent_form": 79.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 63.0
     },
     {
       "rank": 30,
@@ -1530,6 +1529,47 @@
     },
     {
       "rank": 8,
+      "player": "Munetaka Murakami",
+      "team": "CWS",
+      "opponent": "ATH",
+      "matchup": "CWS vs ATH",
+      "batting_order": "2",
+      "pitcher": "Jacob Lopez",
+      "pitcher_hand": "L",
+      "ballpark": "Rate Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "227 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
+      "weather_humidity": "74",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-10T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.1,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 85.5,
+        "pitcher_vulnerability": 21.5,
+        "batted_ball_fit": 75.1,
+        "environment": 49.0,
+        "lineup_opportunity": 95.5,
+        "recent_form": 67.0,
+        "bvp_pitch_mix": 56.0
+      },
+      "legacy_hr_score": 61.9
+    },
+    {
+      "rank": 9,
       "player": "Matt Olson",
       "team": "ATL",
       "opponent": "STL",
@@ -1570,7 +1610,7 @@
       "legacy_hr_score": 65.6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "SEA",
@@ -1610,7 +1650,7 @@
       "legacy_hr_score": 62.2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "TOR",
@@ -1650,7 +1690,7 @@
       "legacy_hr_score": 64.3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "MIL",
@@ -1689,48 +1729,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 61.0
-    },
-    {
-      "rank": 12,
-      "player": "Kody Clemens",
-      "team": "MIN",
-      "opponent": "LAA",
-      "matchup": "MIN vs LAA",
-      "batting_order": "3",
-      "pitcher": "Grayson Rodriguez",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "84",
-      "wind_speed": null,
-      "wind_direction": "71 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "39",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-11T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.8,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
-      "components": {
-        "hitter_power": 54.8,
-        "pitcher_vulnerability": 67.7,
-        "batted_ball_fit": 41.0,
-        "environment": 51.6,
-        "lineup_opportunity": 92.1,
-        "recent_form": 88.7,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 66.6
     },
     {
       "rank": 13,
@@ -1774,22 +1772,64 @@
     },
     {
       "rank": 14,
-      "player": "Munetaka Murakami",
-      "team": "CWS",
-      "opponent": "ATH",
-      "matchup": "CWS vs ATH",
-      "batting_order": "2",
-      "pitcher": "Jacob Lopez",
-      "pitcher_hand": "L",
+      "player": "Kody Clemens",
+      "team": "MIN",
+      "opponent": "LAA",
+      "matchup": "MIN vs LAA",
+      "batting_order": "4",
+      "pitcher": "Grayson Rodriguez",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "84",
+      "wind_speed": null,
+      "wind_direction": "71 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "39",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-11T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Pitcher Target"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
+      "components": {
+        "hitter_power": 54.8,
+        "pitcher_vulnerability": 67.7,
+        "batted_ball_fit": 41.0,
+        "environment": 51.6,
+        "lineup_opportunity": 90.4,
+        "recent_form": 88.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 66.4
+    },
+    {
+      "rank": 15,
+      "player": "Nick Kurtz",
+      "team": "ATH",
+      "opponent": "CWS",
+      "matchup": "ATH vs CWS",
+      "batting_order": "1",
+      "pitcher": "Sean Burke",
+      "pitcher_hand": "R",
       "ballpark": "Rate Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
+      "wind_direction": "227 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "74",
+      "weather_precip_pct": "8",
       "game_start_time": "2026-07-10T23:40:00Z",
       "confirmed": false,
       "edge_index": 5.8,
@@ -1803,18 +1843,18 @@
       ],
       "label_summary": "Projected + EV Edge + Tough Pitcher",
       "components": {
-        "hitter_power": 85.5,
-        "pitcher_vulnerability": 21.5,
-        "batted_ball_fit": 75.1,
-        "environment": 26.5,
-        "lineup_opportunity": 95.5,
-        "recent_form": 67.0,
-        "bvp_pitch_mix": 56.0
+        "hitter_power": 75.5,
+        "pitcher_vulnerability": 43.1,
+        "batted_ball_fit": 62.1,
+        "environment": 49.0,
+        "lineup_opportunity": 88.7,
+        "recent_form": 23.4,
+        "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 58.6
+      "legacy_hr_score": 63.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "BOS",
@@ -1856,7 +1896,7 @@
       "legacy_hr_score": 65.4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "COL",
@@ -1898,7 +1938,7 @@
       "legacy_hr_score": 66.4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "player": "Kazuma Okamoto",
       "team": "TOR",
       "opponent": "SD",
@@ -1938,7 +1978,7 @@
       "legacy_hr_score": 63.0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Seiya Suzuki",
       "team": "CHC",
       "opponent": "CIN",
@@ -1979,7 +2019,7 @@
       "legacy_hr_score": 62.8
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "TOR",
@@ -2020,7 +2060,7 @@
       "legacy_hr_score": 62.1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Michael Conforto",
       "team": "CHC",
       "opponent": "CIN",
@@ -2061,7 +2101,7 @@
       "legacy_hr_score": 63.4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Hunter Goodman",
       "team": "COL",
       "opponent": "SF",
@@ -2101,7 +2141,7 @@
       "legacy_hr_score": 61.3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Heliot Ramos",
       "team": "SF",
       "opponent": "COL",
@@ -2142,24 +2182,24 @@
       "legacy_hr_score": 61.6
     },
     {
-      "rank": 23,
-      "player": "Nick Kurtz",
-      "team": "ATH",
-      "opponent": "CWS",
-      "matchup": "ATH vs CWS",
-      "batting_order": "1",
-      "pitcher": "Sean Burke",
+      "rank": 24,
+      "player": "Ryan Jeffers",
+      "team": "MIN",
+      "opponent": "LAA",
+      "matchup": "MIN vs LAA",
+      "batting_order": "3",
+      "pitcher": "Grayson Rodriguez",
       "pitcher_hand": "R",
-      "ballpark": "Rate Field",
+      "ballpark": "Target Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "84",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-10T23:40:00Z",
+      "wind_direction": "71 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "39",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-11T00:10:00Z",
       "confirmed": false,
       "edge_index": 5.5,
       "ghost_grade": "C+",
@@ -2167,23 +2207,22 @@
       "volatility": "High",
       "labels": [
         "Projected",
-        "EV Edge",
-        "Tough Pitcher"
+        "Pitcher Target"
       ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "label_summary": "Projected + Pitcher Target",
       "components": {
-        "hitter_power": 75.5,
-        "pitcher_vulnerability": 43.1,
-        "batted_ball_fit": 62.1,
-        "environment": 26.5,
-        "lineup_opportunity": 88.7,
-        "recent_form": 23.4,
-        "bvp_pitch_mix": 50.0
+        "hitter_power": 51.3,
+        "pitcher_vulnerability": 67.7,
+        "batted_ball_fit": 37.2,
+        "environment": 51.6,
+        "lineup_opportunity": 92.1,
+        "recent_form": 59.6,
+        "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 60.0
+      "legacy_hr_score": 61.3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "PHI",
@@ -2223,7 +2262,7 @@
       "legacy_hr_score": 62.2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player": "Dominic Canzone",
       "team": "SEA",
       "opponent": "TB",
@@ -2264,7 +2303,7 @@
       "legacy_hr_score": 62.6
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Michael Busch",
       "team": "CHC",
       "opponent": "CIN",
@@ -2304,7 +2343,7 @@
       "legacy_hr_score": 64.0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "WSH",
@@ -2345,7 +2384,7 @@
       "legacy_hr_score": 59.1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Jackson Merrill",
       "team": "SD",
       "opponent": "TOR",
@@ -2383,47 +2422,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 64.2
-    },
-    {
-      "rank": 29,
-      "player": "Josh Bell",
-      "team": "MIN",
-      "opponent": "LAA",
-      "matchup": "MIN vs LAA",
-      "batting_order": "4",
-      "pitcher": "Grayson Rodriguez",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "84",
-      "wind_speed": null,
-      "wind_direction": "71 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "39",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-11T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Hot Bat + Pitcher Target",
-      "components": {
-        "hitter_power": 47.8,
-        "pitcher_vulnerability": 67.3,
-        "batted_ball_fit": 31.0,
-        "environment": 51.6,
-        "lineup_opportunity": 90.4,
-        "recent_form": 79.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 63.0
     },
     {
       "rank": 30,
@@ -2588,6 +2586,16 @@
         "type": "Aggressive 3",
         "volatility": "Medium",
         "labels": "Projected, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target, Sleeper / Projected, Hot Bat, Pitcher Target",
+        "reason": "independent games · pitcher target included · sleeper leverage"
+      },
+      {
+        "names": "Bryce Eldridge + Pete Crow-Armstrong + Munetaka Murakami",
+        "teams": "SF vs COL / CHC vs CIN / CWS vs ATH",
+        "avg_edge": 6.1,
+        "combo_score": 6.42,
+        "type": "Aggressive 3",
+        "volatility": "Medium",
+        "labels": "Projected, EV Edge, Pitcher Target, Sleeper / Projected, Hot Bat, Pitcher Target / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games · pitcher target included · sleeper leverage"
       }
     ],
@@ -2769,6 +2777,25 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
+      "ballpark": "Rate Field",
+      "teams": [
+        "ATH",
+        "CWS"
+      ],
+      "environment_score": 49.0,
+      "park_hr_factor": 100.0,
+      "temperature": 82.0,
+      "wind_speed": 0.0,
+      "wind_direction": "227 deg",
+      "humidity": 74.0,
+      "precip_pct": 8.0,
+      "condition_grade": "Neutral",
+      "top_player": "Munetaka Murakami",
+      "top_edge": 6.1,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
       "ballpark": "loanDepot park",
       "teams": [
         "CLE",
@@ -2821,7 +2848,7 @@
       "precip_pct": 43.0,
       "condition_grade": "Neutral",
       "top_player": "Jac Caglianone",
-      "top_edge": 5.2,
+      "top_edge": 5.1,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.2840&lon=-76.6217",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
@@ -2919,25 +2946,6 @@
       "top_edge": 5.9,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Rate Field",
-      "teams": [
-        "ATH",
-        "CWS"
-      ],
-      "environment_score": 26.5,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Munetaka Murakami",
-      "top_edge": 5.8,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
