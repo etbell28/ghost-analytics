@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Tuesday, July 14, 2026",
-  "generated_at": "07:14 PM EDT",
-  "generated_iso": "2026-07-14T19:14:41.402108-04:00",
+  "generated_at": "08:09 PM EDT",
+  "generated_iso": "2026-07-14T20:09:42.881660-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -25,35 +25,36 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 6.7,
-      "ghost_grade": "B",
+      "edge_index": 6.9,
+      "ghost_grade": "B+",
       "confidence": "Strong",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge",
         "Tough Pitcher"
       ],
-      "label_summary": "Confirmed + EV Edge + Tough Pitcher",
+      "label_summary": "Confirmed + Weather Edge + EV Edge + Tough Pitcher",
       "components": {
         "hitter_power": 85.2,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 65.9,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 100.0,
         "recent_form": 56.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 67.2
+      "legacy_hr_score": 69.3
     },
     {
       "rank": 2,
@@ -66,35 +67,36 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 6.3,
+      "edge_index": 6.4,
       "ghost_grade": "B",
       "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge",
         "Tough Pitcher"
       ],
-      "label_summary": "Confirmed + EV Edge + Tough Pitcher",
+      "label_summary": "Confirmed + Weather Edge + EV Edge + Tough Pitcher",
       "components": {
         "hitter_power": 81.6,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 78.4,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 93.2,
         "recent_form": 57.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 63.5
+      "legacy_hr_score": 65.7
     },
     {
       "rank": 3,
@@ -107,35 +109,36 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 6.2,
+      "edge_index": 6.4,
       "ghost_grade": "B",
       "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "Hot Bat",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + Hot Bat + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + Hot Bat + EV Edge",
       "components": {
         "hitter_power": 70.9,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 58.3,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 93.2,
         "recent_form": 88.7,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 65.7
+      "legacy_hr_score": 67.8
     },
     {
       "rank": 4,
@@ -148,34 +151,35 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.8,
+      "edge_index": 5.9,
       "ghost_grade": "B-",
-      "confidence": "Volatile",
+      "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + EV Edge",
       "components": {
         "hitter_power": 64.3,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 57.1,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 94.9,
         "recent_form": 42.7,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 61.4
+      "legacy_hr_score": 63.6
     },
     {
       "rank": 5,
@@ -188,35 +192,36 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.7,
+      "edge_index": 5.8,
       "ghost_grade": "B-",
-      "confidence": "Volatile",
+      "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge",
         "Tough Pitcher"
       ],
-      "label_summary": "Confirmed + EV Edge + Tough Pitcher",
+      "label_summary": "Confirmed + Weather Edge + EV Edge + Tough Pitcher",
       "components": {
         "hitter_power": 73.6,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 47.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 100.0,
         "recent_form": 64.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 62.2
+      "legacy_hr_score": 64.4
     },
     {
       "rank": 6,
@@ -229,35 +234,37 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.6,
+      "edge_index": 5.8,
       "ghost_grade": "B-",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Watch",
+      "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "Hot Bat",
-        "EV Edge"
+        "EV Edge",
+        "Sleeper"
       ],
-      "label_summary": "Confirmed + Hot Bat + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + Hot Bat + EV Edge + Sleeper",
       "components": {
         "hitter_power": 64.8,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 47.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 64.3,
         "recent_form": 100.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 57.6
+      "legacy_hr_score": 59.8
     },
     {
       "rank": 7,
@@ -270,34 +277,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.3,
+      "edge_index": 5.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 57.8,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 44.7,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 96.6,
         "recent_form": 20.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 58.4
+      "legacy_hr_score": 60.6
     },
     {
       "rank": 8,
@@ -310,34 +317,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.1,
+      "edge_index": 5.3,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 60.4,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 50.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 52.4,
         "recent_form": 46.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 51.8
+      "legacy_hr_score": 54.0
     },
     {
       "rank": 9,
@@ -350,34 +357,35 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.1,
+      "edge_index": 5.3,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + EV Edge",
       "components": {
         "hitter_power": 58.4,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 33.1,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 86.4,
         "recent_form": 37.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 58.0
+      "legacy_hr_score": 60.2
     },
     {
       "rank": 10,
@@ -390,34 +398,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.7,
+      "edge_index": 4.9,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 56.3,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 49.1,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 86.4,
         "recent_form": 3.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 51.5
+      "legacy_hr_score": 53.7
     },
     {
       "rank": 11,
@@ -430,34 +438,35 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.3,
+      "edge_index": 4.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + EV Edge",
       "components": {
         "hitter_power": 59.4,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 36.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 44.8,
         "recent_form": 25.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 47.9
+      "legacy_hr_score": 50.0
     },
     {
       "rank": 12,
@@ -470,34 +479,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.3,
+      "edge_index": 4.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 39.3,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 28.0,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 94.9,
         "recent_form": 70.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 50.5
+      "legacy_hr_score": 52.6
     },
     {
       "rank": 13,
@@ -510,34 +519,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.3,
+      "edge_index": 4.4,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 47.4,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 27.0,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 96.6,
         "recent_form": 14.1,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 50.6
+      "legacy_hr_score": 52.7
     },
     {
       "rank": 14,
@@ -550,34 +559,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 3.9,
+      "edge_index": 4.1,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 30.4,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 21.3,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 76.2,
         "recent_form": 24.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 44.2
+      "legacy_hr_score": 46.4
     },
     {
       "rank": 15,
@@ -590,34 +599,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 3.6,
+      "edge_index": 3.8,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 40.6,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 22.2,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 64.3,
         "recent_form": 9.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 43.6
+      "legacy_hr_score": 45.7
     },
     {
       "rank": 16,
@@ -630,34 +639,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 3.6,
+      "edge_index": 3.8,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 38.9,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 21.7,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 52.4,
         "recent_form": 43.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 40.3
+      "legacy_hr_score": 42.5
     },
     {
       "rank": 17,
@@ -670,34 +679,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 2.9,
+      "edge_index": 3.1,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 16.9,
         "pitcher_vulnerability": 17.2,
         "batted_ball_fit": 18.4,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 76.2,
         "recent_form": 14.1,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 36.9
+      "legacy_hr_score": 39.1
     },
     {
       "rank": 18,
@@ -710,34 +719,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 2.9,
+      "edge_index": 3.0,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 6.7,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 13.2,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 44.8,
         "recent_form": 50.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 35.7
+      "legacy_hr_score": 37.9
     }
   ],
   "confirmed_targets": [
@@ -752,35 +761,36 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 6.7,
-      "ghost_grade": "B",
+      "edge_index": 6.9,
+      "ghost_grade": "B+",
       "confidence": "Strong",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge",
         "Tough Pitcher"
       ],
-      "label_summary": "Confirmed + EV Edge + Tough Pitcher",
+      "label_summary": "Confirmed + Weather Edge + EV Edge + Tough Pitcher",
       "components": {
         "hitter_power": 85.2,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 65.9,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 100.0,
         "recent_form": 56.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 67.2
+      "legacy_hr_score": 69.3
     },
     {
       "rank": 2,
@@ -793,35 +803,36 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 6.3,
+      "edge_index": 6.4,
       "ghost_grade": "B",
       "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge",
         "Tough Pitcher"
       ],
-      "label_summary": "Confirmed + EV Edge + Tough Pitcher",
+      "label_summary": "Confirmed + Weather Edge + EV Edge + Tough Pitcher",
       "components": {
         "hitter_power": 81.6,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 78.4,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 93.2,
         "recent_form": 57.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 63.5
+      "legacy_hr_score": 65.7
     },
     {
       "rank": 3,
@@ -834,35 +845,36 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 6.2,
+      "edge_index": 6.4,
       "ghost_grade": "B",
       "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "Hot Bat",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + Hot Bat + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + Hot Bat + EV Edge",
       "components": {
         "hitter_power": 70.9,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 58.3,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 93.2,
         "recent_form": 88.7,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 65.7
+      "legacy_hr_score": 67.8
     },
     {
       "rank": 4,
@@ -875,34 +887,35 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.8,
+      "edge_index": 5.9,
       "ghost_grade": "B-",
-      "confidence": "Volatile",
+      "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + EV Edge",
       "components": {
         "hitter_power": 64.3,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 57.1,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 94.9,
         "recent_form": 42.7,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 61.4
+      "legacy_hr_score": 63.6
     },
     {
       "rank": 5,
@@ -915,35 +928,36 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.7,
+      "edge_index": 5.8,
       "ghost_grade": "B-",
-      "confidence": "Volatile",
+      "confidence": "Watch",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge",
         "Tough Pitcher"
       ],
-      "label_summary": "Confirmed + EV Edge + Tough Pitcher",
+      "label_summary": "Confirmed + Weather Edge + EV Edge + Tough Pitcher",
       "components": {
         "hitter_power": 73.6,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 47.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 100.0,
         "recent_form": 64.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 62.2
+      "legacy_hr_score": 64.4
     },
     {
       "rank": 6,
@@ -956,35 +970,37 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.6,
+      "edge_index": 5.8,
       "ghost_grade": "B-",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Watch",
+      "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "Hot Bat",
-        "EV Edge"
+        "EV Edge",
+        "Sleeper"
       ],
-      "label_summary": "Confirmed + Hot Bat + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + Hot Bat + EV Edge + Sleeper",
       "components": {
         "hitter_power": 64.8,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 47.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 64.3,
         "recent_form": 100.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 57.6
+      "legacy_hr_score": 59.8
     },
     {
       "rank": 7,
@@ -997,34 +1013,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.3,
+      "edge_index": 5.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 57.8,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 44.7,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 96.6,
         "recent_form": 20.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 58.4
+      "legacy_hr_score": 60.6
     },
     {
       "rank": 8,
@@ -1037,34 +1053,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.1,
+      "edge_index": 5.3,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 60.4,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 50.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 52.4,
         "recent_form": 46.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 51.8
+      "legacy_hr_score": 54.0
     },
     {
       "rank": 9,
@@ -1077,34 +1093,35 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 5.1,
+      "edge_index": 5.3,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + EV Edge",
       "components": {
         "hitter_power": 58.4,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 33.1,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 86.4,
         "recent_form": 37.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 58.0
+      "legacy_hr_score": 60.2
     },
     {
       "rank": 10,
@@ -1117,34 +1134,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.7,
+      "edge_index": 4.9,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 56.3,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 49.1,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 86.4,
         "recent_form": 3.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 51.5
+      "legacy_hr_score": 53.7
     },
     {
       "rank": 11,
@@ -1157,34 +1174,35 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.3,
+      "edge_index": 4.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
+        "Weather Edge",
         "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge + EV Edge",
       "components": {
         "hitter_power": 59.4,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 36.6,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 44.8,
         "recent_form": 25.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 47.9
+      "legacy_hr_score": 50.0
     },
     {
       "rank": 12,
@@ -1197,34 +1215,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.3,
+      "edge_index": 4.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 39.3,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 28.0,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 94.9,
         "recent_form": 70.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 50.5
+      "legacy_hr_score": 52.6
     },
     {
       "rank": 13,
@@ -1237,34 +1255,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 4.3,
+      "edge_index": 4.4,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 47.4,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 27.0,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 96.6,
         "recent_form": 14.1,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 50.6
+      "legacy_hr_score": 52.7
     },
     {
       "rank": 14,
@@ -1277,34 +1295,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 3.9,
+      "edge_index": 4.1,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 30.4,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 21.3,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 76.2,
         "recent_form": 24.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 44.2
+      "legacy_hr_score": 46.4
     },
     {
       "rank": 15,
@@ -1317,34 +1335,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 3.6,
+      "edge_index": 3.8,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 40.6,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 22.2,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 64.3,
         "recent_form": 9.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 43.6
+      "legacy_hr_score": 45.7
     },
     {
       "rank": 16,
@@ -1357,34 +1375,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 3.6,
+      "edge_index": 3.8,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 38.9,
         "pitcher_vulnerability": 18.2,
         "batted_ball_fit": 21.7,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 52.4,
         "recent_form": 43.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 40.3
+      "legacy_hr_score": 42.5
     },
     {
       "rank": 17,
@@ -1397,34 +1415,34 @@
       "pitcher_hand": "R",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 2.9,
+      "edge_index": 3.1,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 16.9,
         "pitcher_vulnerability": 17.2,
         "batted_ball_fit": 18.4,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 76.2,
         "recent_form": 14.1,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 36.9
+      "legacy_hr_score": 39.1
     },
     {
       "rank": 18,
@@ -1437,34 +1455,34 @@
       "pitcher_hand": "L",
       "ballpark": "Citizens Bank Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "80",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
-      "weather_humidity": "54",
+      "weather_humidity": "68",
       "weather_precip_pct": "0",
       "game_start_time": "2026-07-15T00:00:00Z",
       "confirmed": true,
-      "edge_index": 2.9,
+      "edge_index": 3.0,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
         "hitter_power": 6.7,
         "pitcher_vulnerability": 35.9,
         "batted_ball_fit": 13.2,
-        "environment": 60.8,
+        "environment": 75.3,
         "lineup_opportunity": 44.8,
         "recent_form": 50.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 35.7
+      "legacy_hr_score": 37.9
     }
   ],
   "projected_targets": [],
@@ -1473,62 +1491,62 @@
       {
         "names": "Yordan Alvarez + Kyle Schwarber",
         "teams": "AL vs NL / NL vs AL",
-        "avg_edge": 6.5,
-        "combo_score": 6.23,
-        "type": "Power Pair",
+        "avg_edge": 6.7,
+        "combo_score": 7.18,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge, Tough Pitcher / Confirmed, EV Edge, Tough Pitcher",
-        "reason": "balanced edge mix"
+        "labels": "Confirmed, Weather Edge, EV Edge, Tough Pitcher / Confirmed, Weather Edge, EV Edge, Tough Pitcher",
+        "reason": "weather stack logic"
       },
       {
         "names": "Kyle Schwarber + Mike Trout",
         "teams": "NL vs AL / AL vs NL",
-        "avg_edge": 6.2,
-        "combo_score": 5.98,
-        "type": "Power Pair",
+        "avg_edge": 6.4,
+        "combo_score": 6.93,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge, Tough Pitcher / Confirmed, Hot Bat, EV Edge",
-        "reason": "balanced edge mix"
+        "labels": "Confirmed, Weather Edge, EV Edge, Tough Pitcher / Confirmed, Weather Edge, Hot Bat, EV Edge",
+        "reason": "weather stack logic"
       },
       {
         "names": "Yordan Alvarez + Juan Soto",
         "teams": "AL vs NL / NL vs AL",
-        "avg_edge": 6.2,
-        "combo_score": 5.76,
-        "type": "Power Pair",
+        "avg_edge": 6.3,
+        "combo_score": 6.74,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge, Tough Pitcher / Confirmed, EV Edge, Tough Pitcher",
-        "reason": "balanced edge mix"
+        "labels": "Confirmed, Weather Edge, EV Edge, Tough Pitcher / Confirmed, Weather Edge, EV Edge, Tough Pitcher",
+        "reason": "weather stack logic"
       },
       {
         "names": "Kyle Schwarber + Junior Caminero",
         "teams": "NL vs AL / AL vs NL",
-        "avg_edge": 6.0,
-        "combo_score": 5.64,
-        "type": "Balanced 2",
+        "avg_edge": 6.2,
+        "combo_score": 6.58,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge, Tough Pitcher / Confirmed, EV Edge",
-        "reason": "balanced edge mix"
+        "labels": "Confirmed, Weather Edge, EV Edge, Tough Pitcher / Confirmed, Weather Edge, EV Edge",
+        "reason": "weather stack logic"
       },
       {
         "names": "Mike Trout + Juan Soto",
         "teams": "AL vs NL / NL vs AL",
-        "avg_edge": 6.0,
-        "combo_score": 5.51,
-        "type": "Power Pair",
+        "avg_edge": 6.1,
+        "combo_score": 6.49,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Confirmed, Hot Bat, EV Edge / Confirmed, EV Edge, Tough Pitcher",
-        "reason": "balanced edge mix"
+        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge / Confirmed, Weather Edge, EV Edge, Tough Pitcher",
+        "reason": "weather stack logic"
       },
       {
         "names": "Junior Caminero + Juan Soto",
         "teams": "AL vs NL / NL vs AL",
         "avg_edge": 5.8,
-        "combo_score": 5.31,
-        "type": "Balanced 2",
+        "combo_score": 6.24,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge / Confirmed, EV Edge, Tough Pitcher",
-        "reason": "balanced edge mix"
+        "labels": "Confirmed, Weather Edge, EV Edge / Confirmed, Weather Edge, EV Edge, Tough Pitcher",
+        "reason": "weather stack logic"
       }
     ],
     "3": [],
@@ -1537,9 +1555,9 @@
   "weather_edges": [
     {
       "ballpark": "Citizens Bank Park",
-      "environment_score": 60.8,
+      "environment_score": 75.3,
       "top_player": "Yordan Alvarez",
-      "top_edge": 6.7,
+      "top_edge": 6.9,
       "teams": [
         "AL",
         "NL"
@@ -1553,16 +1571,16 @@
         "AL",
         "NL"
       ],
-      "environment_score": 60.8,
+      "environment_score": 75.3,
       "park_hr_factor": 100.0,
-      "temperature": 80.0,
+      "temperature": 82.0,
       "wind_speed": 0.0,
-      "wind_direction": "Varies",
-      "humidity": 54.0,
+      "wind_direction": "Out To CF",
+      "humidity": 68.0,
       "precip_pct": 0.0,
-      "condition_grade": "Watch",
+      "condition_grade": "Green",
       "top_player": "Yordan Alvarez",
-      "top_edge": 6.7,
+      "top_edge": 6.9,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
       "source_note": "Open-Meteo forecast; MLB fallback"
     }
