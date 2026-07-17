@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Friday, July 17, 2026",
-  "generated_at": "01:43 PM EDT",
-  "generated_iso": "2026-07-17T13:43:51.341408-04:00",
+  "generated_at": "02:43 PM EDT",
+  "generated_iso": "2026-07-17T14:43:07.531372-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -16,6 +16,46 @@
   "top_targets": [
     {
       "rank": 1,
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "BAL",
+      "matchup": "HOU vs BAL",
+      "batting_order": "2",
+      "pitcher": "Dean Kremer",
+      "pitcher_hand": "R",
+      "ballpark": "Daikin Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "84",
+      "wind_speed": null,
+      "wind_direction": "153 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "weather_humidity": "68",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-18T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 6.9,
+      "ghost_grade": "B+",
+      "confidence": "Strong",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 85.2,
+        "pitcher_vulnerability": 57.9,
+        "batted_ball_fit": 65.9,
+        "environment": 56.1,
+        "lineup_opportunity": 95.5,
+        "recent_form": 56.2,
+        "bvp_pitch_mix": 56.0
+      },
+      "legacy_hr_score": 73.8
+    },
+    {
+      "rank": 2,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "CLE",
@@ -56,7 +96,7 @@
       "legacy_hr_score": 69.6
     },
     {
-      "rank": 2,
+      "rank": 3,
       "player": "Shohei Ohtani",
       "team": "LAD",
       "opponent": "NYY",
@@ -96,46 +136,6 @@
         "bvp_pitch_mix": 56.0
       },
       "legacy_hr_score": 71.4
-    },
-    {
-      "rank": 3,
-      "player": "Yordan Alvarez",
-      "team": "HOU",
-      "opponent": "BAL",
-      "matchup": "HOU vs BAL",
-      "batting_order": "2",
-      "pitcher": "Dean Kremer",
-      "pitcher_hand": "R",
-      "ballpark": "Daikin Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-18T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 6.5,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 85.2,
-        "pitcher_vulnerability": 57.9,
-        "batted_ball_fit": 65.9,
-        "environment": 27.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 56.2,
-        "bvp_pitch_mix": 56.0
-      },
-      "legacy_hr_score": 69.5
     },
     {
       "rank": 4,
@@ -180,48 +180,6 @@
     },
     {
       "rank": 5,
-      "player": "James Wood",
-      "team": "WSH",
-      "opponent": "ATH",
-      "matchup": "WSH vs ATH",
-      "batting_order": "1",
-      "pitcher": "Gage Jump",
-      "pitcher_hand": "L",
-      "ballpark": "Sutter Health Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "94",
-      "wind_speed": null,
-      "wind_direction": "218 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.5804&lon=-121.5139",
-      "weather_humidity": "21",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-18T01:40:00Z",
-      "confirmed": false,
-      "edge_index": 6.4,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 85.6,
-        "pitcher_vulnerability": 30.2,
-        "batted_ball_fit": 61.4,
-        "environment": 65.4,
-        "lineup_opportunity": 88.7,
-        "recent_form": 100.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 67.2
-    },
-    {
-      "rank": 6,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "AZ",
@@ -262,7 +220,7 @@
       "legacy_hr_score": 67.3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "player": "Eduardo Valencia",
       "team": "DET",
       "opponent": "LAA",
@@ -303,6 +261,48 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 67.0
+    },
+    {
+      "rank": 7,
+      "player": "James Wood",
+      "team": "WSH",
+      "opponent": "ATH",
+      "matchup": "WSH vs ATH",
+      "batting_order": "1",
+      "pitcher": "Gage Jump",
+      "pitcher_hand": "L",
+      "ballpark": "Sutter Health Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.5804&lon=-121.5139",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-18T01:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.0,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 85.6,
+        "pitcher_vulnerability": 30.2,
+        "batted_ball_fit": 61.4,
+        "environment": 30.9,
+        "lineup_opportunity": 88.7,
+        "recent_form": 100.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 62.1
     },
     {
       "rank": 8,
@@ -508,6 +508,46 @@
     },
     {
       "rank": 13,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "BOS",
+      "matchup": "TB vs BOS",
+      "batting_order": "3",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "295 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "53",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-07-17T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.6,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 64.3,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 57.1,
+        "environment": 53.2,
+        "lineup_opportunity": 92.1,
+        "recent_form": 51.3,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.9
+    },
+    {
+      "rank": 14,
       "player": "Mickey Moniak",
       "team": "COL",
       "opponent": "CIN",
@@ -545,46 +585,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 63.2
-    },
-    {
-      "rank": 14,
-      "player": "Junior Caminero",
-      "team": "TB",
-      "opponent": "BOS",
-      "matchup": "TB vs BOS",
-      "batting_order": "3",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "295 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "53",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-07-17T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 64.3,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 57.1,
-        "environment": 53.2,
-        "lineup_opportunity": 92.1,
-        "recent_form": 45.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 59.7
     },
     {
       "rank": 15,
@@ -628,6 +628,46 @@
     },
     {
       "rank": 16,
+      "player": "Pete Alonso",
+      "team": "BAL",
+      "opponent": "HOU",
+      "matchup": "BAL vs HOU",
+      "batting_order": "4",
+      "pitcher": "Peter Lambert",
+      "pitcher_hand": "R",
+      "ballpark": "Daikin Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "84",
+      "wind_speed": null,
+      "wind_direction": "153 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "weather_humidity": "68",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-18T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.4,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 69.0,
+        "pitcher_vulnerability": 33.6,
+        "batted_ball_fit": 48.0,
+        "environment": 56.1,
+        "lineup_opportunity": 90.4,
+        "recent_form": 53.3,
+        "bvp_pitch_mix": 50.0
+      },
+      "legacy_hr_score": 59.1
+    },
+    {
+      "rank": 17,
       "player": "Brandon Lowe",
       "team": "PIT",
       "opponent": "CLE",
@@ -667,7 +707,7 @@
       "legacy_hr_score": 61.6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "player": "Lars Nootbaar",
       "team": "STL",
       "opponent": "AZ",
@@ -708,7 +748,7 @@
       "legacy_hr_score": 62.9
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Kazuma Okamoto",
       "team": "TOR",
       "opponent": "CWS",
@@ -748,7 +788,7 @@
       "legacy_hr_score": 59.7
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "MIN",
@@ -788,7 +828,7 @@
       "legacy_hr_score": 60.6
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "BOS",
@@ -822,13 +862,13 @@
         "batted_ball_fit": 57.1,
         "environment": 42.7,
         "lineup_opportunity": 96.6,
-        "recent_form": 45.9,
+        "recent_form": 51.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 56.2
+      "legacy_hr_score": 56.4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "KC",
@@ -868,7 +908,7 @@
       "legacy_hr_score": 58.9
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "LAA",
@@ -908,7 +948,7 @@
       "legacy_hr_score": 55.5
     },
     {
-      "rank": 23,
+      "rank": 24,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "TEX",
@@ -946,46 +986,6 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 60.4
-    },
-    {
-      "rank": 24,
-      "player": "Wilyer Abreu",
-      "team": "BOS",
-      "opponent": "TB",
-      "matchup": "BOS vs TB",
-      "batting_order": "3",
-      "pitcher": "Griffin Jax",
-      "pitcher_hand": "R",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "In From LF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "53",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-07-17T17:35:00Z",
-      "confirmed": true,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 51.1,
-        "pitcher_vulnerability": 48.7,
-        "batted_ball_fit": 39.3,
-        "environment": 42.7,
-        "lineup_opportunity": 96.6,
-        "recent_form": 32.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 57.3
     },
     {
       "rank": 25,
@@ -1069,6 +1069,46 @@
     },
     {
       "rank": 27,
+      "player": "Wilyer Abreu",
+      "team": "BOS",
+      "opponent": "TB",
+      "matchup": "BOS vs TB",
+      "batting_order": "3",
+      "pitcher": "Griffin Jax",
+      "pitcher_hand": "R",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "In From LF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "53",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-07-17T17:35:00Z",
+      "confirmed": true,
+      "edge_index": 5.1,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 51.1,
+        "pitcher_vulnerability": 48.7,
+        "batted_ball_fit": 39.3,
+        "environment": 42.7,
+        "lineup_opportunity": 96.6,
+        "recent_form": 30.3,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 57.2
+    },
+    {
+      "rank": 28,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "MIA",
@@ -1108,7 +1148,7 @@
       "legacy_hr_score": 57.7
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "SEA",
@@ -1149,7 +1189,7 @@
       "legacy_hr_score": 56.4
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Jazz Chisholm",
       "team": "NYY",
       "opponent": "LAD",
@@ -1187,51 +1227,11 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 59.4
-    },
-    {
-      "rank": 30,
-      "player": "Pete Alonso",
-      "team": "BAL",
-      "opponent": "HOU",
-      "matchup": "BAL vs HOU",
-      "batting_order": "4",
-      "pitcher": "Peter Lambert",
-      "pitcher_hand": "R",
-      "ballpark": "Daikin Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-18T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 69.0,
-        "pitcher_vulnerability": 33.6,
-        "batted_ball_fit": 48.0,
-        "environment": 27.6,
-        "lineup_opportunity": 90.4,
-        "recent_form": 53.3,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 54.8
     }
   ],
   "confirmed_targets": [
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "BOS",
@@ -1265,13 +1265,13 @@
         "batted_ball_fit": 57.1,
         "environment": 42.7,
         "lineup_opportunity": 96.6,
-        "recent_form": 45.9,
+        "recent_form": 51.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 56.2
+      "legacy_hr_score": 56.4
     },
     {
-      "rank": 24,
+      "rank": 27,
       "player": "Wilyer Abreu",
       "team": "BOS",
       "opponent": "TB",
@@ -1290,7 +1290,7 @@
       "weather_precip_pct": "15",
       "game_start_time": "2026-07-17T17:35:00Z",
       "confirmed": true,
-      "edge_index": 5.2,
+      "edge_index": 5.1,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
@@ -1305,13 +1305,13 @@
         "batted_ball_fit": 39.3,
         "environment": 42.7,
         "lineup_opportunity": 96.6,
-        "recent_form": 32.9,
+        "recent_form": 30.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 57.3
+      "legacy_hr_score": 57.2
     },
     {
-      "rank": 68,
+      "rank": 69,
       "player": "Jonathan Aranda",
       "team": "TB",
       "opponent": "BOS",
@@ -1351,7 +1351,7 @@
       "legacy_hr_score": 50.4
     },
     {
-      "rank": 94,
+      "rank": 92,
       "player": "Jarren Duran",
       "team": "BOS",
       "opponent": "TB",
@@ -1385,13 +1385,13 @@
         "batted_ball_fit": 31.7,
         "environment": 42.7,
         "lineup_opportunity": 64.3,
-        "recent_form": 3.4,
+        "recent_form": 2.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 47.6
+      "legacy_hr_score": 47.5
     },
     {
-      "rank": 105,
+      "rank": 109,
       "player": "Yandy Díaz",
       "team": "TB",
       "opponent": "BOS",
@@ -1425,10 +1425,10 @@
         "batted_ball_fit": 19.6,
         "environment": 42.7,
         "lineup_opportunity": 93.2,
-        "recent_form": 55.9,
+        "recent_form": 53.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 48.9
+      "legacy_hr_score": 48.8
     },
     {
       "rank": 110,
@@ -1471,7 +1471,7 @@
       "legacy_hr_score": 48.0
     },
     {
-      "rank": 123,
+      "rank": 113,
       "player": "Masataka Yoshida",
       "team": "BOS",
       "opponent": "TB",
@@ -1490,28 +1490,28 @@
       "weather_precip_pct": "15",
       "game_start_time": "2026-07-17T17:35:00Z",
       "confirmed": true,
-      "edge_index": 3.9,
+      "edge_index": 4.0,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
       "labels": [
         "Confirmed",
-        "Watch"
+        "Hot Bat"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + Hot Bat",
       "components": {
         "hitter_power": 22.2,
         "pitcher_vulnerability": 48.7,
         "batted_ball_fit": 14.0,
         "environment": 42.7,
         "lineup_opportunity": 86.4,
-        "recent_form": 54.9,
+        "recent_form": 81.2,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 47.5
+      "legacy_hr_score": 48.8
     },
     {
-      "rank": 127,
+      "rank": 135,
       "player": "Ceddanne Rafaela",
       "team": "BOS",
       "opponent": "TB",
@@ -1545,13 +1545,13 @@
         "batted_ball_fit": 7.9,
         "environment": 42.7,
         "lineup_opportunity": 100.0,
-        "recent_form": 39.2,
+        "recent_form": 35.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 45.4
+      "legacy_hr_score": 45.2
     },
     {
-      "rank": 142,
+      "rank": 151,
       "player": "Romy Gonzalez",
       "team": "BOS",
       "opponent": "TB",
@@ -1585,13 +1585,13 @@
         "batted_ball_fit": 8.5,
         "environment": 42.7,
         "lineup_opportunity": 76.2,
-        "recent_form": 5.7,
+        "recent_form": 3.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 43.2
+      "legacy_hr_score": 43.1
     },
     {
-      "rank": 152,
+      "rank": 156,
       "player": "Carlos Narváez",
       "team": "BOS",
       "opponent": "TB",
@@ -1610,7 +1610,7 @@
       "weather_precip_pct": "15",
       "game_start_time": "2026-07-17T17:35:00Z",
       "confirmed": true,
-      "edge_index": 3.6,
+      "edge_index": 3.7,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
@@ -1625,10 +1625,10 @@
         "batted_ball_fit": 15.8,
         "environment": 42.7,
         "lineup_opportunity": 52.4,
-        "recent_form": 0.0,
+        "recent_form": 3.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 40.7
+      "legacy_hr_score": 40.9
     },
     {
       "rank": 164,
@@ -1650,7 +1650,7 @@
       "weather_precip_pct": "15",
       "game_start_time": "2026-07-17T17:35:00Z",
       "confirmed": true,
-      "edge_index": 3.5,
+      "edge_index": 3.6,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
@@ -1665,13 +1665,13 @@
         "batted_ball_fit": 3.1,
         "environment": 42.7,
         "lineup_opportunity": 93.2,
-        "recent_form": 20.8,
+        "recent_form": 30.3,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 45.0
+      "legacy_hr_score": 45.5
     },
     {
-      "rank": 181,
+      "rank": 177,
       "player": "Caleb Durbin",
       "team": "BOS",
       "opponent": "TB",
@@ -1705,10 +1705,10 @@
         "batted_ball_fit": 9.1,
         "environment": 42.7,
         "lineup_opportunity": 94.9,
-        "recent_form": 43.2,
+        "recent_form": 46.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 40.5
+      "legacy_hr_score": 40.7
     },
     {
       "rank": 200,
@@ -1730,7 +1730,7 @@
       "weather_precip_pct": "15",
       "game_start_time": "2026-07-17T17:35:00Z",
       "confirmed": true,
-      "edge_index": 3.1,
+      "edge_index": 3.0,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
@@ -1745,13 +1745,13 @@
         "batted_ball_fit": 7.6,
         "environment": 42.7,
         "lineup_opportunity": 44.8,
-        "recent_form": 42.0,
+        "recent_form": 34.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 38.3
+      "legacy_hr_score": 37.9
     },
     {
-      "rank": 218,
+      "rank": 216,
       "player": "Jonny DeLuca",
       "team": "TB",
       "opponent": "BOS",
@@ -1785,13 +1785,13 @@
         "batted_ball_fit": 12.6,
         "environment": 42.7,
         "lineup_opportunity": 86.4,
-        "recent_form": 31.9,
+        "recent_form": 28.9,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 36.6
+      "legacy_hr_score": 36.4
     },
     {
-      "rank": 232,
+      "rank": 230,
       "player": "Nick Fortes",
       "team": "TB",
       "opponent": "BOS",
@@ -1825,13 +1825,13 @@
         "batted_ball_fit": 18.0,
         "environment": 42.7,
         "lineup_opportunity": 44.8,
-        "recent_form": 44.5,
+        "recent_form": 42.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 32.0
+      "legacy_hr_score": 31.8
     },
     {
-      "rank": 236,
+      "rank": 233,
       "player": "Ben Williamson",
       "team": "TB",
       "opponent": "BOS",
@@ -1850,7 +1850,7 @@
       "weather_precip_pct": "15",
       "game_start_time": "2026-07-17T17:35:00Z",
       "confirmed": true,
-      "edge_index": 2.6,
+      "edge_index": 2.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
@@ -1865,13 +1865,13 @@
         "batted_ball_fit": 1.7,
         "environment": 42.7,
         "lineup_opportunity": 64.3,
-        "recent_form": 42.0,
+        "recent_form": 36.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 34.7
+      "legacy_hr_score": 34.4
     },
     {
-      "rank": 253,
+      "rank": 251,
       "player": "Chandler Simpson",
       "team": "TB",
       "opponent": "BOS",
@@ -1905,13 +1905,13 @@
         "batted_ball_fit": 0.0,
         "environment": 42.7,
         "lineup_opportunity": 76.2,
-        "recent_form": 25.8,
+        "recent_form": 22.4,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 28.7
+      "legacy_hr_score": 28.5
     },
     {
-      "rank": 255,
+      "rank": 253,
       "player": "Taylor Walls",
       "team": "TB",
       "opponent": "BOS",
@@ -1954,6 +1954,46 @@
   "projected_targets": [
     {
       "rank": 1,
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "BAL",
+      "matchup": "HOU vs BAL",
+      "batting_order": "2",
+      "pitcher": "Dean Kremer",
+      "pitcher_hand": "R",
+      "ballpark": "Daikin Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "84",
+      "wind_speed": null,
+      "wind_direction": "153 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "weather_humidity": "68",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-18T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 6.9,
+      "ghost_grade": "B+",
+      "confidence": "Strong",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 85.2,
+        "pitcher_vulnerability": 57.9,
+        "batted_ball_fit": 65.9,
+        "environment": 56.1,
+        "lineup_opportunity": 95.5,
+        "recent_form": 56.2,
+        "bvp_pitch_mix": 56.0
+      },
+      "legacy_hr_score": 73.8
+    },
+    {
+      "rank": 2,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "CLE",
@@ -1994,7 +2034,7 @@
       "legacy_hr_score": 69.6
     },
     {
-      "rank": 2,
+      "rank": 3,
       "player": "Shohei Ohtani",
       "team": "LAD",
       "opponent": "NYY",
@@ -2034,46 +2074,6 @@
         "bvp_pitch_mix": 56.0
       },
       "legacy_hr_score": 71.4
-    },
-    {
-      "rank": 3,
-      "player": "Yordan Alvarez",
-      "team": "HOU",
-      "opponent": "BAL",
-      "matchup": "HOU vs BAL",
-      "batting_order": "2",
-      "pitcher": "Dean Kremer",
-      "pitcher_hand": "R",
-      "ballpark": "Daikin Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-18T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 6.5,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 85.2,
-        "pitcher_vulnerability": 57.9,
-        "batted_ball_fit": 65.9,
-        "environment": 27.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 56.2,
-        "bvp_pitch_mix": 56.0
-      },
-      "legacy_hr_score": 69.5
     },
     {
       "rank": 4,
@@ -2118,48 +2118,6 @@
     },
     {
       "rank": 5,
-      "player": "James Wood",
-      "team": "WSH",
-      "opponent": "ATH",
-      "matchup": "WSH vs ATH",
-      "batting_order": "1",
-      "pitcher": "Gage Jump",
-      "pitcher_hand": "L",
-      "ballpark": "Sutter Health Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "94",
-      "wind_speed": null,
-      "wind_direction": "218 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.5804&lon=-121.5139",
-      "weather_humidity": "21",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-18T01:40:00Z",
-      "confirmed": false,
-      "edge_index": 6.4,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 85.6,
-        "pitcher_vulnerability": 30.2,
-        "batted_ball_fit": 61.4,
-        "environment": 65.4,
-        "lineup_opportunity": 88.7,
-        "recent_form": 100.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 67.2
-    },
-    {
-      "rank": 6,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "AZ",
@@ -2200,7 +2158,7 @@
       "legacy_hr_score": 67.3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "player": "Eduardo Valencia",
       "team": "DET",
       "opponent": "LAA",
@@ -2241,6 +2199,48 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 67.0
+    },
+    {
+      "rank": 7,
+      "player": "James Wood",
+      "team": "WSH",
+      "opponent": "ATH",
+      "matchup": "WSH vs ATH",
+      "batting_order": "1",
+      "pitcher": "Gage Jump",
+      "pitcher_hand": "L",
+      "ballpark": "Sutter Health Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.5804&lon=-121.5139",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-07-18T01:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.0,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 85.6,
+        "pitcher_vulnerability": 30.2,
+        "batted_ball_fit": 61.4,
+        "environment": 30.9,
+        "lineup_opportunity": 88.7,
+        "recent_form": 100.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 62.1
     },
     {
       "rank": 8,
@@ -2446,6 +2446,46 @@
     },
     {
       "rank": 13,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "BOS",
+      "matchup": "TB vs BOS",
+      "batting_order": "3",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "295 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "53",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-07-17T23:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.6,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 64.3,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 57.1,
+        "environment": 53.2,
+        "lineup_opportunity": 92.1,
+        "recent_form": 51.3,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.9
+    },
+    {
+      "rank": 14,
       "player": "Mickey Moniak",
       "team": "COL",
       "opponent": "CIN",
@@ -2483,46 +2523,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 63.2
-    },
-    {
-      "rank": 14,
-      "player": "Junior Caminero",
-      "team": "TB",
-      "opponent": "BOS",
-      "matchup": "TB vs BOS",
-      "batting_order": "3",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "295 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "53",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-07-17T23:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.5,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 64.3,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 57.1,
-        "environment": 53.2,
-        "lineup_opportunity": 92.1,
-        "recent_form": 45.9,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 59.7
     },
     {
       "rank": 15,
@@ -2566,6 +2566,46 @@
     },
     {
       "rank": 16,
+      "player": "Pete Alonso",
+      "team": "BAL",
+      "opponent": "HOU",
+      "matchup": "BAL vs HOU",
+      "batting_order": "4",
+      "pitcher": "Peter Lambert",
+      "pitcher_hand": "R",
+      "ballpark": "Daikin Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "84",
+      "wind_speed": null,
+      "wind_direction": "153 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "weather_humidity": "68",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-18T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.4,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 69.0,
+        "pitcher_vulnerability": 33.6,
+        "batted_ball_fit": 48.0,
+        "environment": 56.1,
+        "lineup_opportunity": 90.4,
+        "recent_form": 53.3,
+        "bvp_pitch_mix": 50.0
+      },
+      "legacy_hr_score": 59.1
+    },
+    {
+      "rank": 17,
       "player": "Brandon Lowe",
       "team": "PIT",
       "opponent": "CLE",
@@ -2605,7 +2645,7 @@
       "legacy_hr_score": 61.6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "player": "Lars Nootbaar",
       "team": "STL",
       "opponent": "AZ",
@@ -2646,7 +2686,7 @@
       "legacy_hr_score": 62.9
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Kazuma Okamoto",
       "team": "TOR",
       "opponent": "CWS",
@@ -2686,7 +2726,7 @@
       "legacy_hr_score": 59.7
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "MIN",
@@ -2726,7 +2766,7 @@
       "legacy_hr_score": 60.6
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "KC",
@@ -2766,7 +2806,7 @@
       "legacy_hr_score": 58.9
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "LAA",
@@ -2806,7 +2846,7 @@
       "legacy_hr_score": 55.5
     },
     {
-      "rank": 23,
+      "rank": 24,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "TEX",
@@ -2926,7 +2966,7 @@
       "legacy_hr_score": 59.0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "MIA",
@@ -2966,7 +3006,7 @@
       "legacy_hr_score": 57.7
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "SEA",
@@ -3007,7 +3047,7 @@
       "legacy_hr_score": 56.4
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Jazz Chisholm",
       "team": "NYY",
       "opponent": "LAD",
@@ -3045,46 +3085,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 59.4
-    },
-    {
-      "rank": 30,
-      "player": "Pete Alonso",
-      "team": "BAL",
-      "opponent": "HOU",
-      "matchup": "BAL vs HOU",
-      "batting_order": "4",
-      "pitcher": "Peter Lambert",
-      "pitcher_hand": "R",
-      "ballpark": "Daikin Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-18T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + EV Edge",
-      "components": {
-        "hitter_power": 69.0,
-        "pitcher_vulnerability": 33.6,
-        "batted_ball_fit": 48.0,
-        "environment": 27.6,
-        "lineup_opportunity": 90.4,
-        "recent_form": 53.3,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 54.8
     },
     {
       "rank": 31,
@@ -3194,16 +3194,6 @@
       ]
     },
     {
-      "ballpark": "Sutter Health Park",
-      "environment_score": 65.4,
-      "top_player": "James Wood",
-      "top_edge": 6.4,
-      "teams": [
-        "ATH",
-        "WSH"
-      ]
-    },
-    {
       "ballpark": "Chase Field",
       "environment_score": 65.2,
       "top_player": "Jordan Walker",
@@ -3220,6 +3210,16 @@
       "teams": [
         "CWS",
         "TOR"
+      ]
+    },
+    {
+      "ballpark": "Daikin Park",
+      "environment_score": 56.1,
+      "top_player": "Yordan Alvarez",
+      "top_edge": 6.9,
+      "teams": [
+        "BAL",
+        "HOU"
       ]
     },
     {
@@ -3303,25 +3303,6 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Sutter Health Park",
-      "teams": [
-        "ATH",
-        "WSH"
-      ],
-      "environment_score": 65.4,
-      "park_hr_factor": 100.0,
-      "temperature": 94.0,
-      "wind_speed": 0.0,
-      "wind_direction": "218 deg",
-      "humidity": 21.0,
-      "precip_pct": 0.0,
-      "condition_grade": "Watch",
-      "top_player": "James Wood",
-      "top_edge": 6.4,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.5804&lon=-121.5139",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
       "ballpark": "Chase Field",
       "teams": [
         "STL"
@@ -3356,6 +3337,25 @@
       "top_player": "Munetaka Murakami",
       "top_edge": 5.9,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.6414&lon=-79.3894",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Daikin Park",
+      "teams": [
+        "BAL",
+        "HOU"
+      ],
+      "environment_score": 56.1,
+      "park_hr_factor": 100.0,
+      "temperature": 84.0,
+      "wind_speed": 0.0,
+      "wind_direction": "153 deg",
+      "humidity": 68.0,
+      "precip_pct": 2.0,
+      "condition_grade": "Neutral",
+      "top_player": "Yordan Alvarez",
+      "top_edge": 6.9,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -3449,7 +3449,7 @@
       "precip_pct": 15.0,
       "condition_grade": "Neutral",
       "top_player": "Junior Caminero",
-      "top_edge": 5.5,
+      "top_edge": 5.6,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
@@ -3511,12 +3511,12 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Daikin Park",
+      "ballpark": "Sutter Health Park",
       "teams": [
-        "BAL",
-        "HOU"
+        "ATH",
+        "WSH"
       ],
-      "environment_score": 27.6,
+      "environment_score": 30.9,
       "park_hr_factor": 100.0,
       "temperature": "",
       "wind_speed": 0.0,
@@ -3524,9 +3524,9 @@
       "humidity": "",
       "precip_pct": "",
       "condition_grade": "Resist",
-      "top_player": "Yordan Alvarez",
-      "top_edge": 6.5,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "top_player": "James Wood",
+      "top_edge": 6.0,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.5804&lon=-121.5139",
       "source_note": "NOAA link only"
     }
   ],
