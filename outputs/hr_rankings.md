@@ -20,8 +20,8 @@
 | 16 | Brandon Lowe | PIT | Gavin Williams | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Pete Crow-Armstrong | CHC | Bailey Ober | 1 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Drake Baldwin | ATL | Cal Quantrill | 1 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Kazuma Okamoto | TOR | Anthony Kay | 5 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 20 | Junior Caminero | TB |  | 3 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Junior Caminero | TB |  | 3 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Kazuma Okamoto | TOR | Anthony Kay | 5 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
