@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Ben Rice | NYY | Roki Sasaki | 2 | 74.6 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Yordan Alvarez | HOU | Dean Kremer | 2 | 74.4 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Shohei Ohtani | LAD | Gerrit Cole | 1 | 74.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | James Wood | WSH | Gage Jump | 1 | 69.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Eduardo Valencia | DET | Reid Detmers | 6 | 69.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 6 | Jordan Walker | STL | Merrill Kelly | 4 | 67.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Matt Olson | ATL | Cal Quantrill | 3 | 67.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Alec Burleson | STL | Merrill Kelly | 3 | 66.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Trent Grisham | NYY | Roki Sasaki | 1 | 65.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 10 | Willson Contreras | BOS | Mason Englert | 4 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Mike Trout | LAA | Troy Melton | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Mickey Moniak | COL | Brady Singer | 2 | 63.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Munetaka Murakami | CWS | Spencer Miles | 2 | 63.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Lars Nootbaar | STL | Merrill Kelly | 5 | 63.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 15 | Hunter Goodman | COL | Brady Singer | 3 | 63.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 16 | Pete Crow-Armstrong | CHC | Bailey Ober | 1 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Harry Ford | WSH | Gage Jump | 6 | 63.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 18 | Drake Baldwin | ATL | Cal Quantrill | 1 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Wilyer Abreu | BOS | Mason Englert | 3 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Bryce Eldridge | SF | Bryce Miller | 2 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Yordan Alvarez | HOU | Dean Kremer | 2 | 74.4 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Eduardo Valencia | DET | Reid Detmers | 6 | 69.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 3 | James Wood | WSH | Gage Jump | 1 | 69.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Jordan Walker | STL | Merrill Kelly | 4 | 67.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 5 | Alec Burleson | STL | Merrill Kelly | 3 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Mike Trout | LAA | Troy Melton | 2 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Mickey Moniak | COL | Brady Singer | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 8 | Hunter Goodman | COL | Brady Singer | 3 | 63.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 9 | Harry Ford | WSH | Gage Jump | 6 | 63.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 10 | Bryce Eldridge | SF | Bryce Miller | 2 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Lars Nootbaar | STL | Merrill Kelly | 5 | 62.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Manny Machado | SD | Seth Lugo | 4 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Jac Caglianone | KC | Michael King | 3 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Max Kepler | AZ | Michael McGreevy | 5 | 61.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 15 | Jackson Merrill | SD | Seth Lugo | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Corbin Carroll | AZ | Michael McGreevy | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Pete Alonso | BAL | Peter Lambert | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Spencer Torkelson | DET | Reid Detmers | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | JJ Wetherholt | STL | Merrill Kelly | 1 | 58.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Fernando Tatis Jr. | SD | Seth Lugo | 1 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Ben Rice + Yordan Alvarez | Avg HR Score: 74.5
-- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 74.2
-- Shohei Ohtani + James Wood | Avg HR Score: 72.0
-- James Wood + Eduardo Valencia | Avg HR Score: 69.8
-- Eduardo Valencia + Jordan Walker | Avg HR Score: 68.8
+- Yordan Alvarez + Eduardo Valencia | Avg HR Score: 72.2
+- Eduardo Valencia + James Wood | Avg HR Score: 69.8
+- James Wood + Jordan Walker | Avg HR Score: 68.3
+- Jordan Walker + Alec Burleson | Avg HR Score: 66.2
+- Alec Burleson + Mike Trout | Avg HR Score: 65.2
 
 ## Best 3-Leg Pairings
 
-- Ben Rice + Yordan Alvarez + Shohei Ohtani | Avg HR Score: 74.3
-- Yordan Alvarez + Shohei Ohtani + James Wood | Avg HR Score: 72.8
-- Shohei Ohtani + James Wood + Eduardo Valencia | Avg HR Score: 71.2
-- James Wood + Eduardo Valencia + Jordan Walker | Avg HR Score: 69.1
-- Eduardo Valencia + Jordan Walker + Matt Olson | Avg HR Score: 68.4
+- Yordan Alvarez + Eduardo Valencia + James Wood | Avg HR Score: 71.3
+- Eduardo Valencia + James Wood + Jordan Walker | Avg HR Score: 68.9
+- James Wood + Jordan Walker + Alec Burleson | Avg HR Score: 67.4
+- Jordan Walker + Alec Burleson + Mike Trout | Avg HR Score: 65.8
+- Alec Burleson + Mike Trout + Mickey Moniak | Avg HR Score: 64.8
 
 ## Best 4-Leg Pairings
 
-- Ben Rice + Yordan Alvarez + Shohei Ohtani + James Wood | Avg HR Score: 73.2
-- Yordan Alvarez + Shohei Ohtani + James Wood + Eduardo Valencia | Avg HR Score: 72.0
-- Shohei Ohtani + James Wood + Eduardo Valencia + Jordan Walker | Avg HR Score: 70.3
-- James Wood + Eduardo Valencia + Jordan Walker + Matt Olson | Avg HR Score: 68.8
-- Eduardo Valencia + Jordan Walker + Matt Olson + Alec Burleson | Avg HR Score: 67.9
+- Yordan Alvarez + Eduardo Valencia + James Wood + Jordan Walker | Avg HR Score: 70.2
+- Eduardo Valencia + James Wood + Jordan Walker + Alec Burleson | Avg HR Score: 68.0
+- James Wood + Jordan Walker + Alec Burleson + Mike Trout | Avg HR Score: 66.8
+- Jordan Walker + Alec Burleson + Mike Trout + Mickey Moniak | Avg HR Score: 65.3
+- Alec Burleson + Mike Trout + Mickey Moniak + Hunter Goodman | Avg HR Score: 64.5
