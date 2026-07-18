@@ -8,20 +8,20 @@
 | 4 | James Wood | WSH | J.T. Ginn | 1 | 70.2 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Elly De La Cruz | CIN | Tomoyuki Sugano | 1 | 70.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | Shohei Ohtani | LAD | Ryan Weathers | 1 | 69.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Sal Stewart | CIN | Tomoyuki Sugano | 2 | 68.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 8 | Colson Montgomery | CWS | Shane Bieber | 4 | 67.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 9 | Yordan Alvarez | HOU | Trevor Rogers | 2 | 67.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 10 | Ben Rice | NYY | Emmet Sheehan | 2 | 66.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Kyle Schwarber | PHI | Sean Manaea | 2 | 66.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Kyle Schwarber | PHI | Sean Manaea | 2 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 8 | Sal Stewart | CIN | Tomoyuki Sugano | 2 | 68.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 9 | Colson Montgomery | CWS | Shane Bieber | 4 | 67.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 10 | Yordan Alvarez | HOU | Trevor Rogers | 2 | 67.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 11 | Ben Rice | NYY | Emmet Sheehan | 2 | 66.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Miguel Vargas | CWS | Shane Bieber | 3 | 66.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 13 | JJ Bleday | CIN | Tomoyuki Sugano | 3 | 64.9 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Brandon Lowe | PIT | Gavin Williams | 2 | 64.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Shea Langeliers | ATH | Zack Littell | 3 | 64.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Tyler Soderstrom | ATH | Zack Littell | 2 | 63.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Riley Greene | DET | Grayson Rodriguez | 4 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Mike Trout | LAA | Tarik Skubal | 2 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Nelson Velazquez | STL | Brandon Pfaadt | 4 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Andrew Benintendi | CWS | Shane Bieber | 5 | 61.9 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 13 | Matt Olson | ATL | MacKenzie Gore | 3 | 65.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 14 | JJ Bleday | CIN | Tomoyuki Sugano | 3 | 64.9 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Brandon Lowe | PIT | Gavin Williams | 2 | 64.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Shea Langeliers | ATH | Zack Littell | 3 | 64.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Brandon Nimmo | TEX | Owen Murphy | 4 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 18 | Tyler Soderstrom | ATH | Zack Littell | 2 | 63.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jac Caglianone | KC | Griffin Canning | 3 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Riley Greene | DET | Grayson Rodriguez | 4 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -37,12 +37,12 @@
 - Esmerlyn Valdez + Esmerlyn Valdez + James Wood | Avg HR Score: 72.7
 - Esmerlyn Valdez + James Wood + Elly De La Cruz | Avg HR Score: 71.0
 - James Wood + Elly De La Cruz + Shohei Ohtani | Avg HR Score: 69.8
-- Elly De La Cruz + Shohei Ohtani + Sal Stewart | Avg HR Score: 69.3
+- Elly De La Cruz + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 69.4
 
 ## Best 4-Leg Pairings
 
 - Munetaka Murakami + Esmerlyn Valdez + Esmerlyn Valdez + James Wood | Avg HR Score: 74.0
 - Esmerlyn Valdez + Esmerlyn Valdez + James Wood + Elly De La Cruz | Avg HR Score: 72.0
 - Esmerlyn Valdez + James Wood + Elly De La Cruz + Shohei Ohtani | Avg HR Score: 70.5
-- James Wood + Elly De La Cruz + Shohei Ohtani + Sal Stewart | Avg HR Score: 69.5
-- Elly De La Cruz + Shohei Ohtani + Sal Stewart + Colson Montgomery | Avg HR Score: 68.9
+- James Wood + Elly De La Cruz + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 69.6
+- Elly De La Cruz + Shohei Ohtani + Kyle Schwarber + Sal Stewart | Avg HR Score: 69.2
