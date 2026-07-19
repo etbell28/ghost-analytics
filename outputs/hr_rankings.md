@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Brandon Young | 2 | 72.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Shohei Ohtani | LAD |  | 1 | 67.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Bryce Eldridge | SF | Logan Gilbert | 2 | 67.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | James Wood | WSH | Jacob Lopez | 1 | 66.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Jac Caglianone | KC | Germán Márquez | 3 | 66.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Esmerlyn Valdez | PIT | Joey Cantillo | 4 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Elly De La Cruz | CIN | Ryan Feltner | 1 | 64.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Nelson Velázquez | STL | Eduardo Rodriguez | 4 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Matt Olson | ATL | Nathan Eovaldi | 3 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ben Rice | NYY |  | 2 | 64.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Kyle Schwarber | PHI | Nolan McLean | 2 | 63.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Drake Baldwin | ATL | Nathan Eovaldi | 1 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Brandon Nimmo | TEX | Grant Holmes | 4 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Juan Soto | NYM | Alan Rangel | 2 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Shea Langeliers | ATH | Foster Griffin | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 16 | Sal Stewart | CIN | Ryan Feltner | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 17 | Willson Contreras | BOS | Shane McClanahan | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Mike Trout | LAA | Casey Mize | 2 | 62.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 19 | Jordan Walker | STL | Eduardo Rodriguez | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Riley Greene | DET | Ryan Johnson | 4 | 62.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 1 | Shohei Ohtani | LAD |  | 1 | 67.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Ben Rice | NYY | Will Klein | 2 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Freddie Freeman | LAD |  | 3 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 4 | Andy Pages | LAD |  | 2 | 53.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 5 | Trent Grisham | NYY | Will Klein | 1 | 52.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Max Muncy | LAD |  | 5 | 49.5 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 7 | Mookie Betts | LAD |  | 4 | 48.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 8 | Teoscar Hernandez | LAD |  | 7 | 47.8 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 9 | Dalton Rushing | LAD |  | 8 | 45.8 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 10 | Jazz Chisholm | NYY | Will Klein | 6 | 45.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Kyle Tucker | LAD |  | 6 | 45.6 | Longshot | Watch List | Projected Lineup |
+| 12 | Ryan McMahon | NYY | Will Klein | 8 | 45.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 13 | Cody Bellinger | NYY | Will Klein | 4 | 43.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 14 | Jasson Dominguez | NYY | Will Klein | 3 | 43.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 15 | Tommy Edman | LAD |  | 9 | 42.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 16 | Max Schuemann | NYY | Will Klein | 5 | 40.4 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 17 | Anthony Volpe | NYY | Will Klein | 7 | 34.0 | Longshot | Watch List | Projected Lineup |
+| 18 | Ali Sanchez | NYY | Will Klein | 9 | 26.2 | Longshot | Watch List | Projected Lineup |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 69.9
-- Shohei Ohtani + Bryce Eldridge | Avg HR Score: 67.4
-- Bryce Eldridge + James Wood | Avg HR Score: 66.7
-- James Wood + Jac Caglianone | Avg HR Score: 66.2
-- Jac Caglianone + Esmerlyn Valdez | Avg HR Score: 65.9
+- Shohei Ohtani + Ben Rice | Avg HR Score: 63.8
+- Ben Rice + Freddie Freeman | Avg HR Score: 56.7
+- Freddie Freeman + Andy Pages | Avg HR Score: 53.5
+- Andy Pages + Trent Grisham | Avg HR Score: 52.7
+- Trent Grisham + Max Muncy | Avg HR Score: 50.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Bryce Eldridge | Avg HR Score: 68.9
-- Shohei Ohtani + Bryce Eldridge + James Wood | Avg HR Score: 67.0
-- Bryce Eldridge + James Wood + Jac Caglianone | Avg HR Score: 66.5
-- James Wood + Jac Caglianone + Esmerlyn Valdez | Avg HR Score: 66.0
-- Jac Caglianone + Esmerlyn Valdez + Elly De La Cruz | Avg HR Score: 65.5
+- Shohei Ohtani + Ben Rice + Freddie Freeman | Avg HR Score: 60.4
+- Ben Rice + Freddie Freeman + Andy Pages | Avg HR Score: 55.5
+- Freddie Freeman + Andy Pages + Trent Grisham | Avg HR Score: 53.0
+- Andy Pages + Trent Grisham + Max Muncy | Avg HR Score: 51.6
+- Trent Grisham + Max Muncy + Mookie Betts | Avg HR Score: 50.0
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Bryce Eldridge + James Wood | Avg HR Score: 68.3
-- Shohei Ohtani + Bryce Eldridge + James Wood + Jac Caglianone | Avg HR Score: 66.8
-- Bryce Eldridge + James Wood + Jac Caglianone + Esmerlyn Valdez | Avg HR Score: 66.3
-- James Wood + Jac Caglianone + Esmerlyn Valdez + Elly De La Cruz | Avg HR Score: 65.7
-- Jac Caglianone + Esmerlyn Valdez + Elly De La Cruz + Nelson Velázquez | Avg HR Score: 65.3
+- Shohei Ohtani + Ben Rice + Freddie Freeman + Andy Pages | Avg HR Score: 58.6
+- Ben Rice + Freddie Freeman + Andy Pages + Trent Grisham | Avg HR Score: 54.7
+- Freddie Freeman + Andy Pages + Trent Grisham + Max Muncy | Avg HR Score: 52.1
+- Andy Pages + Trent Grisham + Max Muncy + Mookie Betts | Avg HR Score: 50.8
+- Trent Grisham + Max Muncy + Mookie Betts + Teoscar Hernandez | Avg HR Score: 49.4
