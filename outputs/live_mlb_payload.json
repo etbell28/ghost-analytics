@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Tuesday, July 21, 2026",
-  "generated_at": "10:13 AM EDT",
-  "generated_iso": "2026-07-21T10:13:25.948650-04:00",
+  "generated_at": "11:55 AM EDT",
+  "generated_iso": "2026-07-21T11:55:38.621843-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -16,6 +16,48 @@
   "top_targets": [
     {
       "rank": 1,
+      "player": "James Wood",
+      "team": "WSH",
+      "opponent": "COL",
+      "matchup": "WSH vs COL",
+      "batting_order": "1",
+      "pitcher": "Michael Lorenzen",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "89",
+      "wind_speed": null,
+      "wind_direction": "314 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "25",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-22T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.8,
+      "ghost_grade": "B+",
+      "confidence": "Strong",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Weather Edge",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Weather Edge + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 84.3,
+        "pitcher_vulnerability": 51.6,
+        "batted_ball_fit": 60.3,
+        "environment": 69.7,
+        "lineup_opportunity": 88.7,
+        "recent_form": 82.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 74.4
+    },
+    {
+      "rank": 2,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "NYY",
@@ -57,7 +99,7 @@
       "legacy_hr_score": 70.2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "player": "Yordan Alvarez",
       "team": "HOU",
       "opponent": "MIA",
@@ -97,47 +139,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 71.3
-    },
-    {
-      "rank": 3,
-      "player": "James Wood",
-      "team": "WSH",
-      "opponent": "COL",
-      "matchup": "WSH vs COL",
-      "batting_order": "1",
-      "pitcher": "Michael Lorenzen",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-22T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 6.5,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 84.3,
-        "pitcher_vulnerability": 51.6,
-        "batted_ball_fit": 60.3,
-        "environment": 38.7,
-        "lineup_opportunity": 88.7,
-        "recent_form": 82.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 69.7
     },
     {
       "rank": 4,
@@ -222,6 +223,47 @@
     },
     {
       "rank": 6,
+      "player": "Hunter Goodman",
+      "team": "COL",
+      "opponent": "WSH",
+      "matchup": "COL vs WSH",
+      "batting_order": "3",
+      "pitcher": "Miles Mikolas",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "89",
+      "wind_speed": null,
+      "wind_direction": "314 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "25",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-22T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.3,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Weather Edge",
+        "Hot Bat"
+      ],
+      "label_summary": "Projected + Weather Edge + Hot Bat",
+      "components": {
+        "hitter_power": 61.7,
+        "pitcher_vulnerability": 57.3,
+        "batted_ball_fit": 57.8,
+        "environment": 69.7,
+        "lineup_opportunity": 92.1,
+        "recent_form": 85.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 66.2
+    },
+    {
+      "rank": 7,
       "player": "Mike Trout",
       "team": "LAA",
       "opponent": "STL",
@@ -259,46 +301,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 65.0
-    },
-    {
-      "rank": 7,
-      "player": "Hunter Goodman",
-      "team": "COL",
-      "opponent": "WSH",
-      "matchup": "COL vs WSH",
-      "batting_order": "3",
-      "pitcher": "Miles Mikolas",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-22T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat"
-      ],
-      "label_summary": "Projected + Hot Bat",
-      "components": {
-        "hitter_power": 61.7,
-        "pitcher_vulnerability": 57.3,
-        "batted_ball_fit": 57.8,
-        "environment": 38.7,
-        "lineup_opportunity": 92.1,
-        "recent_form": 85.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.6
     },
     {
       "rank": 8,
@@ -585,6 +587,46 @@
     },
     {
       "rank": 15,
+      "player": "Mickey Moniak",
+      "team": "COL",
+      "opponent": "WSH",
+      "matchup": "COL vs WSH",
+      "batting_order": "2",
+      "pitcher": "Miles Mikolas",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "89",
+      "wind_speed": null,
+      "wind_direction": "314 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "25",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-22T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.5,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Weather Edge"
+      ],
+      "label_summary": "Projected + Weather Edge",
+      "components": {
+        "hitter_power": 52.1,
+        "pitcher_vulnerability": 57.3,
+        "batted_ball_fit": 47.4,
+        "environment": 69.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 16.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 62.8
+    },
+    {
+      "rank": 16,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "MIL",
@@ -624,7 +666,7 @@
       "legacy_hr_score": 62.9
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "KC",
@@ -665,7 +707,7 @@
       "legacy_hr_score": 61.3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "CHC",
@@ -705,7 +747,7 @@
       "legacy_hr_score": 58.7
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Willson Contreras",
       "team": "BOS",
       "opponent": "BAL",
@@ -746,7 +788,7 @@
       "legacy_hr_score": 57.8
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "SEA",
@@ -786,7 +828,7 @@
       "legacy_hr_score": 59.4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "TEX",
@@ -826,7 +868,7 @@
       "legacy_hr_score": 59.2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Elly De La Cruz",
       "team": "CIN",
       "opponent": "SEA",
@@ -867,7 +909,7 @@
       "legacy_hr_score": 60.9
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "SF",
@@ -905,46 +947,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 60.1
-    },
-    {
-      "rank": 23,
-      "player": "Shea Langeliers",
-      "team": "ATH",
-      "opponent": "AZ",
-      "matchup": "ATH vs AZ",
-      "batting_order": "3",
-      "pitcher": "Kohl Drake",
-      "pitcher_hand": "L",
-      "ballpark": "Chase Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "105",
-      "wind_speed": null,
-      "wind_direction": "260 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.4455&lon=-112.0667",
-      "weather_humidity": "22",
-      "weather_precip_pct": "1",
-      "game_start_time": "2026-07-22T01:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 58.3,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 45.5,
-        "environment": 62.2,
-        "lineup_opportunity": 92.1,
-        "recent_form": 53.3,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.0
     },
     {
       "rank": 24,
@@ -1108,46 +1110,6 @@
     },
     {
       "rank": 28,
-      "player": "Mickey Moniak",
-      "team": "COL",
-      "opponent": "WSH",
-      "matchup": "COL vs WSH",
-      "batting_order": "2",
-      "pitcher": "Miles Mikolas",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-22T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 52.1,
-        "pitcher_vulnerability": 57.3,
-        "batted_ball_fit": 47.4,
-        "environment": 38.7,
-        "lineup_opportunity": 95.5,
-        "recent_form": 16.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 58.2
-    },
-    {
-      "rank": 29,
       "player": "Brandon Nimmo",
       "team": "TEX",
       "opponent": "CWS",
@@ -1187,7 +1149,7 @@
       "legacy_hr_score": 58.6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "player": "Brandon Lowe",
       "team": "PIT",
       "opponent": "NYY",
@@ -1225,12 +1187,94 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 58.9
+    },
+    {
+      "rank": 30,
+      "player": "Michael Harris",
+      "team": "ATL",
+      "opponent": "SD",
+      "matchup": "ATL vs SD",
+      "batting_order": "4",
+      "pitcher": "Walker Buehler",
+      "pitcher_hand": "R",
+      "ballpark": "Truist Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "86",
+      "wind_speed": null,
+      "wind_direction": "236 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.8907&lon=-84.4677",
+      "weather_humidity": "62",
+      "weather_precip_pct": "1",
+      "game_start_time": "2026-07-21T23:15:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 51.6,
+        "pitcher_vulnerability": 45.8,
+        "batted_ball_fit": 34.9,
+        "environment": 58.4,
+        "lineup_opportunity": 90.4,
+        "recent_form": 58.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.6
     }
   ],
   "confirmed_targets": [],
   "projected_targets": [
     {
       "rank": 1,
+      "player": "James Wood",
+      "team": "WSH",
+      "opponent": "COL",
+      "matchup": "WSH vs COL",
+      "batting_order": "1",
+      "pitcher": "Michael Lorenzen",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "89",
+      "wind_speed": null,
+      "wind_direction": "314 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "25",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-22T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.8,
+      "ghost_grade": "B+",
+      "confidence": "Strong",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Weather Edge",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Weather Edge + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 84.3,
+        "pitcher_vulnerability": 51.6,
+        "batted_ball_fit": 60.3,
+        "environment": 69.7,
+        "lineup_opportunity": 88.7,
+        "recent_form": 82.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 74.4
+    },
+    {
+      "rank": 2,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "NYY",
@@ -1272,7 +1316,7 @@
       "legacy_hr_score": 70.2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "player": "Yordan Alvarez",
       "team": "HOU",
       "opponent": "MIA",
@@ -1312,47 +1356,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 71.3
-    },
-    {
-      "rank": 3,
-      "player": "James Wood",
-      "team": "WSH",
-      "opponent": "COL",
-      "matchup": "WSH vs COL",
-      "batting_order": "1",
-      "pitcher": "Michael Lorenzen",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-22T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 6.5,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 84.3,
-        "pitcher_vulnerability": 51.6,
-        "batted_ball_fit": 60.3,
-        "environment": 38.7,
-        "lineup_opportunity": 88.7,
-        "recent_form": 82.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 69.7
     },
     {
       "rank": 4,
@@ -1437,6 +1440,47 @@
     },
     {
       "rank": 6,
+      "player": "Hunter Goodman",
+      "team": "COL",
+      "opponent": "WSH",
+      "matchup": "COL vs WSH",
+      "batting_order": "3",
+      "pitcher": "Miles Mikolas",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "89",
+      "wind_speed": null,
+      "wind_direction": "314 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "25",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-22T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.3,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Weather Edge",
+        "Hot Bat"
+      ],
+      "label_summary": "Projected + Weather Edge + Hot Bat",
+      "components": {
+        "hitter_power": 61.7,
+        "pitcher_vulnerability": 57.3,
+        "batted_ball_fit": 57.8,
+        "environment": 69.7,
+        "lineup_opportunity": 92.1,
+        "recent_form": 85.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 66.2
+    },
+    {
+      "rank": 7,
       "player": "Mike Trout",
       "team": "LAA",
       "opponent": "STL",
@@ -1474,46 +1518,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 65.0
-    },
-    {
-      "rank": 7,
-      "player": "Hunter Goodman",
-      "team": "COL",
-      "opponent": "WSH",
-      "matchup": "COL vs WSH",
-      "batting_order": "3",
-      "pitcher": "Miles Mikolas",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-22T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat"
-      ],
-      "label_summary": "Projected + Hot Bat",
-      "components": {
-        "hitter_power": 61.7,
-        "pitcher_vulnerability": 57.3,
-        "batted_ball_fit": 57.8,
-        "environment": 38.7,
-        "lineup_opportunity": 92.1,
-        "recent_form": 85.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.6
     },
     {
       "rank": 8,
@@ -1800,6 +1804,46 @@
     },
     {
       "rank": 15,
+      "player": "Mickey Moniak",
+      "team": "COL",
+      "opponent": "WSH",
+      "matchup": "COL vs WSH",
+      "batting_order": "2",
+      "pitcher": "Miles Mikolas",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "89",
+      "wind_speed": null,
+      "wind_direction": "314 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "25",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-07-22T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.5,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Weather Edge"
+      ],
+      "label_summary": "Projected + Weather Edge",
+      "components": {
+        "hitter_power": 52.1,
+        "pitcher_vulnerability": 57.3,
+        "batted_ball_fit": 47.4,
+        "environment": 69.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 16.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 62.8
+    },
+    {
+      "rank": 16,
       "player": "Juan Soto",
       "team": "NYM",
       "opponent": "MIL",
@@ -1839,7 +1883,7 @@
       "legacy_hr_score": 62.9
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "KC",
@@ -1880,7 +1924,7 @@
       "legacy_hr_score": 61.3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "player": "Riley Greene",
       "team": "DET",
       "opponent": "CHC",
@@ -1920,7 +1964,7 @@
       "legacy_hr_score": 58.7
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Willson Contreras",
       "team": "BOS",
       "opponent": "BAL",
@@ -1961,7 +2005,7 @@
       "legacy_hr_score": 57.8
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "SEA",
@@ -2001,7 +2045,7 @@
       "legacy_hr_score": 59.4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "TEX",
@@ -2041,7 +2085,7 @@
       "legacy_hr_score": 59.2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Elly De La Cruz",
       "team": "CIN",
       "opponent": "SEA",
@@ -2082,7 +2126,7 @@
       "legacy_hr_score": 60.9
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "SF",
@@ -2120,46 +2164,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 60.1
-    },
-    {
-      "rank": 23,
-      "player": "Shea Langeliers",
-      "team": "ATH",
-      "opponent": "AZ",
-      "matchup": "ATH vs AZ",
-      "batting_order": "3",
-      "pitcher": "Kohl Drake",
-      "pitcher_hand": "L",
-      "ballpark": "Chase Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "105",
-      "wind_speed": null,
-      "wind_direction": "260 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.4455&lon=-112.0667",
-      "weather_humidity": "22",
-      "weather_precip_pct": "1",
-      "game_start_time": "2026-07-22T01:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 58.3,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 45.5,
-        "environment": 62.2,
-        "lineup_opportunity": 92.1,
-        "recent_form": 53.3,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.0
     },
     {
       "rank": 24,
@@ -2323,46 +2327,6 @@
     },
     {
       "rank": 28,
-      "player": "Mickey Moniak",
-      "team": "COL",
-      "opponent": "WSH",
-      "matchup": "COL vs WSH",
-      "batting_order": "2",
-      "pitcher": "Miles Mikolas",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-07-22T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 52.1,
-        "pitcher_vulnerability": 57.3,
-        "batted_ball_fit": 47.4,
-        "environment": 38.7,
-        "lineup_opportunity": 95.5,
-        "recent_form": 16.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 58.2
-    },
-    {
-      "rank": 29,
       "player": "Brandon Nimmo",
       "team": "TEX",
       "opponent": "CWS",
@@ -2402,7 +2366,7 @@
       "legacy_hr_score": 58.6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "player": "Brandon Lowe",
       "team": "PIT",
       "opponent": "NYY",
@@ -2440,10 +2404,70 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 58.9
+    },
+    {
+      "rank": 30,
+      "player": "Michael Harris",
+      "team": "ATL",
+      "opponent": "SD",
+      "matchup": "ATL vs SD",
+      "batting_order": "4",
+      "pitcher": "Walker Buehler",
+      "pitcher_hand": "R",
+      "ballpark": "Truist Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "86",
+      "wind_speed": null,
+      "wind_direction": "236 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.8907&lon=-84.4677",
+      "weather_humidity": "62",
+      "weather_precip_pct": "1",
+      "game_start_time": "2026-07-21T23:15:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 51.6,
+        "pitcher_vulnerability": 45.8,
+        "batted_ball_fit": 34.9,
+        "environment": 58.4,
+        "lineup_opportunity": 90.4,
+        "recent_form": 58.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.6
     }
   ],
   "pairings": {
     "2": [
+      {
+        "names": "James Wood + Esmerlyn Valdez",
+        "teams": "WSH vs COL / PIT vs NYY",
+        "avg_edge": 6.8,
+        "combo_score": 7.04,
+        "type": "Power Pair",
+        "volatility": "Medium",
+        "labels": "Projected, Weather Edge, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "reason": "independent games"
+      },
+      {
+        "names": "James Wood + Yordan Alvarez",
+        "teams": "WSH vs COL / HOU vs MIA",
+        "avg_edge": 6.7,
+        "combo_score": 6.94,
+        "type": "Power Pair",
+        "volatility": "Medium",
+        "labels": "Projected, Weather Edge, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "reason": "independent games"
+      },
       {
         "names": "Esmerlyn Valdez + Yordan Alvarez",
         "teams": "PIT vs NYY / HOU vs MIA",
@@ -2455,14 +2479,14 @@
         "reason": "independent games"
       },
       {
-        "names": "Esmerlyn Valdez + James Wood",
-        "teams": "PIT vs NYY / WSH vs COL",
-        "avg_edge": 6.7,
-        "combo_score": 6.89,
-        "type": "Power Pair",
+        "names": "James Wood + Hunter Goodman",
+        "teams": "WSH vs COL / COL vs WSH",
+        "avg_edge": 6.5,
+        "combo_score": 6.92,
+        "type": "Weather Stack",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge",
-        "reason": "independent games"
+        "labels": "Projected, Weather Edge, Hot Bat, EV Edge / Projected, Weather Edge, Hot Bat",
+        "reason": "weather stack logic"
       },
       {
         "names": "Esmerlyn Valdez + Munetaka Murakami",
@@ -2472,16 +2496,6 @@
         "type": "Power Pair",
         "volatility": "Medium",
         "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge",
-        "reason": "independent games"
-      },
-      {
-        "names": "Yordan Alvarez + James Wood",
-        "teams": "HOU vs MIA / WSH vs COL",
-        "avg_edge": 6.5,
-        "combo_score": 6.79,
-        "type": "Power Pair",
-        "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge",
         "reason": "independent games"
       },
       {
@@ -2495,65 +2509,55 @@
         "reason": "independent games"
       },
       {
-        "names": "James Wood + Munetaka Murakami",
-        "teams": "WSH vs COL / CWS vs TEX",
-        "avg_edge": 6.5,
-        "combo_score": 6.69,
+        "names": "Munetaka Murakami + Kyle Schwarber",
+        "teams": "CWS vs TEX / PHI vs LAD",
+        "avg_edge": 6.3,
+        "combo_score": 6.59,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge",
-        "reason": "independent games"
-      },
-      {
-        "names": "Kyle Schwarber + Mike Trout",
-        "teams": "PHI vs LAD / LAA vs STL",
-        "avg_edge": 6.1,
-        "combo_score": 6.24,
-        "type": "Balanced 2",
-        "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, EV Edge",
+        "labels": "Projected, EV Edge / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
         "names": "Kyle Schwarber + Hunter Goodman",
         "teams": "PHI vs LAD / COL vs WSH",
-        "avg_edge": 6.1,
-        "combo_score": 6.24,
+        "avg_edge": 6.3,
+        "combo_score": 6.54,
         "type": "Balanced 2",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Hot Bat",
+        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Weather Edge, Hot Bat",
         "reason": "independent games"
       }
     ],
     "3": [
       {
-        "names": "Esmerlyn Valdez + Yordan Alvarez + James Wood",
-        "teams": "PIT vs NYY / HOU vs MIA / WSH vs COL",
-        "avg_edge": 6.6,
-        "combo_score": 6.99,
+        "names": "James Wood + Esmerlyn Valdez + Yordan Alvarez",
+        "teams": "WSH vs COL / PIT vs NYY / HOU vs MIA",
+        "avg_edge": 6.7,
+        "combo_score": 7.09,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge",
+        "labels": "Projected, Weather Edge, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher",
         "reason": "independent games"
       },
       {
-        "names": "Esmerlyn Valdez + Yordan Alvarez + Munetaka Murakami",
-        "teams": "PIT vs NYY / HOU vs MIA / CWS vs TEX",
-        "avg_edge": 6.6,
-        "combo_score": 6.96,
+        "names": "James Wood + Esmerlyn Valdez + Munetaka Murakami",
+        "teams": "WSH vs COL / PIT vs NYY / CWS vs TEX",
+        "avg_edge": 6.7,
+        "combo_score": 7.03,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge",
+        "labels": "Projected, Weather Edge, Hot Bat, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge",
         "reason": "independent games"
       },
       {
-        "names": "James Wood + Munetaka Murakami + Kyle Schwarber",
-        "teams": "WSH vs COL / CWS vs TEX / PHI vs LAD",
+        "names": "Yordan Alvarez + Munetaka Murakami + Kyle Schwarber",
+        "teams": "HOU vs MIA / CWS vs TEX / PHI vs LAD",
         "avg_edge": 6.4,
-        "combo_score": 6.76,
+        "combo_score": 6.79,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge / Projected, EV Edge, Tough Pitcher",
+        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games"
       }
     ],
@@ -2561,12 +2565,13 @@
   },
   "weather_edges": [
     {
-      "ballpark": "Chase Field",
-      "environment_score": 62.2,
-      "top_player": "Shea Langeliers",
-      "top_edge": 5.3,
+      "ballpark": "Coors Field",
+      "environment_score": 69.7,
+      "top_player": "James Wood",
+      "top_edge": 6.8,
       "teams": [
-        "ATH"
+        "COL",
+        "WSH"
       ]
     },
     {
@@ -2662,21 +2667,22 @@
   ],
   "park_conditions": [
     {
-      "ballpark": "Chase Field",
+      "ballpark": "Coors Field",
       "teams": [
-        "ATH"
+        "COL",
+        "WSH"
       ],
-      "environment_score": 62.2,
+      "environment_score": 69.7,
       "park_hr_factor": 100.0,
-      "temperature": 105.0,
+      "temperature": 89.0,
       "wind_speed": 0.0,
-      "wind_direction": "260 deg",
-      "humidity": 22.0,
-      "precip_pct": 1.0,
+      "wind_direction": "314 deg",
+      "humidity": 25.0,
+      "precip_pct": 3.0,
       "condition_grade": "Watch",
-      "top_player": "Shea Langeliers",
-      "top_edge": 5.3,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.4455&lon=-112.0667",
+      "top_player": "James Wood",
+      "top_edge": 6.8,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -2927,12 +2933,11 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Coors Field",
+      "ballpark": "Chase Field",
       "teams": [
-        "COL",
-        "WSH"
+        "ATH"
       ],
-      "environment_score": 38.7,
+      "environment_score": 28.2,
       "park_hr_factor": 100.0,
       "temperature": "",
       "wind_speed": 0.0,
@@ -2940,9 +2945,9 @@
       "humidity": "",
       "precip_pct": "",
       "condition_grade": "Resist",
-      "top_player": "James Wood",
-      "top_edge": 6.5,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "top_player": "Shea Langeliers",
+      "top_edge": 4.9,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.4455&lon=-112.0667",
       "source_note": "NOAA link only"
     }
   ],
