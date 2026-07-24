@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Drake Baldwin | ATL |  | 1 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 2 | Matt Olson | ATL |  | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 3 | Junior Caminero | TB | Joey Cantillo | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Alec Burleson | STL | Rhett Lowder | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Riley Greene | DET | Beck Way | 4 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Michael Harris | ATL |  | 4 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Fernando Tatis | SD |  | 1 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 8 | Byron Buxton | MIN | Jacob Lopez | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Jordan Walker | STL | Rhett Lowder | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Manny Machado | SD |  | 3 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Ty France | SD |  | 4 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Lars Nootbaar | STL | Rhett Lowder | 4 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Austin Riley | ATL |  | 6 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
-| 14 | JJ Wetherholt | STL | Rhett Lowder | 1 | 54.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 15 | Rhys Hoskins | CLE | Shane McClanahan | 6 | 52.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 16 | Dillon Dingler | DET | Beck Way | 5 | 51.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
-| 17 | Salvador Perez | KC | Tarik Skubal | 4 | 51.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Yandy Diaz | TB | Joey Cantillo | 1 | 51.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 19 | Ryan Jeffers | MIN | Jacob Lopez | 3 | 51.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Jose Ramirez | CLE | Shane McClanahan | 2 | 50.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 1 | Bryce Eldridge | SF | Grayson Rodriguez | 2 | 71.1 | Tier 2 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Yordan Alvarez | HOU | Davis Martin | 2 | 71.0 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Esmerlyn Valdez | PIT | Matthew Boyd | 4 | 69.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Juan Soto | NYM | Roki Sasaki | 2 | 65.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Kyle Schwarber | PHI | Cam Schlittler | 2 | 65.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | James Wood | WSH | Eduardo Rodriguez | 1 | 65.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Griffin Conine | MIA | Germán Márquez | 6 | 63.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 8 | Munetaka Murakami | CWS | Spencer Arrighetti | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Rafael Devers | SF | Grayson Rodriguez | 4 | 63.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Shohei Ohtani | LAD | Sean Manaea | 1 | 62.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 11 | Shea Langeliers | ATH | Zebby Matthews | 3 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Kyle Stowers | MIA | Germán Márquez | 2 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Garrett Mitchell | MIL | Tomoyuki Sugano | 5 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 14 | Heliot Ramos | SF | Grayson Rodriguez | 3 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Andres Chaparro | WSH | Eduardo Rodriguez | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Jackson Chourio | MIL | Tomoyuki Sugano | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 17 | Drake Baldwin | ATL |  | 1 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Jake Bauers | MIL | Tomoyuki Sugano | 7 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 19 | Heriberto Hernandez | MIA | Germán Márquez | 3 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Tyler Soderstrom | ATH | Zebby Matthews | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Drake Baldwin + Matt Olson | Avg HR Score: 60.3
-- Matt Olson + Junior Caminero | Avg HR Score: 59.5
-- Junior Caminero + Alec Burleson | Avg HR Score: 58.8
-- Alec Burleson + Riley Greene | Avg HR Score: 57.8
-- Riley Greene + Michael Harris | Avg HR Score: 57.2
+- Bryce Eldridge + Yordan Alvarez | Avg HR Score: 71.0
+- Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 70.4
+- Esmerlyn Valdez + Juan Soto | Avg HR Score: 67.6
+- Juan Soto + Kyle Schwarber | Avg HR Score: 65.3
+- Kyle Schwarber + James Wood | Avg HR Score: 65.2
 
 ## Best 3-Leg Pairings
 
-- Drake Baldwin + Matt Olson + Junior Caminero | Avg HR Score: 60.0
-- Matt Olson + Junior Caminero + Alec Burleson | Avg HR Score: 59.1
-- Junior Caminero + Alec Burleson + Riley Greene | Avg HR Score: 58.3
-- Alec Burleson + Riley Greene + Michael Harris | Avg HR Score: 57.6
-- Riley Greene + Michael Harris + Fernando Tatis | Avg HR Score: 57.2
+- Bryce Eldridge + Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 70.6
+- Yordan Alvarez + Esmerlyn Valdez + Juan Soto | Avg HR Score: 68.7
+- Esmerlyn Valdez + Juan Soto + Kyle Schwarber | Avg HR Score: 66.8
+- Juan Soto + Kyle Schwarber + James Wood | Avg HR Score: 65.2
+- Kyle Schwarber + James Wood + Griffin Conine | Avg HR Score: 64.6
 
 ## Best 4-Leg Pairings
 
-- Drake Baldwin + Matt Olson + Junior Caminero + Alec Burleson | Avg HR Score: 59.5
-- Matt Olson + Junior Caminero + Alec Burleson + Riley Greene | Avg HR Score: 58.7
-- Junior Caminero + Alec Burleson + Riley Greene + Michael Harris | Avg HR Score: 58.0
-- Alec Burleson + Riley Greene + Michael Harris + Fernando Tatis | Avg HR Score: 57.5
-- Riley Greene + Michael Harris + Fernando Tatis + Byron Buxton | Avg HR Score: 57.1
+- Bryce Eldridge + Yordan Alvarez + Esmerlyn Valdez + Juan Soto | Avg HR Score: 69.3
+- Yordan Alvarez + Esmerlyn Valdez + Juan Soto + Kyle Schwarber | Avg HR Score: 67.9
+- Esmerlyn Valdez + Juan Soto + Kyle Schwarber + James Wood | Avg HR Score: 66.4
+- Juan Soto + Kyle Schwarber + James Wood + Griffin Conine | Avg HR Score: 64.8
+- Kyle Schwarber + James Wood + Griffin Conine + Munetaka Murakami | Avg HR Score: 64.3
