@@ -3,46 +3,44 @@
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Bryce Eldridge | SF | Grayson Rodriguez | 3 | 73.2 | Tier 2 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Yordan Alvarez | HOU | Davis Martin | 2 | 70.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Rafael Devers | SF | Grayson Rodriguez | 4 | 66.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Shea Langeliers | ATH | Zebby Matthews | 3 | 65.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Heliot Ramos | SF | Grayson Rodriguez | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 6 | Tyler Soderstrom | ATH | Zebby Matthews | 2 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Munetaka Murakami | CWS | Spencer Arrighetti | 2 | 62.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Alec Burleson | STL | Rhett Lowder | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Julio Rodríguez | SEA | MacKenzie Gore | 2 | 60.2 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 10 | Casey Schmitt | SF | Grayson Rodriguez | 5 | 59.8 | Longshot | Watch List | Strong Barrel |
-| 11 | Jordan Walker | STL | Rhett Lowder | 2 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Elly De La Cruz | CIN | Dustin May | 1 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Byron Buxton | MIN | Jacob Lopez | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Dominic Canzone | SEA | MacKenzie Gore | 3 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Sal Stewart | CIN | Dustin May | 2 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | Brandon Nimmo | TEX | Bryce Miller | 4 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Joc Pederson | TEX | Bryce Miller | 1 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Mike Trout | LAA | Logan Webb | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Cal Raleigh | SEA | MacKenzie Gore | 4 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Carlos Cortes | ATH | Zebby Matthews | 4 | 56.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 2 | Rafael Devers | SF | Grayson Rodriguez | 4 | 66.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Heliot Ramos | SF | Grayson Rodriguez | 2 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Casey Schmitt | SF | Grayson Rodriguez | 5 | 59.7 | Longshot | Watch List | Strong Barrel |
+| 5 | Mike Trout | LAA | Logan Webb | 2 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Willy Adames | SF | Grayson Rodriguez | 7 | 56.5 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 7 | Zach Neto | LAA | Logan Webb | 1 | 51.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Jo Adell | LAA | Logan Webb | 7 | 49.1 | Longshot | Watch List | Strong Barrel |
+| 9 | Luis Arraez | SF | Grayson Rodriguez | 1 | 48.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | Jung Hoo Lee | SF | Grayson Rodriguez | 6 | 48.2 | Longshot | Watch List | Platoon Edge |
+| 11 | Jorge Soler | LAA | Logan Webb | 4 | 47.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Vaughn Grissom | LAA | Logan Webb | 5 | 44.7 | Longshot | Watch List | No major boost |
+| 13 | Drew Gilbert | SF | Grayson Rodriguez | 8 | 44.0 | Longshot | Watch List | Platoon Edge |
+| 14 | Nolan Schanuel | LAA | Logan Webb | 3 | 43.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 15 | Wade Meckler | LAA | Logan Webb | 6 | 42.4 | Longshot | Watch List | Platoon Edge |
+| 16 | Daniel Susac | SF | Grayson Rodriguez | 9 | 40.6 | Longshot | Watch List | No major boost |
+| 17 | Denzer Guzman | LAA | Logan Webb | 8 | 39.3 | Longshot | Watch List | No major boost |
+| 18 | Tyler Heineman | LAA | Logan Webb | 9 | 30.2 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Bryce Eldridge + Yordan Alvarez | Avg HR Score: 71.6
-- Yordan Alvarez + Rafael Devers | Avg HR Score: 68.1
-- Rafael Devers + Shea Langeliers | Avg HR Score: 65.7
-- Shea Langeliers + Heliot Ramos | Avg HR Score: 64.8
-- Heliot Ramos + Tyler Soderstrom | Avg HR Score: 63.5
+- Bryce Eldridge + Rafael Devers | Avg HR Score: 69.7
+- Rafael Devers + Heliot Ramos | Avg HR Score: 65.2
+- Heliot Ramos + Casey Schmitt | Avg HR Score: 62.1
+- Casey Schmitt + Mike Trout | Avg HR Score: 59.1
+- Mike Trout + Willy Adames | Avg HR Score: 57.5
 
 ## Best 3-Leg Pairings
 
-- Bryce Eldridge + Yordan Alvarez + Rafael Devers | Avg HR Score: 69.8
-- Yordan Alvarez + Rafael Devers + Shea Langeliers | Avg HR Score: 67.1
-- Rafael Devers + Shea Langeliers + Heliot Ramos | Avg HR Score: 65.3
-- Shea Langeliers + Heliot Ramos + Tyler Soderstrom | Avg HR Score: 64.1
-- Heliot Ramos + Tyler Soderstrom + Munetaka Murakami | Avg HR Score: 63.2
+- Bryce Eldridge + Rafael Devers + Heliot Ramos | Avg HR Score: 67.9
+- Rafael Devers + Heliot Ramos + Casey Schmitt | Avg HR Score: 63.4
+- Heliot Ramos + Casey Schmitt + Mike Trout | Avg HR Score: 60.9
+- Casey Schmitt + Mike Trout + Willy Adames | Avg HR Score: 58.2
+- Mike Trout + Willy Adames + Zach Neto | Avg HR Score: 55.4
 
 ## Best 4-Leg Pairings
 
-- Bryce Eldridge + Yordan Alvarez + Rafael Devers + Shea Langeliers | Avg HR Score: 68.6
-- Yordan Alvarez + Rafael Devers + Shea Langeliers + Heliot Ramos | Avg HR Score: 66.5
-- Rafael Devers + Shea Langeliers + Heliot Ramos + Tyler Soderstrom | Avg HR Score: 64.6
-- Shea Langeliers + Heliot Ramos + Tyler Soderstrom + Munetaka Murakami | Avg HR Score: 63.7
-- Heliot Ramos + Tyler Soderstrom + Munetaka Murakami + Alec Burleson | Avg HR Score: 62.6
+- Bryce Eldridge + Rafael Devers + Heliot Ramos + Casey Schmitt | Avg HR Score: 65.8
+- Rafael Devers + Heliot Ramos + Casey Schmitt + Mike Trout | Avg HR Score: 62.2
+- Heliot Ramos + Casey Schmitt + Mike Trout + Willy Adames | Avg HR Score: 59.8
+- Casey Schmitt + Mike Trout + Willy Adames + Zach Neto | Avg HR Score: 56.5
+- Mike Trout + Willy Adames + Zach Neto + Jo Adell | Avg HR Score: 53.8
