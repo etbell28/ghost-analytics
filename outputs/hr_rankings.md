@@ -7,10 +7,10 @@
 | 3 | Kyle Schwarber | PHI | Ryan Weathers | 2 | 65.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 4 | James Wood | WSH | Mitch Bratt | 1 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 5 | Bryce Eldridge | SF | Ryan Johnson | 2 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Heriberto Hernandez | MIA | Randy Vásquez | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 7 | Kyle Stowers | MIA | Randy Vásquez | 3 | 62.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Mike Trout | LAA | Robbie Ray | 2 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Byron Buxton | MIN | Mason Barnett | 2 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 6 | Byron Buxton | MIN | Brady Basso | 2 | 63.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Heriberto Hernandez | MIA | Randy Vásquez | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 8 | Kyle Stowers | MIA | Randy Vásquez | 3 | 62.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Mike Trout | LAA | Robbie Ray | 2 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Drake Baldwin | ATL | Brandon Young | 1 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Christian Encarnacion-Strand | BAL | Bryce Elder | 7 | 61.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Hot Hitter/Streak |
 | 12 | Andres Chaparro | WSH | Mitch Bratt | 3 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -29,20 +29,20 @@
 - Esmerlyn Valdez + Kyle Schwarber | Avg HR Score: 67.8
 - Kyle Schwarber + James Wood | Avg HR Score: 65.2
 - James Wood + Bryce Eldridge | Avg HR Score: 64.3
-- Bryce Eldridge + Heriberto Hernandez | Avg HR Score: 63.9
+- Bryce Eldridge + Byron Buxton | Avg HR Score: 64.0
 
 ## Best 3-Leg Pairings
 
 - Yordan Alvarez + Esmerlyn Valdez + Kyle Schwarber | Avg HR Score: 68.9
 - Esmerlyn Valdez + Kyle Schwarber + James Wood | Avg HR Score: 66.7
 - Kyle Schwarber + James Wood + Bryce Eldridge | Avg HR Score: 64.9
-- James Wood + Bryce Eldridge + Heriberto Hernandez | Avg HR Score: 64.1
-- Bryce Eldridge + Heriberto Hernandez + Kyle Stowers | Avg HR Score: 63.6
+- James Wood + Bryce Eldridge + Byron Buxton | Avg HR Score: 64.2
+- Bryce Eldridge + Byron Buxton + Heriberto Hernandez | Avg HR Score: 63.9
 
 ## Best 4-Leg Pairings
 
 - Yordan Alvarez + Esmerlyn Valdez + Kyle Schwarber + James Wood | Avg HR Score: 67.8
 - Esmerlyn Valdez + Kyle Schwarber + James Wood + Bryce Eldridge | Avg HR Score: 66.1
-- Kyle Schwarber + James Wood + Bryce Eldridge + Heriberto Hernandez | Avg HR Score: 64.5
-- James Wood + Bryce Eldridge + Heriberto Hernandez + Kyle Stowers | Avg HR Score: 63.8
-- Bryce Eldridge + Heriberto Hernandez + Kyle Stowers + Mike Trout | Avg HR Score: 63.4
+- Kyle Schwarber + James Wood + Bryce Eldridge + Byron Buxton | Avg HR Score: 64.6
+- James Wood + Bryce Eldridge + Byron Buxton + Heriberto Hernandez | Avg HR Score: 64.0
+- Bryce Eldridge + Byron Buxton + Heriberto Hernandez + Kyle Stowers | Avg HR Score: 63.6
