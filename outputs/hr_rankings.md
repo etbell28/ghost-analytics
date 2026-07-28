@@ -10,8 +10,8 @@
 | 6 | Sal Stewart | CIN | Gavin Williams | 2 | 64.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 7 | Elly De La Cruz | CIN | Gavin Williams | 1 | 64.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Byron Buxton | MIN | Seth Lugo | 2 | 64.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Elly De La Cruz | CIN | Slade Cecconi | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Sal Stewart | CIN | Slade Cecconi | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Sal Stewart | CIN | Slade Cecconi | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Elly De La Cruz | CIN | Slade Cecconi | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | CJ Abrams | WSH | Shane Bieber | 4 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Luis Garcia | WSH | Shane Bieber | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Kyle Schwarber | PHI | Sandy Alcantara | 2 | 62.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -20,8 +20,8 @@
 | 16 | Riley Greene | DET | Dean Kremer | 4 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Kyle Stowers | MIA | Aaron Nola | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Nathaniel Lowe | CIN | Gavin Williams | 5 | 60.4 | Tier 3 | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 19 | Joc Pederson | TEX | Griffin Jax | 1 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Colson Montgomery | CWS | Gerrit Cole | 4 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Nathaniel Lowe | CIN | Slade Cecconi | 5 | 59.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 20 | Joc Pederson | TEX | Griffin Jax | 1 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
