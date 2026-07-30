@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Thursday, July 30, 2026",
-  "generated_at": "12:08 PM EDT",
-  "generated_iso": "2026-07-30T12:08:55.688887-04:00",
+  "generated_at": "01:52 PM EDT",
+  "generated_iso": "2026-07-30T13:52:17.129513-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -91,10 +91,10 @@
         "batted_ball_fit": 70.2,
         "environment": 70.1,
         "lineup_opportunity": 100.0,
-        "recent_form": 3.4,
+        "recent_form": 0.0,
         "bvp_pitch_mix": 56.0
       },
-      "legacy_hr_score": 70.9
+      "legacy_hr_score": 70.8
     },
     {
       "rank": 3,
@@ -341,46 +341,6 @@
     },
     {
       "rank": 9,
-      "player": "Junior Caminero",
-      "team": "TB",
-      "opponent": "TEX",
-      "matchup": "TB vs TEX",
-      "batting_order": "3",
-      "pitcher": "Cole Winn",
-      "pitcher_hand": "R",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "81",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "84",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-07-30T16:10:00Z",
-      "confirmed": true,
-      "edge_index": 5.8,
-      "ghost_grade": "B-",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 62.2,
-        "pitcher_vulnerability": 47.9,
-        "batted_ball_fit": 56.3,
-        "environment": 56.6,
-        "lineup_opportunity": 96.6,
-        "recent_form": 14.1,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 59.2
-    },
-    {
-      "rank": 10,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "WSH",
@@ -422,7 +382,7 @@
       "legacy_hr_score": 66.7
     },
     {
-      "rank": 11,
+      "rank": 10,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "MIN",
@@ -461,6 +421,46 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 62.4
+    },
+    {
+      "rank": 11,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "TEX",
+      "matchup": "TB vs TEX",
+      "batting_order": "3",
+      "pitcher": "Cole Winn",
+      "pitcher_hand": "R",
+      "ballpark": "Tropicana Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "84",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-30T16:10:00Z",
+      "confirmed": true,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 62.2,
+        "pitcher_vulnerability": 47.9,
+        "batted_ball_fit": 56.3,
+        "environment": 56.6,
+        "lineup_opportunity": 96.6,
+        "recent_form": 6.0,
+        "bvp_pitch_mix": 50.0
+      },
+      "legacy_hr_score": 58.8
     },
     {
       "rank": 12,
@@ -562,7 +562,7 @@
       "weather_precip_pct": "2",
       "game_start_time": "2026-07-30T17:40:00Z",
       "confirmed": true,
-      "edge_index": 5.4,
+      "edge_index": 5.5,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
@@ -578,10 +578,10 @@
         "batted_ball_fit": 40.9,
         "environment": 70.1,
         "lineup_opportunity": 93.2,
-        "recent_form": 6.0,
+        "recent_form": 9.3,
         "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 60.8
+      "legacy_hr_score": 60.9
     },
     {
       "rank": 15,
@@ -665,46 +665,6 @@
     },
     {
       "rank": 17,
-      "player": "Salvador Perez",
-      "team": "KC",
-      "opponent": "MIN",
-      "matchup": "KC vs MIN",
-      "batting_order": "4",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "88",
-      "wind_speed": null,
-      "wind_direction": "Out To LF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "50",
-      "weather_precip_pct": "2",
-      "game_start_time": "2026-07-30T17:40:00Z",
-      "confirmed": true,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "Weather Edge"
-      ],
-      "label_summary": "Confirmed + Weather Edge",
-      "components": {
-        "hitter_power": 46.9,
-        "pitcher_vulnerability": 49.1,
-        "batted_ball_fit": 34.2,
-        "environment": 70.1,
-        "lineup_opportunity": 94.9,
-        "recent_form": 56.2,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 58.4
-    },
-    {
-      "rank": 18,
       "player": "Kody Clemens",
       "team": "MIN",
       "opponent": "KC",
@@ -745,47 +705,7 @@
       "legacy_hr_score": 57.0
     },
     {
-      "rank": 19,
-      "player": "Jordan Walker",
-      "team": "STL",
-      "opponent": "CHC",
-      "matchup": "STL vs CHC",
-      "batting_order": "2",
-      "pitcher": "Javier Assad",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "82",
-      "wind_speed": null,
-      "wind_direction": "R To L",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 57.2,
-        "pitcher_vulnerability": 41.8,
-        "batted_ball_fit": 48.7,
-        "environment": 48.6,
-        "lineup_opportunity": 100.0,
-        "recent_form": 9.8,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.2
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "player": "Michael Harris",
       "team": "ATL",
       "opponent": "WSH",
@@ -826,7 +746,7 @@
       "legacy_hr_score": 62.2
     },
     {
-      "rank": 21,
+      "rank": 19,
       "player": "Max Muncy",
       "team": "LAD",
       "opponent": "SEA",
@@ -866,7 +786,7 @@
       "legacy_hr_score": 60.0
     },
     {
-      "rank": 22,
+      "rank": 20,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "SD",
@@ -906,7 +826,47 @@
       "legacy_hr_score": 58.7
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "player": "Salvador Perez",
+      "team": "KC",
+      "opponent": "MIN",
+      "matchup": "KC vs MIN",
+      "batting_order": "4",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "88",
+      "wind_speed": null,
+      "wind_direction": "Out To LF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "50",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-30T17:40:00Z",
+      "confirmed": true,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "Weather Edge"
+      ],
+      "label_summary": "Confirmed + Weather Edge",
+      "components": {
+        "hitter_power": 46.9,
+        "pitcher_vulnerability": 49.1,
+        "batted_ball_fit": 34.2,
+        "environment": 70.1,
+        "lineup_opportunity": 94.9,
+        "recent_form": 36.3,
+        "bvp_pitch_mix": 50.0
+      },
+      "legacy_hr_score": 57.4
+    },
+    {
+      "rank": 22,
       "player": "Cal Raleigh",
       "team": "SEA",
       "opponent": "LAD",
@@ -946,47 +906,7 @@
       "legacy_hr_score": 57.2
     },
     {
-      "rank": 24,
-      "player": "Jake Burger",
-      "team": "TEX",
-      "opponent": "TB",
-      "matchup": "TEX vs TB",
-      "batting_order": "4",
-      "pitcher": "Shane McClanahan",
-      "pitcher_hand": "L",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "81",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "84",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-07-30T16:10:00Z",
-      "confirmed": true,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 48.5,
-        "pitcher_vulnerability": 42.0,
-        "batted_ball_fit": 43.5,
-        "environment": 56.6,
-        "lineup_opportunity": 94.9,
-        "recent_form": 52.0,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 57.5
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "NYY",
@@ -1026,47 +946,87 @@
       "legacy_hr_score": 57.2
     },
     {
-      "rank": 26,
-      "player": "Ryan Jeffers",
-      "team": "MIN",
-      "opponent": "KC",
-      "matchup": "MIN vs KC",
-      "batting_order": "2",
-      "pitcher": "Noah Cameron",
+      "rank": 24,
+      "player": "Jake Burger",
+      "team": "TEX",
+      "opponent": "TB",
+      "matchup": "TEX vs TB",
+      "batting_order": "4",
+      "pitcher": "Shane McClanahan",
       "pitcher_hand": "L",
-      "ballpark": "Target Field",
+      "ballpark": "Tropicana Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "88",
+      "weather_temp": "81",
       "wind_speed": null,
-      "wind_direction": "Out To LF",
+      "wind_direction": "None",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "50",
-      "weather_precip_pct": "2",
-      "game_start_time": "2026-07-30T17:40:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "84",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-30T16:10:00Z",
       "confirmed": true,
       "edge_index": 5.2,
       "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
+      "confidence": "Longshot",
+      "volatility": "High",
       "labels": [
         "Confirmed",
-        "Weather Edge"
+        "Watch"
       ],
-      "label_summary": "Confirmed + Weather Edge",
+      "label_summary": "Confirmed + Watch",
       "components": {
-        "hitter_power": 44.8,
-        "pitcher_vulnerability": 45.7,
-        "batted_ball_fit": 29.6,
-        "environment": 70.1,
-        "lineup_opportunity": 100.0,
-        "recent_form": 46.5,
+        "hitter_power": 48.5,
+        "pitcher_vulnerability": 42.0,
+        "batted_ball_fit": 43.5,
+        "environment": 56.6,
+        "lineup_opportunity": 94.9,
+        "recent_form": 48.7,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 59.6
+      "legacy_hr_score": 57.3
     },
     {
-      "rank": 27,
+      "rank": 25,
+      "player": "Jordan Walker",
+      "team": "STL",
+      "opponent": "CHC",
+      "matchup": "STL vs CHC",
+      "batting_order": "2",
+      "pitcher": "Javier Assad",
+      "pitcher_hand": "R",
+      "ballpark": "Busch Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "In From CF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
+      "weather_humidity": "57",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-30T18:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 57.2,
+        "pitcher_vulnerability": 41.8,
+        "batted_ball_fit": 48.7,
+        "environment": 38.1,
+        "lineup_opportunity": 100.0,
+        "recent_form": 9.8,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 53.6
+    },
+    {
+      "rank": 26,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "NYY",
@@ -1104,6 +1064,46 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 51.9
+    },
+    {
+      "rank": 27,
+      "player": "Ryan Jeffers",
+      "team": "MIN",
+      "opponent": "KC",
+      "matchup": "MIN vs KC",
+      "batting_order": "2",
+      "pitcher": "Noah Cameron",
+      "pitcher_hand": "L",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "88",
+      "wind_speed": null,
+      "wind_direction": "Out To LF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "50",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-30T17:40:00Z",
+      "confirmed": true,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "Weather Edge"
+      ],
+      "label_summary": "Confirmed + Weather Edge",
+      "components": {
+        "hitter_power": 44.8,
+        "pitcher_vulnerability": 45.7,
+        "batted_ball_fit": 29.6,
+        "environment": 70.1,
+        "lineup_opportunity": 100.0,
+        "recent_form": 46.0,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.6
     },
     {
       "rank": 28,
@@ -1187,43 +1187,43 @@
     },
     {
       "rank": 30,
-      "player": "Pete Crow-Armstrong",
-      "team": "CHC",
-      "opponent": "STL",
-      "matchup": "CHC vs STL",
-      "batting_order": "1",
-      "pitcher": "Andre Pallante",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
+      "player": "Randal Grichuk",
+      "team": "CWS",
+      "opponent": "NYY",
+      "matchup": "CWS vs NYY",
+      "batting_order": "4",
+      "pitcher": "Ryan Weathers",
+      "pitcher_hand": "L",
+      "ballpark": "Rate Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "82",
+      "weather_temp": "71",
       "wind_speed": null,
-      "wind_direction": "R To L",
+      "wind_direction": "In From CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.8300&lon=-87.6338",
+      "weather_humidity": "78",
       "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
+      "game_start_time": "2026-07-30T18:10:00Z",
       "confirmed": true,
       "edge_index": 5.1,
       "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Volatile",
+      "volatility": "Medium",
       "labels": [
         "Confirmed",
-        "Hot Bat"
+        "Watch"
       ],
-      "label_summary": "Confirmed + Hot Bat",
+      "label_summary": "Confirmed + Watch",
       "components": {
-        "hitter_power": 52.7,
-        "pitcher_vulnerability": 27.6,
-        "batted_ball_fit": 47.9,
-        "environment": 48.6,
-        "lineup_opportunity": 93.2,
-        "recent_form": 78.4,
+        "hitter_power": 52.3,
+        "pitcher_vulnerability": 50.2,
+        "batted_ball_fit": 43.1,
+        "environment": 35.0,
+        "lineup_opportunity": 94.9,
+        "recent_form": 12.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 55.5
+      "legacy_hr_score": 55.4
     }
   ],
   "confirmed_targets": [
@@ -1304,53 +1304,13 @@
         "batted_ball_fit": 70.2,
         "environment": 70.1,
         "lineup_opportunity": 100.0,
-        "recent_form": 3.4,
+        "recent_form": 0.0,
         "bvp_pitch_mix": 56.0
       },
-      "legacy_hr_score": 70.9
+      "legacy_hr_score": 70.8
     },
     {
-      "rank": 9,
-      "player": "Junior Caminero",
-      "team": "TB",
-      "opponent": "TEX",
-      "matchup": "TB vs TEX",
-      "batting_order": "3",
-      "pitcher": "Cole Winn",
-      "pitcher_hand": "R",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "81",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "84",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-07-30T16:10:00Z",
-      "confirmed": true,
-      "edge_index": 5.8,
-      "ghost_grade": "B-",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 62.2,
-        "pitcher_vulnerability": 47.9,
-        "batted_ball_fit": 56.3,
-        "environment": 56.6,
-        "lineup_opportunity": 96.6,
-        "recent_form": 14.1,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 59.2
-    },
-    {
-      "rank": 11,
+      "rank": 10,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "MIN",
@@ -1389,6 +1349,46 @@
         "bvp_pitch_mix": 50.0
       },
       "legacy_hr_score": 62.4
+    },
+    {
+      "rank": 11,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "TEX",
+      "matchup": "TB vs TEX",
+      "batting_order": "3",
+      "pitcher": "Cole Winn",
+      "pitcher_hand": "R",
+      "ballpark": "Tropicana Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "84",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-30T16:10:00Z",
+      "confirmed": true,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 62.2,
+        "pitcher_vulnerability": 47.9,
+        "batted_ball_fit": 56.3,
+        "environment": 56.6,
+        "lineup_opportunity": 96.6,
+        "recent_form": 6.0,
+        "bvp_pitch_mix": 50.0
+      },
+      "legacy_hr_score": 58.8
     },
     {
       "rank": 13,
@@ -1450,7 +1450,7 @@
       "weather_precip_pct": "2",
       "game_start_time": "2026-07-30T17:40:00Z",
       "confirmed": true,
-      "edge_index": 5.4,
+      "edge_index": 5.5,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
@@ -1466,53 +1466,13 @@
         "batted_ball_fit": 40.9,
         "environment": 70.1,
         "lineup_opportunity": 93.2,
-        "recent_form": 6.0,
+        "recent_form": 9.3,
         "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 60.8
+      "legacy_hr_score": 60.9
     },
     {
       "rank": 17,
-      "player": "Salvador Perez",
-      "team": "KC",
-      "opponent": "MIN",
-      "matchup": "KC vs MIN",
-      "batting_order": "4",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "88",
-      "wind_speed": null,
-      "wind_direction": "Out To LF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "50",
-      "weather_precip_pct": "2",
-      "game_start_time": "2026-07-30T17:40:00Z",
-      "confirmed": true,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "Weather Edge"
-      ],
-      "label_summary": "Confirmed + Weather Edge",
-      "components": {
-        "hitter_power": 46.9,
-        "pitcher_vulnerability": 49.1,
-        "batted_ball_fit": 34.2,
-        "environment": 70.1,
-        "lineup_opportunity": 94.9,
-        "recent_form": 56.2,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 58.4
-    },
-    {
-      "rank": 18,
       "player": "Kody Clemens",
       "team": "MIN",
       "opponent": "KC",
@@ -1553,87 +1513,47 @@
       "legacy_hr_score": 57.0
     },
     {
-      "rank": 19,
-      "player": "Jordan Walker",
-      "team": "STL",
-      "opponent": "CHC",
-      "matchup": "STL vs CHC",
-      "batting_order": "2",
-      "pitcher": "Javier Assad",
+      "rank": 21,
+      "player": "Salvador Perez",
+      "team": "KC",
+      "opponent": "MIN",
+      "matchup": "KC vs MIN",
+      "batting_order": "4",
+      "pitcher": "Bailey Ober",
       "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
+      "ballpark": "Target Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "82",
+      "weather_temp": "88",
       "wind_speed": null,
-      "wind_direction": "R To L",
+      "wind_direction": "Out To LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "50",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-30T17:40:00Z",
       "confirmed": true,
       "edge_index": 5.3,
       "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Volatile",
+      "volatility": "Medium",
       "labels": [
         "Confirmed",
-        "EV Edge"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + EV Edge",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
-        "hitter_power": 57.2,
-        "pitcher_vulnerability": 41.8,
-        "batted_ball_fit": 48.7,
-        "environment": 48.6,
-        "lineup_opportunity": 100.0,
-        "recent_form": 9.8,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 55.2
-    },
-    {
-      "rank": 24,
-      "player": "Jake Burger",
-      "team": "TEX",
-      "opponent": "TB",
-      "matchup": "TEX vs TB",
-      "batting_order": "4",
-      "pitcher": "Shane McClanahan",
-      "pitcher_hand": "L",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "81",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "84",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-07-30T16:10:00Z",
-      "confirmed": true,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 48.5,
-        "pitcher_vulnerability": 42.0,
-        "batted_ball_fit": 43.5,
-        "environment": 56.6,
+        "hitter_power": 46.9,
+        "pitcher_vulnerability": 49.1,
+        "batted_ball_fit": 34.2,
+        "environment": 70.1,
         "lineup_opportunity": 94.9,
-        "recent_form": 52.0,
-        "bvp_pitch_mix": 54.0
+        "recent_form": 36.3,
+        "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 57.5
+      "legacy_hr_score": 57.4
     },
     {
-      "rank": 25,
+      "rank": 23,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "NYY",
@@ -1673,47 +1593,87 @@
       "legacy_hr_score": 57.2
     },
     {
-      "rank": 26,
-      "player": "Ryan Jeffers",
-      "team": "MIN",
-      "opponent": "KC",
-      "matchup": "MIN vs KC",
-      "batting_order": "2",
-      "pitcher": "Noah Cameron",
+      "rank": 24,
+      "player": "Jake Burger",
+      "team": "TEX",
+      "opponent": "TB",
+      "matchup": "TEX vs TB",
+      "batting_order": "4",
+      "pitcher": "Shane McClanahan",
       "pitcher_hand": "L",
-      "ballpark": "Target Field",
+      "ballpark": "Tropicana Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "88",
+      "weather_temp": "81",
       "wind_speed": null,
-      "wind_direction": "Out To LF",
+      "wind_direction": "None",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "50",
-      "weather_precip_pct": "2",
-      "game_start_time": "2026-07-30T17:40:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "84",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-30T16:10:00Z",
       "confirmed": true,
       "edge_index": 5.2,
       "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
+      "confidence": "Longshot",
+      "volatility": "High",
       "labels": [
         "Confirmed",
-        "Weather Edge"
+        "Watch"
       ],
-      "label_summary": "Confirmed + Weather Edge",
+      "label_summary": "Confirmed + Watch",
       "components": {
-        "hitter_power": 44.8,
-        "pitcher_vulnerability": 45.7,
-        "batted_ball_fit": 29.6,
-        "environment": 70.1,
-        "lineup_opportunity": 100.0,
-        "recent_form": 46.5,
+        "hitter_power": 48.5,
+        "pitcher_vulnerability": 42.0,
+        "batted_ball_fit": 43.5,
+        "environment": 56.6,
+        "lineup_opportunity": 94.9,
+        "recent_form": 48.7,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 59.6
+      "legacy_hr_score": 57.3
     },
     {
-      "rank": 27,
+      "rank": 25,
+      "player": "Jordan Walker",
+      "team": "STL",
+      "opponent": "CHC",
+      "matchup": "STL vs CHC",
+      "batting_order": "2",
+      "pitcher": "Javier Assad",
+      "pitcher_hand": "R",
+      "ballpark": "Busch Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "In From CF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
+      "weather_humidity": "57",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-30T18:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 57.2,
+        "pitcher_vulnerability": 41.8,
+        "batted_ball_fit": 48.7,
+        "environment": 38.1,
+        "lineup_opportunity": 100.0,
+        "recent_form": 9.8,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 53.6
+    },
+    {
+      "rank": 26,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "NYY",
@@ -1753,47 +1713,47 @@
       "legacy_hr_score": 51.9
     },
     {
-      "rank": 30,
-      "player": "Pete Crow-Armstrong",
-      "team": "CHC",
-      "opponent": "STL",
-      "matchup": "CHC vs STL",
-      "batting_order": "1",
-      "pitcher": "Andre Pallante",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
+      "rank": 27,
+      "player": "Ryan Jeffers",
+      "team": "MIN",
+      "opponent": "KC",
+      "matchup": "MIN vs KC",
+      "batting_order": "2",
+      "pitcher": "Noah Cameron",
+      "pitcher_hand": "L",
+      "ballpark": "Target Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "82",
+      "weather_temp": "88",
       "wind_speed": null,
-      "wind_direction": "R To L",
+      "wind_direction": "Out To LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "50",
+      "weather_precip_pct": "2",
+      "game_start_time": "2026-07-30T17:40:00Z",
       "confirmed": true,
-      "edge_index": 5.1,
+      "edge_index": 5.2,
       "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
+      "confidence": "Volatile",
+      "volatility": "Medium",
       "labels": [
         "Confirmed",
-        "Hot Bat"
+        "Weather Edge"
       ],
-      "label_summary": "Confirmed + Hot Bat",
+      "label_summary": "Confirmed + Weather Edge",
       "components": {
-        "hitter_power": 52.7,
-        "pitcher_vulnerability": 27.6,
-        "batted_ball_fit": 47.9,
-        "environment": 48.6,
-        "lineup_opportunity": 93.2,
-        "recent_form": 78.4,
+        "hitter_power": 44.8,
+        "pitcher_vulnerability": 45.7,
+        "batted_ball_fit": 29.6,
+        "environment": 70.1,
+        "lineup_opportunity": 100.0,
+        "recent_form": 46.0,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 55.5
+      "legacy_hr_score": 59.6
     },
     {
-      "rank": 31,
+      "rank": 30,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "NYY",
@@ -1833,47 +1793,7 @@
       "legacy_hr_score": 55.4
     },
     {
-      "rank": 32,
-      "player": "Alec Burleson",
-      "team": "STL",
-      "opponent": "CHC",
-      "matchup": "STL vs CHC",
-      "batting_order": "3",
-      "pitcher": "Javier Assad",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "82",
-      "wind_speed": null,
-      "wind_direction": "R To L",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 52.6,
-        "pitcher_vulnerability": 41.8,
-        "batted_ball_fit": 34.3,
-        "environment": 48.6,
-        "lineup_opportunity": 96.6,
-        "recent_form": 35.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 57.2
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "player": "Royce Lewis",
       "team": "MIN",
       "opponent": "KC",
@@ -1907,10 +1827,10 @@
         "batted_ball_fit": 40.5,
         "environment": 70.1,
         "lineup_opportunity": 96.6,
-        "recent_form": 13.3,
+        "recent_form": 13.6,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 56.5
+      "legacy_hr_score": 56.6
     },
     {
       "rank": 35,
@@ -1947,13 +1867,133 @@
         "batted_ball_fit": 25.9,
         "environment": 56.6,
         "lineup_opportunity": 100.0,
-        "recent_form": 17.0,
+        "recent_form": 16.6,
         "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 58.4
+      "legacy_hr_score": 58.3
+    },
+    {
+      "rank": 37,
+      "player": "Joc Pederson",
+      "team": "TEX",
+      "opponent": "TB",
+      "matchup": "TEX vs TB",
+      "batting_order": "6",
+      "pitcher": "Shane McClanahan",
+      "pitcher_hand": "L",
+      "ballpark": "Tropicana Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "84",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-30T16:10:00Z",
+      "confirmed": true,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 48.6,
+        "pitcher_vulnerability": 42.0,
+        "batted_ball_fit": 33.0,
+        "environment": 56.6,
+        "lineup_opportunity": 76.2,
+        "recent_form": 68.7,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 53.2
+    },
+    {
+      "rank": 38,
+      "player": "Pete Crow-Armstrong",
+      "team": "CHC",
+      "opponent": "STL",
+      "matchup": "CHC vs STL",
+      "batting_order": "1",
+      "pitcher": "Andre Pallante",
+      "pitcher_hand": "R",
+      "ballpark": "Busch Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "In From CF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
+      "weather_humidity": "57",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-30T18:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Hot Bat"
+      ],
+      "label_summary": "Confirmed + Hot Bat",
+      "components": {
+        "hitter_power": 52.7,
+        "pitcher_vulnerability": 27.6,
+        "batted_ball_fit": 47.9,
+        "environment": 38.1,
+        "lineup_opportunity": 93.2,
+        "recent_form": 78.4,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 53.9
     },
     {
       "rank": 39,
+      "player": "Alec Burleson",
+      "team": "STL",
+      "opponent": "CHC",
+      "matchup": "STL vs CHC",
+      "batting_order": "3",
+      "pitcher": "Javier Assad",
+      "pitcher_hand": "R",
+      "ballpark": "Busch Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "In From CF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
+      "weather_humidity": "57",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-30T18:15:00Z",
+      "confirmed": true,
+      "edge_index": 4.9,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 52.6,
+        "pitcher_vulnerability": 41.8,
+        "batted_ball_fit": 34.3,
+        "environment": 38.1,
+        "lineup_opportunity": 96.6,
+        "recent_form": 35.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 55.6
+    },
+    {
+      "rank": 40,
       "player": "Brandon Nimmo",
       "team": "TEX",
       "opponent": "TB",
@@ -1987,13 +2027,13 @@
         "batted_ball_fit": 25.0,
         "environment": 56.6,
         "lineup_opportunity": 96.6,
-        "recent_form": 20.9,
+        "recent_form": 19.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 54.7
+      "legacy_hr_score": 54.6
     },
     {
-      "rank": 40,
+      "rank": 41,
       "player": "Spencer Jones",
       "team": "NYY",
       "opponent": "CWS",
@@ -2033,7 +2073,7 @@
       "legacy_hr_score": 54.1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "player": "Josh Bell",
       "team": "MIN",
       "opponent": "KC",
@@ -2073,7 +2113,7 @@
       "legacy_hr_score": 56.1
     },
     {
-      "rank": 51,
+      "rank": 50,
       "player": "Wyatt Langford",
       "team": "TEX",
       "opponent": "TB",
@@ -2092,7 +2132,7 @@
       "weather_precip_pct": "8",
       "game_start_time": "2026-07-30T16:10:00Z",
       "confirmed": true,
-      "edge_index": 4.7,
+      "edge_index": 4.8,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
@@ -2107,133 +2147,13 @@
         "batted_ball_fit": 30.6,
         "environment": 56.6,
         "lineup_opportunity": 93.2,
-        "recent_form": 32.5,
+        "recent_form": 37.8,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 54.3
+      "legacy_hr_score": 54.6
     },
     {
-      "rank": 52,
-      "player": "Seiya Suzuki",
-      "team": "CHC",
-      "opponent": "STL",
-      "matchup": "CHC vs STL",
-      "batting_order": "2",
-      "pitcher": "Andre Pallante",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "82",
-      "wind_speed": null,
-      "wind_direction": "R To L",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
-      "confirmed": true,
-      "edge_index": 4.7,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 45.9,
-        "pitcher_vulnerability": 27.6,
-        "batted_ball_fit": 36.9,
-        "environment": 48.6,
-        "lineup_opportunity": 100.0,
-        "recent_form": 62.2,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 50.7
-    },
-    {
-      "rank": 53,
-      "player": "Victor Mesa Jr.",
-      "team": "TB",
-      "opponent": "TEX",
-      "matchup": "TB vs TEX",
-      "batting_order": "6",
-      "pitcher": "Cole Winn",
-      "pitcher_hand": "R",
-      "ballpark": "Tropicana Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "81",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "84",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-07-30T16:10:00Z",
-      "confirmed": true,
-      "edge_index": 4.7,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 38.9,
-        "pitcher_vulnerability": 47.9,
-        "batted_ball_fit": 28.6,
-        "environment": 56.6,
-        "lineup_opportunity": 76.2,
-        "recent_form": 58.1,
-        "bvp_pitch_mix": 50.0
-      },
-      "legacy_hr_score": 53.6
-    },
-    {
-      "rank": 56,
-      "player": "Lars Nootbaar",
-      "team": "STL",
-      "opponent": "CHC",
-      "matchup": "STL vs CHC",
-      "batting_order": "5",
-      "pitcher": "Javier Assad",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "82",
-      "wind_speed": null,
-      "wind_direction": "R To L",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "57",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-07-30T18:15:00Z",
-      "confirmed": true,
-      "edge_index": 4.6,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 47.6,
-        "pitcher_vulnerability": 41.8,
-        "batted_ball_fit": 28.5,
-        "environment": 48.6,
-        "lineup_opportunity": 86.4,
-        "recent_form": 19.5,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 53.3
-    },
-    {
-      "rank": 58,
+      "rank": 55,
       "player": "Yandy Díaz",
       "team": "TB",
       "opponent": "TEX",
@@ -2252,7 +2172,7 @@
       "weather_precip_pct": "8",
       "game_start_time": "2026-07-30T16:10:00Z",
       "confirmed": true,
-      "edge_index": 4.6,
+      "edge_index": 4.7,
       "ghost_grade": "C+",
       "confidence": "Volatile",
       "volatility": "Medium",
@@ -2267,10 +2187,90 @@
         "batted_ball_fit": 19.1,
         "environment": 56.6,
         "lineup_opportunity": 93.2,
-        "recent_form": 22.6,
+        "recent_form": 36.3,
         "bvp_pitch_mix": 50.0
       },
-      "legacy_hr_score": 52.1
+      "legacy_hr_score": 52.8
+    },
+    {
+      "rank": 56,
+      "player": "Victor Mesa Jr.",
+      "team": "TB",
+      "opponent": "TEX",
+      "matchup": "TB vs TEX",
+      "batting_order": "6",
+      "pitcher": "Cole Winn",
+      "pitcher_hand": "R",
+      "ballpark": "Tropicana Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
+      "weather_humidity": "84",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-07-30T16:10:00Z",
+      "confirmed": true,
+      "edge_index": 4.6,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 38.9,
+        "pitcher_vulnerability": 47.9,
+        "batted_ball_fit": 28.6,
+        "environment": 56.6,
+        "lineup_opportunity": 76.2,
+        "recent_form": 44.5,
+        "bvp_pitch_mix": 50.0
+      },
+      "legacy_hr_score": 52.9
+    },
+    {
+      "rank": 59,
+      "player": "Seiya Suzuki",
+      "team": "CHC",
+      "opponent": "STL",
+      "matchup": "CHC vs STL",
+      "batting_order": "2",
+      "pitcher": "Andre Pallante",
+      "pitcher_hand": "R",
+      "ballpark": "Busch Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "In From CF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
+      "weather_humidity": "57",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-30T18:15:00Z",
+      "confirmed": true,
+      "edge_index": 4.6,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 45.9,
+        "pitcher_vulnerability": 27.6,
+        "batted_ball_fit": 36.9,
+        "environment": 38.1,
+        "lineup_opportunity": 100.0,
+        "recent_form": 62.2,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 49.1
     },
     {
       "rank": 61,
@@ -2393,44 +2393,44 @@
       "legacy_hr_score": 51.1
     },
     {
-      "rank": 67,
-      "player": "Justin Foscue",
-      "team": "TEX",
-      "opponent": "TB",
-      "matchup": "TEX vs TB",
+      "rank": 66,
+      "player": "Lars Nootbaar",
+      "team": "STL",
+      "opponent": "CHC",
+      "matchup": "STL vs CHC",
       "batting_order": "5",
-      "pitcher": "Shane McClanahan",
-      "pitcher_hand": "L",
-      "ballpark": "Tropicana Field",
+      "pitcher": "Javier Assad",
+      "pitcher_hand": "R",
+      "ballpark": "Busch Stadium",
       "park_hr_factor": 0.0,
-      "weather_temp": "81",
+      "weather_temp": "82",
       "wind_speed": null,
-      "wind_direction": "None",
+      "wind_direction": "In From CF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=27.7682&lon=-82.6534",
-      "weather_humidity": "84",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-07-30T16:10:00Z",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
+      "weather_humidity": "57",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-07-30T18:15:00Z",
       "confirmed": true,
-      "edge_index": 4.4,
+      "edge_index": 4.5,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "Watch"
+        "EV Edge"
       ],
-      "label_summary": "Confirmed + Watch",
+      "label_summary": "Confirmed + EV Edge",
       "components": {
-        "hitter_power": 40.5,
-        "pitcher_vulnerability": 42.0,
-        "batted_ball_fit": 28.0,
-        "environment": 56.6,
+        "hitter_power": 47.6,
+        "pitcher_vulnerability": 41.8,
+        "batted_ball_fit": 28.5,
+        "environment": 38.1,
         "lineup_opportunity": 86.4,
-        "recent_form": 2.0,
+        "recent_form": 19.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 51.2
+      "legacy_hr_score": 51.7
     }
   ],
   "projected_targets": [
@@ -2678,7 +2678,7 @@
       "legacy_hr_score": 61.5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "WSH",
@@ -2840,7 +2840,7 @@
       "legacy_hr_score": 58.1
     },
     {
-      "rank": 20,
+      "rank": 18,
       "player": "Michael Harris",
       "team": "ATL",
       "opponent": "WSH",
@@ -2881,7 +2881,7 @@
       "legacy_hr_score": 62.2
     },
     {
-      "rank": 21,
+      "rank": 19,
       "player": "Max Muncy",
       "team": "LAD",
       "opponent": "SEA",
@@ -2921,7 +2921,7 @@
       "legacy_hr_score": 60.0
     },
     {
-      "rank": 22,
+      "rank": 20,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "SD",
@@ -2961,7 +2961,7 @@
       "legacy_hr_score": 58.7
     },
     {
-      "rank": 23,
+      "rank": 22,
       "player": "Cal Raleigh",
       "team": "SEA",
       "opponent": "LAD",
@@ -3081,7 +3081,7 @@
       "legacy_hr_score": 56.8
     },
     {
-      "rank": 34,
+      "rank": 32,
       "player": "Luis Garcia",
       "team": "WSH",
       "opponent": "ATL",
@@ -3121,7 +3121,7 @@
       "legacy_hr_score": 60.4
     },
     {
-      "rank": 36,
+      "rank": 33,
       "player": "Kyle Stowers",
       "team": "MIA",
       "opponent": "NYM",
@@ -3161,7 +3161,7 @@
       "legacy_hr_score": 56.5
     },
     {
-      "rank": 37,
+      "rank": 34,
       "player": "CJ Abrams",
       "team": "WSH",
       "opponent": "ATL",
@@ -3201,7 +3201,7 @@
       "legacy_hr_score": 59.7
     },
     {
-      "rank": 38,
+      "rank": 36,
       "player": "Luke Raley",
       "team": "SEA",
       "opponent": "LAD",
@@ -3241,7 +3241,7 @@
       "legacy_hr_score": 56.0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "player": "Dylan Crews",
       "team": "WSH",
       "opponent": "ATL",
@@ -3281,7 +3281,7 @@
       "legacy_hr_score": 56.4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "player": "Austin Riley",
       "team": "ATL",
       "opponent": "WSH",
@@ -3321,7 +3321,7 @@
       "legacy_hr_score": 52.0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "player": "Heriberto Hernandez",
       "team": "MIA",
       "opponent": "NYM",
@@ -3361,7 +3361,7 @@
       "legacy_hr_score": 53.3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "player": "Bryan Reynolds",
       "team": "PIT",
       "opponent": "CIN",
@@ -3401,7 +3401,7 @@
       "legacy_hr_score": 57.8
     },
     {
-      "rank": 46,
+      "rank": 47,
       "player": "Wilyer Abreu",
       "team": "BOS",
       "opponent": "ATH",
@@ -3441,7 +3441,7 @@
       "legacy_hr_score": 57.1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "player": "Heliot Ramos",
       "team": "SF",
       "opponent": "SD",
@@ -3481,7 +3481,7 @@
       "legacy_hr_score": 57.7
     },
     {
-      "rank": 48,
+      "rank": 49,
       "player": "Manny Machado",
       "team": "SD",
       "opponent": "SF",
@@ -3521,7 +3521,7 @@
       "legacy_hr_score": 54.5
     },
     {
-      "rank": 49,
+      "rank": 51,
       "player": "Elly De La Cruz",
       "team": "CIN",
       "opponent": "PIT",
@@ -3561,7 +3561,7 @@
       "legacy_hr_score": 55.2
     },
     {
-      "rank": 50,
+      "rank": 52,
       "player": "Griffin Conine",
       "team": "MIA",
       "opponent": "NYM",
@@ -3601,7 +3601,7 @@
       "legacy_hr_score": 53.5
     },
     {
-      "rank": 54,
+      "rank": 53,
       "player": "Randy Arozarena",
       "team": "SEA",
       "opponent": "LAD",
@@ -3654,16 +3654,6 @@
         "reason": "independent games"
       },
       {
-        "names": "Munetaka Murakami + Junior Caminero",
-        "teams": "CWS vs NYY / TB vs TEX",
-        "avg_edge": 6.3,
-        "combo_score": 6.61,
-        "type": "Balanced 2",
-        "volatility": "Medium",
-        "labels": "Confirmed, Hot Bat, EV Edge / Confirmed, EV Edge",
-        "reason": "independent games"
-      },
-      {
         "names": "Munetaka Murakami + Jac Caglianone",
         "teams": "CWS vs NYY / KC vs MIN",
         "avg_edge": 6.3,
@@ -3671,6 +3661,16 @@
         "type": "Balanced 2",
         "volatility": "Medium",
         "labels": "Confirmed, Hot Bat, EV Edge / Confirmed, Weather Edge, EV Edge",
+        "reason": "independent games"
+      },
+      {
+        "names": "Munetaka Murakami + Junior Caminero",
+        "teams": "CWS vs NYY / TB vs TEX",
+        "avg_edge": 6.3,
+        "combo_score": 6.61,
+        "type": "Balanced 2",
+        "volatility": "Medium",
+        "labels": "Confirmed, Hot Bat, EV Edge / Confirmed, EV Edge",
         "reason": "independent games"
       },
       {
@@ -3684,13 +3684,13 @@
         "reason": "independent games"
       },
       {
-        "names": "Junior Caminero + Jac Caglianone",
-        "teams": "TB vs TEX / KC vs MIN",
+        "names": "Jac Caglianone + Junior Caminero",
+        "teams": "KC vs MIN / TB vs TEX",
         "avg_edge": 5.8,
         "combo_score": 6.06,
         "type": "Balanced 2",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge / Confirmed, Weather Edge, EV Edge",
+        "labels": "Confirmed, Weather Edge, EV Edge / Confirmed, EV Edge",
         "reason": "independent games"
       }
     ],
@@ -3875,25 +3875,6 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Busch Stadium",
-      "teams": [
-        "CHC",
-        "STL"
-      ],
-      "environment_score": 48.6,
-      "park_hr_factor": 100.0,
-      "temperature": 82.0,
-      "wind_speed": 0.0,
-      "wind_direction": "R To L",
-      "humidity": 57.0,
-      "precip_pct": 0.0,
-      "condition_grade": "Neutral",
-      "top_player": "Jordan Walker",
-      "top_edge": 5.3,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
       "ballpark": "Petco Park",
       "teams": [
         "SD",
@@ -3929,6 +3910,25 @@
       "top_player": "Kyle Stowers",
       "top_edge": 5.0,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.7571&lon=-73.8458",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Busch Stadium",
+      "teams": [
+        "CHC",
+        "STL"
+      ],
+      "environment_score": 38.1,
+      "park_hr_factor": 100.0,
+      "temperature": 82.0,
+      "wind_speed": 0.0,
+      "wind_direction": "In From CF",
+      "humidity": 57.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Resist",
+      "top_player": "Jordan Walker",
+      "top_edge": 5.2,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
