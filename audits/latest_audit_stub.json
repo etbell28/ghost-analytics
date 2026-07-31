@@ -1,6 +1,6 @@
 {
   "report_date": "2026-07-31",
-  "generated_at": "2026-07-31T15:46:45.289015-04:00",
+  "generated_at": "2026-07-31T16:48:53.413458-04:00",
   "product": "BarrelIQ",
   "input_payload": "/home/runner/work/ghost-analytics/ghost-analytics/outputs/live_mlb_payload.json",
   "status": "framework_ready",
@@ -9,7 +9,7 @@
     "confirmed_targets": 30,
     "projected_targets": 30,
     "pairings_2": 8,
-    "pairings_3": 2,
+    "pairings_3": 5,
     "pairings_4": 0
   },
   "next_required_input": "official MLB result feed / boxscore HR events",
