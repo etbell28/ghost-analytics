@@ -16,12 +16,12 @@
 | 12 | Jac Caglianone | KC | Ryan Feltner | 3 | 64.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Brandon Nimmo | TEX | Ronel Blanco | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 14 | Rhys Hoskins | CLE | Kohl Drake | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 15 | Carter Jensen | KC | Ryan Feltner | 1 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 16 | Bryce Eldridge | SF | Walker Buehler | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Drake Baldwin | ATL | Miles Mikolas | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Nick Kurtz | ATH | Framber Valdez | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Christian Encarnacion-Strand | BAL | Cristopher Sánchez | 6 | 60.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Wyatt Langford | TEX | Ronel Blanco | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 15 | Bryce Eldridge | SF | Walker Buehler | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Mike Trout | LAA | Robert Gasser | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Carter Jensen | KC | Ryan Feltner | 1 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 18 | Drake Baldwin | ATL | Miles Mikolas | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Riley Greene | DET | Jack Perkins | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Christian Encarnacion-Strand | BAL | Cristopher Sánchez | 6 | 60.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
