@@ -10,18 +10,18 @@
 | 6 | Esmerlyn Valdez | PIT | Andrew Abbott | 4 | 66.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Matt Olson | ATL | Miles Mikolas | 3 | 66.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Kyle Schwarber | PHI | Shane Baz | 2 | 65.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Jac Caglianone | KC | Ryan Feltner | 3 | 63.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Heriberto Hernández | MIA | Zac Thornton | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Brandon Nimmo | TEX | Ronel Blanco | 4 | 63.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 11 | Shohei Ohtani | LAD | Payton Tolle | 1 | 63.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 12 | Rhys Hoskins | CLE | Kohl Drake | 4 | 63.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 13 | Pete Alonso | BAL | Cristopher Sánchez | 2 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Drake Baldwin | ATL | Miles Mikolas | 1 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Bryce Eldridge | SF | Walker Buehler | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Heriberto Hernandez | MIA | Zac Thornton | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Carter Jensen | KC | Ryan Feltner | 1 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Ronald Acuna | ATL | Miles Mikolas | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Nick Kurtz | ATH | Framber Valdez | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Mike Trout | LAA | Robert Gasser | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Kyle Stowers | MIA | Zac Thornton | 6 | 62.9 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 14 | Pete Alonso | BAL | Cristopher Sánchez | 2 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Drake Baldwin | ATL | Miles Mikolas | 1 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Dominic Canzone | SEA | Connor Prielipp | 3 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Bryce Eldridge | SF | Walker Buehler | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Kody Clemens | MIN | Logan Gilbert | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Ronald Acuna | ATL | Miles Mikolas | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Nick Kurtz | ATH | Framber Valdez | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
