@@ -16,12 +16,12 @@
 | 12 | Rhys Hoskins | CLE | Kohl Drake | 4 | 63.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 13 | Pete Alonso | BAL | Cristopher Sánchez | 2 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Drake Baldwin | ATL | Miles Mikolas | 1 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Bryce Eldridge | SF | Walker Buehler | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Heriberto Hernandez | MIA | Zac Thornton | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Carter Jensen | KC | Ryan Feltner | 1 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Ronald Acuna | ATL | Miles Mikolas | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Nick Kurtz | ATH | Framber Valdez | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Mike Trout | LAA | Robert Gasser | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Heriberto Hernandez | MIA | Zac Thornton | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Carter Jensen | KC | Ryan Feltner | 1 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Ronald Acuna | ATL | Miles Mikolas | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Nick Kurtz | ATH | Framber Valdez | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Mike Trout | LAA | Robert Gasser | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Dominic Canzone | SEA | Connor Prielipp | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
