@@ -13,15 +13,15 @@
 | 9 | Matt Olson | ATL | Ryan Gusto | 3 | 65.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Osleivis Basabe | SF | MacKenzie Gore | 8 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
 | 11 | Christian Encarnacion-Strand | BAL | Grayson Rodriguez | 5 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable |
-| 12 | Jac Caglianone | KC | Joe Ryan | 3 | 62.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Bryce Eldridge | SF | MacKenzie Gore | 3 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 14 | Spencer Jones | NYY | Hunter Dobbins | 4 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Munetaka Murakami | CWS | Patrick Sandoval | 2 | 62.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 16 | Coby Mayo | BAL | Grayson Rodriguez | 1 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 17 | Tyler O'Neill | BAL | Grayson Rodriguez | 4 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 18 | Mike Trout | LAA |  | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Jordan Walker | STL | Ryan Weathers | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Alec Burleson | STL | Ryan Weathers | 4 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Bryce Eldridge | SF | MacKenzie Gore | 3 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 13 | Spencer Jones | NYY | Hunter Dobbins | 4 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Munetaka Murakami | CWS | Patrick Sandoval | 2 | 62.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 15 | Coby Mayo | BAL | Grayson Rodriguez | 1 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 16 | Tyler O'Neill | BAL | Grayson Rodriguez | 4 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 17 | Mike Trout | LAA |  | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Jordan Walker | STL | Ryan Weathers | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Alec Burleson | STL | Ryan Weathers | 4 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Mickey Moniak | COL | Freddy Peralta | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
