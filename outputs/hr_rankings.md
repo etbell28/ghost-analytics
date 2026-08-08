@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Merrill Kelly | 1 | 77.3 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Yordan Alvarez | HOU | Robbie Ray | 2 | 66.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 3 | Max Muncy | LAD | Merrill Kelly | 4 | 66.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Junior Caminero | TB | Logan Gilbert | 3 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Kyle Schwarber | PHI | José Soriano | 1 | 64.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 6 | Corbin Carroll | AZ | Roki Sasaki | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Freddie Freeman | LAD | Merrill Kelly | 3 | 62.5 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 8 | Bryce Eldridge | SF | Keider Montero | 1 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Bryce Harper | PHI | José Soriano | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 10 | Jonathan Aranda | TB | Logan Gilbert | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Rafael Devers | SF | Keider Montero | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Osleivis Basabe | SF | Keider Montero | 7 | 59.2 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 13 | Jackson Merrill | SD | Ronel Blanco | 5 | 59.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 14 | Ketel Marte | AZ | Roki Sasaki | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Riley Greene | DET | JT Brubaker | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Fernando Tatis Jr. | SD | Ronel Blanco | 1 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Dominic Canzone | SEA | Drew Rasmussen | 4 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Kyle Tucker | LAD | Merrill Kelly | 6 | 57.2 | Longshot | Watch List | Platoon Edge |
-| 19 | Teoscar Hernández | LAD | Merrill Kelly | 7 | 57.1 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 20 | Andy Pages | LAD | Merrill Kelly | 2 | 56.6 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Bryce Eldridge | SF | Keider Montero | 1 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Rafael Devers | SF | Keider Montero | 4 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Osleivis Basabe | SF | Keider Montero | 7 | 57.6 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 4 | Riley Greene | DET | JT Brubaker | 4 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Dillon Dingler | DET | JT Brubaker | 3 | 52.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 6 | Spencer Torkelson | DET | JT Brubaker | 6 | 48.7 | Longshot | Watch List | Strong Barrel |
+| 7 | Kevin McGonigle | DET | JT Brubaker | 1 | 48.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Colt Keith | DET | JT Brubaker | 5 | 47.4 | Longshot | Watch List | Platoon Edge |
+| 9 | Willy Adames | SF | Keider Montero | 3 | 46.3 | Longshot | Watch List | Premium Lineup Spot |
+| 10 | Gleyber Torres | DET | JT Brubaker | 2 | 44.3 | Longshot | Watch List | Premium Lineup Spot |
+| 11 | Jung Hoo Lee | SF | Keider Montero | 2 | 44.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 12 | Daniel Susac | SF | Keider Montero | 5 | 42.9 | Longshot | Watch List | Hot Hitter/Streak |
+| 13 | Max Clark | DET | JT Brubaker | 7 | 40.0 | Longshot | Watch List | Platoon Edge |
+| 14 | Drew Gilbert | SF | Keider Montero | 6 | 39.9 | Longshot | Watch List | Platoon Edge |
+| 15 | Grant McCray | SF | Keider Montero | 8 | 35.3 | Longshot | Watch List | Platoon Edge |
+| 16 | Zach McKinstry | DET | JT Brubaker | 9 | 31.9 | Longshot | Watch List | Platoon Edge |
+| 17 | Javier Báez | DET | JT Brubaker | 8 | 31.8 | Longshot | Watch List | No major boost |
+| 18 | Christian Koss | SF | Keider Montero | 9 | 28.8 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 72.1
-- Yordan Alvarez + Max Muncy | Avg HR Score: 66.5
-- Max Muncy + Junior Caminero | Avg HR Score: 65.5
-- Junior Caminero + Kyle Schwarber | Avg HR Score: 64.8
-- Kyle Schwarber + Corbin Carroll | Avg HR Score: 64.3
+- Bryce Eldridge + Rafael Devers | Avg HR Score: 59.1
+- Rafael Devers + Osleivis Basabe | Avg HR Score: 57.8
+- Osleivis Basabe + Riley Greene | Avg HR Score: 56.8
+- Riley Greene + Dillon Dingler | Avg HR Score: 54.4
+- Dillon Dingler + Spencer Torkelson | Avg HR Score: 50.7
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Yordan Alvarez + Max Muncy | Avg HR Score: 70.1
-- Yordan Alvarez + Max Muncy + Junior Caminero | Avg HR Score: 65.9
-- Max Muncy + Junior Caminero + Kyle Schwarber | Avg HR Score: 65.2
-- Junior Caminero + Kyle Schwarber + Corbin Carroll | Avg HR Score: 64.5
-- Kyle Schwarber + Corbin Carroll + Freddie Freeman | Avg HR Score: 63.7
+- Bryce Eldridge + Rafael Devers + Osleivis Basabe | Avg HR Score: 58.6
+- Rafael Devers + Osleivis Basabe + Riley Greene | Avg HR Score: 57.2
+- Osleivis Basabe + Riley Greene + Dillon Dingler | Avg HR Score: 55.4
+- Riley Greene + Dillon Dingler + Spencer Torkelson | Avg HR Score: 52.5
+- Dillon Dingler + Spencer Torkelson + Kevin McGonigle | Avg HR Score: 50.0
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Yordan Alvarez + Max Muncy + Junior Caminero | Avg HR Score: 68.8
-- Yordan Alvarez + Max Muncy + Junior Caminero + Kyle Schwarber | Avg HR Score: 65.7
-- Max Muncy + Junior Caminero + Kyle Schwarber + Corbin Carroll | Avg HR Score: 64.9
-- Junior Caminero + Kyle Schwarber + Corbin Carroll + Freddie Freeman | Avg HR Score: 64.0
-- Kyle Schwarber + Corbin Carroll + Freddie Freeman + Bryce Eldridge | Avg HR Score: 63.3
+- Bryce Eldridge + Rafael Devers + Osleivis Basabe + Riley Greene | Avg HR Score: 58.0
+- Rafael Devers + Osleivis Basabe + Riley Greene + Dillon Dingler | Avg HR Score: 56.1
+- Osleivis Basabe + Riley Greene + Dillon Dingler + Spencer Torkelson | Avg HR Score: 53.8
+- Riley Greene + Dillon Dingler + Spencer Torkelson + Kevin McGonigle | Avg HR Score: 51.5
+- Dillon Dingler + Spencer Torkelson + Kevin McGonigle + Colt Keith | Avg HR Score: 49.3
