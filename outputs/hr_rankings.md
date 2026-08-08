@@ -16,11 +16,11 @@
 | 12 | Pete Crow-Armstrong | CHC | Seth Lugo | 1 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 13 | Bryce Harper | PHI | Max Scherzer | 3 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 14 | Jordan Walker | STL | Kyle Freeland | 2 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Hunter Goodman | COL | Matthew Liberatore | 4 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Christian Encarnacion-Strand | BAL | Jacob deGrom | 4 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Drake Baldwin | ATL | Gerrit Cole | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Alec Burleson | STL | Kyle Freeland | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Junior Caminero | TB | George Kirby | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Bryce Eldridge | SF | Jackson Jobe | 1 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Hunter Goodman | COL | Matthew Liberatore | 4 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Christian Encarnacion-Strand | BAL | Jacob deGrom | 4 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Drake Baldwin | ATL | Gerrit Cole | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Alec Burleson | STL | Kyle Freeland | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 20 | Bryan Reynolds | PIT | Robert Stock | 3 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
