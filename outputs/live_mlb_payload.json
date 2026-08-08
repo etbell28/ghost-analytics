@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Saturday, August 8, 2026",
-  "generated_at": "05:13 PM EDT",
-  "generated_iso": "2026-08-08T17:13:30.292996-04:00",
+  "generated_at": "05:49 PM EDT",
+  "generated_iso": "2026-08-08T17:49:18.071911-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -302,6 +302,46 @@
     },
     {
       "rank": 8,
+      "player": "Pete Alonso",
+      "team": "BAL",
+      "opponent": "TEX",
+      "matchup": "BAL vs TEX",
+      "batting_order": "2",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "98",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-08T23:15:00Z",
+      "confirmed": true,
+      "edge_index": 6.2,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Low",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 69.6,
+        "pitcher_vulnerability": 49.3,
+        "batted_ball_fit": 47.9,
+        "environment": 62.6,
+        "lineup_opportunity": 100.0,
+        "recent_form": 31.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 64.3
+    },
+    {
+      "rank": 9,
       "player": "Brandon Lowe",
       "team": "PIT",
       "opponent": "NYM",
@@ -341,7 +381,7 @@
       "legacy_hr_score": 66.9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "MIN",
@@ -381,7 +421,7 @@
       "legacy_hr_score": 65.2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Hunter Goodman",
       "team": "COL",
       "opponent": "STL",
@@ -421,7 +461,7 @@
       "legacy_hr_score": 64.2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "Alec Burleson",
       "team": "STL",
       "opponent": "COL",
@@ -461,7 +501,7 @@
       "legacy_hr_score": 63.8
     },
     {
-      "rank": 12,
+      "rank": 13,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "DET",
@@ -501,7 +541,7 @@
       "legacy_hr_score": 64.4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "COL",
@@ -539,46 +579,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 64.6
-    },
-    {
-      "rank": 14,
-      "player": "Pete Alonso",
-      "team": "BAL",
-      "opponent": "TEX",
-      "matchup": "BAL vs TEX",
-      "batting_order": "2",
-      "pitcher": "Jacob deGrom",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "72",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-08T23:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Low",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 69.6,
-        "pitcher_vulnerability": 49.3,
-        "batted_ball_fit": 47.9,
-        "environment": 41.1,
-        "lineup_opportunity": 100.0,
-        "recent_form": 31.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.1
     },
     {
       "rank": 15,
@@ -703,6 +703,86 @@
     },
     {
       "rank": 18,
+      "player": "Christian Encarnacion-Strand",
+      "team": "BAL",
+      "opponent": "TEX",
+      "matchup": "BAL vs TEX",
+      "batting_order": "7",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "98",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-08T23:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.7,
+      "ghost_grade": "B-",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 70.0,
+        "pitcher_vulnerability": 49.3,
+        "batted_ball_fit": 49.6,
+        "environment": 62.6,
+        "lineup_opportunity": 64.3,
+        "recent_form": 0.8,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 57.9
+    },
+    {
+      "rank": 19,
+      "player": "Tyler O'Neill",
+      "team": "BAL",
+      "opponent": "TEX",
+      "matchup": "BAL vs TEX",
+      "batting_order": "4",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "98",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-08T23:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.7,
+      "ghost_grade": "B-",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "Hot Bat"
+      ],
+      "label_summary": "Confirmed + Hot Bat",
+      "components": {
+        "hitter_power": 48.6,
+        "pitcher_vulnerability": 49.3,
+        "batted_ball_fit": 43.1,
+        "environment": 62.6,
+        "lineup_opportunity": 94.9,
+        "recent_form": 90.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.6
+    },
+    {
+      "rank": 20,
       "player": "Jackson Chourio",
       "team": "MIL",
       "opponent": "MIN",
@@ -742,7 +822,7 @@
       "legacy_hr_score": 61.2
     },
     {
-      "rank": 19,
+      "rank": 21,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "DET",
@@ -782,7 +862,7 @@
       "legacy_hr_score": 62.7
     },
     {
-      "rank": 20,
+      "rank": 22,
       "player": "Bryan Reynolds",
       "team": "PIT",
       "opponent": "NYM",
@@ -822,7 +902,7 @@
       "legacy_hr_score": 63.2
     },
     {
-      "rank": 21,
+      "rank": 23,
       "player": "Brett Bateman",
       "team": "TOR",
       "opponent": "PHI",
@@ -862,7 +942,7 @@
       "legacy_hr_score": 63.6
     },
     {
-      "rank": 22,
+      "rank": 24,
       "player": "Max Muncy",
       "team": "LAD",
       "opponent": "AZ",
@@ -902,7 +982,7 @@
       "legacy_hr_score": 60.2
     },
     {
-      "rank": 23,
+      "rank": 25,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "CLE",
@@ -942,7 +1022,7 @@
       "legacy_hr_score": 58.3
     },
     {
-      "rank": 24,
+      "rank": 26,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "CLE",
@@ -982,104 +1062,23 @@
       "legacy_hr_score": 57.4
     },
     {
-      "rank": 25,
-      "player": "Endy Rodríguez",
-      "team": "PIT",
-      "opponent": "NYM",
-      "matchup": "PIT vs NYM",
-      "batting_order": "6",
-      "pitcher": "Robert Stock",
-      "pitcher_hand": "R",
-      "ballpark": "PNC Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "Out To LF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.4469&lon=-80.0057",
-      "weather_humidity": "91",
-      "weather_precip_pct": "17",
-      "game_start_time": "2026-08-08T22:40:00Z",
-      "confirmed": true,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "EV Edge",
-        "Pitcher Target"
-      ],
-      "label_summary": "Confirmed + EV Edge + Pitcher Target",
-      "components": {
-        "hitter_power": 39.9,
-        "pitcher_vulnerability": 75.1,
-        "batted_ball_fit": 31.3,
-        "environment": 57.3,
-        "lineup_opportunity": 76.2,
-        "recent_form": 62.4,
-        "bvp_pitch_mix": 56.0
-      },
-      "legacy_hr_score": 60.3
-    },
-    {
-      "rank": 26,
-      "player": "Christian Encarnacion-Strand",
-      "team": "BAL",
-      "opponent": "TEX",
-      "matchup": "BAL vs TEX",
-      "batting_order": "7",
-      "pitcher": "Jacob deGrom",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "72",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-08T23:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 70.0,
-        "pitcher_vulnerability": 49.3,
-        "batted_ball_fit": 49.6,
-        "environment": 41.1,
-        "lineup_opportunity": 64.3,
-        "recent_form": 0.8,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 54.6
-    },
-    {
       "rank": 27,
-      "player": "Tyler O'Neill",
-      "team": "BAL",
-      "opponent": "TEX",
-      "matchup": "BAL vs TEX",
-      "batting_order": "4",
-      "pitcher": "Jacob deGrom",
+      "player": "Corey Seager",
+      "team": "TEX",
+      "opponent": "BAL",
+      "matchup": "TEX vs BAL",
+      "batting_order": "3",
+      "pitcher": "Kyle Bradish",
       "pitcher_hand": "R",
       "ballpark": "Globe Life Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "72",
+      "weather_temp": "98",
       "wind_speed": null,
       "wind_direction": "None",
-      "weather_source": "NOAA link only",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
       "game_start_time": "2026-08-08T23:15:00Z",
       "confirmed": true,
       "edge_index": 5.4,
@@ -1088,19 +1087,19 @@
       "volatility": "Medium",
       "labels": [
         "Confirmed",
-        "Hot Bat"
+        "Watch"
       ],
-      "label_summary": "Confirmed + Hot Bat",
+      "label_summary": "Confirmed + Watch",
       "components": {
-        "hitter_power": 48.6,
-        "pitcher_vulnerability": 49.3,
-        "batted_ball_fit": 43.1,
-        "environment": 41.1,
-        "lineup_opportunity": 94.9,
-        "recent_form": 90.6,
+        "hitter_power": 59.7,
+        "pitcher_vulnerability": 35.4,
+        "batted_ball_fit": 44.5,
+        "environment": 62.6,
+        "lineup_opportunity": 96.6,
+        "recent_form": 34.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 56.4
+      "legacy_hr_score": 60.1
     },
     {
       "rank": 28,
@@ -1512,6 +1511,46 @@
     },
     {
       "rank": 8,
+      "player": "Pete Alonso",
+      "team": "BAL",
+      "opponent": "TEX",
+      "matchup": "BAL vs TEX",
+      "batting_order": "2",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "98",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-08T23:15:00Z",
+      "confirmed": true,
+      "edge_index": 6.2,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Low",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 69.6,
+        "pitcher_vulnerability": 49.3,
+        "batted_ball_fit": 47.9,
+        "environment": 62.6,
+        "lineup_opportunity": 100.0,
+        "recent_form": 31.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 64.3
+    },
+    {
+      "rank": 9,
       "player": "Brandon Lowe",
       "team": "PIT",
       "opponent": "NYM",
@@ -1551,7 +1590,7 @@
       "legacy_hr_score": 66.9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "MIN",
@@ -1591,7 +1630,7 @@
       "legacy_hr_score": 65.2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Hunter Goodman",
       "team": "COL",
       "opponent": "STL",
@@ -1631,7 +1670,7 @@
       "legacy_hr_score": 64.2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "Alec Burleson",
       "team": "STL",
       "opponent": "COL",
@@ -1671,7 +1710,7 @@
       "legacy_hr_score": 63.8
     },
     {
-      "rank": 12,
+      "rank": 13,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "DET",
@@ -1711,7 +1750,7 @@
       "legacy_hr_score": 64.4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "COL",
@@ -1749,46 +1788,6 @@
         "bvp_pitch_mix": 54.0
       },
       "legacy_hr_score": 64.6
-    },
-    {
-      "rank": 14,
-      "player": "Pete Alonso",
-      "team": "BAL",
-      "opponent": "TEX",
-      "matchup": "BAL vs TEX",
-      "batting_order": "2",
-      "pitcher": "Jacob deGrom",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "72",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-08T23:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Low",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 69.6,
-        "pitcher_vulnerability": 49.3,
-        "batted_ball_fit": 47.9,
-        "environment": 41.1,
-        "lineup_opportunity": 100.0,
-        "recent_form": 31.6,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 61.1
     },
     {
       "rank": 15,
@@ -1872,6 +1871,86 @@
     },
     {
       "rank": 18,
+      "player": "Christian Encarnacion-Strand",
+      "team": "BAL",
+      "opponent": "TEX",
+      "matchup": "BAL vs TEX",
+      "batting_order": "7",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "98",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-08T23:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.7,
+      "ghost_grade": "B-",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 70.0,
+        "pitcher_vulnerability": 49.3,
+        "batted_ball_fit": 49.6,
+        "environment": 62.6,
+        "lineup_opportunity": 64.3,
+        "recent_form": 0.8,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 57.9
+    },
+    {
+      "rank": 19,
+      "player": "Tyler O'Neill",
+      "team": "BAL",
+      "opponent": "TEX",
+      "matchup": "BAL vs TEX",
+      "batting_order": "4",
+      "pitcher": "Jacob deGrom",
+      "pitcher_hand": "R",
+      "ballpark": "Globe Life Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "98",
+      "wind_speed": null,
+      "wind_direction": "None",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-08T23:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.7,
+      "ghost_grade": "B-",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "Hot Bat"
+      ],
+      "label_summary": "Confirmed + Hot Bat",
+      "components": {
+        "hitter_power": 48.6,
+        "pitcher_vulnerability": 49.3,
+        "batted_ball_fit": 43.1,
+        "environment": 62.6,
+        "lineup_opportunity": 94.9,
+        "recent_form": 90.6,
+        "bvp_pitch_mix": 54.0
+      },
+      "legacy_hr_score": 59.6
+    },
+    {
+      "rank": 20,
       "player": "Jackson Chourio",
       "team": "MIL",
       "opponent": "MIN",
@@ -1911,7 +1990,7 @@
       "legacy_hr_score": 61.2
     },
     {
-      "rank": 19,
+      "rank": 21,
       "player": "Rafael Devers",
       "team": "SF",
       "opponent": "DET",
@@ -1951,7 +2030,7 @@
       "legacy_hr_score": 62.7
     },
     {
-      "rank": 20,
+      "rank": 22,
       "player": "Bryan Reynolds",
       "team": "PIT",
       "opponent": "NYM",
@@ -1991,7 +2070,7 @@
       "legacy_hr_score": 63.2
     },
     {
-      "rank": 21,
+      "rank": 23,
       "player": "Brett Bateman",
       "team": "TOR",
       "opponent": "PHI",
@@ -2031,7 +2110,7 @@
       "legacy_hr_score": 63.6
     },
     {
-      "rank": 22,
+      "rank": 24,
       "player": "Max Muncy",
       "team": "LAD",
       "opponent": "AZ",
@@ -2071,7 +2150,7 @@
       "legacy_hr_score": 60.2
     },
     {
-      "rank": 23,
+      "rank": 25,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "CLE",
@@ -2111,7 +2190,7 @@
       "legacy_hr_score": 58.3
     },
     {
-      "rank": 24,
+      "rank": 26,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "CLE",
@@ -2151,104 +2230,23 @@
       "legacy_hr_score": 57.4
     },
     {
-      "rank": 25,
-      "player": "Endy Rodríguez",
-      "team": "PIT",
-      "opponent": "NYM",
-      "matchup": "PIT vs NYM",
-      "batting_order": "6",
-      "pitcher": "Robert Stock",
-      "pitcher_hand": "R",
-      "ballpark": "PNC Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "76",
-      "wind_speed": null,
-      "wind_direction": "Out To LF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.4469&lon=-80.0057",
-      "weather_humidity": "91",
-      "weather_precip_pct": "17",
-      "game_start_time": "2026-08-08T22:40:00Z",
-      "confirmed": true,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "EV Edge",
-        "Pitcher Target"
-      ],
-      "label_summary": "Confirmed + EV Edge + Pitcher Target",
-      "components": {
-        "hitter_power": 39.9,
-        "pitcher_vulnerability": 75.1,
-        "batted_ball_fit": 31.3,
-        "environment": 57.3,
-        "lineup_opportunity": 76.2,
-        "recent_form": 62.4,
-        "bvp_pitch_mix": 56.0
-      },
-      "legacy_hr_score": 60.3
-    },
-    {
-      "rank": 26,
-      "player": "Christian Encarnacion-Strand",
-      "team": "BAL",
-      "opponent": "TEX",
-      "matchup": "BAL vs TEX",
-      "batting_order": "7",
-      "pitcher": "Jacob deGrom",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "72",
-      "wind_speed": null,
-      "wind_direction": "None",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-08T23:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 70.0,
-        "pitcher_vulnerability": 49.3,
-        "batted_ball_fit": 49.6,
-        "environment": 41.1,
-        "lineup_opportunity": 64.3,
-        "recent_form": 0.8,
-        "bvp_pitch_mix": 54.0
-      },
-      "legacy_hr_score": 54.6
-    },
-    {
       "rank": 27,
-      "player": "Tyler O'Neill",
-      "team": "BAL",
-      "opponent": "TEX",
-      "matchup": "BAL vs TEX",
-      "batting_order": "4",
-      "pitcher": "Jacob deGrom",
+      "player": "Corey Seager",
+      "team": "TEX",
+      "opponent": "BAL",
+      "matchup": "TEX vs BAL",
+      "batting_order": "3",
+      "pitcher": "Kyle Bradish",
       "pitcher_hand": "R",
       "ballpark": "Globe Life Field",
       "park_hr_factor": 0.0,
-      "weather_temp": "72",
+      "weather_temp": "98",
       "wind_speed": null,
       "wind_direction": "None",
-      "weather_source": "NOAA link only",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "33",
+      "weather_precip_pct": "0",
       "game_start_time": "2026-08-08T23:15:00Z",
       "confirmed": true,
       "edge_index": 5.4,
@@ -2257,19 +2255,19 @@
       "volatility": "Medium",
       "labels": [
         "Confirmed",
-        "Hot Bat"
+        "Watch"
       ],
-      "label_summary": "Confirmed + Hot Bat",
+      "label_summary": "Confirmed + Watch",
       "components": {
-        "hitter_power": 48.6,
-        "pitcher_vulnerability": 49.3,
-        "batted_ball_fit": 43.1,
-        "environment": 41.1,
-        "lineup_opportunity": 94.9,
-        "recent_form": 90.6,
+        "hitter_power": 59.7,
+        "pitcher_vulnerability": 35.4,
+        "batted_ball_fit": 44.5,
+        "environment": 62.6,
+        "lineup_opportunity": 96.6,
+        "recent_form": 34.5,
         "bvp_pitch_mix": 54.0
       },
-      "legacy_hr_score": 56.4
+      "legacy_hr_score": 60.1
     },
     {
       "rank": 28,
@@ -2475,7 +2473,7 @@
       "legacy_hr_score": 60.6
     },
     {
-      "rank": 66,
+      "rank": 67,
       "player": "Jonathan Aranda",
       "team": "TB",
       "opponent": "SEA",
@@ -2515,7 +2513,7 @@
       "legacy_hr_score": 56.9
     },
     {
-      "rank": 114,
+      "rank": 115,
       "player": "Victor Mesa",
       "team": "TB",
       "opponent": "SEA",
@@ -2555,7 +2553,7 @@
       "legacy_hr_score": 49.5
     },
     {
-      "rank": 116,
+      "rank": 117,
       "player": "Yandy Diaz",
       "team": "TB",
       "opponent": "SEA",
@@ -2595,7 +2593,7 @@
       "legacy_hr_score": 48.8
     },
     {
-      "rank": 170,
+      "rank": 172,
       "player": "Cedric Mullins",
       "team": "TB",
       "opponent": "SEA",
@@ -2635,7 +2633,7 @@
       "legacy_hr_score": 44.4
     },
     {
-      "rank": 190,
+      "rank": 191,
       "player": "Liam Hicks",
       "team": "TB",
       "opponent": "SEA",
@@ -2715,7 +2713,7 @@
       "legacy_hr_score": 37.3
     },
     {
-      "rank": 214,
+      "rank": 215,
       "player": "Chandler Simpson",
       "team": "TB",
       "opponent": "SEA",
@@ -2755,7 +2753,7 @@
       "legacy_hr_score": 35.1
     },
     {
-      "rank": 215,
+      "rank": 216,
       "player": "Taylor Walls",
       "team": "TB",
       "opponent": "SEA",
@@ -2920,14 +2918,24 @@
         "reason": "independent games · sleeper leverage"
       },
       {
-        "names": "Yordan Alvarez + Osleivis Basabe + Brandon Lowe",
-        "teams": "HOU vs SD / SF vs DET / PIT vs NYM",
-        "avg_edge": 6.3,
-        "combo_score": 6.9,
+        "names": "Yordan Alvarez + Osleivis Basabe + Pete Alonso",
+        "teams": "HOU vs SD / SF vs DET / BAL vs TEX",
+        "avg_edge": 6.4,
+        "combo_score": 6.97,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Confirmed, EV Edge, Tough Pitcher / Confirmed, Hot Bat, Sleeper / Confirmed, Pitcher Target",
-        "reason": "independent games · pitcher target included · sleeper leverage"
+        "labels": "Confirmed, EV Edge, Tough Pitcher / Confirmed, Hot Bat, Sleeper / Confirmed, EV Edge",
+        "reason": "independent games · sleeper leverage"
+      },
+      {
+        "names": "Pete Alonso + Brandon Lowe + Jake Bauers",
+        "teams": "BAL vs TEX / PIT vs NYM / MIL vs MIN",
+        "avg_edge": 6.1,
+        "combo_score": 6.7,
+        "type": "Aggressive 3",
+        "volatility": "Medium",
+        "labels": "Confirmed, EV Edge / Confirmed, Pitcher Target / Confirmed, EV Edge",
+        "reason": "independent games · pitcher target included"
       },
       {
         "names": "Brandon Lowe + Jake Bauers + Hunter Goodman",
@@ -2940,14 +2948,14 @@
         "reason": "independent games · pitcher target included"
       },
       {
-        "names": "Jake Bauers + Hunter Goodman + Bryce Eldridge",
-        "teams": "MIL vs MIN / COL vs STL / SF vs DET",
+        "names": "Hunter Goodman + Alec Burleson + Bryce Eldridge",
+        "teams": "COL vs STL / STL vs COL / SF vs DET",
         "avg_edge": 6.0,
-        "combo_score": 6.56,
+        "combo_score": 5.86,
         "type": "Aggressive 3",
-        "volatility": "Low",
-        "labels": "Confirmed, EV Edge / Confirmed, Watch / Confirmed, EV Edge",
-        "reason": "independent games"
+        "volatility": "Medium",
+        "labels": "Confirmed, Watch / Confirmed, Hot Bat / Confirmed, EV Edge",
+        "reason": "balanced edge mix"
       }
     ],
     "4": []
@@ -2981,6 +2989,16 @@
       "teams": [
         "CIN",
         "WSH"
+      ]
+    },
+    {
+      "ballpark": "Globe Life Field",
+      "environment_score": 62.6,
+      "top_player": "Pete Alonso",
+      "top_edge": 6.2,
+      "teams": [
+        "BAL",
+        "TEX"
       ]
     },
     {
@@ -3090,6 +3108,25 @@
       "top_player": "Abimelec Ortiz",
       "top_edge": 6.6,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.8730&lon=-77.0074",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Globe Life Field",
+      "teams": [
+        "BAL",
+        "TEX"
+      ],
+      "environment_score": 62.6,
+      "park_hr_factor": 100.0,
+      "temperature": 98.0,
+      "wind_speed": 0.0,
+      "wind_direction": "None",
+      "humidity": 33.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Watch",
+      "top_player": "Pete Alonso",
+      "top_edge": 6.2,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -3224,25 +3261,6 @@
       "top_edge": 6.5,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Globe Life Field",
-      "teams": [
-        "BAL",
-        "TEX"
-      ],
-      "environment_score": 41.1,
-      "park_hr_factor": 100.0,
-      "temperature": 72.0,
-      "wind_speed": 0.0,
-      "wind_direction": "None",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Pete Alonso",
-      "top_edge": 5.9,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "source_note": "NOAA link only"
     },
     {
       "ballpark": "Rate Field",

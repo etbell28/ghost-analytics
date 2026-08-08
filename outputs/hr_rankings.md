@@ -14,14 +14,14 @@
 | 10 | Osleivis Basabe | SF | Jackson Jobe | 5 | 64.6 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
 | 11 | Jordan Walker | STL | Kyle Freeland | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Bryce Eldridge | SF | Jackson Jobe | 1 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Hunter Goodman | COL | Matthew Liberatore | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Alec Burleson | STL | Kyle Freeland | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Brett Bateman | TOR | Aaron Nola | 2 | 63.6 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Pete Crow-Armstrong | CHC | Seth Lugo | 1 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Bryan Reynolds | PIT | Robert Stock | 3 | 63.2 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 18 | Rafael Devers | SF | Jackson Jobe | 4 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Jackson Chourio | MIL | Taj Bradley | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Pete Alonso | BAL | Jacob deGrom | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Pete Alonso | BAL | Jacob deGrom | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Hunter Goodman | COL | Matthew Liberatore | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Alec Burleson | STL | Kyle Freeland | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Brett Bateman | TOR | Aaron Nola | 2 | 63.6 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | Pete Crow-Armstrong | CHC | Seth Lugo | 1 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Bryan Reynolds | PIT | Robert Stock | 3 | 63.2 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 19 | Rafael Devers | SF | Jackson Jobe | 4 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Jackson Chourio | MIL | Taj Bradley | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
