@@ -2,7 +2,7 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Brandon Pfaadt | 1 | 70.9 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Shohei Ohtani | LAD | Brandon Pfaadt | 1 | 71.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Munetaka Murakami | CWS | Gavin Williams | 2 | 70.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Kyle Schwarber | PHI | Max Scherzer | 1 | 68.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Abimelec Ortiz | WSH | Chase Burns | 2 | 68.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -25,7 +25,7 @@
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Munetaka Murakami | Avg HR Score: 70.5
+- Shohei Ohtani + Munetaka Murakami | Avg HR Score: 70.8
 - Munetaka Murakami + Kyle Schwarber | Avg HR Score: 69.5
 - Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 68.6
 - Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 68.2
@@ -33,7 +33,7 @@
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Munetaka Murakami + Kyle Schwarber | Avg HR Score: 69.9
+- Shohei Ohtani + Munetaka Murakami + Kyle Schwarber | Avg HR Score: 70.1
 - Munetaka Murakami + Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 69.0
 - Kyle Schwarber + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 68.4
 - Abimelec Ortiz + Yordan Alvarez + Brandon Lowe | Avg HR Score: 67.8
@@ -41,7 +41,7 @@
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Munetaka Murakami + Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 69.5
+- Shohei Ohtani + Munetaka Murakami + Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 69.7
 - Munetaka Murakami + Kyle Schwarber + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 68.8
 - Kyle Schwarber + Abimelec Ortiz + Yordan Alvarez + Brandon Lowe | Avg HR Score: 68.1
 - Abimelec Ortiz + Yordan Alvarez + Brandon Lowe + Bryce Harper | Avg HR Score: 67.2
