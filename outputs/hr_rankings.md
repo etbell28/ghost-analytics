@@ -8,9 +8,9 @@
 | 4 | Matt Olson | ATL | Cam Schlittler | 3 | 67.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 66.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Spencer Jones | NYY | Grant Holmes | 6 | 65.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 7 | Abimelec Ortiz | WSH | Brady Singer | 2 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Kyle Stowers | MIA | Grayson Rodriguez | 1 | 65.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 9 | Yordan Alvarez | HOU |  | 2 | 65.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Kyle Stowers | MIA | Grayson Rodriguez | 1 | 65.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 8 | Yordan Alvarez | HOU |  | 2 | 65.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 9 | Abimelec Ortiz | WSH | Brady Singer | 2 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Esmerlyn Valdez | PIT | Sean Manaea | 5 | 64.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 | 11 | Alec Burleson | STL | Michael Lorenzen | 3 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Luis García Jr. | NYY | Grant Holmes | 4 | 64.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
@@ -37,12 +37,12 @@
 - Bryce Harper + Ben Rice + Matt Olson | Avg HR Score: 68.1
 - Ben Rice + Matt Olson + Shohei Ohtani | Avg HR Score: 67.4
 - Matt Olson + Shohei Ohtani + Spencer Jones | Avg HR Score: 66.5
-- Shohei Ohtani + Spencer Jones + Abimelec Ortiz | Avg HR Score: 65.6
+- Shohei Ohtani + Spencer Jones + Kyle Stowers | Avg HR Score: 65.5
 
 ## Best 4-Leg Pairings
 
 - Kyle Schwarber + Bryce Harper + Ben Rice + Matt Olson | Avg HR Score: 69.0
 - Bryce Harper + Ben Rice + Matt Olson + Shohei Ohtani | Avg HR Score: 67.7
 - Ben Rice + Matt Olson + Shohei Ohtani + Spencer Jones | Avg HR Score: 66.9
-- Matt Olson + Shohei Ohtani + Spencer Jones + Abimelec Ortiz | Avg HR Score: 66.2
-- Shohei Ohtani + Spencer Jones + Abimelec Ortiz + Kyle Stowers | Avg HR Score: 65.5
+- Matt Olson + Shohei Ohtani + Spencer Jones + Kyle Stowers | Avg HR Score: 66.1
+- Shohei Ohtani + Spencer Jones + Kyle Stowers + Yordan Alvarez | Avg HR Score: 65.4
