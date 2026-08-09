@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Randy Vásquez | 2 | 73.4 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Shane Bieber | 1 | 71.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Ben Rice | NYY | Grant Holmes | 2 | 68.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 4 | Matt Olson | ATL | Cam Schlittler | 3 | 67.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 66.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 6 | Pete Alonso | BAL | Kumar Rocker | 2 | 65.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 7 | Kyle Stowers | MIA | Grayson Rodriguez | 1 | 65.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 8 | Bryce Harper | PHI | Shane Bieber | 3 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Alec Burleson | STL | Michael Lorenzen | 3 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Spencer Jones | NYY | Grant Holmes | 6 | 64.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 11 | Munetaka Murakami | CWS | Joey Cantillo | 2 | 64.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 12 | Ronald Acuña Jr. | ATL | Cam Schlittler | 2 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Junior Caminero | TB | Emerson Hancock | 4 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Luis García Jr. | NYY | Grant Holmes | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 15 | Griffin Conine | MIA | Grayson Rodriguez | 5 | 63.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 16 | Hunter Goodman | COL | Michael McGreevy | 4 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Corey Seager | TEX | Cade Povich | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Trent Grisham | NYY | Grant Holmes | 1 | 62.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Brandon Nimmo | TEX | Cade Povich | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Mickey Moniak | COL | Michael McGreevy | 5 | 61.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 1 | Yordan Alvarez | HOU | Randy Vásquez | 2 | 74.0 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Jackson Merrill | SD | Cristian Javier | 5 | 57.5 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 3 | Christian Walker | HOU | Randy Vásquez | 5 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 4 | Taylor Trammell | HOU | Randy Vásquez | 7 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 5 | Fernando Tatis Jr. | SD | Cristian Javier | 1 | 55.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Daulton Varsho | HOU | Randy Vásquez | 4 | 55.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 7 | Manny Machado | SD | Cristian Javier | 3 | 53.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Jeremy Pena | HOU | Randy Vásquez | 1 | 52.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 9 | Cam Smith | HOU | Randy Vásquez | 9 | 52.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
+| 10 | Ty France | SD | Cristian Javier | 4 | 52.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Isaac Paredes | HOU | Randy Vásquez | 3 | 48.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 12 | Jose Altuve | HOU | Randy Vásquez | 6 | 47.1 | Longshot | Watch List | Projected Lineup |
+| 13 | Jake Cronenworth | SD | Cristian Javier | 2 | 46.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 14 | Gavin Sheets | SD | Cristian Javier | 7 | 46.2 | Longshot | Watch List | Platoon Edge |
+| 15 | Yainer Diaz | HOU | Randy Vásquez | 8 | 45.9 | Longshot | Watch List | Projected Lineup |
+| 16 | Luis Rengifo | SD | Cristian Javier | 6 | 42.3 | Longshot | Watch List | Platoon Edge |
+| 17 | Xander Bogaerts | SD | Cristian Javier | 8 | 40.2 | Longshot | Watch List | No major boost |
+| 18 | Freddy Fermin | SD | Cristian Javier | 9 | 37.3 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 72.7
-- Kyle Schwarber + Ben Rice | Avg HR Score: 70.1
-- Ben Rice + Matt Olson | Avg HR Score: 68.0
-- Matt Olson + Shohei Ohtani | Avg HR Score: 67.3
-- Shohei Ohtani + Pete Alonso | Avg HR Score: 66.3
+- Yordan Alvarez + Jackson Merrill | Avg HR Score: 65.8
+- Jackson Merrill + Christian Walker | Avg HR Score: 56.9
+- Christian Walker + Taylor Trammell | Avg HR Score: 56.0
+- Taylor Trammell + Fernando Tatis Jr. | Avg HR Score: 55.8
+- Fernando Tatis Jr. + Daulton Varsho | Avg HR Score: 55.6
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + Ben Rice | Avg HR Score: 71.2
-- Kyle Schwarber + Ben Rice + Matt Olson | Avg HR Score: 69.3
-- Ben Rice + Matt Olson + Shohei Ohtani | Avg HR Score: 67.6
-- Matt Olson + Shohei Ohtani + Pete Alonso | Avg HR Score: 66.8
-- Shohei Ohtani + Pete Alonso + Kyle Stowers | Avg HR Score: 66.0
+- Yordan Alvarez + Jackson Merrill + Christian Walker | Avg HR Score: 62.6
+- Jackson Merrill + Christian Walker + Taylor Trammell | Avg HR Score: 56.5
+- Christian Walker + Taylor Trammell + Fernando Tatis Jr. | Avg HR Score: 56.0
+- Taylor Trammell + Fernando Tatis Jr. + Daulton Varsho | Avg HR Score: 55.7
+- Fernando Tatis Jr. + Daulton Varsho + Manny Machado | Avg HR Score: 55.0
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + Ben Rice + Matt Olson | Avg HR Score: 70.3
-- Kyle Schwarber + Ben Rice + Matt Olson + Shohei Ohtani | Avg HR Score: 68.7
-- Ben Rice + Matt Olson + Shohei Ohtani + Pete Alonso | Avg HR Score: 67.2
-- Matt Olson + Shohei Ohtani + Pete Alonso + Kyle Stowers | Avg HR Score: 66.5
-- Shohei Ohtani + Pete Alonso + Kyle Stowers + Bryce Harper | Avg HR Score: 65.8
+- Yordan Alvarez + Jackson Merrill + Christian Walker + Taylor Trammell | Avg HR Score: 60.9
+- Jackson Merrill + Christian Walker + Taylor Trammell + Fernando Tatis Jr. | Avg HR Score: 56.4
+- Christian Walker + Taylor Trammell + Fernando Tatis Jr. + Daulton Varsho | Avg HR Score: 55.8
+- Taylor Trammell + Fernando Tatis Jr. + Daulton Varsho + Manny Machado | Avg HR Score: 55.2
+- Fernando Tatis Jr. + Daulton Varsho + Manny Machado + Jeremy Pena | Avg HR Score: 54.5
