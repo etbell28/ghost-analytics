@@ -1,0 +1,71 @@
+player,team,opponent,game,sheet_barrel_pct,sheet_iso,sheet_ev,sheet_pm_hr,sheet_pm_pa,sheet_pa_pct,sheet_hr_env,sheet_pitcher_split_barrel,sheet_pitcher_split_hr,sheet_note
+Ben Rice,NYY,ATL,ATL@NYY,29.0,0.461,95,11,89,0,20,8.3,12,Yankee weather + elite sheet power vs Holmes LHH split
+Matt Olson,ATL,NYY,ATL@NYY,21.6,0.380,96,10,100,25,20,4.9,7,Yankee weather + elite LHH sheet power
+Jazz Chisholm Jr.,NYY,ATL,ATL@NYY,12.7,0.205,90,7,112,50,20,8.3,12,Weather and LHH split help; hitter signal below Rice
+Trent Grisham,NYY,ATL,ATL@NYY,14.3,0.210,93,5,105,0,20,8.3,12,Weather + EV but lower core than Rice
+Ronald Acuna Jr.,ATL,NYY,ATL@NYY,15.9,0.176,91,5,108,0,20,5.56,6,Weather helps; sheet ISO less loud than Olson
+Austin Riley,ATL,NYY,ATL@NYY,12.4,0.194,92,8,170,0,20,5.56,6,Weather helps; moderate RHH power
+Kyle Schwarber,PHI,TOR,TOR@PHI,16.7,0.274,97,10,117,37.5,39,9.86,3,Citizens Bank elite HR weather + LHH power vs Bieber split
+Bryce Harper,PHI,TOR,TOR@PHI,15.1,0.395,93,12,114,0,39,9.86,3,Citizens Bank elite HR weather + strong ISO/form profile
+Kazuma Okamoto,TOR,PHI,TOR@PHI,16.1,0.311,95,4,45,0,39,4.34,11,Top weather but opposing pitcher split is less ideal
+Bryson Stott,PHI,TOR,TOR@PHI,10.1,0.166,92,4,151,0,39,9.86,3,Weather help but softer HR profile
+Bobby Witt Jr.,KC,CHC,CHC@KC,17.8,0.200,97,1,50,0,33,7.73,7,Kauffman top weather; elite EV and park fit
+Jac Caglianone,KC,CHC,CHC@KC,16.0,0.381,96,4,42,0,33,6.06,1,Kauffman weather + elite ISO/EV; sheet notes hot
+Salvador Perez,KC,CHC,CHC@KC,18.6,0.276,92,4,58,0,33,7.73,7,Kauffman weather + strong RHH sheet line
+Luke Maile,KC,CHC,CHC@KC,33.3,0.750,91,1,4,0,33,7.73,7,Tiny-sample weather dart only
+Seiya Suzuki,CHC,KC,CHC@KC,10.9,0.190,88,6,92,33.3,33,5.13,1,Kauffman boost but hitter-side sheet is modest
+Michael Conforto,CHC,KC,CHC@KC,12.5,0.222,90,3,54,50,33,4.0,1,Kauffman boost with LHH sheet support
+Ian Happ,CHC,KC,CHC@KC,11.8,0.204,89,3,98,28.6,33,4.0,1,Weather boosts profile but weaker than yesterday
+Pete Crow-Armstrong,CHC,KC,CHC@KC,10.1,0.196,90,3,92,40,33,4.0,1,Kauffman weather supports but sheet is not loud
+Jake Bauers,MIL,MIN,MIN@MIL,11.5,0.243,92,1,37,60,18,8.75,1,American Family boost; PA% support but cold notes present
+Gary Sanchez,MIL,MIN,MIN@MIL,13.6,0.370,87,3,27,33.3,18,5.31,8,Power/ISO support, EV less ideal
+Andrew Vaughn,MIL,MIN,MIN@MIL,12.5,0.351,92,2,37,0,18,5.31,8,Positive park + strong ISO
+Royce Lewis,MIN,MIL,MIN@MIL,14.1,0.186,90,4,97,0,18,2.54,7,Power volume but tough pitcher indicators
+Josh Bell,MIN,MIL,MIN@MIL,11.8,0.259,92,5,85,0,18,0.43,4,Switch/lefty power but pitcher split not targetable
+Junior Caminero,TB,SEA,TB@SEA,12.9,0.298,94,15,178,0,7,4.97,5,Ballpark Pal top hitter; still not a clean 4-leg after yesterday lesson
+Jonathan Aranda,TB,SEA,TB@SEA,12.3,0.188,93,4,96,0,7,7.11,10,Decent LHH split and positive T-Mobile day
+Taylor Ward,SEA,TB,TB@SEA,12.8,0.200,91,3,60,0,7,5.26,5,Positive park/weather but moderate hitter signal
+Yordan Alvarez,HOU,SD,HOU@SD,17.2,0.397,95,12,126,27.3,1,7.11,7,Elite hitter/pitcher sheet match; park only neutral
+Taylor Trammell,HOU,SD,HOU@SD,25.6,0.262,93,4,61,0,1,7.11,7,Strong sheet power but volatile profile
+Manny Machado,SD,HOU,HOU@SD,12.5,0.250,92,9,140,0,1,7.02,4,Solid sheet line in neutral Petco
+Jackson Merrill,SD,HOU,HOU@SD,15.6,0.189,88,9,190,0,1,2.17,0,Barrels/volume but EV and pitcher split cap upside
+Rafael Devers,SF,DET,DET@SF,14.1,0.329,94,13,149,0,-5,4.76,7,Strong hitter read but Oracle resistance remains
+Bryce Eldridge,SF,DET,DET@SF,14.5,0.321,95,7,84,0,-5,4.76,7,Strong hitter read but Oracle resistance remains
+Osleivis Basabe,SF,DET,DET@SF,23.1,0.538,88,2,13,30.8,-5,2.8,1,Tiny-sample power; not a clean 4-leg
+Spencer Torkelson,DET,SF,DET@SF,12.3,0.205,91,4,73,36.4,-5,3.37,3,Moderate sheet power in resistant Oracle
+Ketel Marte,AZ,LAD,LAD@AZ,16.4,0.361,92,7,72,27.3,-8,6.14,6,Good sheet power but Chase Field downgrade
+Nolan Arenado,AZ,LAD,LAD@AZ,14.3,0.412,90,3,34,50,-8,7.21,10,Good sheet/pitcher split, park downgrade
+Gabriel Moreno,AZ,LAD,LAD@AZ,11.8,0.238,91,3,42,20,-8,7.21,10,Moderate power, park downgrade
+Shohei Ohtani,LAD,AZ,LAD@AZ,17.0,0.314,91,7,70,22.2,-8,8.16,3,Elite hitter, park downgrade, pitcher split less perfect
+Enrique Hernandez,LAD,AZ,LAD@AZ,20.0,0.500,95,1,6,0,-8,5.97,10,Tiny sample power vs LHP
+Max Muncy,LAD,AZ,LAD@AZ,12.1,0.238,88,3,42,0,-8,8.16,3,Power profile but park/EV cap
+CJ Abrams,WSH,CIN,CIN@WAS,16.3,0.246,96,4,65,40,7,6.23,15,Nationals Park positive; LHH split support
+James Tena,WSH,CIN,CIN@WAS,18.5,0.222,95,3,45,0,7,6.23,15,Strong EV/barrel support
+Elly De La Cruz,CIN,WSH,CIN@WAS,18.3,0.281,96,8,114,0,7,7.77,5,Strong hitter profile vs Lord LHH split
+JJ Bleday,CIN,WSH,CIN@WAS,13.6,0.298,89,7,84,28.6,7,7.77,5,Good ISO, EV below elite
+Esmerlyn Valdez,PIT,NYM,NYM@PIT,15.4,0.600,97,3,20,50,-12,7.02,9,Great hitter sheet but PNC is a park downgrade
+Brandon Lowe,PIT,NYM,NYM@PIT,10.4,0.113,88,2,71,0,-12,4.69,4,Yesterday hit; today sheet/park are not supportive
+Francisco Alvarez,NYM,PIT,NYM@PIT,18.9,0.225,92,5,80,0,-12,4.76,4,Good hitter sheet in poor HR park
+Francisco Lindor,NYM,PIT,NYM@PIT,11.3,0.225,93,4,71,0,-12,4.72,5,Moderate sheet in poor HR park
+Willson Contreras,BOS,ATH,ATH@BOS,15.1,0.312,90,9,109,50,20,3.66,4,Fenway weather + strong ISO/volume
+Alex Seigler,BOS,ATH,ATH@BOS,18.2,0.235,87,1,17,0,20,3.66,4,Tiny sample and EV concern
+Wilyer Abreu,BOS,ATH,ATH@BOS,14.0,0.147,90,4,129,0,20,4.47,9,Fenway weather but softer ISO
+Jarren Duran,BOS,ATH,ATH@BOS,13.3,0.219,89,6,105,0,20,4.47,9,Fenway weather with moderate hitter profile
+Randal Grichuk,CWS,CLE,CLE@CWS,15.4,0.214,89,3,70,0,5,5.34,12,Positive Rate Field day and pitcher HR split
+Munetaka Murakami,CWS,CLE,CLE@CWS,17.6,0.393,95,3,28,0,5,5.66,3,Strong power but not as loud as 8/8
+Colson Montgomery,CWS,CLE,CLE@CWS,12.5,0.308,86,1,26,0,5,5.66,3,ISO support but EV lower
+Rhys Hoskins,CLE,CWS,CLE@CWS,14.1,0.196,89,5,102,37.5,5,3.14,3,Decent sheet but pitcher split not major
+Angel Martinez,CLE,CWS,CLE@CWS,12.5,0.260,87,5,77,31.2,5,5.36,7,Moderate LHH support
+Alec Burleson,STL,COL,COL@STL,12.2,0.212,92,6,151,0,2,8.84,12,Pitcher LHH split support; park mildly positive
+Jordan Walker,STL,COL,COL@STL,0,0,0,0,0,25,2,3.9,5,EV notes support but no full sheet line
+Willie Castro,COL,STL,COL@STL,14.1,0.226,90,7,133,36.4,2,7.09,10,Good sheet vs McGreevy split
+Hunter Goodman,COL,STL,COL@STL,0,0,0,0,0,22.2,2,8.18,6,EV note only; not a core sheet leg
+Wyatt Langford,TEX,BAL,BAL@TEX,14.8,0.214,90,2,42,0,-11,5.26,1,Park downgrade and moderate profile
+Jake Burger,TEX,BAL,BAL@TEX,14.0,0.190,89,3,63,22.2,-11,5.26,1,Park downgrade
+Corey Seager,TEX,BAL,BAL@TEX,10.3,0.159,93,2,44,0,-11,8.57,3,Park downgrade despite LHH split
+Pete Alonso,BAL,TEX,BAL@TEX,0,0,0,0,0,0,-11,3.11,5,EV notes only, park downgrade
+Coby Mayo,BAL,TEX,BAL@TEX,0,0,0,0,0,50,-11,3.11,5,EV note only, park downgrade
+Owen Caissie,MIA,LAA,LAA@MIA,22.0,0.311,90,7,90,37.5,-13,6.6,5,Strong sheet bat in bad HR park
+Griffin Conine,MIA,LAA,LAA@MIA,18.8,0.358,92,6,53,0,-13,6.6,5,Strong sheet bat in bad HR park
+Mike Trout,LAA,MIA,LAA@MIA,18.0,0.233,91,10,163,25,-13,7.04,2,Good hitter but loanDepot suppresses
+Zach Neto,LAA,MIA,LAA@MIA,14.3,0.260,89,12,18,44.4,-13,7.04,2,Tiny sample plus bad HR park

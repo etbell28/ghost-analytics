@@ -1,0 +1,35 @@
+player,team,opponent,game,sheet_barrel_pct,sheet_iso,sheet_ev,sheet_pm_hr,sheet_pm_pa,sheet_pa_pct,sheet_hr_env,sheet_pitcher_split_barrel,sheet_pitcher_split_hr,sheet_note
+Ben Rice,NYY,ATL,ATL@NYY,13.4,0.299,92,8,97,0,21,7.07,9,8/8 sheet: Yankee Stadium weather + LHH power
+Ronald Acuna Jr.,ATL,NYY,ATL@NYY,13.7,0.236,88,3,55,0,21,7.14,11,8/8 sheet: called ATL RHH power
+Matt Olson,ATL,NYY,ATL@NYY,13.3,0.234,90,4,64,0,21,6.18,14,8/8 sheet: LHH power but did not HR
+Austin Riley,ATL,NYY,ATL@NYY,17.6,0.279,92,5,68,0,21,7.14,11,8/8 sheet: elite barrel but no HR
+Kyle Schwarber,PHI,TOR,TOR@PHI,17.5,0.284,97,10,109,42.9,42,6.82,3,8/8 sheet: elite weather + LHH power
+Bryce Harper,PHI,TOR,TOR@PHI,16.5,0.419,93,12,105,25,42,6.82,3,8/8 sheet: hit; strong ISO + Citizens boost
+Trea Turner,PHI,TOR,TOR@PHI,0,0,0,0,0,0,42,6.82,3,8/8 actual HR; not a full sheet line in notes
+Vladimir Guerrero Jr.,TOR,PHI,TOR@PHI,0,0,0,0,0,28.6,42,7.49,10,8/8 actual HR; PA note only
+Kazuma Okamoto,TOR,PHI,TOR@PHI,16.2,0.28,92,14,175,50,42,7.49,10,8/8 sheet: strong but void/miss risk noted
+Brandon Lowe,PIT,NYM,NYM@PIT,22.9,0.342,93,10,117,23.1,-1,16.67,1,8/8 sheet: hit despite meh park; elite sheet line
+Francisco Alvarez,NYM,PIT,NYM@PIT,19.6,0.231,92,5,78,0,-1,4.55,8,8/8 sheet: did not HR
+Ian Happ,CHC,KC,CHC@KC,16.7,0.288,90,4,59,0,26,15.52,8,8/8 sheet: hit; strong LHH split
+Jac Caglianone,KC,CHC,CHC@KC,23.5,0.345,94,3,29,0,26,12.0,5,8/8 sheet: hit twice; hot + Kauffman
+Salvador Perez,KC,CHC,CHC@KC,17.1,0.351,87,4,37,0,26,12.0,5,8/8 sheet: miss despite fit
+Junior Caminero,TB,SEA,TB@SEA,13.0,0.301,94,15,176,0,-3,6.49,7,8/8 sheet: failed leg; good hitter but park not ideal
+Jonathan Aranda,TB,SEA,TB@SEA,12.9,0.212,93,6,113,0,-3,3.24,8,8/8 sheet: miss
+Taylor Trammell,HOU,SD,HOU@SD,16.4,0.183,91,4,82,0,-1,5.62,6,8/8 sheet: hit; pitcher/hand fit helped
+Yordan Alvarez,HOU,SD,HOU@SD,16.4,0.33,95,16,182,0,-1,6.76,8,8/8 sheet: miss but elite all-game power
+Jackson Merrill,SD,HOU,HOU@SD,14.0,0.159,88,6,170,0,-1,2.97,3,8/8 sheet: hit
+Jordan Walker,STL,COL,COL@STL,18.2,0.357,97,5,56,28.6,-11,7.85,19,8/8 sheet: hit despite park downgrade
+Alec Burleson,STL,COL,COL@STL,11.5,0.146,92,3,89,20,-11,5.04,2,8/8 sheet: miss
+Hunter Goodman,COL,STL,COL@STL,12.2,0.167,88,4,90,25,-11,6.65,13,8/8 sheet: miss that day
+Jake McCarthy,COL,STL,COL@STL,0,0,0,0,0,38.5,-11,6.65,13,8/8 actual HR twice; PA-note sheet mention only
+Corey Seager,TEX,BAL,BAL@TEX,25.5,0.365,92,7,63,0,-10,6.98,5,8/8 sheet: hit despite Globe downgrade
+Pete Alonso,BAL,TEX,BAL@TEX,20.8,0.316,94,10,114,0,-10,5.68,6,8/8 sheet: miss that day; hit on 8/9
+Colton Cowser,BAL,TEX,BAL@TEX,13.1,0.148,88,5,122,0,-10,5.0,10,8/8 sheet: miss that day; hit on 8/9
+Rhys Hoskins,CLE,CWS,CLE@CWS,13.9,0.226,91,4,62,40,-5,8.45,12,8/8 sheet: hit
+Munetaka Murakami,CWS,CLE,CLE@CWS,24.2,0.373,95,11,102,57.1,-5,5.26,9,8/8 sheet: hit; elite sheet line
+Angel Genao,CLE,CWS,CLE@CWS,0,0,0,0,0,0,-5,5.36,7,8/8 actual HR; not a full sheet line
+Ketel Marte,AZ,LAD,LAD@AZ,11.5,0.19,89,6,126,21.1,-8,3.01,1,8/8 sheet: miss
+Shohei Ohtani,LAD,AZ,LAD@AZ,18.5,0.173,93,6,156,0,-8,6.4,8,8/8 sheet: miss in official feed
+Max Muncy,LAD,AZ,LAD@AZ,21.4,0.263,89,1,19,60,-8,7.69,15,8/8 sheet: tiny-sample risk
+Tyler Soderstrom,ATH,BOS,ATH@BOS,0,0,0,0,0,0,5,5.41,5,8/8 actual HR; note-only on sheet
+Henry Bolte,ATH,BOS,ATH@BOS,20.6,0.115,93,2,61,0,5,5.41,5,8/8 sheet: hit; EV/barrel over ISO

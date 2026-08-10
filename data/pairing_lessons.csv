@@ -1,0 +1,6 @@
+date,lesson,example,engine_change
+2026-08-08,Do not force a 4-leg when the fourth leg is the obvious fragile point,Harper + Walker + Murakami hit while Caminero failed,Add one-off leg flags and stricter 4-leg filtering
+2026-08-08,Lineup and void risk must be visible separately from HR upside,Murakami + Ohtani hit while Okamoto voided,Carry lineup/void risk in pairing output and require stronger agreement for all-projected combos
+2026-08-08,Tiny-sample sheet power should be allowed as a dart but restricted in 4-legs,Spencer Jones failed despite loud small-sample sheet power,Add tiny sheet sample penalty and severe one-off exclusion for 4-legs
+2026-08-08,Sheet/weather/model agreement is valuable but should not ignore park resistance,Basabe/Eldridge/Devers carried power but Oracle suppressed HR context,Flag park resistance and keep it out of clean 4-leg builds
+2026-08-08,Cold streak is not an auto-fade when sheet and batted-ball profile agree,Happ and Harper showed sheet quality can beat recent cold/noisy form,Cold streak is a warning only unless sheet/model agreement is weak
