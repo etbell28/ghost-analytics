@@ -1,0 +1,43 @@
+actual_pitchers,date,game,homered,hr_count,player,sheet_barrel_pct,sheet_called,sheet_ev,sheet_hr_env,sheet_iso,sheet_note,sheet_pa_pct,sheet_pitcher_split_barrel,sheet_pitcher_split_hr,sheet_pm_hr,sheet_pm_pa,team
+Danny Young,2026-08-08,ATL@NYY,yes,1,Ben Rice,13.4,yes,92,21,0.299,8/8 sheet: Yankee Stadium weather + LHH power,0,7.07,9,8,97,NYY
+Brent Headrick,2026-08-08,ATL@NYY,yes,1,Ronald Acuna Jr.,13.7,yes,88,21,0.236,8/8 sheet: called ATL RHH power,0,7.14,11,3,55,ATL
+,2026-08-08,ATL@NYY,no,0,Matt Olson,13.3,yes,90,21,0.234,8/8 sheet: LHH power but did not HR,0,6.18,14,4,64,ATL
+,2026-08-08,ATL@NYY,no,0,Austin Riley,17.6,yes,92,21,0.279,8/8 sheet: elite barrel but no HR,0,7.14,11,5,68,ATL
+,2026-08-08,TOR@PHI,no,0,Kyle Schwarber,17.5,yes,97,42,0.284,8/8 sheet: elite weather + LHH power,42.9,6.82,3,10,109,PHI
+Max Scherzer,2026-08-08,TOR@PHI,yes,1,Bryce Harper,16.5,yes,93,42,0.419,8/8 sheet: hit; strong ISO + Citizens boost,25,6.82,3,12,105,PHI
+Max Scherzer,2026-08-08,TOR@PHI,yes,1,Trea Turner,0,yes,0,42,0,8/8 actual HR; not a full sheet line in notes,0,6.82,3,0,0,PHI
+Aaron Nola,2026-08-08,TOR@PHI,yes,1,Vladimir Guerrero Jr.,0,yes,0,42,0,8/8 actual HR; PA note only,28.6,7.49,10,0,0,TOR
+,2026-08-08,TOR@PHI,no,0,Kazuma Okamoto,16.2,yes,92,42,0.28,8/8 sheet: strong but void/miss risk noted,50,7.49,10,14,175,TOR
+Luis Torrens,2026-08-08,NYM@PIT,yes,1,Brandon Lowe,22.9,yes,93,-1,0.342,8/8 sheet: hit despite meh park; elite sheet line,23.1,16.67,1,10,117,PIT
+,2026-08-08,NYM@PIT,no,0,Francisco Alvarez,19.6,yes,92,-1,0.231,8/8 sheet: did not HR,0,4.55,8,5,78,NYM
+Seth Lugo,2026-08-08,CHC@KC,yes,1,Ian Happ,16.7,yes,90,26,0.288,8/8 sheet: hit; strong LHH split,0,15.52,8,4,59,CHC
+Clay Holmes; Colin Rea,2026-08-08,CHC@KC,yes,2,Jac Caglianone,23.5,yes,94,26,0.345,8/8 sheet: hit twice; hot + Kauffman,0,12.0,5,3,29,KC
+,2026-08-08,CHC@KC,no,0,Salvador Perez,17.1,yes,87,26,0.351,8/8 sheet: miss despite fit,0,12.0,5,4,37,KC
+,2026-08-08,TB@SEA,no,0,Junior Caminero,13.0,yes,94,-3,0.301,8/8 sheet: failed leg; good hitter but park not ideal,0,6.49,7,15,176,TB
+,2026-08-08,TB@SEA,no,0,Jonathan Aranda,12.9,yes,93,-3,0.212,8/8 sheet: miss,0,3.24,8,6,113,TB
+Michael King,2026-08-08,HOU@SD,yes,1,Taylor Trammell,16.4,yes,91,-1,0.183,8/8 sheet: hit; pitcher/hand fit helped,0,5.62,6,4,82,HOU
+,2026-08-08,HOU@SD,no,0,Yordan Alvarez,16.4,yes,95,-1,0.33,8/8 sheet: miss but elite all-game power,0,6.76,8,16,182,HOU
+Peter Lambert,2026-08-08,HOU@SD,yes,1,Jackson Merrill,14.0,yes,88,-1,0.159,8/8 sheet: hit,0,2.97,3,6,170,SD
+Brennan Bernardino,2026-08-08,COL@STL,yes,1,Jordan Walker,18.2,yes,97,-11,0.357,8/8 sheet: hit despite park downgrade,28.6,7.85,19,5,56,STL
+,2026-08-08,COL@STL,no,0,Alec Burleson,11.5,yes,92,-11,0.146,8/8 sheet: miss,20,5.04,2,3,89,STL
+,2026-08-08,COL@STL,no,0,Hunter Goodman,12.2,yes,88,-11,0.167,8/8 sheet: miss that day,25,6.65,13,4,90,COL
+Matthew Liberatore; Luis Gastelum,2026-08-08,COL@STL,yes,2,Jake McCarthy,0,yes,0,-11,0,8/8 actual HR twice; PA-note sheet mention only,38.5,6.65,13,0,0,COL
+Grant Wolfram,2026-08-08,BAL@TEX,yes,1,Corey Seager,25.5,yes,92,-10,0.365,8/8 sheet: hit despite Globe downgrade,0,6.98,5,7,63,TEX
+,2026-08-08,BAL@TEX,no,0,Pete Alonso,20.8,yes,94,-10,0.316,8/8 sheet: miss that day; hit on 8/9,0,5.68,6,10,114,BAL
+,2026-08-08,BAL@TEX,no,0,Colton Cowser,13.1,yes,88,-10,0.148,8/8 sheet: miss that day; hit on 8/9,0,5.0,10,5,122,BAL
+Anthony Kay,2026-08-08,CLE@CWS,yes,1,Rhys Hoskins,13.9,yes,91,-5,0.226,8/8 sheet: hit,40,8.45,12,4,62,CLE
+Gavin Williams,2026-08-08,CLE@CWS,yes,1,Munetaka Murakami,24.2,yes,95,-5,0.373,8/8 sheet: hit; elite sheet line,57.1,5.26,9,11,102,CWS
+Jordan Hicks,2026-08-08,CLE@CWS,yes,1,Angel Genao,0,yes,0,-5,0,8/8 actual HR; not a full sheet line,0,5.36,7,0,0,CLE
+,2026-08-08,LAD@AZ,no,0,Ketel Marte,11.5,yes,89,-8,0.19,8/8 sheet: miss,21.1,3.01,1,6,126,AZ
+,2026-08-08,LAD@AZ,no,0,Shohei Ohtani,18.5,yes,93,-8,0.173,8/8 sheet: miss in official feed,0,6.4,8,6,156,LAD
+,2026-08-08,LAD@AZ,no,0,Max Muncy,21.4,yes,89,-8,0.263,8/8 sheet: tiny-sample risk,60,7.69,15,1,19,LAD
+Raymond Burgos,2026-08-08,ATH@BOS,yes,1,Tyler Soderstrom,0,yes,0,5,0,8/8 actual HR; note-only on sheet,0,5.41,5,0,0,ATH
+Raymond Burgos,2026-08-08,ATH@BOS,yes,1,Henry Bolte,20.6,yes,93,5,0.115,8/8 sheet: hit; EV/barrel over ISO,0,5.41,5,2,61,ATH
+Victor Mederos,2026-08-08,ATL@NYY,yes,1,George Lombard Jr.,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Chase Shugart,2026-08-08,TOR@PHI,yes,1,Nathan Lukes,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Max Kranick,2026-08-08,CIN@WSH,yes,1,Eugenio Suárez,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Jacob deGrom,2026-08-08,BAL@TEX,yes,1,Jackson Holliday,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Jonathan Loáisiga,2026-08-08,LAD@AZ,yes,1,Kyle Tucker,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Cam Booser,2026-08-08,TB@SEA,yes,1,Josh Naylor,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+George Kirby,2026-08-08,TB@SEA,yes,1,Victor Mesa Jr.,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Garrett Cleavinger,2026-08-08,TB@SEA,yes,1,Josh Naylor,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,

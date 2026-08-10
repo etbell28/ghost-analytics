@@ -1,0 +1,88 @@
+actual_pitchers,date,game,homered,hr_count,player,sheet_barrel_pct,sheet_called,sheet_ev,sheet_hr_env,sheet_iso,sheet_note,sheet_pa_pct,sheet_pitcher_split_barrel,sheet_pitcher_split_hr,sheet_pm_hr,sheet_pm_pa,team
+,2026-08-09,ATL@NYY,no,0,Ben Rice,29.0,yes,95,20,0.461,Yankee weather + elite sheet power vs Holmes LHH split,0,8.3,12,11,89,NYY
+Cam Schlittler,2026-08-09,ATL@NYY,yes,1,Matt Olson,21.6,yes,96,20,0.380,Yankee weather + elite LHH sheet power,25,4.9,7,10,100,ATL
+,2026-08-09,ATL@NYY,no,0,Jazz Chisholm Jr.,12.7,yes,90,20,0.205,Weather and LHH split help; hitter signal below Rice,50,8.3,12,7,112,NYY
+Didier Fuentes,2026-08-09,ATL@NYY,yes,1,Trent Grisham,14.3,yes,93,20,0.210,Weather + EV but lower core than Rice,0,8.3,12,5,105,NYY
+,2026-08-09,ATL@NYY,no,0,Ronald Acuna Jr.,15.9,yes,91,20,0.176,Weather helps; sheet ISO less loud than Olson,0,5.56,6,5,108,ATL
+,2026-08-09,ATL@NYY,no,0,Austin Riley,12.4,yes,92,20,0.194,Weather helps; moderate RHH power,0,5.56,6,8,170,ATL
+Shane Bieber; Shane Bieber,2026-08-09,TOR@PHI,yes,2,Kyle Schwarber,16.7,yes,97,39,0.274,Citizens Bank elite HR weather + LHH power vs Bieber split,37.5,9.86,3,10,117,PHI
+,2026-08-09,TOR@PHI,no,0,Bryce Harper,15.1,yes,93,39,0.395,Citizens Bank elite HR weather + strong ISO/form profile,0,9.86,3,12,114,PHI
+,2026-08-09,TOR@PHI,no,0,Kazuma Okamoto,16.1,yes,95,39,0.311,Top weather but opposing pitcher split is less ideal,0,4.34,11,4,45,TOR
+,2026-08-09,TOR@PHI,no,0,Bryson Stott,10.1,yes,92,39,0.166,Weather help but softer HR profile,0,9.86,3,4,151,PHI
+,2026-08-09,CHC@KC,no,0,Bobby Witt Jr.,17.8,yes,97,33,0.200,Kauffman top weather; elite EV and park fit,0,7.73,7,1,50,KC
+,2026-08-09,CHC@KC,no,0,Jac Caglianone,16.0,yes,96,33,0.381,Kauffman weather + elite ISO/EV; sheet notes hot,0,6.06,1,4,42,KC
+,2026-08-09,CHC@KC,no,0,Salvador Perez,18.6,yes,92,33,0.276,Kauffman weather + strong RHH sheet line,0,7.73,7,4,58,KC
+,2026-08-09,CHC@KC,no,0,Luke Maile,33.3,yes,91,33,0.750,Tiny-sample weather dart only,0,7.73,7,1,4,KC
+,2026-08-09,CHC@KC,no,0,Seiya Suzuki,10.9,yes,88,33,0.190,Kauffman boost but hitter-side sheet is modest,33.3,5.13,1,6,92,CHC
+,2026-08-09,CHC@KC,no,0,Michael Conforto,12.5,yes,90,33,0.222,Kauffman boost with LHH sheet support,50,4.0,1,3,54,CHC
+Easton McGee,2026-08-09,CHC@KC,yes,1,Ian Happ,11.8,yes,89,33,0.204,Weather boosts profile but weaker than yesterday,28.6,4.0,1,3,98,CHC
+,2026-08-09,CHC@KC,no,0,Pete Crow-Armstrong,10.1,yes,90,33,0.196,Kauffman weather supports but sheet is not loud,40,4.0,1,3,92,CHC
+Connor Prielipp,2026-08-09,MIN@MIL,yes,1,Jake Bauers,11.5,yes,92,18,0.243,American Family boost; PA% support but cold notes present,60,8.75,1,1,37,MIL
+,2026-08-09,MIN@MIL,no,0,Gary Sanchez,13.6,yes,87,18,0.370,Power/ISO support,33.3,5.31,8,3,27,MIL
+,2026-08-09,MIN@MIL,no,0,Andrew Vaughn,12.5,yes,92,18,0.351,Positive park + strong ISO,0,5.31,8,2,37,MIL
+,2026-08-09,MIN@MIL,no,0,Royce Lewis,14.1,yes,90,18,0.186,Power volume but tough pitcher indicators,0,2.54,7,4,97,MIN
+,2026-08-09,MIN@MIL,no,0,Josh Bell,11.8,yes,92,18,0.259,Switch/lefty power but pitcher split not targetable,0,0.43,4,5,85,MIN
+,2026-08-09,TB@SEA,no,0,Junior Caminero,12.9,yes,94,7,0.298,Ballpark Pal top hitter; still not a clean 4-leg after yesterday lesson,0,4.97,5,15,178,TB
+,2026-08-09,TB@SEA,no,0,Jonathan Aranda,12.3,yes,93,7,0.188,Decent LHH split and positive T-Mobile day,0,7.11,10,4,96,TB
+,2026-08-09,TB@SEA,no,0,Taylor Ward,12.8,yes,91,7,0.200,Positive park/weather but moderate hitter signal,0,5.26,5,3,60,SEA
+,2026-08-09,HOU@SD,no,0,Yordan Alvarez,17.2,yes,95,1,0.397,Elite hitter/pitcher sheet match; park only neutral,27.3,7.11,7,12,126,HOU
+,2026-08-09,HOU@SD,no,0,Taylor Trammell,25.6,yes,93,1,0.262,Strong sheet power but volatile profile,0,7.11,7,4,61,HOU
+,2026-08-09,HOU@SD,no,0,Manny Machado,12.5,yes,92,1,0.250,Solid sheet line in neutral Petco,0,7.02,4,9,140,SD
+Cristian Javier,2026-08-09,HOU@SD,yes,1,Jackson Merrill,15.6,yes,88,1,0.189,Barrels/volume but EV and pitcher split cap upside,0,2.17,0,9,190,SD
+,2026-08-09,DET@SF,no,0,Rafael Devers,14.1,yes,94,-5,0.329,Strong hitter read but Oracle resistance remains,0,4.76,7,13,149,SF
+,2026-08-09,DET@SF,no,0,Bryce Eldridge,14.5,yes,95,-5,0.321,Strong hitter read but Oracle resistance remains,0,4.76,7,7,84,SF
+,2026-08-09,DET@SF,no,0,Osleivis Basabe,23.1,yes,88,-5,0.538,Tiny-sample power; not a clean 4-leg,30.8,2.8,1,2,13,SF
+,2026-08-09,DET@SF,no,0,Spencer Torkelson,12.3,yes,91,-5,0.205,Moderate sheet power in resistant Oracle,36.4,3.37,3,4,73,DET
+Justin Wrobleski,2026-08-09,LAD@AZ,yes,1,Ketel Marte,16.4,yes,92,-8,0.361,Good sheet power but Chase Field downgrade,27.3,6.14,6,7,72,AZ
+,2026-08-09,LAD@AZ,no,0,Nolan Arenado,14.3,yes,90,-8,0.412,Good sheet/pitcher split,50,7.21,10,3,34,AZ
+,2026-08-09,LAD@AZ,no,0,Gabriel Moreno,11.8,yes,91,-8,0.238,Moderate power,20,7.21,10,3,42,AZ
+,2026-08-09,LAD@AZ,no,0,Shohei Ohtani,17.0,yes,91,-8,0.314,Elite hitter,22.2,8.16,3,7,70,LAD
+,2026-08-09,LAD@AZ,no,0,Enrique Hernandez,20.0,yes,95,-8,0.500,Tiny sample power vs LHP,0,5.97,10,1,6,LAD
+,2026-08-09,LAD@AZ,no,0,Max Muncy,12.1,yes,88,-8,0.238,Power profile but park/EV cap,0,8.16,3,3,42,LAD
+,2026-08-09,CIN@WAS,no,0,CJ Abrams,16.3,yes,96,7,0.246,Nationals Park positive; LHH split support,40,6.23,15,4,65,WSH
+,2026-08-09,CIN@WAS,no,0,James Tena,18.5,yes,95,7,0.222,Strong EV/barrel support,0,6.23,15,3,45,WSH
+,2026-08-09,CIN@WAS,no,0,Elly De La Cruz,18.3,yes,96,7,0.281,Strong hitter profile vs Lord LHH split,0,7.77,5,8,114,CIN
+,2026-08-09,CIN@WAS,no,0,JJ Bleday,13.6,yes,89,7,0.298,Good ISO,28.6,7.77,5,7,84,CIN
+,2026-08-09,NYM@PIT,no,0,Esmerlyn Valdez,15.4,yes,97,-12,0.600,Great hitter sheet but PNC is a park downgrade,50,7.02,9,3,20,PIT
+,2026-08-09,NYM@PIT,no,0,Brandon Lowe,10.4,yes,88,-12,0.113,Yesterday hit; today sheet/park are not supportive,0,4.69,4,2,71,PIT
+Kirby Yates,2026-08-09,NYM@PIT,yes,1,Francisco Alvarez,18.9,yes,92,-12,0.225,Good hitter sheet in poor HR park,0,4.76,4,5,80,NYM
+,2026-08-09,NYM@PIT,no,0,Francisco Lindor,11.3,yes,93,-12,0.225,Moderate sheet in poor HR park,0,4.72,5,4,71,NYM
+,2026-08-09,ATH@BOS,no,0,Willson Contreras,15.1,yes,90,20,0.312,Fenway weather + strong ISO/volume,50,3.66,4,9,109,BOS
+,2026-08-09,ATH@BOS,no,0,Alex Seigler,18.2,yes,87,20,0.235,Tiny sample and EV concern,0,3.66,4,1,17,BOS
+,2026-08-09,ATH@BOS,no,0,Wilyer Abreu,14.0,yes,90,20,0.147,Fenway weather but softer ISO,0,4.47,9,4,129,BOS
+,2026-08-09,ATH@BOS,no,0,Jarren Duran,13.3,yes,89,20,0.219,Fenway weather with moderate hitter profile,0,4.47,9,6,105,BOS
+,2026-08-09,CLE@CWS,no,0,Randal Grichuk,15.4,yes,89,5,0.214,Positive Rate Field day and pitcher HR split,0,5.34,12,3,70,CWS
+,2026-08-09,CLE@CWS,no,0,Munetaka Murakami,17.6,yes,95,5,0.393,Strong power but not as loud as 8/8,0,5.66,3,3,28,CWS
+Craig Yoho,2026-08-09,CLE@CWS,yes,1,Colson Montgomery,12.5,yes,86,5,0.308,ISO support but EV lower,0,5.66,3,1,26,CWS
+,2026-08-09,CLE@CWS,no,0,Rhys Hoskins,14.1,yes,89,5,0.196,Decent sheet but pitcher split not major,37.5,3.14,3,5,102,CLE
+,2026-08-09,CLE@CWS,no,0,Angel Martinez,12.5,yes,87,5,0.260,Moderate LHH support,31.2,5.36,7,5,77,CLE
+Michael Lorenzen,2026-08-09,COL@STL,yes,1,Alec Burleson,12.2,yes,92,2,0.212,Pitcher LHH split support; park mildly positive,0,8.84,12,6,151,STL
+,2026-08-09,COL@STL,no,0,Jordan Walker,0,yes,0,2,0,EV notes support but no full sheet line,25,3.9,5,0,0,STL
+,2026-08-09,COL@STL,no,0,Willie Castro,14.1,yes,90,2,0.226,Good sheet vs McGreevy split,36.4,7.09,10,7,133,COL
+George Soriano,2026-08-09,COL@STL,yes,1,Hunter Goodman,0,yes,0,2,0,EV note only; not a core sheet leg,22.2,8.18,6,0,0,COL
+,2026-08-09,BAL@TEX,no,0,Wyatt Langford,14.8,yes,90,-11,0.214,Park downgrade and moderate profile,0,5.26,1,2,42,TEX
+,2026-08-09,BAL@TEX,no,0,Jake Burger,14.0,yes,89,-11,0.190,Park downgrade,22.2,5.26,1,3,63,TEX
+,2026-08-09,BAL@TEX,no,0,Corey Seager,10.3,yes,93,-11,0.159,Park downgrade despite LHH split,0,8.57,3,2,44,TEX
+Kumar Rocker; Jordan Montgomery,2026-08-09,BAL@TEX,yes,2,Pete Alonso,0,yes,0,-11,0,EV notes only,0,3.11,5,0,0,BAL
+,2026-08-09,BAL@TEX,no,0,Coby Mayo,0,yes,0,-11,0,EV note only,50,3.11,5,0,0,BAL
+,2026-08-09,LAA@MIA,no,0,Owen Caissie,22.0,yes,90,-13,0.311,Strong sheet bat in bad HR park,37.5,6.6,5,7,90,MIA
+Shaun Anderson; Tyler Heineman,2026-08-09,LAA@MIA,yes,2,Griffin Conine,18.8,yes,92,-13,0.358,Strong sheet bat in bad HR park,0,6.6,5,6,53,MIA
+,2026-08-09,LAA@MIA,no,0,Mike Trout,18.0,yes,91,-13,0.233,Good hitter but loanDepot suppresses,25,7.04,2,10,163,LAA
+,2026-08-09,LAA@MIA,no,0,Zach Neto,14.3,yes,89,-13,0.260,Tiny sample plus bad HR park,44.4,7.04,2,12,18,LAA
+Brady Singer,2026-08-09,CIN@WSH,yes,1,Abimelec Ortiz,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Jared Jones,2026-08-09,NYM@PIT,yes,1,Luis Robert Jr.,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Sean Manaea,2026-08-09,NYM@PIT,yes,1,Jake Mangum,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Ryan Gusto,2026-08-09,LAA@MIA,yes,1,Jose Siri,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Matthew Boyd,2026-08-09,CHC@KC,yes,1,Starling Marte,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Easton McGee,2026-08-09,CHC@KC,yes,1,Miguel Amaya,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Connor Prielipp,2026-08-09,MIN@MIL,yes,1,Jackson Chourio,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Jacob Misiorowski,2026-08-09,MIN@MIL,yes,1,Brooks Lee,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Jacob Misiorowski,2026-08-09,MIN@MIL,yes,1,Kody Clemens,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Michael McGreevy,2026-08-09,COL@STL,yes,1,Brett Sullivan,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Kumar Rocker,2026-08-09,BAL@TEX,yes,1,Colton Cowser,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Cade Povich,2026-08-09,BAL@TEX,yes,1,Brandon Nimmo,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Jordan Montgomery,2026-08-09,BAL@TEX,yes,1,Tyler O'Neill,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Randy Vásquez,2026-08-09,HOU@SD,yes,1,Daulton Varsho,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Cristian Javier,2026-08-09,HOU@SD,yes,1,Fernando Tatis Jr.,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+AJ Blubaugh,2026-08-09,HOU@SD,yes,1,Gavin Sheets,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
+Bryan King,2026-08-09,HOU@SD,yes,1,Austin Hays,,no,,,,Unlisted official HR; add to blind-spot review,,,,,,
