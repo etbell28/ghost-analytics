@@ -13,15 +13,15 @@
 | 9 | Jake Bauers | MIL | Casey Mize | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Yordan Alvarez | HOU | Blade Tidwell | 2 | 59.8 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Bryce Harper | PHI | Hunter Dobbins | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Hunter Goodman | COL | Michael Soroka | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Jordan Walker | STL | Andrew Painter | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Corey Seager | TEX | Reid Detmers | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Brandon Nimmo | TEX | Reid Detmers | 4 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Junior Caminero | TB | Jacob Lopez | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Jac Caglianone | KC | Tarik Skubal | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Bryce Eldridge | SF | Hayden Wesneski | 1 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Ronald Acuña Jr. | ATL | Christian Scott | 2 | 56.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Zach Neto | LAA | MacKenzie Gore | 1 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Junior Caminero | TB | Jacob Lopez | 3 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Hunter Goodman | COL | Michael Soroka | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Jordan Walker | STL | Andrew Painter | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Tyler Soderstrom | ATH | Freddy Peralta | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Corey Seager | TEX | Reid Detmers | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Brandon Nimmo | TEX | Reid Detmers | 4 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Jac Caglianone | KC | Tarik Skubal | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Bryce Eldridge | SF | Hayden Wesneski | 1 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Ronald Acuña Jr. | ATL | Christian Scott | 2 | 56.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
