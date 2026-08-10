@@ -25,6 +25,8 @@ PUBLIC_LABELS = [
     "Hot Bat",
     "EV Edge",
     "Pitcher Target",
+    "Sheet Match",
+    "Carry Signal",
     "Sleeper",
     "Tough Pitcher",
     "Confirmed",
@@ -38,10 +40,11 @@ LABEL_DEFINITIONS = {
     "Hot Bat": "Recent form is strong. It matters, but it does not override the matchup model.",
     "EV Edge": "The hitter's batted-ball quality is strong: exit velocity, EV50, hard-hit rate, or barrel rate.",
     "Pitcher Target": "The opposing pitcher is allowing HR-friendly contact, barrels, xSLG, xISO, or split damage.",
+    "Sheet Match": "Today's external sheet agrees with GhostIQ on hitter power, pitcher split, or park/weather fit. It is a confirmation signal, not a standalone pick.",
+    "Carry Signal": "The sheet profile is strong enough to matter beyond the starting pitcher: power volume, EV/barrel/ISO, park help, and split weakness support late-game HR upside.",
     "Sleeper": "A lower-profile hitter with enough data support to matter, usually with higher volatility.",
     "Tough Pitcher": "The hitter has real power signals, but the opposing pitcher creates resistance.",
     "Confirmed": "The hitter is confirmed in the starting lineup.",
     "Projected": "The hitter is based on projected lineup data and needs confirmation.",
     "Watch": "The hitter has at least one signal but not enough agreement to be a core target.",
 }
-

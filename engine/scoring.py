@@ -37,6 +37,50 @@ def bvp_pitch_mix_context(row: dict) -> float:
     return clamp(base)
 
 
+def sheet_carry_score(row: dict) -> float:
+    barrel = number(row.get("sheet_barrel_pct"))
+    iso = number(row.get("sheet_iso"))
+    ev = number(row.get("sheet_ev"))
+    pm_hr = number(row.get("sheet_pm_hr"))
+    pm_pa = number(row.get("sheet_pm_pa"))
+    pa_pct = number(row.get("sheet_pa_pct"))
+    env = number(row.get("sheet_hr_env"))
+    split_barrel = number(row.get("sheet_pitcher_split_barrel"))
+    split_hr = number(row.get("sheet_pitcher_split_hr"))
+
+    score = number(row.get("sheet_carry_score"), 42)
+    if score != 42:
+        return clamp(score)
+
+    if barrel >= 14:
+        score += 10
+    if barrel >= 18:
+        score += 8
+    if iso >= 0.240:
+        score += 8
+    if iso >= 0.330:
+        score += 7
+    if ev >= 92:
+        score += 8
+    if ev >= 95:
+        score += 5
+    if pm_pa >= 60 and pm_hr >= 4:
+        score += 8
+    elif pm_pa >= 35 and pm_hr >= 3:
+        score += 5
+    if pa_pct >= 30:
+        score += 4
+    if env >= 15:
+        score += 6
+    elif env <= -8:
+        score -= 5
+    if split_barrel >= 6 or split_hr >= 7:
+        score += 5
+    if 0 < pm_pa < 20:
+        score -= 12
+    return clamp(score)
+
+
 def refined_components(row: dict) -> dict[str, float]:
     return {
         "hitter_power": number(row.get("power_score")),
@@ -46,6 +90,8 @@ def refined_components(row: dict) -> dict[str, float]:
         "lineup_opportunity": number(row.get("lineup_score")),
         "recent_form": number(row.get("recent_form_score"), 50),
         "bvp_pitch_mix": bvp_pitch_mix_context(row),
+        "sheet_consensus": number(row.get("sheet_score"), 50),
+        "sheet_carry": sheet_carry_score(row),
     }
 
 
@@ -60,6 +106,8 @@ def internal_score(row: dict) -> float:
         + c["recent_form"] * WEIGHTS.recent_form
         + c["bvp_pitch_mix"] * WEIGHTS.bvp_pitch_mix
     )
+    score += max(-2.0, min(4.0, (c["sheet_consensus"] - 50.0) * 0.08))
+    score += max(-1.5, min(3.0, (c["sheet_carry"] - 50.0) * 0.06))
     if not confirmed(row.get("confirmed_lineup")):
         score -= 2.5
     return clamp(score)
@@ -131,4 +179,3 @@ def score_row(row: dict) -> dict:
     row["volatility"] = volatility(row, score)
     row["components"] = {key: round(value, 1) for key, value in refined_components(row).items()}
     return row
-

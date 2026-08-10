@@ -12,6 +12,8 @@ def public_labels(row: dict) -> list[str]:
     avg_ev = number(row.get("avg_exit_velocity"))
     ev50 = number(row.get("ev50"))
     hard_hit = number(row.get("hard_hit_pct"))
+    sheet = number(row.get("sheet_score"), 50)
+    carry = number(row.get("sheet_carry_score"), number(row.get("components", {}).get("sheet_carry"), 50))
     order = number(row.get("batting_order"), 9)
     edge = number(row.get("edge_index"))
 
@@ -28,6 +30,10 @@ def public_labels(row: dict) -> list[str]:
         labels.append("EV Edge")
     if pitcher >= 64:
         labels.append("Pitcher Target")
+    if sheet >= 70:
+        labels.append("Sheet Match")
+    if carry >= 68:
+        labels.append("Carry Signal")
     if power >= 72 and pitcher < 48:
         labels.append("Tough Pitcher")
     if edge >= 5.8 and order >= 5:
@@ -39,4 +45,3 @@ def public_labels(row: dict) -> list[str]:
 
 def label_summary(row: dict) -> str:
     return " + ".join(public_labels(row))
-

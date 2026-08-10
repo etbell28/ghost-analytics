@@ -28,7 +28,9 @@ def build_from_rankings(input_csv: Path, output_json: Path) -> dict:
 
     confirmed_rows = [row for row in rows if confirmed(row.get("confirmed_lineup"))]
     projected_rows = [row for row in rows if not confirmed(row.get("confirmed_lineup"))]
-    pair_source = confirmed_rows if len(confirmed_rows) >= 8 else rows
+    # Pairings need to cover the full slate before lineups confirm. The pairing
+    # model carries lineup/void risk as a visible flag instead of hiding late games.
+    pair_source = rows
 
     now = eastern_now()
     payload = {
@@ -100,6 +102,11 @@ def target_payload(row: dict) -> dict:
         "label_summary": row.get("label_summary"),
         "components": row.get("components"),
         "legacy_hr_score": safe_round(row.get("hr_score")),
+        "sheet_score": safe_round(row.get("sheet_score")),
+        "sheet_carry_score": safe_round(
+            row.get("sheet_carry_score") or row.get("components", {}).get("sheet_carry")
+        ),
+        "sheet_note": row.get("sheet_note"),
     }
 
 
