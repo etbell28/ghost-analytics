@@ -2,6 +2,7 @@ import csv
 import sys
 from datetime import date
 from pathlib import Path
+import re
 
 import pandas as pd
 
@@ -15,15 +16,17 @@ OUTPUT_CSV = ROOT / "outputs" / "hr_rankings.csv"
 OUTPUT_MD = ROOT / "outputs" / "hr_rankings.md"
 OUTPUT_XLSX = ROOT / "outputs" / "hr_rankings.xlsx"
 DAILY_DIR = ROOT / "outputs" / "daily"
+SHEET_INSIGHTS_PATH = ROOT / "data" / "sheet_insights.csv"
 
 
 WEIGHTS = {
-    "power": 0.33,
-    "pitcher": 0.24,
-    "environment": 0.15,
+    "power": 0.31,
+    "pitcher": 0.23,
+    "environment": 0.14,
     "lineup": 0.14,
-    "platoon": 0.09,
+    "platoon": 0.08,
     "form": 0.05,
+    "sheet": 0.05,
 }
 
 
@@ -50,6 +53,122 @@ def normalize(value, low, high):
         return 0.0
     score = (value - low) / (high - low) * 100
     return max(0.0, min(100.0, score))
+
+
+def clean_player_key(value):
+    text = str(value or "").lower()
+    text = re.sub(r"\b(jr|sr|ii|iii|iv)\.?\b", "", text)
+    text = re.sub(r"[^a-z0-9]+", "", text)
+    return text
+
+
+def load_sheet_insights():
+    if not SHEET_INSIGHTS_PATH.exists():
+        return {}
+    with SHEET_INSIGHTS_PATH.open(newline="", encoding="utf-8", errors="ignore") as file:
+        return {
+            clean_player_key(row.get("player")): row
+            for row in csv.DictReader(file)
+            if row.get("player")
+        }
+
+
+def sheet_insight_score(row):
+    barrel = normalize(number(row, "sheet_barrel_pct"), 8, 24)
+    iso = normalize(number(row, "sheet_iso"), 0.140, 0.380)
+    ev = normalize(number(row, "sheet_ev"), 88, 96)
+    pm_hr = normalize(number(row, "sheet_pm_hr"), 1, 10)
+    pa_pct = normalize(number(row, "sheet_pa_pct"), 20, 55)
+    env = normalize(number(row, "sheet_hr_env"), -20, 42)
+    split_barrel = normalize(number(row, "sheet_pitcher_split_barrel"), 3, 10)
+    split_hr = normalize(number(row, "sheet_pitcher_split_hr"), 1, 12)
+    score = (
+        barrel * 0.22
+        + iso * 0.19
+        + ev * 0.16
+        + pm_hr * 0.11
+        + pa_pct * 0.06
+        + env * 0.13
+        + split_barrel * 0.05
+        + split_hr * 0.03
+        + sheet_carry_score(row) * 0.05
+    )
+    return max(0.0, min(100.0, score - sheet_risk_penalty(row)))
+
+
+def sheet_carry_score(row):
+    """Grades whether a sheet call can survive bullpen/late-game variance."""
+    barrel = number(row, "sheet_barrel_pct")
+    iso = number(row, "sheet_iso")
+    ev = number(row, "sheet_ev")
+    pm_hr = number(row, "sheet_pm_hr")
+    pm_pa = number(row, "sheet_pm_pa")
+    pa_pct = number(row, "sheet_pa_pct")
+    env = number(row, "sheet_hr_env")
+    split_barrel = number(row, "sheet_pitcher_split_barrel")
+    split_hr = number(row, "sheet_pitcher_split_hr")
+
+    score = 42.0
+    if barrel >= 14:
+        score += 10
+    if barrel >= 18:
+        score += 8
+    if iso >= 0.240:
+        score += 8
+    if iso >= 0.330:
+        score += 7
+    if ev >= 92:
+        score += 8
+    if ev >= 95:
+        score += 5
+    if pm_pa >= 60 and pm_hr >= 4:
+        score += 8
+    elif pm_pa >= 35 and pm_hr >= 3:
+        score += 5
+    if pa_pct >= 30:
+        score += 4
+    if env >= 15:
+        score += 6
+    elif env <= -8:
+        score -= 5
+    if split_barrel >= 6 or split_hr >= 7:
+        score += 5
+    if 0 < pm_pa < 20:
+        score -= 12
+    return max(0.0, min(100.0, score))
+
+
+def sheet_risk_penalty(row):
+    penalty = 0.0
+    pm_pa = number(row, "sheet_pm_pa")
+    barrel = number(row, "sheet_barrel_pct")
+    iso = number(row, "sheet_iso")
+    ev = number(row, "sheet_ev")
+    env = number(row, "sheet_hr_env")
+    if 0 < pm_pa < 20:
+        penalty += 12
+    if env <= -8 and not (barrel >= 17 and iso >= 0.300 and ev >= 91):
+        penalty += 7
+    if ev and ev < 88:
+        penalty += 5
+    return penalty
+
+
+def apply_sheet_insights(rows):
+    insights = load_sheet_insights()
+    if not insights:
+        return rows
+    for row in rows:
+        insight = insights.get(clean_player_key(row.get("player")))
+        if not insight:
+            row["sheet_score"] = 50
+            continue
+        for key, value in insight.items():
+            if key != "player" and value != "":
+                row[key] = value
+        row["sheet_score"] = round(sheet_insight_score(row), 1)
+        row["sheet_carry_score"] = round(sheet_carry_score(row), 1)
+    return rows
 
 
 def confirmed(row):
@@ -211,6 +330,8 @@ def reason_tags(row, scores):
         tags.append("Platoon Edge")
     if scores.get("form", 0) >= 70:
         tags.append("Hot Hitter/Streak")
+    if scores.get("sheet", 0) >= 70:
+        tags.append("Sheet Consensus")
     return ", ".join(tags) if tags else "No major boost"
 
 
@@ -222,6 +343,7 @@ def score_row(row):
         "lineup": opportunity_score(row),
         "platoon": platoon_score(row),
         "form": recent_form_score(row),
+        "sheet": number(row, "sheet_score", 50),
     }
     total = sum(scores[name] * WEIGHTS[name] for name in WEIGHTS)
     row["power_score"] = round(scores["power"], 1)
@@ -230,6 +352,7 @@ def score_row(row):
     row["lineup_score"] = round(scores["lineup"], 1)
     row["platoon_score"] = round(scores["platoon"], 1)
     row["recent_form_score"] = round(scores["form"], 1)
+    row["sheet_score"] = round(scores["sheet"], 1)
     row["hr_score"] = round(total, 1)
     row["tier"] = tier(total)
     row["play_type"] = play_type(row, total)
@@ -241,20 +364,20 @@ def read_rows():
     if len(sys.argv) > 1:
         path = Path(sys.argv[1])
         with path.open(newline="") as file:
-            return list(csv.DictReader(file))
+            return apply_sheet_insights(list(csv.DictReader(file)))
 
     if ENRICHED_NUMBERS_EXPORT_PATH.exists():
         rows = read_numbers_export(ENRICHED_NUMBERS_EXPORT_PATH)
         write_normalized_input(rows)
-        return rows
+        return apply_sheet_insights(rows)
 
     if NUMBERS_EXPORT_PATH.exists():
         rows = read_numbers_export(NUMBERS_EXPORT_PATH)
         write_normalized_input(rows)
-        return rows
+        return apply_sheet_insights(rows)
 
     with INPUT_PATH.open(newline="") as file:
-        return list(csv.DictReader(file))
+        return apply_sheet_insights(list(csv.DictReader(file)))
 
 
 def read_numbers_export(path):
@@ -389,6 +512,8 @@ def write_csv(rows):
         "lineup_score",
         "platoon_score",
         "recent_form_score",
+        "sheet_score",
+        "sheet_carry_score",
         "confirmed_lineup",
         "rotowire_confirmed_lineup",
         "rotowire_batting_order",
@@ -434,6 +559,16 @@ def write_csv(rows):
         "weather_temp",
         "ballpark",
         "odds",
+        "sheet_barrel_pct",
+        "sheet_iso",
+        "sheet_ev",
+        "sheet_pm_hr",
+        "sheet_pm_pa",
+        "sheet_pa_pct",
+        "sheet_hr_env",
+        "sheet_pitcher_split_barrel",
+        "sheet_pitcher_split_hr",
+        "sheet_note",
     ]
     with OUTPUT_CSV.open("w", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=fields)
