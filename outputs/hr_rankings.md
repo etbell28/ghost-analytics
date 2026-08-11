@@ -12,16 +12,16 @@
 | 8 | Kyle Schwarber | PHI | Andre Pallante | 1 | 62.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Ben Rice | NYY | Bryan Woo | 2 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Junior Caminero | TB | Mason Barnett | 4 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Corey Seager | TEX | Ryan Johnson | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Jonathan Aranda | TB | Mason Barnett | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Brandon Nimmo | TEX | Ryan Johnson | 4 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Esmerlyn Valdez | PIT | Eury Pérez | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Riley Greene | DET | Tanner Bibee | 4 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Brandon Lowe | PIT | Eury Pérez | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Sal Stewart | CIN | Sean Burke | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 18 | Julio Rodriguez | SEA | Ryan Weathers | 5 | 57.2 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 19 | Jake Bauers | MIL | Walker Buehler | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Dominic Canzone | SEA | Ryan Weathers | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 11 | Jake Bauers | MIL | Walker Buehler | 3 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Corey Seager | TEX | Ryan Johnson | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Jonathan Aranda | TB | Mason Barnett | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Brandon Nimmo | TEX | Ryan Johnson | 4 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Esmerlyn Valdez | PIT | Eury Pérez | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Riley Greene | DET | Tanner Bibee | 4 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Brandon Lowe | PIT | Eury Pérez | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Sal Stewart | CIN | Sean Burke | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Jackson Chourio | MIL | Walker Buehler | 2 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Julio Rodriguez | SEA | Ryan Weathers | 5 | 57.2 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
