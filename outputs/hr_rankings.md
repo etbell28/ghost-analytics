@@ -4,7 +4,7 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Kyle Schwarber | PHI | Kyle Leahy | 1 | 69.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Munetaka Murakami | CWS | Rhett Lowder | 2 | 68.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Pete Alonso | BAL | Zebby Matthews | 2 | 67.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Pete Alonso | BAL | Zebby Matthews | 2 | 65.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 4 | Eduardo Valencia | DET | Foster Griffin | 5 | 64.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
 | 5 | Jac Caglianone | KC | Eric Lauer | 3 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Hunter Goodman | COL | Merrill Kelly | 4 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
@@ -26,23 +26,23 @@
 ## Best 2-Leg Pairings
 
 - Kyle Schwarber + Munetaka Murakami | Avg HR Score: 68.5
-- Munetaka Murakami + Pete Alonso | Avg HR Score: 67.6
-- Pete Alonso + Eduardo Valencia | Avg HR Score: 65.9
+- Munetaka Murakami + Pete Alonso | Avg HR Score: 66.8
+- Pete Alonso + Eduardo Valencia | Avg HR Score: 65.2
 - Eduardo Valencia + Jac Caglianone | Avg HR Score: 64.3
 - Jac Caglianone + Hunter Goodman | Avg HR Score: 63.7
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Munetaka Murakami + Pete Alonso | Avg HR Score: 68.1
-- Munetaka Murakami + Pete Alonso + Eduardo Valencia | Avg HR Score: 66.6
-- Pete Alonso + Eduardo Valencia + Jac Caglianone | Avg HR Score: 65.3
+- Kyle Schwarber + Munetaka Murakami + Pete Alonso | Avg HR Score: 67.6
+- Munetaka Murakami + Pete Alonso + Eduardo Valencia | Avg HR Score: 66.1
+- Pete Alonso + Eduardo Valencia + Jac Caglianone | Avg HR Score: 64.8
 - Eduardo Valencia + Jac Caglianone + Hunter Goodman | Avg HR Score: 64.0
 - Jac Caglianone + Hunter Goodman + Yordan Alvarez | Avg HR Score: 63.3
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Munetaka Murakami + Pete Alonso + Eduardo Valencia | Avg HR Score: 67.2
-- Munetaka Murakami + Pete Alonso + Eduardo Valencia + Jac Caglianone | Avg HR Score: 66.0
-- Pete Alonso + Eduardo Valencia + Jac Caglianone + Hunter Goodman | Avg HR Score: 64.8
+- Kyle Schwarber + Munetaka Murakami + Pete Alonso + Eduardo Valencia | Avg HR Score: 66.8
+- Munetaka Murakami + Pete Alonso + Eduardo Valencia + Jac Caglianone | Avg HR Score: 65.6
+- Pete Alonso + Eduardo Valencia + Jac Caglianone + Hunter Goodman | Avg HR Score: 64.4
 - Eduardo Valencia + Jac Caglianone + Hunter Goodman + Yordan Alvarez | Avg HR Score: 63.6
 - Jac Caglianone + Hunter Goodman + Yordan Alvarez + Matt Olson | Avg HR Score: 63.0
