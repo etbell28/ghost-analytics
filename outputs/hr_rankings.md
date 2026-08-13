@@ -11,16 +11,16 @@
 | 7 | Trent Grisham | NYY | Logan Gilbert | 1 | 63.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Wilyer Abreu | BOS | Max Scherzer | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Mike Trout | LAA | Jacob deGrom | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Eduardo Valencia | DET | Parker Messick | 4 | 61.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Luis García Jr. | NYY | Logan Gilbert | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Griffin Conine | MIA | Braxton Ashcraft | 4 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Griffin Conine | MIA | Braxton Ashcraft | 4 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Eduardo Valencia | DET | Parker Messick | 4 | 61.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Luis García Jr. | NYY | Logan Gilbert | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Willson Contreras | BOS | Max Scherzer | 4 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 14 | Jackson Chourio | MIL | Roki Sasaki | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Esmerlyn Valdez | PIT | Tyler Phillips | 5 | 57.1 | Longshot | Watch List | Strong Barrel |
-| 16 | Brandon Lowe | PIT | Tyler Phillips | 2 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Pete Crow-Armstrong | CHC | Cade Cavalli | 1 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Jazz Chisholm Jr. | NYY | Logan Gilbert | 6 | 56.4 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 19 | Sal Stewart | CIN | Davis Martin | 2 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Sal Stewart | CIN | Davis Martin | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 16 | Esmerlyn Valdez | PIT | Tyler Phillips | 5 | 57.3 | Longshot | Watch List | Strong Barrel |
+| 17 | Brandon Lowe | PIT | Tyler Phillips | 2 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Pete Crow-Armstrong | CHC | Cade Cavalli | 1 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Jazz Chisholm Jr. | NYY | Logan Gilbert | 6 | 56.4 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
 | 20 | Garrett Mitchell | MIL | Roki Sasaki | 5 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
