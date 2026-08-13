@@ -9,13 +9,13 @@
 | 5 | Kyle Schwarber | PHI | Taj Bradley | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | Jake Bauers | MIL | Roki Sasaki | 3 | 63.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Trent Grisham | NYY | Logan Gilbert | 1 | 63.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Mike Trout | LAA | Jacob deGrom | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Eduardo Valencia | DET | Parker Messick | 4 | 61.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Luis García Jr. | NYY | Logan Gilbert | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Griffin Conine | MIA | Braxton Ashcraft | 4 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Wilyer Abreu | BOS | Max Scherzer | 5 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 13 | Jackson Chourio | MIL | Roki Sasaki | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Willson Contreras | BOS | Max Scherzer | 4 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 8 | Wilyer Abreu | BOS | Max Scherzer | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Mike Trout | LAA | Jacob deGrom | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Eduardo Valencia | DET | Parker Messick | 4 | 61.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Luis García Jr. | NYY | Logan Gilbert | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Griffin Conine | MIA | Braxton Ashcraft | 4 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Willson Contreras | BOS | Max Scherzer | 4 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Jackson Chourio | MIL | Roki Sasaki | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 15 | Esmerlyn Valdez | PIT | Tyler Phillips | 5 | 57.1 | Longshot | Watch List | Strong Barrel |
 | 16 | Brandon Lowe | PIT | Tyler Phillips | 2 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Pete Crow-Armstrong | CHC | Cade Cavalli | 1 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -45,4 +45,4 @@
 - Ben Rice + Spencer Jones + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 64.9
 - Spencer Jones + Shohei Ohtani + Kyle Schwarber + Jake Bauers | Avg HR Score: 64.2
 - Shohei Ohtani + Kyle Schwarber + Jake Bauers + Trent Grisham | Avg HR Score: 63.4
-- Kyle Schwarber + Jake Bauers + Trent Grisham + Mike Trout | Avg HR Score: 62.8
+- Kyle Schwarber + Jake Bauers + Trent Grisham + Wilyer Abreu | Avg HR Score: 63.2
