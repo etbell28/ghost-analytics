@@ -18,10 +18,10 @@
 | 14 | Shohei Ohtani | LAD | Robert Gasser | 1 | 61.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 15 | Bryce Eldridge | SF | Kyle Freeland | 1 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 16 | Zac Veen | COL | Landen Roupp | 7 | 60.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 17 | Luis Garcia | NYY | Shane Bieber | 4 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Ronald Acuna | ATL | Brandon Pfaadt | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Jackson Merrill | SD | Gavin Williams | 5 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 20 | Sal Stewart | CIN | Sandy Alcantara | 2 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Corey Seager | TEX |  | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Luis Garcia | NYY | Shane Bieber | 4 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Ronald Acuna | ATL | Brandon Pfaadt | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Jackson Merrill | SD | Gavin Williams | 5 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
