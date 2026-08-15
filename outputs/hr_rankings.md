@@ -9,19 +9,19 @@
 | 5 | Corbin Carroll | AZ | Grant Holmes | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Matt Olson | ATL | Eduardo Rodriguez | 3 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Sheet Consensus |
 | 7 | Shohei Ohtani | LAD | Jacob Misiorowski | 1 | 62.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Sal Stewart | CIN | Ryan Gusto | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Dominic Canzone | SEA | Hayden Wesneski | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ronald Acuña Jr. | ATL | Eduardo Rodriguez | 1 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Jake Bauers | MIL | Justin Wrobleski | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Jac Caglianone | KC | Reid Detmers | 3 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Jackson Chourio | MIL | Justin Wrobleski | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Elly De La Cruz | CIN | Ryan Gusto | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Tyler Stephenson | CIN | Ryan Gusto | 4 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | Fernando Tatis Jr. | SD | Joey Cantillo | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Corey Seager | TEX | J.T. Ginn | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Heriberto Hernández | MIA | Brady Singer | 3 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Gary Sánchez | MIL | Justin Wrobleski | 5 | 58.1 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 20 | Bryce Harper | PHI | Connor Prielipp | 3 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Jac Caglianone | KC | Reid Detmers | 3 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 9 | Sal Stewart | CIN | Ryan Gusto | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Dominic Canzone | SEA | Hayden Wesneski | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ronald Acuña Jr. | ATL | Eduardo Rodriguez | 1 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Jake Bauers | MIL | Justin Wrobleski | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Bobby Witt | KC | Reid Detmers | 2 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Mike Trout | LAA | Randy Dobnak | 2 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Jackson Chourio | MIL | Justin Wrobleski | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Elly De La Cruz | CIN | Ryan Gusto | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Tyler Stephenson | CIN | Ryan Gusto | 4 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Fernando Tatis Jr. | SD | Joey Cantillo | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Corey Seager | TEX | J.T. Ginn | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Heriberto Hernández | MIA | Brady Singer | 3 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Kyle Schwarber + Griffin Conine + Pete Alonso + Corbin Carroll | Avg HR Score: 66.5
 - Griffin Conine + Pete Alonso + Corbin Carroll + Matt Olson | Avg HR Score: 65.6
 - Pete Alonso + Corbin Carroll + Matt Olson + Shohei Ohtani | Avg HR Score: 64.3
-- Corbin Carroll + Matt Olson + Shohei Ohtani + Sal Stewart | Avg HR Score: 63.0
+- Corbin Carroll + Matt Olson + Shohei Ohtani + Jac Caglianone | Avg HR Score: 63.2
