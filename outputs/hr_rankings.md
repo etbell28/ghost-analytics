@@ -12,16 +12,16 @@
 | 8 | Munetaka Murakami | CWS | Troy Melton | 4 | 63.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Matt Olson | ATL | Eduardo Rodriguez | 3 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Sheet Consensus |
 | 10 | Eduardo Valencia | DET | Anthony Kay | 6 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 11 | Shohei Ohtani | LAD | Jacob Misiorowski | 1 | 62.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Rafael Devers | SF | Michael Lorenzen | 2 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Rafael Devers | SF | Michael Lorenzen | 2 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Shohei Ohtani | LAD | Jacob Misiorowski | 1 | 62.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Pete Crow-Armstrong | CHC | Michael McGreevy | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Sal Stewart | CIN | Ryan Gusto | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 15 | Dominic Canzone | SEA | Hayden Wesneski | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Seiya Suzuki | CHC | Michael McGreevy | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 17 | Jac Caglianone | KC | Reid Detmers | 3 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 18 | Ronald Acuna | ATL | Eduardo Rodriguez | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Jackson Chourio | MIL | Justin Wrobleski | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 20 | Elly De La Cruz | CIN | Ryan Gusto | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Elly De La Cruz | CIN | Ryan Gusto | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Jackson Chourio | MIL | Justin Wrobleski | 1 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
