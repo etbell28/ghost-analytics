@@ -8,20 +8,20 @@
 | 4 | Munetaka Murakami | CWS | Drew Anderson | 2 | 66.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Matt Olson | ATL | Michael Soroka | 3 | 65.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
 | 6 | Corbin Carroll | AZ | Bryce Elder | 2 | 64.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Jac Caglianone | KC | Ryan Johnson | 3 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Francisco Lindor | NYM | Jake Irvin | 2 | 64.1 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Shohei Ohtani | LAD | Logan Henderson | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Pete Alonso | BAL | Freddy Peralta | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Heriberto Hernández | MIA | Nick Lodolo | 2 | 62.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Sal Stewart | CIN | Eury Pérez | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 13 | Wilyer Abreu | BOS | Lake Bachar | 3 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Alec Burleson | STL | Edward Cabrera | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Mike Trout | LAA | Noah Cameron | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Ronald Acuña Jr. | ATL | Michael Soroka | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 17 | Jared Young | NYM | Jake Irvin | 5 | 60.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Ketel Marte | AZ | Bryce Elder | 4 | 60.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Bryce Harper | PHI | Dean Kremer | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Carson Benge | NYM | Jake Irvin | 4 | 59.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 7 | Francisco Lindor | NYM | Jake Irvin | 2 | 64.1 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Shohei Ohtani | LAD | Logan Henderson | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Pete Alonso | BAL | Freddy Peralta | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Heriberto Hernández | MIA | Nick Lodolo | 2 | 62.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Sal Stewart | CIN | Eury Pérez | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 12 | Wilyer Abreu | BOS | Lake Bachar | 3 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Alec Burleson | STL | Edward Cabrera | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Ronald Acuña Jr. | ATL | Michael Soroka | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Jared Young | NYM | Jake Irvin | 5 | 60.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Jac Caglianone | KC | Ryan Johnson | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Ketel Marte | AZ | Bryce Elder | 4 | 60.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 18 | Bryce Harper | PHI | Dean Kremer | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Carson Benge | NYM | Jake Irvin | 4 | 59.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Byron Buxton | MIN | Andrew Painter | 2 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
@@ -37,12 +37,12 @@
 - Abimelec Ortiz + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 67.0
 - Yordan Alvarez + Munetaka Murakami + Matt Olson | Avg HR Score: 66.3
 - Munetaka Murakami + Matt Olson + Corbin Carroll | Avg HR Score: 65.5
-- Matt Olson + Corbin Carroll + Jac Caglianone | Avg HR Score: 64.8
+- Matt Olson + Corbin Carroll + Francisco Lindor | Avg HR Score: 64.7
 
 ## Best 4-Leg Pairings
 
 - Kyle Schwarber + Abimelec Ortiz + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 67.5
 - Abimelec Ortiz + Yordan Alvarez + Munetaka Murakami + Matt Olson | Avg HR Score: 66.7
 - Yordan Alvarez + Munetaka Murakami + Matt Olson + Corbin Carroll | Avg HR Score: 65.8
-- Munetaka Murakami + Matt Olson + Corbin Carroll + Jac Caglianone | Avg HR Score: 65.2
-- Matt Olson + Corbin Carroll + Jac Caglianone + Francisco Lindor | Avg HR Score: 64.6
+- Munetaka Murakami + Matt Olson + Corbin Carroll + Francisco Lindor | Avg HR Score: 65.2
+- Matt Olson + Corbin Carroll + Francisco Lindor + Shohei Ohtani | Avg HR Score: 64.4
