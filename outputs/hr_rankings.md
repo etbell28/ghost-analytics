@@ -20,8 +20,8 @@
 | 16 | Byron Buxton | MIN | Martín Pérez | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Rafael Flores Jr. | PIT | Framber Valdez | 6 | 61.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 18 | Jordan Walker | STL | Rhett Lowder | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 19 | Mookie Betts | LAD | Tomoyuki Sugano | 5 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment |
-| 20 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 59.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 19 | Adael Amador | COL | Blake Snell | 7 | 61.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge |
+| 20 | Mookie Betts | LAD | Tomoyuki Sugano | 5 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment |
 
 ## Best 2-Leg Pairings
 
