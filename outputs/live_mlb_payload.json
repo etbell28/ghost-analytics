@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Monday, August 17, 2026",
-  "generated_at": "11:43 AM EDT",
-  "generated_iso": "2026-08-17T11:43:33.546227-04:00",
+  "generated_at": "12:02 PM EDT",
+  "generated_iso": "2026-08-17T12:02:34.595728-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -201,53 +201,6 @@
     },
     {
       "rank": 5,
-      "player": "Matt Olson",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "3",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 6.6,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Sheet Match",
-        "Carry Signal"
-      ],
-      "label_summary": "Projected + EV Edge + Sheet Match + Carry Signal",
-      "components": {
-        "hitter_power": 67.8,
-        "pitcher_vulnerability": 55.5,
-        "batted_ball_fit": 51.0,
-        "environment": 52.6,
-        "lineup_opportunity": 92.1,
-        "recent_form": 70.3,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 80.6,
-        "sheet_carry": 100.0
-      },
-      "legacy_hr_score": 68.0,
-      "sheet_score": 80.6,
-      "sheet_carry_score": 100.0,
-      "sheet_note": "Elite LHH power; weather only mild and possible delay"
-    },
-    {
-      "rank": 6,
       "player": "Kyle Schwarber",
       "team": "PHI",
       "opponent": "STL",
@@ -293,6 +246,53 @@
       "sheet_score": 47.5,
       "sheet_carry_score": 68.0,
       "sheet_note": "Power volume; less clean pitcher split than Harper"
+    },
+    {
+      "rank": 6,
+      "player": "Matt Olson",
+      "team": "ATL",
+      "opponent": "NYM",
+      "matchup": "ATL vs NYM",
+      "batting_order": "3",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-17T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.3,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Sheet Match",
+        "Carry Signal"
+      ],
+      "label_summary": "Projected + EV Edge + Sheet Match + Carry Signal",
+      "components": {
+        "hitter_power": 67.8,
+        "pitcher_vulnerability": 55.5,
+        "batted_ball_fit": 51.0,
+        "environment": 27.1,
+        "lineup_opportunity": 92.1,
+        "recent_form": 70.3,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 80.6,
+        "sheet_carry": 100.0
+      },
+      "legacy_hr_score": 64.4,
+      "sheet_score": 80.6,
+      "sheet_carry_score": 100.0,
+      "sheet_note": "Elite LHH power; weather only mild and possible delay"
     },
     {
       "rank": 7,
@@ -801,51 +801,6 @@
     },
     {
       "rank": 18,
-      "player": "Ronald Acuna",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "2",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 60.7,
-        "pitcher_vulnerability": 55.5,
-        "batted_ball_fit": 45.5,
-        "environment": 52.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 33.7,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 25.7,
-        "sheet_carry": 50.0
-      },
-      "legacy_hr_score": 59.3,
-      "sheet_score": 25.7,
-      "sheet_carry_score": 50.0,
-      "sheet_note": "EV helps but ISO not HR-friendly today"
-    },
-    {
-      "rank": 19,
       "player": "Christian Encarnacion-Strand",
       "team": "BAL",
       "opponent": "TB",
@@ -890,7 +845,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 20,
+      "rank": 19,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -935,52 +890,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 21,
-      "player": "Byron Buxton",
-      "team": "MIN",
-      "opponent": "ATL",
-      "matchup": "MIN vs ATL",
-      "batting_order": "1",
-      "pitcher": "Martín Pérez",
-      "pitcher_hand": "L",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 66.4,
-        "pitcher_vulnerability": 39.0,
-        "batted_ball_fit": 57.9,
-        "environment": 52.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 0.0,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 58.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "CWS",
@@ -1025,7 +935,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 23,
+      "rank": 21,
       "player": "Griffin Conine",
       "team": "MIA",
       "opponent": "PHI",
@@ -1071,53 +981,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
-      "player": "Drake Baldwin",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "1",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Carry Signal"
-      ],
-      "label_summary": "Projected + EV Edge + Carry Signal",
-      "components": {
-        "hitter_power": 56.1,
-        "pitcher_vulnerability": 55.5,
-        "batted_ball_fit": 33.1,
-        "environment": 52.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 26.4,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 37.9,
-        "sheet_carry": 68.0
-      },
-      "legacy_hr_score": 59.6,
-      "sheet_score": 37.9,
-      "sheet_carry_score": 68.0,
-      "sheet_note": "Strong barrel/EV but ISO lower"
-    },
-    {
-      "rank": 25,
+      "rank": 22,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "CHC",
@@ -1162,7 +1026,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 23,
       "player": "Seiya Suzuki",
       "team": "CHC",
       "opponent": "CWS",
@@ -1207,7 +1071,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 24,
       "player": "Freddie Freeman",
       "team": "LAD",
       "opponent": "COL",
@@ -1252,7 +1116,52 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "player": "Ronald Acuna",
+      "team": "ATL",
+      "opponent": "NYM",
+      "matchup": "ATL vs NYM",
+      "batting_order": "2",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-17T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.1,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 60.7,
+        "pitcher_vulnerability": 55.5,
+        "batted_ball_fit": 45.5,
+        "environment": 27.1,
+        "lineup_opportunity": 95.5,
+        "recent_form": 33.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 25.7,
+        "sheet_carry": 50.0
+      },
+      "legacy_hr_score": 55.7,
+      "sheet_score": 25.7,
+      "sheet_carry_score": 50.0,
+      "sheet_note": "EV helps but ISO not HR-friendly today"
+    },
+    {
+      "rank": 26,
       "player": "Andy Pages",
       "team": "LAD",
       "opponent": "COL",
@@ -1297,7 +1206,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 27,
       "player": "Bryce Harper",
       "team": "PHI",
       "opponent": "STL",
@@ -1342,7 +1251,7 @@
       "sheet_note": "Elite hitter/sheet power; pitcher split less targetable"
     },
     {
-      "rank": 30,
+      "rank": 28,
       "player": "Everson Pereira",
       "team": "STL",
       "opponent": "PHI",
@@ -1387,6 +1296,96 @@
       "sheet_score": 35.4,
       "sheet_carry_score": 77.0,
       "sheet_note": "ISO/barrel support but EV concern"
+    },
+    {
+      "rank": 29,
+      "player": "Bobby Witt",
+      "team": "KC",
+      "opponent": "ATH",
+      "matchup": "KC vs ATH",
+      "batting_order": "2",
+      "pitcher": "Mason Barnett",
+      "pitcher_hand": "R",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "354 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "70",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-08-17T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 55.7,
+        "pitcher_vulnerability": 48.6,
+        "batted_ball_fit": 32.0,
+        "environment": 50.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 33.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 57.1,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 30,
+      "player": "Sal Stewart",
+      "team": "CIN",
+      "opponent": "STL",
+      "matchup": "CIN vs STL",
+      "batting_order": "2",
+      "pitcher": "Andre Pallante",
+      "pitcher_hand": "R",
+      "ballpark": "Great American Ball Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "288 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0979&lon=-84.5082",
+      "weather_humidity": "73",
+      "weather_precip_pct": "13",
+      "game_start_time": "2026-08-17T22:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 59.9,
+        "pitcher_vulnerability": 27.2,
+        "batted_ball_fit": 40.4,
+        "environment": 64.8,
+        "lineup_opportunity": 95.5,
+        "recent_form": 48.5,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.2,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
     }
   ],
   "confirmed_targets": [
@@ -1532,7 +1531,7 @@
       "sheet_note": "Volume support but ISO modest"
     },
     {
-      "rank": 30,
+      "rank": 28,
       "player": "Everson Pereira",
       "team": "STL",
       "opponent": "PHI",
@@ -1579,7 +1578,7 @@
       "sheet_note": "ISO/barrel support but EV concern"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "STL",
@@ -1624,7 +1623,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 46,
+      "rank": 44,
       "player": "Tyler Stephenson",
       "team": "CIN",
       "opponent": "STL",
@@ -1669,7 +1668,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 49,
+      "rank": 47,
       "player": "Iván Herrera",
       "team": "STL",
       "opponent": "CIN",
@@ -1714,7 +1713,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 56,
+      "rank": 55,
       "player": "Elly De La Cruz",
       "team": "CIN",
       "opponent": "STL",
@@ -1760,7 +1759,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 65,
+      "rank": 64,
       "player": "Eugenio Suárez",
       "team": "CIN",
       "opponent": "STL",
@@ -1805,7 +1804,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 74,
+      "rank": 72,
       "player": "Blaze Jordan",
       "team": "STL",
       "opponent": "CIN",
@@ -1895,7 +1894,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 110,
+      "rank": 109,
       "player": "Pedro Pagés",
       "team": "STL",
       "opponent": "CIN",
@@ -1940,7 +1939,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 116,
+      "rank": 115,
       "player": "Masyn Winn",
       "team": "STL",
       "opponent": "CIN",
@@ -1985,7 +1984,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 117,
+      "rank": 116,
       "player": "Matt McLain",
       "team": "CIN",
       "opponent": "STL",
@@ -2030,7 +2029,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 143,
+      "rank": 141,
       "player": "Ke'Bryan Hayes",
       "team": "CIN",
       "opponent": "STL",
@@ -2075,7 +2074,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 145,
+      "rank": 142,
       "player": "Dane Myers",
       "team": "CIN",
       "opponent": "STL",
@@ -2120,7 +2119,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 152,
+      "rank": 148,
       "player": "Michael Toglia",
       "team": "CIN",
       "opponent": "STL",
@@ -2165,7 +2164,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 164,
+      "rank": 160,
       "player": "Noelvi Marte",
       "team": "CIN",
       "opponent": "STL",
@@ -2350,53 +2349,6 @@
     },
     {
       "rank": 5,
-      "player": "Matt Olson",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "3",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 6.6,
-      "ghost_grade": "B",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Sheet Match",
-        "Carry Signal"
-      ],
-      "label_summary": "Projected + EV Edge + Sheet Match + Carry Signal",
-      "components": {
-        "hitter_power": 67.8,
-        "pitcher_vulnerability": 55.5,
-        "batted_ball_fit": 51.0,
-        "environment": 52.6,
-        "lineup_opportunity": 92.1,
-        "recent_form": 70.3,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 80.6,
-        "sheet_carry": 100.0
-      },
-      "legacy_hr_score": 68.0,
-      "sheet_score": 80.6,
-      "sheet_carry_score": 100.0,
-      "sheet_note": "Elite LHH power; weather only mild and possible delay"
-    },
-    {
-      "rank": 6,
       "player": "Kyle Schwarber",
       "team": "PHI",
       "opponent": "STL",
@@ -2442,6 +2394,53 @@
       "sheet_score": 47.5,
       "sheet_carry_score": 68.0,
       "sheet_note": "Power volume; less clean pitcher split than Harper"
+    },
+    {
+      "rank": 6,
+      "player": "Matt Olson",
+      "team": "ATL",
+      "opponent": "NYM",
+      "matchup": "ATL vs NYM",
+      "batting_order": "3",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-17T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 6.3,
+      "ghost_grade": "B",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Sheet Match",
+        "Carry Signal"
+      ],
+      "label_summary": "Projected + EV Edge + Sheet Match + Carry Signal",
+      "components": {
+        "hitter_power": 67.8,
+        "pitcher_vulnerability": 55.5,
+        "batted_ball_fit": 51.0,
+        "environment": 27.1,
+        "lineup_opportunity": 92.1,
+        "recent_form": 70.3,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 80.6,
+        "sheet_carry": 100.0
+      },
+      "legacy_hr_score": 64.4,
+      "sheet_score": 80.6,
+      "sheet_carry_score": 100.0,
+      "sheet_note": "Elite LHH power; weather only mild and possible delay"
     },
     {
       "rank": 8,
@@ -2857,51 +2856,6 @@
     },
     {
       "rank": 18,
-      "player": "Ronald Acuna",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "2",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 60.7,
-        "pitcher_vulnerability": 55.5,
-        "batted_ball_fit": 45.5,
-        "environment": 52.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 33.7,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 25.7,
-        "sheet_carry": 50.0
-      },
-      "legacy_hr_score": 59.3,
-      "sheet_score": 25.7,
-      "sheet_carry_score": 50.0,
-      "sheet_note": "EV helps but ISO not HR-friendly today"
-    },
-    {
-      "rank": 19,
       "player": "Christian Encarnacion-Strand",
       "team": "BAL",
       "opponent": "TB",
@@ -2946,7 +2900,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 20,
+      "rank": 19,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -2991,52 +2945,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 21,
-      "player": "Byron Buxton",
-      "team": "MIN",
-      "opponent": "ATL",
-      "matchup": "MIN vs ATL",
-      "batting_order": "1",
-      "pitcher": "Martín Pérez",
-      "pitcher_hand": "L",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 66.4,
-        "pitcher_vulnerability": 39.0,
-        "batted_ball_fit": 57.9,
-        "environment": 52.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 0.0,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 58.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "CWS",
@@ -3081,7 +2990,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 23,
+      "rank": 21,
       "player": "Griffin Conine",
       "team": "MIA",
       "opponent": "PHI",
@@ -3127,53 +3036,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
-      "player": "Drake Baldwin",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "1",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Target Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "80",
-      "wind_speed": null,
-      "wind_direction": "330 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "weather_humidity": "43",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-17T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Carry Signal"
-      ],
-      "label_summary": "Projected + EV Edge + Carry Signal",
-      "components": {
-        "hitter_power": 56.1,
-        "pitcher_vulnerability": 55.5,
-        "batted_ball_fit": 33.1,
-        "environment": 52.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 26.4,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 37.9,
-        "sheet_carry": 68.0
-      },
-      "legacy_hr_score": 59.6,
-      "sheet_score": 37.9,
-      "sheet_carry_score": 68.0,
-      "sheet_note": "Strong barrel/EV but ISO lower"
-    },
-    {
-      "rank": 25,
+      "rank": 22,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "CHC",
@@ -3218,7 +3081,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 23,
       "player": "Seiya Suzuki",
       "team": "CHC",
       "opponent": "CWS",
@@ -3263,7 +3126,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 24,
       "player": "Freddie Freeman",
       "team": "LAD",
       "opponent": "COL",
@@ -3308,7 +3171,52 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "player": "Ronald Acuna",
+      "team": "ATL",
+      "opponent": "NYM",
+      "matchup": "ATL vs NYM",
+      "batting_order": "2",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-17T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.1,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 60.7,
+        "pitcher_vulnerability": 55.5,
+        "batted_ball_fit": 45.5,
+        "environment": 27.1,
+        "lineup_opportunity": 95.5,
+        "recent_form": 33.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 25.7,
+        "sheet_carry": 50.0
+      },
+      "legacy_hr_score": 55.7,
+      "sheet_score": 25.7,
+      "sheet_carry_score": 50.0,
+      "sheet_note": "EV helps but ISO not HR-friendly today"
+    },
+    {
+      "rank": 26,
       "player": "Andy Pages",
       "team": "LAD",
       "opponent": "COL",
@@ -3353,7 +3261,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 27,
       "player": "Bryce Harper",
       "team": "PHI",
       "opponent": "STL",
@@ -3398,7 +3306,7 @@
       "sheet_note": "Elite hitter/sheet power; pitcher split less targetable"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "ATH",
@@ -3443,7 +3351,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 32,
+      "rank": 30,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "STL",
@@ -3488,7 +3396,52 @@
       "sheet_note": ""
     },
     {
-      "rank": 33,
+      "rank": 31,
+      "player": "Byron Buxton",
+      "team": "MIN",
+      "opponent": "ATL",
+      "matchup": "MIN vs ATL",
+      "batting_order": "1",
+      "pitcher": "Martín Pérez",
+      "pitcher_hand": "L",
+      "ballpark": "Target Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-17T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 4.9,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 66.4,
+        "pitcher_vulnerability": 39.0,
+        "batted_ball_fit": 57.9,
+        "environment": 27.1,
+        "lineup_opportunity": 88.7,
+        "recent_form": 0.0,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 54.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 32,
       "player": "Mookie Betts",
       "team": "LAD",
       "opponent": "COL",
@@ -3533,7 +3486,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 35,
+      "rank": 34,
       "player": "Colson Montgomery",
       "team": "CWS",
       "opponent": "CHC",
@@ -3576,6 +3529,51 @@
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
+    },
+    {
+      "rank": 35,
+      "player": "Heriberto Hernandez",
+      "team": "MIA",
+      "opponent": "PHI",
+      "matchup": "MIA vs PHI",
+      "batting_order": "2",
+      "pitcher": "Cristopher Sánchez",
+      "pitcher_hand": "L",
+      "ballpark": "Citizens Bank Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "70",
+      "wind_speed": null,
+      "wind_direction": "106 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
+      "weather_humidity": "82",
+      "weather_precip_pct": "15",
+      "game_start_time": "2026-08-17T22:40:00Z",
+      "confirmed": false,
+      "edge_index": 4.9,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 54.5,
+        "pitcher_vulnerability": 32.1,
+        "batted_ball_fit": 43.9,
+        "environment": 52.8,
+        "lineup_opportunity": 95.5,
+        "recent_form": 59.1,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.8,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
     }
   ],
   "pairings": {
@@ -3593,18 +3591,6 @@
         "one_off_flags": "Joshua Báez: pitcher resistance / Shohei Ohtani: lineup/void risk"
       },
       {
-        "names": "Joshua Báez + Matt Olson",
-        "teams": "STL vs CIN / ATL vs NYM",
-        "avg_edge": 7.1,
-        "combo_score": 7.91,
-        "type": "Balanced 2",
-        "volatility": "Medium",
-        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Sheet Match, Carry Signal",
-        "reason": "independent games · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Joshua Báez: 82.8 / Matt Olson: 76.9",
-        "one_off_flags": "Joshua Báez: pitcher resistance / Matt Olson: lineup/void risk"
-      },
-      {
         "names": "Joshua Báez + Kyle Schwarber",
         "teams": "STL vs CIN / PHI vs STL",
         "avg_edge": 7.0,
@@ -3615,6 +3601,18 @@
         "reason": "independent games · sheet carry-through · no obvious one-off leg",
         "leg_reliability": "Joshua Báez: 82.8 / Kyle Schwarber: 68.2",
         "one_off_flags": "Joshua Báez: pitcher resistance / Kyle Schwarber: lineup/void risk, pitcher resistance"
+      },
+      {
+        "names": "Joshua Báez + Matt Olson",
+        "teams": "STL vs CIN / ATL vs NYM",
+        "avg_edge": 6.9,
+        "combo_score": 7.76,
+        "type": "Balanced 2",
+        "volatility": "Medium",
+        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Sheet Match, Carry Signal",
+        "reason": "independent games · sheet/model agreement · sheet carry-through · no obvious one-off leg",
+        "leg_reliability": "Joshua Báez: 82.8 / Matt Olson: 73.9",
+        "one_off_flags": "Joshua Báez: pitcher resistance / Matt Olson: lineup/void risk"
       },
       {
         "names": "Joshua Baez + Shohei Ohtani",
@@ -3631,13 +3629,13 @@
       {
         "names": "Joshua Baez + Matt Olson",
         "teams": "STL vs CIN / ATL vs NYM",
-        "avg_edge": 7.0,
-        "combo_score": 7.73,
+        "avg_edge": 6.8,
+        "combo_score": 7.58,
         "type": "Balanced 2",
         "volatility": "Medium",
         "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge, Sheet Match, Carry Signal",
         "reason": "independent games · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Joshua Baez: 75.3 / Matt Olson: 76.9",
+        "leg_reliability": "Joshua Baez: 75.3 / Matt Olson: 73.9",
         "one_off_flags": "Joshua Baez: lineup/void risk / Matt Olson: lineup/void risk"
       },
       {
@@ -3655,13 +3653,13 @@
       {
         "names": "Shohei Ohtani + Matt Olson",
         "teams": "LAD vs COL / ATL vs NYM",
-        "avg_edge": 6.8,
-        "combo_score": 7.52,
+        "avg_edge": 6.7,
+        "combo_score": 7.37,
         "type": "Balanced 2",
         "volatility": "Medium",
         "labels": "Projected, EV Edge, Pitcher Target / Projected, EV Edge, Sheet Match, Carry Signal",
         "reason": "independent games · pitcher target included · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Shohei Ohtani: 68.9 / Matt Olson: 76.9",
+        "leg_reliability": "Shohei Ohtani: 68.9 / Matt Olson: 73.9",
         "one_off_flags": "Shohei Ohtani: lineup/void risk / Matt Olson: lineup/void risk"
       },
       {
@@ -3681,38 +3679,38 @@
       {
         "names": "Joshua Báez + Shohei Ohtani + Matt Olson",
         "teams": "STL vs CIN / LAD vs COL / ATL vs NYM",
-        "avg_edge": 7.1,
-        "combo_score": 8.0,
+        "avg_edge": 7.0,
+        "combo_score": 7.9,
         "type": "Aggressive 3",
         "volatility": "Medium",
         "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target / Projected, EV Edge, Sheet Match, Carry Signal",
         "reason": "independent games · pitcher target included · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Joshua Báez: 82.8 / Shohei Ohtani: 68.9 / Matt Olson: 76.9",
+        "leg_reliability": "Joshua Báez: 82.8 / Shohei Ohtani: 68.9 / Matt Olson: 73.9",
         "one_off_flags": "Joshua Báez: pitcher resistance / Shohei Ohtani: lineup/void risk / Matt Olson: lineup/void risk"
       },
       {
-        "names": "Joshua Báez + Matt Olson + Kyle Schwarber",
-        "teams": "STL vs CIN / ATL vs NYM / PHI vs STL",
-        "avg_edge": 6.9,
-        "combo_score": 7.92,
+        "names": "Joshua Báez + Shohei Ohtani + Kyle Schwarber",
+        "teams": "STL vs CIN / LAD vs COL / PHI vs STL",
+        "avg_edge": 7.0,
+        "combo_score": 7.86,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Sheet Match, Carry Signal / Projected, Hot Bat, EV Edge, Carry Signal, Tough Pitcher",
-        "reason": "independent games · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Joshua Báez: 82.8 / Matt Olson: 76.9 / Kyle Schwarber: 68.2",
-        "one_off_flags": "Joshua Báez: pitcher resistance / Matt Olson: lineup/void risk / Kyle Schwarber: lineup/void risk, pitcher resistance"
+        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Projected, EV Edge, Pitcher Target / Projected, Hot Bat, EV Edge, Carry Signal, Tough Pitcher",
+        "reason": "independent games · pitcher target included · sheet carry-through · no obvious one-off leg",
+        "leg_reliability": "Joshua Báez: 82.8 / Shohei Ohtani: 68.9 / Kyle Schwarber: 68.2",
+        "one_off_flags": "Joshua Báez: pitcher resistance / Shohei Ohtani: lineup/void risk / Kyle Schwarber: lineup/void risk, pitcher resistance"
       },
       {
-        "names": "Shohei Ohtani + Kyle Schwarber + Alec Burleson",
-        "teams": "LAD vs COL / PHI vs STL / STL vs PHI",
-        "avg_edge": 6.5,
-        "combo_score": 7.4,
+        "names": "Kyle Schwarber + Matt Olson + Alec Burleson",
+        "teams": "PHI vs STL / ATL vs NYM / STL vs PHI",
+        "avg_edge": 6.3,
+        "combo_score": 7.36,
         "type": "Aggressive 3",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Pitcher Target / Projected, Hot Bat, EV Edge, Carry Signal, Tough Pitcher / Confirmed, Weather Edge, Hot Bat, Carry Signal",
-        "reason": "independent games · pitcher target included · sheet carry-through",
-        "leg_reliability": "Shohei Ohtani: 68.9 / Kyle Schwarber: 68.2 / Alec Burleson: 72.1",
-        "one_off_flags": "Shohei Ohtani: lineup/void risk / Kyle Schwarber: lineup/void risk, pitcher resistance / Alec Burleson: pitcher resistance, weak sheet/model agreement"
+        "labels": "Projected, Hot Bat, EV Edge, Carry Signal, Tough Pitcher / Projected, EV Edge, Sheet Match, Carry Signal / Confirmed, Weather Edge, Hot Bat, Carry Signal",
+        "reason": "independent games · sheet/model agreement · sheet carry-through",
+        "leg_reliability": "Kyle Schwarber: 68.2 / Matt Olson: 73.9 / Alec Burleson: 72.1",
+        "one_off_flags": "Kyle Schwarber: lineup/void risk, pitcher resistance / Matt Olson: lineup/void risk / Alec Burleson: pitcher resistance, weak sheet/model agreement"
       }
     ],
     "4": []
@@ -3766,16 +3764,6 @@
       "teams": [
         "MIA",
         "PHI"
-      ]
-    },
-    {
-      "ballpark": "Target Field",
-      "environment_score": 52.6,
-      "top_player": "Matt Olson",
-      "top_edge": 6.6,
-      "teams": [
-        "ATL",
-        "MIN"
       ]
     },
     {
@@ -3895,25 +3883,6 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Target Field",
-      "teams": [
-        "ATL",
-        "MIN"
-      ],
-      "environment_score": 52.6,
-      "park_hr_factor": 100.0,
-      "temperature": 80.0,
-      "wind_speed": 0.0,
-      "wind_direction": "330 deg",
-      "humidity": 43.0,
-      "precip_pct": 0.0,
-      "condition_grade": "Neutral",
-      "top_player": "Matt Olson",
-      "top_edge": 6.6,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
       "ballpark": "Fenway Park",
       "teams": [
         "BOS"
@@ -3987,6 +3956,25 @@
       "top_edge": 5.5,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.4469&lon=-80.0057",
       "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Target Field",
+      "teams": [
+        "ATL",
+        "MIN"
+      ],
+      "environment_score": 27.1,
+      "park_hr_factor": 100.0,
+      "temperature": "",
+      "wind_speed": 0.0,
+      "wind_direction": "",
+      "humidity": "",
+      "precip_pct": "",
+      "condition_grade": "Resist",
+      "top_player": "Matt Olson",
+      "top_edge": 6.3,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=44.9817&lon=-93.2776",
+      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
