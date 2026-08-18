@@ -4,11 +4,11 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Joshua Báez | STL | Andrew Abbott | 5 | 73.6 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge |
 | 2 | Abimelec Ortiz | WSH | Cal Quantrill | 2 | 73.3 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Shohei Ohtani | LAD | Ryan Feltner | 1 | 71.0 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Yordan Alvarez | HOU | George Klassen | 2 | 69.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Matt Olson | ATL | Zebby Matthews | 3 | 69.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
-| 6 | Munetaka Murakami | CWS | Kevin Gausman | 2 | 68.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Max Muncy | LAD | Ryan Feltner | 4 | 64.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Yordan Alvarez | HOU | George Klassen | 2 | 70.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Shohei Ohtani | LAD | Ryan Feltner | 1 | 70.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Munetaka Murakami | CWS | Kevin Gausman | 2 | 70.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Matt Olson | ATL | Zebby Matthews | 3 | 69.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
+| 7 | Max Muncy | LAD | Ryan Feltner | 4 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Sal Stewart | CIN | Kyle Leahy | 2 | 63.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 9 | Pete Alonso | BAL | Carlos Rodón | 2 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Eduardo Valencia | DET | Braxton Ashcraft | 4 | 63.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
@@ -26,23 +26,23 @@
 ## Best 2-Leg Pairings
 
 - Joshua Báez + Abimelec Ortiz | Avg HR Score: 73.4
-- Abimelec Ortiz + Shohei Ohtani | Avg HR Score: 72.2
-- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 70.5
-- Yordan Alvarez + Matt Olson | Avg HR Score: 69.8
-- Matt Olson + Munetaka Murakami | Avg HR Score: 69.3
+- Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 71.9
+- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 70.3
+- Shohei Ohtani + Munetaka Murakami | Avg HR Score: 70.2
+- Munetaka Murakami + Matt Olson | Avg HR Score: 69.9
 
 ## Best 3-Leg Pairings
 
-- Joshua Báez + Abimelec Ortiz + Shohei Ohtani | Avg HR Score: 72.6
-- Abimelec Ortiz + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 71.4
-- Shohei Ohtani + Yordan Alvarez + Matt Olson | Avg HR Score: 70.2
-- Yordan Alvarez + Matt Olson + Munetaka Murakami | Avg HR Score: 69.5
-- Matt Olson + Munetaka Murakami + Max Muncy | Avg HR Score: 67.8
+- Joshua Báez + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 72.5
+- Abimelec Ortiz + Yordan Alvarez + Shohei Ohtani | Avg HR Score: 71.3
+- Yordan Alvarez + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 70.3
+- Shohei Ohtani + Munetaka Murakami + Matt Olson | Avg HR Score: 70.0
+- Munetaka Murakami + Matt Olson + Max Muncy | Avg HR Score: 68.0
 
 ## Best 4-Leg Pairings
 
-- Joshua Báez + Abimelec Ortiz + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 72.0
-- Abimelec Ortiz + Shohei Ohtani + Yordan Alvarez + Matt Olson | Avg HR Score: 71.0
-- Shohei Ohtani + Yordan Alvarez + Matt Olson + Munetaka Murakami | Avg HR Score: 69.9
-- Yordan Alvarez + Matt Olson + Munetaka Murakami + Max Muncy | Avg HR Score: 68.3
-- Matt Olson + Munetaka Murakami + Max Muncy + Sal Stewart | Avg HR Score: 66.8
+- Joshua Báez + Abimelec Ortiz + Yordan Alvarez + Shohei Ohtani | Avg HR Score: 71.9
+- Abimelec Ortiz + Yordan Alvarez + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 71.0
+- Yordan Alvarez + Shohei Ohtani + Munetaka Murakami + Matt Olson | Avg HR Score: 70.2
+- Shohei Ohtani + Munetaka Murakami + Matt Olson + Max Muncy | Avg HR Score: 68.5
+- Munetaka Murakami + Matt Olson + Max Muncy + Sal Stewart | Avg HR Score: 66.9
