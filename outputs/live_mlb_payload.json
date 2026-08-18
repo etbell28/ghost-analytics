@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Tuesday, August 18, 2026",
-  "generated_at": "11:40 AM EDT",
-  "generated_iso": "2026-08-18T11:40:35.018752-04:00",
+  "generated_at": "12:11 PM EDT",
+  "generated_iso": "2026-08-18T12:11:29.392423-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -754,6 +754,52 @@
     },
     {
       "rank": 17,
+      "player": "Max Muncy",
+      "team": "LAD",
+      "opponent": "KC",
+      "matchup": "LAD vs KC",
+      "batting_order": "7",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "99 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "56",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-18T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.5,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "Carry Signal"
+      ],
+      "label_summary": "Projected + Hot Bat + Carry Signal",
+      "components": {
+        "hitter_power": 58.0,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 50.5,
+        "environment": 44.7,
+        "lineup_opportunity": 59.8,
+        "recent_form": 84.7,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 66.5,
+        "sheet_carry": 100.0
+      },
+      "legacy_hr_score": 54.4,
+      "sheet_score": 66.5,
+      "sheet_carry_score": 100.0,
+      "sheet_note": "Dodger +19; elite sheet line vs Cameron LHH split"
+    },
+    {
+      "rank": 18,
       "player": "Ronald Acuna",
       "team": "ATL",
       "opponent": "NYM",
@@ -798,7 +844,7 @@
       "sheet_note": "EV helps but ISO not HR-friendly today"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "DET",
@@ -843,7 +889,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Alec Burleson",
       "team": "STL",
       "opponent": "PHI",
@@ -889,7 +935,53 @@
       "sheet_note": "Strong LHH sheet, Busch heat/wind, Painter LHH split"
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "player": "Jac Caglianone",
+      "team": "KC",
+      "opponent": "ATH",
+      "matchup": "KC vs ATH",
+      "batting_order": "3",
+      "pitcher": "Jack Perkins",
+      "pitcher_hand": "R",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "99 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "56",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-18T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.4,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 59.9,
+        "pitcher_vulnerability": 40.7,
+        "batted_ball_fit": 52.9,
+        "environment": 44.7,
+        "lineup_opportunity": 92.1,
+        "recent_form": 81.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 60.1,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 22,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "ATL",
@@ -934,7 +1026,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 21,
+      "rank": 23,
       "player": "Spencer Jones",
       "team": "NYY",
       "opponent": "BAL",
@@ -979,7 +1071,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 22,
+      "rank": 24,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -1025,7 +1117,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "BAL",
@@ -1070,7 +1162,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 26,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -1115,53 +1207,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 25,
-      "player": "Max Muncy",
-      "team": "LAD",
-      "opponent": "KC",
-      "matchup": "LAD vs KC",
-      "batting_order": "7",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Kauffman Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-18T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "Carry Signal"
-      ],
-      "label_summary": "Projected + Hot Bat + Carry Signal",
-      "components": {
-        "hitter_power": 58.0,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 50.5,
-        "environment": 23.2,
-        "lineup_opportunity": 59.8,
-        "recent_form": 84.7,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 66.5,
-        "sheet_carry": 100.0
-      },
-      "legacy_hr_score": 51.4,
-      "sheet_score": 66.5,
-      "sheet_carry_score": 100.0,
-      "sheet_note": "Dodger +19; elite sheet line vs Cameron LHH split"
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "player": "Jo Adell",
       "team": "CLE",
       "opponent": "SF",
@@ -1206,7 +1252,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Tyler Stephenson",
       "team": "CIN",
       "opponent": "STL",
@@ -1251,7 +1297,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "SEA",
@@ -1296,7 +1342,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "CWS",
@@ -1336,52 +1382,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 56.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 30,
-      "player": "Jac Caglianone",
-      "team": "KC",
-      "opponent": "ATH",
-      "matchup": "KC vs ATH",
-      "batting_order": "3",
-      "pitcher": "Jack Perkins",
-      "pitcher_hand": "R",
-      "ballpark": "Kauffman Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-18T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 59.9,
-        "pitcher_vulnerability": 40.7,
-        "batted_ball_fit": 52.9,
-        "environment": 23.2,
-        "lineup_opportunity": 92.1,
-        "recent_form": 81.7,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 57.0,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2129,6 +2129,52 @@
     },
     {
       "rank": 17,
+      "player": "Max Muncy",
+      "team": "LAD",
+      "opponent": "KC",
+      "matchup": "LAD vs KC",
+      "batting_order": "7",
+      "pitcher": "",
+      "pitcher_hand": "",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "99 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "56",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-18T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.5,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "Carry Signal"
+      ],
+      "label_summary": "Projected + Hot Bat + Carry Signal",
+      "components": {
+        "hitter_power": 58.0,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 50.5,
+        "environment": 44.7,
+        "lineup_opportunity": 59.8,
+        "recent_form": 84.7,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 66.5,
+        "sheet_carry": 100.0
+      },
+      "legacy_hr_score": 54.4,
+      "sheet_score": 66.5,
+      "sheet_carry_score": 100.0,
+      "sheet_note": "Dodger +19; elite sheet line vs Cameron LHH split"
+    },
+    {
+      "rank": 18,
       "player": "Ronald Acuna",
       "team": "ATL",
       "opponent": "NYM",
@@ -2173,7 +2219,7 @@
       "sheet_note": "EV helps but ISO not HR-friendly today"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "DET",
@@ -2218,7 +2264,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 19,
+      "rank": 20,
       "player": "Alec Burleson",
       "team": "STL",
       "opponent": "PHI",
@@ -2264,7 +2310,53 @@
       "sheet_note": "Strong LHH sheet, Busch heat/wind, Painter LHH split"
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "player": "Jac Caglianone",
+      "team": "KC",
+      "opponent": "ATH",
+      "matchup": "KC vs ATH",
+      "batting_order": "3",
+      "pitcher": "Jack Perkins",
+      "pitcher_hand": "R",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "82",
+      "wind_speed": null,
+      "wind_direction": "99 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "56",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-18T23:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.4,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 59.9,
+        "pitcher_vulnerability": 40.7,
+        "batted_ball_fit": 52.9,
+        "environment": 44.7,
+        "lineup_opportunity": 92.1,
+        "recent_form": 81.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 60.1,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 22,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "ATL",
@@ -2309,7 +2401,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 21,
+      "rank": 23,
       "player": "Spencer Jones",
       "team": "NYY",
       "opponent": "BAL",
@@ -2354,7 +2446,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 22,
+      "rank": 24,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -2400,7 +2492,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "BAL",
@@ -2445,7 +2537,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 26,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -2490,53 +2582,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 25,
-      "player": "Max Muncy",
-      "team": "LAD",
-      "opponent": "KC",
-      "matchup": "LAD vs KC",
-      "batting_order": "7",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Kauffman Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-18T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "Carry Signal"
-      ],
-      "label_summary": "Projected + Hot Bat + Carry Signal",
-      "components": {
-        "hitter_power": 58.0,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 50.5,
-        "environment": 23.2,
-        "lineup_opportunity": 59.8,
-        "recent_form": 84.7,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 66.5,
-        "sheet_carry": 100.0
-      },
-      "legacy_hr_score": 51.4,
-      "sheet_score": 66.5,
-      "sheet_carry_score": 100.0,
-      "sheet_note": "Dodger +19; elite sheet line vs Cameron LHH split"
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "player": "Jo Adell",
       "team": "CLE",
       "opponent": "SF",
@@ -2581,7 +2627,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Tyler Stephenson",
       "team": "CIN",
       "opponent": "STL",
@@ -2626,7 +2672,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "SEA",
@@ -2671,7 +2717,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "CWS",
@@ -2711,52 +2757,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 56.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 30,
-      "player": "Jac Caglianone",
-      "team": "KC",
-      "opponent": "ATH",
-      "matchup": "KC vs ATH",
-      "batting_order": "3",
-      "pitcher": "Jack Perkins",
-      "pitcher_hand": "R",
-      "ballpark": "Kauffman Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-18T23:40:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 59.9,
-        "pitcher_vulnerability": 40.7,
-        "batted_ball_fit": 52.9,
-        "environment": 23.2,
-        "lineup_opportunity": 92.1,
-        "recent_form": 81.7,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 57.0,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -3175,6 +3175,26 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
+      "ballpark": "Kauffman Stadium",
+      "teams": [
+        "ATH",
+        "KC",
+        "LAD"
+      ],
+      "environment_score": 44.7,
+      "park_hr_factor": 100.0,
+      "temperature": 82.0,
+      "wind_speed": 0.0,
+      "wind_direction": "99 deg",
+      "humidity": 56.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Neutral",
+      "top_player": "Max Muncy",
+      "top_edge": 5.5,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
       "ballpark": "PNC Park",
       "teams": [
         "DET",
@@ -3211,26 +3231,6 @@
       "top_edge": 5.5,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.4962&lon=-81.6852",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Kauffman Stadium",
-      "teams": [
-        "ATH",
-        "KC",
-        "LAD"
-      ],
-      "environment_score": 23.2,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Max Muncy",
-      "top_edge": 5.2,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
