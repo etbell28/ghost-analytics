@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Wednesday, August 19, 2026",
-  "generated_at": "09:03 AM EDT",
-  "generated_iso": "2026-08-19T09:03:06.143945-04:00",
+  "generated_at": "09:50 AM EDT",
+  "generated_iso": "2026-08-19T09:50:43.177985-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -3206,6 +3206,25 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
+      "ballpark": "Progressive Field",
+      "teams": [
+        "CLE",
+        "SF"
+      ],
+      "environment_score": 43.6,
+      "park_hr_factor": 100.0,
+      "temperature": 75.0,
+      "wind_speed": 0.0,
+      "wind_direction": "233 deg",
+      "humidity": 58.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Resist",
+      "top_player": "Bryce Eldridge",
+      "top_edge": 5.1,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.4962&lon=-81.6852",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
       "ballpark": "PNC Park",
       "teams": [
         "DET",
@@ -3223,25 +3242,6 @@
       "top_edge": 6.6,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.4469&lon=-80.0057",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Progressive Field",
-      "teams": [
-        "CLE",
-        "SF"
-      ],
-      "environment_score": 27.6,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Bryce Eldridge",
-      "top_edge": 4.9,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=41.4962&lon=-81.6852",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
