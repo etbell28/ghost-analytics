@@ -8,8 +8,8 @@
 | 4 | Joshua Baez | STL | Chase Burns | 5 | 68.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
 | 5 | Esmerlyn Valdez | PIT | Jackson Jobe | 4 | 66.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
 | 6 | Pete Alonso | BAL | Will Warren | 2 | 66.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Munetaka Murakami | CWS | Clay Holmes | 2 | 66.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Matt Olson | ATL | Taj Bradley | 3 | 65.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
+| 7 | Matt Olson | ATL | Taj Bradley | 3 | 65.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
+| 8 | Munetaka Murakami | CWS | Clay Holmes | 2 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Brandon Lowe | PIT | Jackson Jobe | 2 | 65.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 10 | Griffin Conine | MIA | Aaron Nola | 4 | 64.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Byron Buxton | MIN | AJ Smith-Shawver | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
@@ -37,12 +37,12 @@
 - Shohei Ohtani + Abimelec Ortiz + Joshua Baez | Avg HR Score: 70.0
 - Abimelec Ortiz + Joshua Baez + Esmerlyn Valdez | Avg HR Score: 68.5
 - Joshua Baez + Esmerlyn Valdez + Pete Alonso | Avg HR Score: 67.0
-- Esmerlyn Valdez + Pete Alonso + Munetaka Murakami | Avg HR Score: 66.3
+- Esmerlyn Valdez + Pete Alonso + Matt Olson | Avg HR Score: 66.1
 
 ## Best 4-Leg Pairings
 
 - Oneil Cruz + Shohei Ohtani + Abimelec Ortiz + Joshua Baez | Avg HR Score: 70.5
 - Shohei Ohtani + Abimelec Ortiz + Joshua Baez + Esmerlyn Valdez | Avg HR Score: 69.2
 - Abimelec Ortiz + Joshua Baez + Esmerlyn Valdez + Pete Alonso | Avg HR Score: 67.9
-- Joshua Baez + Esmerlyn Valdez + Pete Alonso + Munetaka Murakami | Avg HR Score: 66.8
-- Esmerlyn Valdez + Pete Alonso + Munetaka Murakami + Matt Olson | Avg HR Score: 66.0
+- Joshua Baez + Esmerlyn Valdez + Pete Alonso + Matt Olson | Avg HR Score: 66.6
+- Esmerlyn Valdez + Pete Alonso + Matt Olson + Munetaka Murakami | Avg HR Score: 65.8
