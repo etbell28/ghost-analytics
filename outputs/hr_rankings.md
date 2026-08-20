@@ -3,9 +3,9 @@
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Joshua Báez | STL | Brady Singer | 5 | 73.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment |
-| 2 | Munetaka Murakami | CWS | Grant Holmes | 2 | 71.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Abimelec Ortiz | WSH | Jacob deGrom | 2 | 70.3 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Yordan Alvarez | HOU | Grayson Rodriguez | 2 | 67.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Yordan Alvarez | HOU | Grayson Rodriguez | 2 | 71.8 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Munetaka Murakami | CWS | Grant Holmes | 2 | 71.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Abimelec Ortiz | WSH | Jacob deGrom | 2 | 70.3 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Bryce Eldridge | SF | Gavin Williams | 4 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | Alec Burleson | STL | Brady Singer | 3 | 64.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 7 | Pete Alonso | BAL | Gerrit Cole | 2 | 64.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
@@ -25,24 +25,24 @@
 
 ## Best 2-Leg Pairings
 
-- Joshua Báez + Munetaka Murakami | Avg HR Score: 72.3
+- Joshua Báez + Yordan Alvarez | Avg HR Score: 72.7
+- Yordan Alvarez + Munetaka Murakami | Avg HR Score: 71.4
 - Munetaka Murakami + Abimelec Ortiz | Avg HR Score: 70.7
-- Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 69.0
-- Yordan Alvarez + Bryce Eldridge | Avg HR Score: 66.5
+- Abimelec Ortiz + Bryce Eldridge | Avg HR Score: 67.8
 - Bryce Eldridge + Alec Burleson | Avg HR Score: 64.8
 
 ## Best 3-Leg Pairings
 
-- Joshua Báez + Munetaka Murakami + Abimelec Ortiz | Avg HR Score: 71.6
-- Munetaka Murakami + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 69.7
-- Abimelec Ortiz + Yordan Alvarez + Bryce Eldridge | Avg HR Score: 67.7
-- Yordan Alvarez + Bryce Eldridge + Alec Burleson | Avg HR Score: 65.8
+- Joshua Báez + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 72.1
+- Yordan Alvarez + Munetaka Murakami + Abimelec Ortiz | Avg HR Score: 71.1
+- Munetaka Murakami + Abimelec Ortiz + Bryce Eldridge | Avg HR Score: 68.9
+- Abimelec Ortiz + Bryce Eldridge + Alec Burleson | Avg HR Score: 66.7
 - Bryce Eldridge + Alec Burleson + Pete Alonso | Avg HR Score: 64.7
 
 ## Best 4-Leg Pairings
 
-- Joshua Báez + Munetaka Murakami + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 70.7
-- Munetaka Murakami + Abimelec Ortiz + Yordan Alvarez + Bryce Eldridge | Avg HR Score: 68.6
-- Abimelec Ortiz + Yordan Alvarez + Bryce Eldridge + Alec Burleson | Avg HR Score: 66.9
-- Yordan Alvarez + Bryce Eldridge + Alec Burleson + Pete Alonso | Avg HR Score: 65.5
+- Joshua Báez + Yordan Alvarez + Munetaka Murakami + Abimelec Ortiz | Avg HR Score: 71.7
+- Yordan Alvarez + Munetaka Murakami + Abimelec Ortiz + Bryce Eldridge | Avg HR Score: 69.6
+- Munetaka Murakami + Abimelec Ortiz + Bryce Eldridge + Alec Burleson | Avg HR Score: 67.8
+- Abimelec Ortiz + Bryce Eldridge + Alec Burleson + Pete Alonso | Avg HR Score: 66.1
 - Bryce Eldridge + Alec Burleson + Pete Alonso + Sal Stewart | Avg HR Score: 64.4
