@@ -8,13 +8,13 @@
 | 4 | Munetaka Murakami | CWS | Sean Manaea | 2 | 65.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 5 | Yordan Alvarez | HOU | J.T. Ginn | 2 | 64.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Pete Alonso | BAL | Freddy Peralta | 2 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Kyle Schwarber | PHI |  | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 8 | Bryce Eldridge | SF | Sonny Gray | 3 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Mike Trout | LAA | MacKenzie Gore | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Corey Seager | TEX | Reid Detmers | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Miguel Vargas | CWS | Sean Manaea | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Oneil Cruz | PIT | Yoshinobu Yamamoto | 5 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 7 | Kyle Schwarber | PHI | Hunter Dobbins | 1 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Mike Trout | LAA | MacKenzie Gore | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Corey Seager | TEX | Reid Detmers | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Miguel Vargas | CWS | Sean Manaea | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Oneil Cruz | PIT | Yoshinobu Yamamoto | 5 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 13 | Bryce Eldridge | SF | Sonny Gray | 4 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Pete Crow-Armstrong | CHC | Emerson Hancock | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Jo Adell | CLE | Tanner Gordon | 5 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 | 16 | Fernando Tatis | SD | Connor Prielipp | 1 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -37,7 +37,7 @@
 - Abimelec Ortiz + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 66.1
 - Shohei Ohtani + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 65.5
 - Munetaka Murakami + Yordan Alvarez + Pete Alonso | Avg HR Score: 64.3
-- Yordan Alvarez + Pete Alonso + Kyle Schwarber | Avg HR Score: 63.3
+- Yordan Alvarez + Pete Alonso + Kyle Schwarber | Avg HR Score: 63.2
 
 ## Best 4-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Abimelec Ortiz + Shohei Ohtani + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 65.8
 - Shohei Ohtani + Munetaka Murakami + Yordan Alvarez + Pete Alonso | Avg HR Score: 64.8
 - Munetaka Murakami + Yordan Alvarez + Pete Alonso + Kyle Schwarber | Avg HR Score: 63.9
-- Yordan Alvarez + Pete Alonso + Kyle Schwarber + Bryce Eldridge | Avg HR Score: 62.6
+- Yordan Alvarez + Pete Alonso + Kyle Schwarber + Mike Trout | Avg HR Score: 62.6
