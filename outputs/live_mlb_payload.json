@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Friday, August 21, 2026",
-  "generated_at": "09:52 AM EDT",
-  "generated_iso": "2026-08-21T09:52:59.186999-04:00",
+  "generated_at": "10:20 AM EDT",
+  "generated_iso": "2026-08-21T10:20:45.183933-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -247,6 +247,52 @@
     },
     {
       "rank": 6,
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "ATH",
+      "matchup": "HOU vs ATH",
+      "batting_order": "2",
+      "pitcher": "J.T. Ginn",
+      "pitcher_hand": "R",
+      "ballpark": "Daikin Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "90",
+      "wind_speed": null,
+      "wind_direction": "208 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "weather_humidity": "61",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-08-22T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.9,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 81.4,
+        "pitcher_vulnerability": 30.9,
+        "batted_ball_fit": 63.4,
+        "environment": 58.1,
+        "lineup_opportunity": 95.5,
+        "recent_form": 39.5,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 64.7,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 7,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "TB",
@@ -293,7 +339,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "player": "Jo Adell",
       "team": "CLE",
       "opponent": "COL",
@@ -334,52 +380,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 62.6,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 8,
-      "player": "Yordan Alvarez",
-      "team": "HOU",
-      "opponent": "ATH",
-      "matchup": "HOU vs ATH",
-      "batting_order": "2",
-      "pitcher": "J.T. Ginn",
-      "pitcher_hand": "R",
-      "ballpark": "Daikin Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-22T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.6,
-      "ghost_grade": "B-",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 81.4,
-        "pitcher_vulnerability": 30.9,
-        "batted_ball_fit": 63.4,
-        "environment": 27.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 39.5,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 60.4,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -1614,6 +1614,52 @@
     },
     {
       "rank": 6,
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "ATH",
+      "matchup": "HOU vs ATH",
+      "batting_order": "2",
+      "pitcher": "J.T. Ginn",
+      "pitcher_hand": "R",
+      "ballpark": "Daikin Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "90",
+      "wind_speed": null,
+      "wind_direction": "208 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
+      "weather_humidity": "61",
+      "weather_precip_pct": "3",
+      "game_start_time": "2026-08-22T00:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.9,
+      "ghost_grade": "B-",
+      "confidence": "Watch",
+      "volatility": "Medium",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 81.4,
+        "pitcher_vulnerability": 30.9,
+        "batted_ball_fit": 63.4,
+        "environment": 58.1,
+        "lineup_opportunity": 95.5,
+        "recent_form": 39.5,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 64.7,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 7,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "TB",
@@ -1660,7 +1706,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "player": "Jo Adell",
       "team": "CLE",
       "opponent": "COL",
@@ -1701,52 +1747,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 62.6,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 8,
-      "player": "Yordan Alvarez",
-      "team": "HOU",
-      "opponent": "ATH",
-      "matchup": "HOU vs ATH",
-      "batting_order": "2",
-      "pitcher": "J.T. Ginn",
-      "pitcher_hand": "R",
-      "ballpark": "Daikin Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-22T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.6,
-      "ghost_grade": "B-",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 81.4,
-        "pitcher_vulnerability": 30.9,
-        "batted_ball_fit": 63.4,
-        "environment": 27.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 39.5,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 60.4,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2833,16 +2833,16 @@
         "one_off_flags": "Joshua Baez: lineup/void risk, pitcher resistance / Abimelec Ortiz: lineup/void risk"
       },
       {
-        "names": "Abimelec Ortiz + Pete Alonso",
-        "teams": "WSH vs MIA / BAL vs TB",
-        "avg_edge": 6.0,
-        "combo_score": 5.98,
+        "names": "Abimelec Ortiz + Yordan Alvarez",
+        "teams": "WSH vs MIA / HOU vs ATH",
+        "avg_edge": 6.1,
+        "combo_score": 6.42,
         "type": "Power Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "labels": "Projected, EV Edge / Projected, EV Edge, Tough Pitcher",
         "reason": "independent games",
-        "leg_reliability": "Abimelec Ortiz: 61.5 / Pete Alonso: 57.0",
-        "one_off_flags": "Abimelec Ortiz: lineup/void risk / Pete Alonso: lineup/void risk, pitcher resistance, weak sheet/model agreement"
+        "leg_reliability": "Abimelec Ortiz: 61.5 / Yordan Alvarez: 58.0",
+        "one_off_flags": "Abimelec Ortiz: lineup/void risk / Yordan Alvarez: lineup/void risk, pitcher resistance, weak sheet/model agreement"
       }
     ],
     "3": [],
@@ -2896,6 +2896,17 @@
       "teams": [
         "NYY",
         "TOR"
+      ]
+    },
+    {
+      "ballpark": "Daikin Park",
+      "environment_score": 58.1,
+      "top_player": "Yordan Alvarez",
+      "top_edge": 5.9,
+      "teams": [
+        "ATH",
+        "HOU",
+        "LAD"
       ]
     },
     {
@@ -3022,6 +3033,26 @@
       "top_player": "Ben Rice",
       "top_edge": 5.1,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Daikin Park",
+      "teams": [
+        "ATH",
+        "HOU",
+        "LAD"
+      ],
+      "environment_score": 58.1,
+      "park_hr_factor": 100.0,
+      "temperature": 90.0,
+      "wind_speed": 0.0,
+      "wind_direction": "208 deg",
+      "humidity": 61.0,
+      "precip_pct": 3.0,
+      "condition_grade": "Watch",
+      "top_player": "Yordan Alvarez",
+      "top_edge": 5.9,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -3194,26 +3225,6 @@
       "top_edge": 5.2,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Daikin Park",
-      "teams": [
-        "ATH",
-        "HOU",
-        "LAD"
-      ],
-      "environment_score": 27.6,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Yordan Alvarez",
-      "top_edge": 5.6,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=29.7573&lon=-95.3555",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
