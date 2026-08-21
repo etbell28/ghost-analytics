@@ -1,14 +1,14 @@
 {
-  "report_date": "2026-08-20",
-  "generated_at": "2026-08-20T23:42:38.260299-04:00",
+  "report_date": "2026-08-21",
+  "generated_at": "2026-08-21T00:24:26.368336-04:00",
   "product": "BarrelIQ",
   "input_payload": "/home/runner/work/ghost-analytics/ghost-analytics/outputs/live_mlb_payload.json",
   "status": "framework_ready",
   "summary": {
-    "top_targets": 0,
+    "top_targets": 30,
     "confirmed_targets": 0,
-    "projected_targets": 0,
-    "pairings_2": 0,
+    "projected_targets": 30,
+    "pairings_2": 6,
     "pairings_3": 0,
     "pairings_4": 0
   },
