@@ -21,7 +21,7 @@
 | 17 | Mickey Moniak | COL | Tanner Bibee | 3 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 18 | Alec Burleson | STL | Andrew Painter | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Jake Bauers | MIL | Martín Pérez | 4 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Jac Caglianone | KC | Drew Anderson | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Jordan Walker | STL | Andrew Painter | 4 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
