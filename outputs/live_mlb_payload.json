@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Saturday, August 22, 2026",
-  "generated_at": "12:54 PM EDT",
-  "generated_iso": "2026-08-22T12:54:28.394314-04:00",
+  "generated_at": "01:28 PM EDT",
+  "generated_iso": "2026-08-22T13:28:38.242178-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -811,7 +811,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -1127,7 +1127,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -1206,6 +1206,51 @@
     },
     {
       "rank": 27,
+      "player": "Byron Buxton",
+      "team": "MIN",
+      "opponent": "SD",
+      "matchup": "MIN vs SD",
+      "batting_order": "2",
+      "pitcher": "Casey Mize",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "240 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "72",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 65.3,
+        "pitcher_vulnerability": 39.0,
+        "batted_ball_fit": 56.7,
+        "environment": 45.6,
+        "lineup_opportunity": 95.5,
+        "recent_form": 0.8,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 55.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 28,
       "player": "Jose Siri",
       "team": "LAA",
       "opponent": "TEX",
@@ -1250,7 +1295,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "BOS",
@@ -1295,7 +1340,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -1338,52 +1383,6 @@
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
-    },
-    {
-      "rank": 30,
-      "player": "Drake Baldwin",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "1",
-      "pitcher": "Logan Henderson",
-      "pitcher_hand": "R",
-      "ballpark": "American Family Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "71",
-      "wind_speed": null,
-      "wind_direction": "Out To CF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=43.0280&lon=-87.9712",
-      "weather_humidity": "87",
-      "weather_precip_pct": "15",
-      "game_start_time": "2026-08-22T18:10:00Z",
-      "confirmed": true,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "EV Edge",
-        "Carry Signal"
-      ],
-      "label_summary": "Confirmed + EV Edge + Carry Signal",
-      "components": {
-        "hitter_power": 56.8,
-        "pitcher_vulnerability": 35.0,
-        "batted_ball_fit": 33.7,
-        "environment": 59.1,
-        "lineup_opportunity": 93.2,
-        "recent_form": 31.4,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 37.9,
-        "sheet_carry": 68.0
-      },
-      "legacy_hr_score": 56.8,
-      "sheet_score": 37.9,
-      "sheet_carry_score": 68.0,
-      "sheet_note": "Strong barrel/EV but ISO lower"
     }
   ],
   "confirmed_targets": [
@@ -1675,7 +1674,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -1810,7 +1809,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -1843,7 +1842,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -1889,7 +1888,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "TOR",
@@ -1901,7 +1900,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -1934,7 +1933,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 37,
+      "rank": 39,
       "player": "Kazuma Okamoto",
       "team": "TOR",
       "opponent": "BOS",
@@ -1946,7 +1945,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -1979,7 +1978,7 @@
       "sheet_note": "PA note only; park helps but no full sheet line"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "player": "Jackson Chourio",
       "team": "MIL",
       "opponent": "ATL",
@@ -2024,7 +2023,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "player": "Michael Harris II",
       "team": "ATL",
       "opponent": "NYM",
@@ -2115,7 +2114,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "player": "Vladimir Guerrero Jr.",
       "team": "TOR",
       "opponent": "BOS",
@@ -2127,7 +2126,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -2160,7 +2159,7 @@
       "sheet_note": "EV note only"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "player": "William Contreras",
       "team": "MIL",
       "opponent": "ATL",
@@ -2205,7 +2204,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "player": "Brady House",
       "team": "WSH",
       "opponent": "MIA",
@@ -2250,7 +2249,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "player": "Austin Riley",
       "team": "ATL",
       "opponent": "NYM",
@@ -2295,7 +2294,7 @@
       "sheet_note": "Volume but weak ISO"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "player": "Dylan Crews",
       "team": "WSH",
       "opponent": "MIA",
@@ -2340,7 +2339,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "player": "Trent Grisham",
       "team": "NYY",
       "opponent": "TOR",
@@ -2352,7 +2351,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -2385,7 +2384,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "player": "Harry Ford",
       "team": "WSH",
       "opponent": "MIA",
@@ -2430,7 +2429,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 80,
+      "rank": 82,
       "player": "Otto Lopez",
       "team": "MIA",
       "opponent": "WSH",
@@ -2475,7 +2474,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "player": "Luis García Jr.",
       "team": "NYY",
       "opponent": "TOR",
@@ -2487,7 +2486,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -2520,7 +2519,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 88,
+      "rank": 92,
       "player": "George Springer",
       "team": "TOR",
       "opponent": "BOS",
@@ -2532,7 +2531,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -2565,7 +2564,7 @@
       "sheet_note": "EV note only"
     },
     {
-      "rank": 89,
+      "rank": 93,
       "player": "Christian Yelich",
       "team": "MIL",
       "opponent": "ATL",
@@ -2610,7 +2609,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 92,
+      "rank": 96,
       "player": "Alejandro Kirk",
       "team": "TOR",
       "opponent": "NYY",
@@ -2622,7 +2621,7 @@
       "park_hr_factor": 0.0,
       "weather_temp": "74",
       "wind_speed": null,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "weather_humidity": "68",
@@ -2655,7 +2654,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 97,
+      "rank": 101,
       "player": "Andrew Vaughn",
       "team": "MIL",
       "opponent": "ATL",
@@ -2700,7 +2699,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 100,
+      "rank": 104,
       "player": "José Tena",
       "team": "WSH",
       "opponent": "MIA",
@@ -3483,6 +3482,51 @@
     },
     {
       "rank": 27,
+      "player": "Byron Buxton",
+      "team": "MIN",
+      "opponent": "SD",
+      "matchup": "MIN vs SD",
+      "batting_order": "2",
+      "pitcher": "Casey Mize",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "240 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "72",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 65.3,
+        "pitcher_vulnerability": 39.0,
+        "batted_ball_fit": 56.7,
+        "environment": 45.6,
+        "lineup_opportunity": 95.5,
+        "recent_form": 0.8,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 55.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 28,
       "player": "Jose Siri",
       "team": "LAA",
       "opponent": "TEX",
@@ -3527,7 +3571,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "BOS",
@@ -3572,7 +3616,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -3617,7 +3661,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "player": "Christian Encarnacion-Strand",
       "team": "BAL",
       "opponent": "TB",
@@ -3662,7 +3706,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "player": "Jake Burger",
       "team": "TEX",
       "opponent": "LAA",
@@ -3707,7 +3751,53 @@
       "sheet_note": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
+      "player": "Fernando Tatis",
+      "team": "SD",
+      "opponent": "MIN",
+      "matchup": "SD vs MIN",
+      "batting_order": "1",
+      "pitcher": "Dean Kremer",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "81",
+      "wind_speed": null,
+      "wind_direction": "240 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "72",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T00:40:00Z",
+      "confirmed": false,
+      "edge_index": 5.0,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 55.4,
+        "pitcher_vulnerability": 41.7,
+        "batted_ball_fit": 38.2,
+        "environment": 45.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 88.9,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 36,
       "player": "Bryce Harper",
       "team": "PHI",
       "opponent": "STL",
@@ -3752,7 +3842,7 @@
       "sheet_note": "Elite hitter/sheet power; pitcher split less targetable"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "player": "Mickey Moniak",
       "team": "COL",
       "opponent": "CLE",
@@ -3797,7 +3887,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 36,
+      "rank": 38,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "AZ",
@@ -3842,7 +3932,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 38,
+      "rank": 40,
       "player": "Zac Veen",
       "team": "COL",
       "opponent": "CLE",
@@ -3887,7 +3977,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 39,
+      "rank": 41,
       "player": "Willson Contreras",
       "team": "BOS",
       "opponent": "TOR",
@@ -3932,7 +4022,7 @@
       "sheet_note": "Taillon extreme vulnerability; moderate RHH profile"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "DET",
@@ -3978,7 +4068,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 41,
+      "rank": 43,
       "player": "Coby Mayo",
       "team": "BAL",
       "opponent": "TB",
@@ -4018,96 +4108,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 56.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 43,
-      "player": "Byron Buxton",
-      "team": "MIN",
-      "opponent": "SD",
-      "matchup": "MIN vs SD",
-      "batting_order": "2",
-      "pitcher": "Casey Mize",
-      "pitcher_hand": "R",
-      "ballpark": "Petco Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-23T00:40:00Z",
-      "confirmed": false,
-      "edge_index": 4.9,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 65.3,
-        "pitcher_vulnerability": 39.0,
-        "batted_ball_fit": 56.7,
-        "environment": 22.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 0.8,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 52.3,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 45,
-      "player": "Brandon Lowe",
-      "team": "PIT",
-      "opponent": "LAD",
-      "matchup": "PIT vs LAD",
-      "batting_order": "4",
-      "pitcher": "Tarik Skubal",
-      "pitcher_hand": "L",
-      "ballpark": "UNIQLO Field at Dodger Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "91",
-      "wind_speed": null,
-      "wind_direction": "246 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=34.0739&lon=-118.2400",
-      "weather_humidity": "41",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-22T23:15:00Z",
-      "confirmed": false,
-      "edge_index": 4.8,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 52.4,
-        "pitcher_vulnerability": 28.8,
-        "batted_ball_fit": 44.4,
-        "environment": 56.6,
-        "lineup_opportunity": 90.4,
-        "recent_form": 66.9,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 53.3,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -4574,6 +4574,25 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
+      "ballpark": "Petco Park",
+      "teams": [
+        "MIN",
+        "SD"
+      ],
+      "environment_score": 45.6,
+      "park_hr_factor": 100.0,
+      "temperature": 81.0,
+      "wind_speed": 0.0,
+      "wind_direction": "240 deg",
+      "humidity": 72.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Neutral",
+      "top_player": "Byron Buxton",
+      "top_edge": 5.2,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
       "ballpark": "Yankee Stadium",
       "teams": [
         "NYY",
@@ -4583,7 +4602,7 @@
       "park_hr_factor": 100.0,
       "temperature": 74.0,
       "wind_speed": 0.0,
-      "wind_direction": "In From CF",
+      "wind_direction": "In From LF",
       "humidity": 68.0,
       "precip_pct": 1.0,
       "condition_grade": "Neutral",
@@ -4610,25 +4629,6 @@
       "top_edge": 5.2,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Petco Park",
-      "teams": [
-        "MIN",
-        "SD"
-      ],
-      "environment_score": 22.6,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Byron Buxton",
-      "top_edge": 4.9,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
