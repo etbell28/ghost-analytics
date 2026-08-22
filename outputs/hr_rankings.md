@@ -19,9 +19,9 @@
 | 15 | Esmerlyn Valdez | PIT | Tarik Skubal | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Mickey Moniak | COL | Tanner Bibee | 3 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 17 | Alec Burleson | STL | Andrew Painter | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Heriberto Hernandez | MIA | Jake Irvin | 5 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 19 | Jordan Walker | STL | Andrew Painter | 4 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Jake Bauers | MIL | Martín Pérez | 4 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Jac Caglianone | KC | Drew Anderson | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Heriberto Hernandez | MIA | Jake Irvin | 5 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 20 | Jordan Walker | STL | Andrew Painter | 4 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 

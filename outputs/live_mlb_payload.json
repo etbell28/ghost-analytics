@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Saturday, August 22, 2026",
-  "generated_at": "11:55 AM EDT",
-  "generated_iso": "2026-08-22T11:55:16.585638-04:00",
+  "generated_at": "12:03 PM EDT",
+  "generated_iso": "2026-08-22T12:03:49.780226-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -1025,6 +1025,51 @@
     },
     {
       "rank": 23,
+      "player": "Jac Caglianone",
+      "team": "KC",
+      "opponent": "DET",
+      "matchup": "KC vs DET",
+      "batting_order": "3",
+      "pitcher": "Drew Anderson",
+      "pitcher_hand": "R",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "79",
+      "wind_speed": null,
+      "wind_direction": "204 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "75",
+      "weather_precip_pct": "17",
+      "game_start_time": "2026-08-22T23:15:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 60.1,
+        "pitcher_vulnerability": 36.8,
+        "batted_ball_fit": 52.7,
+        "environment": 45.2,
+        "lineup_opportunity": 92.1,
+        "recent_form": 62.8,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 58.3,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 24,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "SD",
@@ -1069,7 +1114,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player": "Jose Siri",
       "team": "LAA",
       "opponent": "TEX",
@@ -1114,7 +1159,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "BOS",
@@ -1159,7 +1204,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -1204,7 +1249,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -1250,7 +1295,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "TOR",
@@ -1295,7 +1340,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Christian Encarnacion-Strand",
       "team": "BAL",
       "opponent": "TB",
@@ -1335,51 +1380,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 57.5,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 30,
-      "player": "Jake Burger",
-      "team": "TEX",
-      "opponent": "LAA",
-      "matchup": "TEX vs LAA",
-      "batting_order": "3",
-      "pitcher": "Ryan Johnson",
-      "pitcher_hand": "R",
-      "ballpark": "Globe Life Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "97",
-      "wind_speed": null,
-      "wind_direction": "90 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7473&lon=-97.0842",
-      "weather_humidity": "40",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-22T23:05:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 47.8,
-        "pitcher_vulnerability": 50.2,
-        "batted_ball_fit": 42.7,
-        "environment": 58.6,
-        "lineup_opportunity": 92.1,
-        "recent_form": 53.3,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 56.6,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -1524,7 +1524,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -1570,7 +1570,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "TOR",
@@ -1615,7 +1615,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
       "player": "Michael Harris II",
       "team": "ATL",
       "opponent": "NYM",
@@ -1661,7 +1661,7 @@
       "sheet_note": "Good LHH sheet line; mild park"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "player": "Austin Riley",
       "team": "ATL",
       "opponent": "NYM",
@@ -1796,7 +1796,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 94,
+      "rank": 97,
       "player": "Heliot Ramos",
       "team": "NYY",
       "opponent": "TOR",
@@ -1841,7 +1841,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 99,
+      "rank": 104,
       "player": "Mike Yastrzemski",
       "team": "ATL",
       "opponent": "MIL",
@@ -1886,7 +1886,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 127,
+      "rank": 128,
       "player": "Jazz Chisholm Jr.",
       "team": "NYY",
       "opponent": "TOR",
@@ -1931,7 +1931,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 167,
+      "rank": 168,
       "player": "Ozzie Albies",
       "team": "ATL",
       "opponent": "MIL",
@@ -1976,7 +1976,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 178,
+      "rank": 179,
       "player": "Austin Wells",
       "team": "NYY",
       "opponent": "TOR",
@@ -2066,7 +2066,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 210,
+      "rank": 209,
       "player": "George Lombard Jr.",
       "team": "NYY",
       "opponent": "TOR",
@@ -2111,7 +2111,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 230,
+      "rank": 232,
       "player": "Jim Jarvis",
       "team": "ATL",
       "opponent": "MIL",
@@ -3076,6 +3076,51 @@
     },
     {
       "rank": 23,
+      "player": "Jac Caglianone",
+      "team": "KC",
+      "opponent": "DET",
+      "matchup": "KC vs DET",
+      "batting_order": "3",
+      "pitcher": "Drew Anderson",
+      "pitcher_hand": "R",
+      "ballpark": "Kauffman Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "79",
+      "wind_speed": null,
+      "wind_direction": "204 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
+      "weather_humidity": "75",
+      "weather_precip_pct": "17",
+      "game_start_time": "2026-08-22T23:15:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 60.1,
+        "pitcher_vulnerability": 36.8,
+        "batted_ball_fit": 52.7,
+        "environment": 45.2,
+        "lineup_opportunity": 92.1,
+        "recent_form": 62.8,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 58.3,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 24,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "SD",
@@ -3120,7 +3165,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player": "Jose Siri",
       "team": "LAA",
       "opponent": "TEX",
@@ -3165,7 +3210,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "BOS",
@@ -3210,7 +3255,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -3255,7 +3300,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Christian Encarnacion-Strand",
       "team": "BAL",
       "opponent": "TB",
@@ -3300,7 +3345,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "player": "Jake Burger",
       "team": "TEX",
       "opponent": "LAA",
@@ -3345,7 +3390,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "player": "Fernando Tatis",
       "team": "SD",
       "opponent": "MIN",
@@ -3391,7 +3436,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "player": "Bryce Harper",
       "team": "PHI",
       "opponent": "STL",
@@ -3436,7 +3481,7 @@
       "sheet_note": "Elite hitter/sheet power; pitcher split less targetable"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "player": "Mickey Moniak",
       "team": "COL",
       "opponent": "CLE",
@@ -3481,7 +3526,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "AZ",
@@ -3521,51 +3566,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 56.4,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 35,
-      "player": "Zac Veen",
-      "team": "COL",
-      "opponent": "CLE",
-      "matchup": "COL vs CLE",
-      "batting_order": "6",
-      "pitcher": "Tanner Bibee",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "90",
-      "wind_speed": null,
-      "wind_direction": "71 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "20",
-      "weather_precip_pct": "19",
-      "game_start_time": "2026-08-23T00:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.0,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Weather Edge"
-      ],
-      "label_summary": "Projected + Weather Edge",
-      "components": {
-        "hitter_power": 48.0,
-        "pitcher_vulnerability": 43.8,
-        "batted_ball_fit": 53.3,
-        "environment": 73.2,
-        "lineup_opportunity": 71.7,
-        "recent_form": 37.8,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 56.0,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -4063,18 +4063,18 @@
         "DET",
         "KC"
       ],
-      "environment_score": 23.2,
+      "environment_score": 45.2,
       "park_hr_factor": 100.0,
-      "temperature": "",
+      "temperature": 79.0,
       "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
+      "wind_direction": "204 deg",
+      "humidity": 75.0,
+      "precip_pct": 17.0,
+      "condition_grade": "Neutral",
       "top_player": "Jac Caglianone",
-      "top_edge": 4.9,
+      "top_edge": 5.2,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
-      "source_note": "NOAA link only"
+      "source_note": "Open-Meteo forecast; MLB fallback"
     }
   ],
   "label_definitions": {
