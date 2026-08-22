@@ -19,9 +19,9 @@
 | 15 | Jordan Walker | STL | Andrew Painter | 4 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 16 | Corbin Carroll | AZ | Rhett Lowder | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Jose Siri | LAA | Cody Bradford | 5 | 59.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Francisco Lindor | NYM | Luis Castillo | 2 | 58.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 19 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Pete Crow-Armstrong | CHC | Kade Anderson | 1 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Jac Caglianone | KC | Drew Anderson | 3 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Francisco Lindor | NYM | Luis Castillo | 2 | 58.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
