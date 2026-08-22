@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Saturday, August 22, 2026",
-  "generated_at": "08:54 AM EDT",
-  "generated_iso": "2026-08-22T08:54:22.829190-04:00",
+  "generated_at": "09:38 AM EDT",
+  "generated_iso": "2026-08-22T09:38:45.937463-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -2862,16 +2862,6 @@
   },
   "weather_edges": [
     {
-      "ballpark": "Coors Field",
-      "environment_score": 73.2,
-      "top_player": "Mickey Moniak",
-      "top_edge": 5.0,
-      "teams": [
-        "CLE",
-        "COL"
-      ]
-    },
-    {
       "ballpark": "Chase Field",
       "environment_score": 62.2,
       "top_player": "Sal Stewart",
@@ -2953,25 +2943,6 @@
     }
   ],
   "park_conditions": [
-    {
-      "ballpark": "Coors Field",
-      "teams": [
-        "CLE",
-        "COL"
-      ],
-      "environment_score": 73.2,
-      "park_hr_factor": 100.0,
-      "temperature": 90.0,
-      "wind_speed": 0.0,
-      "wind_direction": "71 deg",
-      "humidity": 20.0,
-      "precip_pct": 19.0,
-      "condition_grade": "Green",
-      "top_player": "Mickey Moniak",
-      "top_edge": 5.0,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
     {
       "ballpark": "Chase Field",
       "teams": [
@@ -3237,6 +3208,25 @@
       "top_edge": 5.2,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.0517&lon=-94.4803",
       "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Coors Field",
+      "teams": [
+        "CLE",
+        "COL"
+      ],
+      "environment_score": 38.7,
+      "park_hr_factor": 100.0,
+      "temperature": "",
+      "wind_speed": 0.0,
+      "wind_direction": "",
+      "humidity": "",
+      "precip_pct": "",
+      "condition_grade": "Resist",
+      "top_player": "Mickey Moniak",
+      "top_edge": 4.6,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
