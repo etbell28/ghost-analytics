@@ -16,12 +16,12 @@
 | 12 | Eduardo Valencia | DET | Daniel Lynch IV | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Nathaniel Lowe | CLE | Tomoyuki Sugano | 4 | 60.3 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 14 | Jordan Walker | STL | Cristopher Sánchez | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Yordan Alvarez | HOU | Brady Basso | 2 | 59.9 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 16 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 59.3 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 17 | Fernando Tatis | SD | Bailey Ober | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Sal Stewart | CIN | Mitch Bratt | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Mike Trout | LAA | Cal Quantrill | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Bryce Eldridge | SF | Jake Bennett | 4 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Pete Crow-Armstrong | CHC | Bryce Miller | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Yordan Alvarez | HOU | Brady Basso | 2 | 59.9 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Fernando Tatis Jr. | SD | Bailey Ober | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 59.3 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 19 | Sal Stewart | CIN | Mitch Bratt | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Mike Trout | LAA | Cal Quantrill | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
