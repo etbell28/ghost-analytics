@@ -9,19 +9,19 @@
 | 5 | Pete Alonso | BAL | Nick Martinez | 2 | 65.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Munetaka Murakami | CWS | Nolan McLean | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Bryce Harper | PHI | Kyle Leahy | 3 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Corey Seager | TEX | Yusei Kikuchi | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Spencer Jones | NYY | José Soriano | 5 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 10 | Ben Rice | NYY | José Soriano | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Abimelec Ortiz | WSH | Janson Junk | 2 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 13 | Jordan Walker | STL | Cristopher Sánchez | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Nathaniel Lowe | CLE | Tomoyuki Sugano | 5 | 60.0 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Platoon Edge |
-| 15 | Bobby Witt Jr. | KC |  | 2 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Yordan Alvarez | HOU | Brady Basso | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 17 | Fernando Tatis | SD | Bailey Ober | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Sal Stewart | CIN | Mitch Bratt | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Eduardo Valencia | DET | Daniel Lynch IV | 5 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 20 | Mike Trout | LAA | Cal Quantrill | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 8 | Ben Rice | NYY | José Soriano | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Corey Seager | TEX | Yusei Kikuchi | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Abimelec Ortiz | WSH | Janson Junk | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Spencer Jones | NYY | José Soriano | 6 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Eduardo Valencia | DET | Daniel Lynch IV | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 14 | Jordan Walker | STL | Cristopher Sánchez | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Nathaniel Lowe | CLE | Tomoyuki Sugano | 5 | 60.0 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Platoon Edge |
+| 16 | Yordan Alvarez | HOU | Brady Basso | 2 | 59.9 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Sal Stewart | CIN | Mitch Bratt | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Mike Trout | LAA | Cal Quantrill | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Luis García Jr. | NYY | José Soriano | 3 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Junior Caminero | TB | Shane Baz | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Kyle Schwarber + Joshua Báez + Jo Adell + Pete Alonso | Avg HR Score: 67.1
 - Joshua Báez + Jo Adell + Pete Alonso + Munetaka Murakami | Avg HR Score: 65.8
 - Jo Adell + Pete Alonso + Munetaka Murakami + Bryce Harper | Avg HR Score: 64.5
-- Pete Alonso + Munetaka Murakami + Bryce Harper + Corey Seager | Avg HR Score: 63.5
+- Pete Alonso + Munetaka Murakami + Bryce Harper + Ben Rice | Avg HR Score: 63.5
