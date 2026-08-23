@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Sunday, August 23, 2026",
-  "generated_at": "08:56 AM EDT",
-  "generated_iso": "2026-08-23T08:56:36.853662-04:00",
+  "generated_at": "09:39 AM EDT",
+  "generated_iso": "2026-08-23T09:39:47.159465-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -156,53 +156,6 @@
     },
     {
       "rank": 4,
-      "player": "Jo Adell",
-      "team": "CLE",
-      "opponent": "COL",
-      "matchup": "CLE vs COL",
-      "batting_order": "4",
-      "pitcher": "Tomoyuki Sugano",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "79",
-      "wind_speed": null,
-      "wind_direction": "149 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "50",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-08-23T19:10:00Z",
-      "confirmed": false,
-      "edge_index": 6.1,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
-      "components": {
-        "hitter_power": 55.6,
-        "pitcher_vulnerability": 73.7,
-        "batted_ball_fit": 45.4,
-        "environment": 62.7,
-        "lineup_opportunity": 90.4,
-        "recent_form": 74.9,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 65.9,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 5,
       "player": "Munetaka Murakami",
       "team": "CWS",
       "opponent": "NYM",
@@ -248,7 +201,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "TB",
@@ -290,6 +243,53 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 63.0,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 6,
+      "player": "Jo Adell",
+      "team": "CLE",
+      "opponent": "COL",
+      "matchup": "CLE vs COL",
+      "batting_order": "4",
+      "pitcher": "Tomoyuki Sugano",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-23T19:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Pitcher Target"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
+      "components": {
+        "hitter_power": 55.6,
+        "pitcher_vulnerability": 73.7,
+        "batted_ball_fit": 45.4,
+        "environment": 38.7,
+        "lineup_opportunity": 90.4,
+        "recent_form": 74.9,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 62.5,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -659,6 +659,97 @@
     },
     {
       "rank": 15,
+      "player": "Fernando Tatis",
+      "team": "SD",
+      "opponent": "MIN",
+      "matchup": "SD vs MIN",
+      "batting_order": "1",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "83",
+      "wind_speed": null,
+      "wind_direction": "299 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T20:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 55.5,
+        "pitcher_vulnerability": 54.6,
+        "batted_ball_fit": 37.9,
+        "environment": 48.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 74.2,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 59.2,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 16,
+      "player": "Byron Buxton",
+      "team": "MIN",
+      "opponent": "SD",
+      "matchup": "MIN vs SD",
+      "batting_order": "2",
+      "pitcher": "Walker Buehler",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "83",
+      "wind_speed": null,
+      "wind_direction": "299 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T20:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 65.1,
+        "pitcher_vulnerability": 41.6,
+        "batted_ball_fit": 56.5,
+        "environment": 48.6,
+        "lineup_opportunity": 95.5,
+        "recent_form": 0.0,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.4,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 17,
       "player": "Eduardo Valencia",
       "team": "DET",
       "opponent": "KC",
@@ -703,7 +794,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 16,
+      "rank": 18,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "DET",
@@ -748,7 +839,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 17,
+      "rank": 19,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -793,7 +884,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "ATL",
@@ -838,7 +929,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 19,
+      "rank": 21,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "DET",
@@ -884,7 +975,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 20,
+      "rank": 22,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "BOS",
@@ -929,7 +1020,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 21,
+      "rank": 23,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -974,7 +1065,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 22,
+      "rank": 24,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "PHI",
@@ -1020,7 +1111,7 @@
       "sheet_note": "Volume support but ISO modest"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "player": "Cal Raleigh",
       "team": "SEA",
       "opponent": "CHC",
@@ -1065,7 +1156,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 26,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "AZ",
@@ -1110,53 +1201,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 25,
-      "player": "Fernando Tatis",
-      "team": "SD",
-      "opponent": "MIN",
-      "matchup": "SD vs MIN",
-      "batting_order": "1",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Petco Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-23T20:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.0,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 55.5,
-        "pitcher_vulnerability": 54.6,
-        "batted_ball_fit": 37.9,
-        "environment": 22.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 74.2,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 55.6,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "player": "Dominic Canzone",
       "team": "SEA",
       "opponent": "CHC",
@@ -1201,7 +1246,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Zach Neto",
       "team": "LAA",
       "opponent": "TEX",
@@ -1246,26 +1291,26 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
-      "player": "Byron Buxton",
-      "team": "MIN",
-      "opponent": "SD",
-      "matchup": "MIN vs SD",
-      "batting_order": "2",
-      "pitcher": "Walker Buehler",
+      "rank": 29,
+      "player": "Manny Machado",
+      "team": "SD",
+      "opponent": "MIN",
+      "matchup": "SD vs MIN",
+      "batting_order": "3",
+      "pitcher": "Bailey Ober",
       "pitcher_hand": "R",
       "ballpark": "Petco Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "83",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
+      "wind_direction": "299 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
       "game_start_time": "2026-08-23T20:10:00Z",
       "confirmed": false,
-      "edge_index": 5.0,
+      "edge_index": 4.9,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
@@ -1275,62 +1320,17 @@
       ],
       "label_summary": "Projected + Watch",
       "components": {
-        "hitter_power": 65.1,
-        "pitcher_vulnerability": 41.6,
-        "batted_ball_fit": 56.5,
-        "environment": 22.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 0.0,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 52.8,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 29,
-      "player": "Nathaniel Lowe",
-      "team": "CLE",
-      "opponent": "COL",
-      "matchup": "CLE vs COL",
-      "batting_order": "5",
-      "pitcher": "Tomoyuki Sugano",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "79",
-      "wind_speed": null,
-      "wind_direction": "149 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "50",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-08-23T19:10:00Z",
-      "confirmed": false,
-      "edge_index": 4.9,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Pitcher Target",
-      "components": {
-        "hitter_power": 37.2,
-        "pitcher_vulnerability": 73.7,
-        "batted_ball_fit": 22.1,
-        "environment": 62.7,
-        "lineup_opportunity": 81.9,
-        "recent_form": 46.5,
+        "hitter_power": 49.2,
+        "pitcher_vulnerability": 54.6,
+        "batted_ball_fit": 35.1,
+        "environment": 48.6,
+        "lineup_opportunity": 92.1,
+        "recent_form": 36.3,
         "bvp_pitch_mix": 50.0,
         "sheet_consensus": 50.0,
         "sheet_carry": 42
       },
-      "legacy_hr_score": 60.0,
+      "legacy_hr_score": 55.8,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -1525,53 +1525,6 @@
     },
     {
       "rank": 4,
-      "player": "Jo Adell",
-      "team": "CLE",
-      "opponent": "COL",
-      "matchup": "CLE vs COL",
-      "batting_order": "4",
-      "pitcher": "Tomoyuki Sugano",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "79",
-      "wind_speed": null,
-      "wind_direction": "149 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "50",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-08-23T19:10:00Z",
-      "confirmed": false,
-      "edge_index": 6.1,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
-      "components": {
-        "hitter_power": 55.6,
-        "pitcher_vulnerability": 73.7,
-        "batted_ball_fit": 45.4,
-        "environment": 62.7,
-        "lineup_opportunity": 90.4,
-        "recent_form": 74.9,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 65.9,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 5,
       "player": "Munetaka Murakami",
       "team": "CWS",
       "opponent": "NYM",
@@ -1617,7 +1570,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "TB",
@@ -1659,6 +1612,53 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 63.0,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 6,
+      "player": "Jo Adell",
+      "team": "CLE",
+      "opponent": "COL",
+      "matchup": "CLE vs COL",
+      "batting_order": "4",
+      "pitcher": "Tomoyuki Sugano",
+      "pitcher_hand": "R",
+      "ballpark": "Coors Field",
+      "park_hr_factor": 0.0,
+      "weather_temp": "",
+      "wind_speed": null,
+      "wind_direction": "",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-23T19:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.8,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Pitcher Target"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Pitcher Target",
+      "components": {
+        "hitter_power": 55.6,
+        "pitcher_vulnerability": 73.7,
+        "batted_ball_fit": 45.4,
+        "environment": 38.7,
+        "lineup_opportunity": 90.4,
+        "recent_form": 74.9,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 62.5,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2028,6 +2028,97 @@
     },
     {
       "rank": 15,
+      "player": "Fernando Tatis",
+      "team": "SD",
+      "opponent": "MIN",
+      "matchup": "SD vs MIN",
+      "batting_order": "1",
+      "pitcher": "Bailey Ober",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "83",
+      "wind_speed": null,
+      "wind_direction": "299 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T20:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge",
+      "components": {
+        "hitter_power": 55.5,
+        "pitcher_vulnerability": 54.6,
+        "batted_ball_fit": 37.9,
+        "environment": 48.6,
+        "lineup_opportunity": 88.7,
+        "recent_form": 74.2,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 59.2,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 16,
+      "player": "Byron Buxton",
+      "team": "MIN",
+      "opponent": "SD",
+      "matchup": "MIN vs SD",
+      "batting_order": "2",
+      "pitcher": "Walker Buehler",
+      "pitcher_hand": "R",
+      "ballpark": "Petco Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "83",
+      "wind_speed": null,
+      "wind_direction": "299 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-23T20:10:00Z",
+      "confirmed": false,
+      "edge_index": 5.3,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Watch"
+      ],
+      "label_summary": "Projected + Watch",
+      "components": {
+        "hitter_power": 65.1,
+        "pitcher_vulnerability": 41.6,
+        "batted_ball_fit": 56.5,
+        "environment": 48.6,
+        "lineup_opportunity": 95.5,
+        "recent_form": 0.0,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.4,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 17,
       "player": "Eduardo Valencia",
       "team": "DET",
       "opponent": "KC",
@@ -2072,7 +2163,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 16,
+      "rank": 18,
       "player": "Jac Caglianone",
       "team": "KC",
       "opponent": "DET",
@@ -2117,7 +2208,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 17,
+      "rank": 19,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -2162,7 +2253,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "ATL",
@@ -2207,7 +2298,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 19,
+      "rank": 21,
       "player": "Bobby Witt",
       "team": "KC",
       "opponent": "DET",
@@ -2253,7 +2344,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 20,
+      "rank": 22,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "BOS",
@@ -2298,7 +2389,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 21,
+      "rank": 23,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -2343,7 +2434,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 22,
+      "rank": 24,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "PHI",
@@ -2389,7 +2480,7 @@
       "sheet_note": "Volume support but ISO modest"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "player": "Cal Raleigh",
       "team": "SEA",
       "opponent": "CHC",
@@ -2434,7 +2525,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 26,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "AZ",
@@ -2479,53 +2570,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 25,
-      "player": "Fernando Tatis",
-      "team": "SD",
-      "opponent": "MIN",
-      "matchup": "SD vs MIN",
-      "batting_order": "1",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Petco Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-23T20:10:00Z",
-      "confirmed": false,
-      "edge_index": 5.0,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge",
-      "components": {
-        "hitter_power": 55.5,
-        "pitcher_vulnerability": 54.6,
-        "batted_ball_fit": 37.9,
-        "environment": 22.6,
-        "lineup_opportunity": 88.7,
-        "recent_form": 74.2,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 55.6,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "player": "Dominic Canzone",
       "team": "SEA",
       "opponent": "CHC",
@@ -2570,7 +2615,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Zach Neto",
       "team": "LAA",
       "opponent": "TEX",
@@ -2615,26 +2660,26 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
-      "player": "Byron Buxton",
-      "team": "MIN",
-      "opponent": "SD",
-      "matchup": "MIN vs SD",
-      "batting_order": "2",
-      "pitcher": "Walker Buehler",
+      "rank": 29,
+      "player": "Manny Machado",
+      "team": "SD",
+      "opponent": "MIN",
+      "matchup": "SD vs MIN",
+      "batting_order": "3",
+      "pitcher": "Bailey Ober",
       "pitcher_hand": "R",
       "ballpark": "Petco Park",
       "park_hr_factor": 0.0,
-      "weather_temp": "",
+      "weather_temp": "83",
       "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
+      "wind_direction": "299 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
+      "weather_humidity": "63",
+      "weather_precip_pct": "0",
       "game_start_time": "2026-08-23T20:10:00Z",
       "confirmed": false,
-      "edge_index": 5.0,
+      "edge_index": 4.9,
       "ghost_grade": "C+",
       "confidence": "Longshot",
       "volatility": "High",
@@ -2644,62 +2689,17 @@
       ],
       "label_summary": "Projected + Watch",
       "components": {
-        "hitter_power": 65.1,
-        "pitcher_vulnerability": 41.6,
-        "batted_ball_fit": 56.5,
-        "environment": 22.6,
-        "lineup_opportunity": 95.5,
-        "recent_form": 0.0,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 52.8,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 29,
-      "player": "Nathaniel Lowe",
-      "team": "CLE",
-      "opponent": "COL",
-      "matchup": "CLE vs COL",
-      "batting_order": "5",
-      "pitcher": "Tomoyuki Sugano",
-      "pitcher_hand": "R",
-      "ballpark": "Coors Field",
-      "park_hr_factor": 0.0,
-      "weather_temp": "79",
-      "wind_speed": null,
-      "wind_direction": "149 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "weather_humidity": "50",
-      "weather_precip_pct": "23",
-      "game_start_time": "2026-08-23T19:10:00Z",
-      "confirmed": false,
-      "edge_index": 4.9,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Pitcher Target"
-      ],
-      "label_summary": "Projected + Pitcher Target",
-      "components": {
-        "hitter_power": 37.2,
-        "pitcher_vulnerability": 73.7,
-        "batted_ball_fit": 22.1,
-        "environment": 62.7,
-        "lineup_opportunity": 81.9,
-        "recent_form": 46.5,
+        "hitter_power": 49.2,
+        "pitcher_vulnerability": 54.6,
+        "batted_ball_fit": 35.1,
+        "environment": 48.6,
+        "lineup_opportunity": 92.1,
+        "recent_form": 36.3,
         "bvp_pitch_mix": 50.0,
         "sheet_consensus": 50.0,
         "sheet_carry": 42
       },
-      "legacy_hr_score": 60.0,
+      "legacy_hr_score": 55.8,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2777,42 +2777,6 @@
         "one_off_flags": "Shohei Ohtani: lineup/void risk, pitcher resistance / Joshua Baez: lineup/void risk, pitcher resistance"
       },
       {
-        "names": "Kyle Schwarber + Jo Adell",
-        "teams": "PHI vs STL / CLE vs COL",
-        "avg_edge": 6.2,
-        "combo_score": 6.8,
-        "type": "Balanced 2",
-        "volatility": "Medium",
-        "labels": "Projected, EV Edge, Carry Signal / Projected, Hot Bat, EV Edge, Pitcher Target",
-        "reason": "independent games · pitcher target included · sheet carry-through",
-        "leg_reliability": "Kyle Schwarber: 64.4 / Jo Adell: 61.7",
-        "one_off_flags": "Kyle Schwarber: lineup/void risk / Jo Adell: lineup/void risk, weak sheet/model agreement"
-      },
-      {
-        "names": "Shohei Ohtani + Jo Adell",
-        "teams": "LAD vs PIT / CLE vs COL",
-        "avg_edge": 6.3,
-        "combo_score": 6.76,
-        "type": "Balanced 2",
-        "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Pitcher Target",
-        "reason": "independent games · pitcher target included",
-        "leg_reliability": "Shohei Ohtani: 66.0 / Jo Adell: 61.7",
-        "one_off_flags": "Shohei Ohtani: lineup/void risk, pitcher resistance / Jo Adell: lineup/void risk, weak sheet/model agreement"
-      },
-      {
-        "names": "Joshua Baez + Jo Adell",
-        "teams": "STL vs PHI / CLE vs COL",
-        "avg_edge": 6.2,
-        "combo_score": 6.65,
-        "type": "Sleeper Pair",
-        "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, Hot Bat, EV Edge, Pitcher Target",
-        "reason": "independent games · pitcher target included · sleeper leverage",
-        "leg_reliability": "Joshua Baez: 58.9 / Jo Adell: 61.7",
-        "one_off_flags": "Joshua Baez: lineup/void risk, pitcher resistance / Jo Adell: lineup/void risk, weak sheet/model agreement"
-      },
-      {
         "names": "Kyle Schwarber + Pete Alonso",
         "teams": "PHI vs STL / BAL vs TB",
         "avg_edge": 6.1,
@@ -2823,6 +2787,30 @@
         "reason": "independent games · sheet carry-through",
         "leg_reliability": "Kyle Schwarber: 64.4 / Pete Alonso: 60.0",
         "one_off_flags": "Kyle Schwarber: lineup/void risk / Pete Alonso: lineup/void risk, pitcher resistance, weak sheet/model agreement"
+      },
+      {
+        "names": "Shohei Ohtani + Pete Alonso",
+        "teams": "LAD vs PIT / BAL vs TB",
+        "avg_edge": 6.2,
+        "combo_score": 6.5,
+        "type": "Power Pair",
+        "volatility": "Medium",
+        "labels": "Projected, Hot Bat, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher",
+        "reason": "independent games",
+        "leg_reliability": "Shohei Ohtani: 66.0 / Pete Alonso: 60.0",
+        "one_off_flags": "Shohei Ohtani: lineup/void risk, pitcher resistance / Pete Alonso: lineup/void risk, pitcher resistance, weak sheet/model agreement"
+      },
+      {
+        "names": "Kyle Schwarber + Munetaka Murakami",
+        "teams": "PHI vs STL / CWS vs NYM",
+        "avg_edge": 6.2,
+        "combo_score": 6.44,
+        "type": "Power Pair",
+        "volatility": "Medium",
+        "labels": "Projected, EV Edge, Carry Signal / Projected, EV Edge, Tough Pitcher",
+        "reason": "independent games · sheet carry-through",
+        "leg_reliability": "Kyle Schwarber: 64.4 / Munetaka Murakami: 57.8",
+        "one_off_flags": "Kyle Schwarber: lineup/void risk / Munetaka Murakami: lineup/void risk, pitcher resistance, weak sheet/model agreement"
       },
       {
         "names": "Joshua Baez + Pete Alonso",
@@ -2837,32 +2825,22 @@
         "one_off_flags": "Joshua Baez: lineup/void risk, pitcher resistance / Pete Alonso: lineup/void risk, pitcher resistance, weak sheet/model agreement"
       },
       {
-        "names": "Munetaka Murakami + Pete Alonso",
-        "teams": "CWS vs NYM / BAL vs TB",
-        "avg_edge": 5.8,
-        "combo_score": 6.01,
-        "type": "Power Pair",
+        "names": "Joshua Baez + Munetaka Murakami",
+        "teams": "STL vs PHI / CWS vs NYM",
+        "avg_edge": 6.1,
+        "combo_score": 6.29,
+        "type": "Sleeper Pair",
         "volatility": "Medium",
-        "labels": "Projected, EV Edge, Tough Pitcher / Projected, Hot Bat, EV Edge, Tough Pitcher",
-        "reason": "independent games",
-        "leg_reliability": "Munetaka Murakami: 57.8 / Pete Alonso: 60.0",
-        "one_off_flags": "Munetaka Murakami: lineup/void risk, pitcher resistance, weak sheet/model agreement / Pete Alonso: lineup/void risk, pitcher resistance, weak sheet/model agreement"
+        "labels": "Projected, EV Edge, Tough Pitcher, Sleeper / Projected, EV Edge, Tough Pitcher",
+        "reason": "independent games · sleeper leverage",
+        "leg_reliability": "Joshua Baez: 58.9 / Munetaka Murakami: 57.8",
+        "one_off_flags": "Joshua Baez: lineup/void risk, pitcher resistance / Munetaka Murakami: lineup/void risk, pitcher resistance, weak sheet/model agreement"
       }
     ],
     "3": [],
     "4": []
   },
   "weather_edges": [
-    {
-      "ballpark": "Coors Field",
-      "environment_score": 62.7,
-      "top_player": "Jo Adell",
-      "top_edge": 6.1,
-      "teams": [
-        "CLE",
-        "COL"
-      ]
-    },
     {
       "ballpark": "Globe Life Field",
       "environment_score": 60.6,
@@ -2945,25 +2923,6 @@
     }
   ],
   "park_conditions": [
-    {
-      "ballpark": "Coors Field",
-      "teams": [
-        "CLE",
-        "COL"
-      ],
-      "environment_score": 62.7,
-      "park_hr_factor": 100.0,
-      "temperature": 79.0,
-      "wind_speed": 0.0,
-      "wind_direction": "149 deg",
-      "humidity": 50.0,
-      "precip_pct": 23.0,
-      "condition_grade": "Watch",
-      "top_player": "Jo Adell",
-      "top_edge": 6.1,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
     {
       "ballpark": "Globe Life Field",
       "teams": [
@@ -3136,6 +3095,25 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
+      "ballpark": "Petco Park",
+      "teams": [
+        "MIN",
+        "SD"
+      ],
+      "environment_score": 48.6,
+      "park_hr_factor": 100.0,
+      "temperature": 83.0,
+      "wind_speed": 0.0,
+      "wind_direction": "299 deg",
+      "humidity": 63.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Neutral",
+      "top_player": "Fernando Tatis",
+      "top_edge": 5.3,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
       "ballpark": "Fenway Park",
       "teams": [
         "BOS",
@@ -3193,6 +3171,25 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
+      "ballpark": "Coors Field",
+      "teams": [
+        "CLE",
+        "COL"
+      ],
+      "environment_score": 38.7,
+      "park_hr_factor": 100.0,
+      "temperature": "",
+      "wind_speed": 0.0,
+      "wind_direction": "",
+      "humidity": "",
+      "precip_pct": "",
+      "condition_grade": "Resist",
+      "top_player": "Jo Adell",
+      "top_edge": 5.8,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.7559&lon=-104.9942",
+      "source_note": "NOAA link only"
+    },
+    {
       "ballpark": "Journey Bank Ballpark",
       "teams": [
         "ATL",
@@ -3210,25 +3207,6 @@
       "top_edge": 5.6,
       "weather_url": "",
       "source_note": "MLB Stats API weather feed"
-    },
-    {
-      "ballpark": "Petco Park",
-      "teams": [
-        "MIN",
-        "SD"
-      ],
-      "environment_score": 22.6,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Fernando Tatis",
-      "top_edge": 5.0,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
