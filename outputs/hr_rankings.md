@@ -13,15 +13,15 @@
 | 9 | Corey Seager | TEX | Yusei Kikuchi | 2 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 10 | Ben Rice | NYY | José Soriano | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Bryce Harper | PHI | Kyle Leahy | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Spencer Jones | NYY | José Soriano | 6 | 60.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 13 | Cal Raleigh | SEA | Shota Imanaga | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Cal Raleigh | SEA | Shota Imanaga | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Spencer Jones | NYY | José Soriano | 6 | 60.8 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 14 | Abimelec Ortiz | WSH | Janson Junk | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Yordan Alvarez | HOU | Brady Basso | 2 | 60.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 16 | Matt Olson | ATL | Shane Drohan | 3 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Sheet Consensus |
 | 17 | Pete Crow-Armstrong | CHC | Bryce Miller | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 18 | Fernando Tatis Jr. | SD | Bailey Ober | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Sal Stewart | CIN | Mitch Bratt | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 59.4 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 19 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 59.6 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 20 | Sal Stewart | CIN | Mitch Bratt | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

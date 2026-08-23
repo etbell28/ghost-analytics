@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Sunday, August 23, 2026",
-  "generated_at": "03:48 PM EDT",
-  "generated_iso": "2026-08-23T15:48:29.621762-04:00",
+  "generated_at": "04:00 PM EDT",
+  "generated_iso": "2026-08-23T16:00:38.305034-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -82,8 +82,8 @@
       "weather_precip_pct": "2",
       "game_start_time": "2026-08-23T17:35:00Z",
       "confirmed": true,
-      "edge_index": 6.8,
-      "ghost_grade": "B+",
+      "edge_index": 6.7,
+      "ghost_grade": "B",
       "confidence": "Strong",
       "volatility": "Low",
       "labels": [
@@ -98,7 +98,7 @@
         "batted_ball_fit": 74.9,
         "environment": 54.3,
         "lineup_opportunity": 93.2,
-        "recent_form": 28.1,
+        "recent_form": 27.1,
         "bvp_pitch_mix": 54.0,
         "sheet_consensus": 47.5,
         "sheet_carry": 68.0
@@ -285,7 +285,7 @@
         "batted_ball_fit": 45.4,
         "environment": 52.2,
         "lineup_opportunity": 96.6,
-        "recent_form": 81.2,
+        "recent_form": 81.7,
         "bvp_pitch_mix": 50.0,
         "sheet_consensus": 50.0,
         "sheet_carry": 42
@@ -635,28 +635,27 @@
       "weather_precip_pct": "2",
       "game_start_time": "2026-08-23T17:35:00Z",
       "confirmed": true,
-      "edge_index": 5.8,
+      "edge_index": 5.7,
       "ghost_grade": "B-",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "EV Edge",
-        "Sleeper"
+        "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge + Sleeper",
+      "label_summary": "Confirmed + EV Edge",
       "components": {
         "hitter_power": 68.9,
         "pitcher_vulnerability": 37.7,
         "batted_ball_fit": 54.0,
         "environment": 56.2,
         "lineup_opportunity": 76.2,
-        "recent_form": 68.7,
+        "recent_form": 66.7,
         "bvp_pitch_mix": 54.0,
         "sheet_consensus": 50.0,
         "sheet_carry": 42
       },
-      "legacy_hr_score": 60.9,
+      "legacy_hr_score": 60.8,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -889,51 +888,6 @@
     },
     {
       "rank": 20,
-      "player": "Bryce Eldridge",
-      "team": "SF",
-      "opponent": "BOS",
-      "matchup": "SF vs BOS",
-      "batting_order": "4",
-      "pitcher": "Jake Bennett",
-      "pitcher_hand": "L",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "67",
-      "wind_speed": null,
-      "wind_direction": "Out To RF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "84",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-23T19:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.6,
-      "ghost_grade": "B-",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 69.1,
-        "pitcher_vulnerability": 26.8,
-        "batted_ball_fit": 49.6,
-        "environment": 60.2,
-        "lineup_opportunity": 94.9,
-        "recent_form": 48.1,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 58.2,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 21,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "SD",
@@ -978,7 +932,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 22,
+      "rank": 21,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -1018,6 +972,51 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 60.1,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 22,
+      "player": "Bryce Eldridge",
+      "team": "SF",
+      "opponent": "BOS",
+      "matchup": "SF vs BOS",
+      "batting_order": "4",
+      "pitcher": "Jake Bennett",
+      "pitcher_hand": "L",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "70",
+      "wind_speed": null,
+      "wind_direction": "Out To RF",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-23T19:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.5,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 69.1,
+        "pitcher_vulnerability": 26.8,
+        "batted_ball_fit": 49.6,
+        "environment": 55.7,
+        "lineup_opportunity": 94.9,
+        "recent_form": 48.1,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 57.6,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -1114,6 +1113,51 @@
     },
     {
       "rank": 25,
+      "player": "Kenny Piper",
+      "team": "TB",
+      "opponent": "BAL",
+      "matchup": "TB vs BAL",
+      "batting_order": "5",
+      "pitcher": "Shane Baz",
+      "pitcher_hand": "R",
+      "ballpark": "Oriole Park at Camden Yards",
+      "park_hr_factor": 0.0,
+      "weather_temp": "75",
+      "wind_speed": null,
+      "wind_direction": "Out To RF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.2840&lon=-76.6217",
+      "weather_humidity": "82",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-08-23T17:35:00Z",
+      "confirmed": true,
+      "edge_index": 5.4,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 55.2,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 46.6,
+        "environment": 65.6,
+        "lineup_opportunity": 86.4,
+        "recent_form": 37.8,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.3,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 26,
       "player": "Eduardo Valencia",
       "team": "DET",
       "opponent": "KC",
@@ -1158,7 +1202,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "PHI",
@@ -1204,7 +1248,7 @@
       "sheet_note": "Volume support but ISO modest"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "AZ",
@@ -1249,7 +1293,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "LAD",
@@ -1295,7 +1339,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Zach Neto",
       "team": "LAA",
       "opponent": "TEX",
@@ -1335,51 +1379,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 56.4,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 30,
-      "player": "Coby Mayo",
-      "team": "BAL",
-      "opponent": "TB",
-      "matchup": "BAL vs TB",
-      "batting_order": "5",
-      "pitcher": "Nick Martinez",
-      "pitcher_hand": "R",
-      "ballpark": "Oriole Park at Camden Yards",
-      "park_hr_factor": 0.0,
-      "weather_temp": "75",
-      "wind_speed": null,
-      "wind_direction": "Out To RF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.2840&lon=-76.6217",
-      "weather_humidity": "82",
-      "weather_precip_pct": "8",
-      "game_start_time": "2026-08-23T17:35:00Z",
-      "confirmed": true,
-      "edge_index": 5.3,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 49.7,
-        "pitcher_vulnerability": 36.3,
-        "batted_ball_fit": 52.5,
-        "environment": 65.6,
-        "lineup_opportunity": 86.4,
-        "recent_form": 59.6,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 54.5,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -1454,8 +1453,8 @@
       "weather_precip_pct": "2",
       "game_start_time": "2026-08-23T17:35:00Z",
       "confirmed": true,
-      "edge_index": 6.8,
-      "ghost_grade": "B+",
+      "edge_index": 6.7,
+      "ghost_grade": "B",
       "confidence": "Strong",
       "volatility": "Low",
       "labels": [
@@ -1470,7 +1469,7 @@
         "batted_ball_fit": 74.9,
         "environment": 54.3,
         "lineup_opportunity": 93.2,
-        "recent_form": 28.1,
+        "recent_form": 27.1,
         "bvp_pitch_mix": 54.0,
         "sheet_consensus": 47.5,
         "sheet_carry": 68.0
@@ -1657,7 +1656,7 @@
         "batted_ball_fit": 45.4,
         "environment": 52.2,
         "lineup_opportunity": 96.6,
-        "recent_form": 81.2,
+        "recent_form": 81.7,
         "bvp_pitch_mix": 50.0,
         "sheet_consensus": 50.0,
         "sheet_carry": 42
@@ -1960,28 +1959,27 @@
       "weather_precip_pct": "2",
       "game_start_time": "2026-08-23T17:35:00Z",
       "confirmed": true,
-      "edge_index": 5.8,
+      "edge_index": 5.7,
       "ghost_grade": "B-",
       "confidence": "Longshot",
       "volatility": "High",
       "labels": [
         "Confirmed",
-        "EV Edge",
-        "Sleeper"
+        "EV Edge"
       ],
-      "label_summary": "Confirmed + EV Edge + Sleeper",
+      "label_summary": "Confirmed + EV Edge",
       "components": {
         "hitter_power": 68.9,
         "pitcher_vulnerability": 37.7,
         "batted_ball_fit": 54.0,
         "environment": 56.2,
         "lineup_opportunity": 76.2,
-        "recent_form": 68.7,
+        "recent_form": 66.7,
         "bvp_pitch_mix": 54.0,
         "sheet_consensus": 50.0,
         "sheet_carry": 42
       },
-      "legacy_hr_score": 60.9,
+      "legacy_hr_score": 60.8,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2214,51 +2212,6 @@
     },
     {
       "rank": 20,
-      "player": "Bryce Eldridge",
-      "team": "SF",
-      "opponent": "BOS",
-      "matchup": "SF vs BOS",
-      "batting_order": "4",
-      "pitcher": "Jake Bennett",
-      "pitcher_hand": "L",
-      "ballpark": "Fenway Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "67",
-      "wind_speed": null,
-      "wind_direction": "Out To RF",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "weather_humidity": "84",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-23T19:15:00Z",
-      "confirmed": true,
-      "edge_index": 5.6,
-      "ghost_grade": "B-",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "EV Edge"
-      ],
-      "label_summary": "Confirmed + EV Edge",
-      "components": {
-        "hitter_power": 69.1,
-        "pitcher_vulnerability": 26.8,
-        "batted_ball_fit": 49.6,
-        "environment": 60.2,
-        "lineup_opportunity": 94.9,
-        "recent_form": 48.1,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 58.2,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 21,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "SD",
@@ -2303,7 +2256,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 22,
+      "rank": 21,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "SEA",
@@ -2343,6 +2296,51 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 60.1,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 22,
+      "player": "Bryce Eldridge",
+      "team": "SF",
+      "opponent": "BOS",
+      "matchup": "SF vs BOS",
+      "batting_order": "4",
+      "pitcher": "Jake Bennett",
+      "pitcher_hand": "L",
+      "ballpark": "Fenway Park",
+      "park_hr_factor": 0.0,
+      "weather_temp": "70",
+      "wind_speed": null,
+      "wind_direction": "Out To RF",
+      "weather_source": "NOAA link only",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "weather_humidity": "",
+      "weather_precip_pct": "",
+      "game_start_time": "2026-08-23T19:15:00Z",
+      "confirmed": true,
+      "edge_index": 5.5,
+      "ghost_grade": "C+",
+      "confidence": "Volatile",
+      "volatility": "Medium",
+      "labels": [
+        "Confirmed",
+        "EV Edge"
+      ],
+      "label_summary": "Confirmed + EV Edge",
+      "components": {
+        "hitter_power": 69.1,
+        "pitcher_vulnerability": 26.8,
+        "batted_ball_fit": 49.6,
+        "environment": 55.7,
+        "lineup_opportunity": 94.9,
+        "recent_form": 48.1,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 57.6,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2439,6 +2437,51 @@
     },
     {
       "rank": 25,
+      "player": "Kenny Piper",
+      "team": "TB",
+      "opponent": "BAL",
+      "matchup": "TB vs BAL",
+      "batting_order": "5",
+      "pitcher": "Shane Baz",
+      "pitcher_hand": "R",
+      "ballpark": "Oriole Park at Camden Yards",
+      "park_hr_factor": 0.0,
+      "weather_temp": "75",
+      "wind_speed": null,
+      "wind_direction": "Out To RF",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.2840&lon=-76.6217",
+      "weather_humidity": "82",
+      "weather_precip_pct": "8",
+      "game_start_time": "2026-08-23T17:35:00Z",
+      "confirmed": true,
+      "edge_index": 5.4,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Confirmed",
+        "Watch"
+      ],
+      "label_summary": "Confirmed + Watch",
+      "components": {
+        "hitter_power": 55.2,
+        "pitcher_vulnerability": 41.2,
+        "batted_ball_fit": 46.6,
+        "environment": 65.6,
+        "lineup_opportunity": 86.4,
+        "recent_form": 37.8,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 56.3,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 26,
       "player": "Eduardo Valencia",
       "team": "DET",
       "opponent": "KC",
@@ -2483,7 +2526,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Jordan Walker",
       "team": "STL",
       "opponent": "PHI",
@@ -2529,7 +2572,7 @@
       "sheet_note": "Volume support but ISO modest"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Sal Stewart",
       "team": "CIN",
       "opponent": "AZ",
@@ -2574,7 +2617,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "LAD",
@@ -2620,7 +2663,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Zach Neto",
       "team": "LAA",
       "opponent": "TEX",
@@ -2665,7 +2708,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "player": "Coby Mayo",
       "team": "BAL",
       "opponent": "TB",
@@ -2705,51 +2748,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 54.5,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 31,
-      "player": "Manny Machado",
-      "team": "SD",
-      "opponent": "MIN",
-      "matchup": "SD vs MIN",
-      "batting_order": "3",
-      "pitcher": "Bailey Ober",
-      "pitcher_hand": "R",
-      "ballpark": "Petco Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "83",
-      "wind_speed": null,
-      "wind_direction": "L To R",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=32.7073&lon=-117.1573",
-      "weather_humidity": "63",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-23T20:10:00Z",
-      "confirmed": true,
-      "edge_index": 5.2,
-      "ghost_grade": "C+",
-      "confidence": "Volatile",
-      "volatility": "Medium",
-      "labels": [
-        "Confirmed",
-        "Watch"
-      ],
-      "label_summary": "Confirmed + Watch",
-      "components": {
-        "hitter_power": 49.2,
-        "pitcher_vulnerability": 54.6,
-        "batted_ball_fit": 35.1,
-        "environment": 48.6,
-        "lineup_opportunity": 96.6,
-        "recent_form": 36.3,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 56.5,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2804,7 +2802,7 @@
       "sheet_note": "Elite LHH power; weather only mild and possible delay"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -2850,7 +2848,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "player": "Ronald Acuna",
       "team": "ATL",
       "opponent": "NYM",
@@ -2895,7 +2893,7 @@
       "sheet_note": "EV helps but ISO not HR-friendly today"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "player": "Michael Harris",
       "team": "ATL",
       "opponent": "NYM",
@@ -2941,7 +2939,7 @@
       "sheet_note": "Good LHH sheet line; mild park"
     },
     {
-      "rank": 113,
+      "rank": 115,
       "player": "Austin Riley",
       "team": "ATL",
       "opponent": "NYM",
@@ -2986,7 +2984,7 @@
       "sheet_note": "Volume but weak ISO"
     },
     {
-      "rank": 188,
+      "rank": 190,
       "player": "Lane Thomas",
       "team": "ATL",
       "opponent": "NYM",
@@ -3031,7 +3029,7 @@
       "sheet_note": "Moderate RHH sheet line"
     },
     {
-      "rank": 207,
+      "rank": 208,
       "player": "Ozzie Albies",
       "team": "ATL",
       "opponent": "MIL",
@@ -3172,24 +3170,24 @@
         "names": "Shohei Ohtani + Kyle Schwarber",
         "teams": "LAD vs PIT / PHI vs STL",
         "avg_edge": 6.8,
-        "combo_score": 7.64,
+        "combo_score": 7.59,
         "type": "Power Pair",
         "volatility": "Low",
         "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Confirmed, EV Edge, Carry Signal",
         "reason": "independent games · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 75.0",
+        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 74.0",
         "one_off_flags": "Shohei Ohtani: pitcher resistance / Kyle Schwarber: clean"
       },
       {
         "names": "Kyle Schwarber + Max Muncy",
         "teams": "PHI vs STL / LAD vs KC",
-        "avg_edge": 6.7,
-        "combo_score": 7.53,
+        "avg_edge": 6.6,
+        "combo_score": 7.48,
         "type": "Balanced 2",
         "volatility": "Medium",
         "labels": "Confirmed, EV Edge, Carry Signal / Confirmed, Weather Edge, Hot Bat, Carry Signal",
         "reason": "independent games · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Kyle Schwarber: 75.0 / Max Muncy: 77.5",
+        "leg_reliability": "Kyle Schwarber: 74.0 / Max Muncy: 77.5",
         "one_off_flags": "Kyle Schwarber: clean / Max Muncy: pitcher resistance"
       },
       {
@@ -3203,18 +3201,6 @@
         "reason": "independent games · sleeper leverage · no obvious one-off leg",
         "leg_reliability": "Shohei Ohtani: 76.5 / Joshua Báez: 67.4",
         "one_off_flags": "Shohei Ohtani: pitcher resistance / Joshua Báez: pitcher resistance"
-      },
-      {
-        "names": "Kyle Schwarber + Jo Adell",
-        "teams": "PHI vs STL / CLE vs COL",
-        "avg_edge": 6.5,
-        "combo_score": 7.33,
-        "type": "Balanced 2",
-        "volatility": "Medium",
-        "labels": "Confirmed, EV Edge, Carry Signal / Confirmed, Hot Bat, EV Edge, Pitcher Target",
-        "reason": "independent games · pitcher target included · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Kyle Schwarber: 75.0 / Jo Adell: 69.6",
-        "one_off_flags": "Kyle Schwarber: clean / Jo Adell: clean"
       },
       {
         "names": "Joshua Báez + Max Muncy",
@@ -3239,6 +3225,18 @@
         "reason": "independent games · no obvious one-off leg",
         "leg_reliability": "Shohei Ohtani: 76.5 / Munetaka Murakami: 66.4",
         "one_off_flags": "Shohei Ohtani: pitcher resistance / Munetaka Murakami: pitcher resistance"
+      },
+      {
+        "names": "Kyle Schwarber + Jo Adell",
+        "teams": "PHI vs STL / CLE vs COL",
+        "avg_edge": 6.5,
+        "combo_score": 7.28,
+        "type": "Balanced 2",
+        "volatility": "Medium",
+        "labels": "Confirmed, EV Edge, Carry Signal / Confirmed, Hot Bat, EV Edge, Pitcher Target",
+        "reason": "independent games · pitcher target included · sheet carry-through · no obvious one-off leg",
+        "leg_reliability": "Kyle Schwarber: 74.0 / Jo Adell: 69.6",
+        "one_off_flags": "Kyle Schwarber: clean / Jo Adell: clean"
       },
       {
         "names": "Max Muncy + Munetaka Murakami",
@@ -3267,28 +3265,28 @@
     ],
     "3": [
       {
-        "names": "Shohei Ohtani + Kyle Schwarber + Munetaka Murakami",
-        "teams": "LAD vs PIT / PHI vs STL / CWS vs NYM",
-        "avg_edge": 6.7,
-        "combo_score": 7.65,
-        "type": "Aggressive 3",
-        "volatility": "Medium",
-        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Confirmed, EV Edge, Carry Signal / Confirmed, EV Edge, Tough Pitcher",
-        "reason": "independent games · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 75.0 / Munetaka Murakami: 66.4",
-        "one_off_flags": "Shohei Ohtani: pitcher resistance / Kyle Schwarber: clean / Munetaka Murakami: pitcher resistance"
-      },
-      {
         "names": "Shohei Ohtani + Kyle Schwarber + Jo Adell",
         "teams": "LAD vs PIT / PHI vs STL / CLE vs COL",
-        "avg_edge": 6.7,
-        "combo_score": 7.65,
+        "avg_edge": 6.6,
+        "combo_score": 7.62,
         "type": "Aggressive 3",
         "volatility": "Medium",
         "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Confirmed, EV Edge, Carry Signal / Confirmed, Hot Bat, EV Edge, Pitcher Target",
         "reason": "independent games · pitcher target included · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 75.0 / Jo Adell: 69.6",
+        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 74.0 / Jo Adell: 69.6",
         "one_off_flags": "Shohei Ohtani: pitcher resistance / Kyle Schwarber: clean / Jo Adell: clean"
+      },
+      {
+        "names": "Shohei Ohtani + Kyle Schwarber + Munetaka Murakami",
+        "teams": "LAD vs PIT / PHI vs STL / CWS vs NYM",
+        "avg_edge": 6.6,
+        "combo_score": 7.61,
+        "type": "Aggressive 3",
+        "volatility": "Medium",
+        "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Confirmed, EV Edge, Carry Signal / Confirmed, EV Edge, Tough Pitcher",
+        "reason": "independent games · sheet carry-through · no obvious one-off leg",
+        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 74.0 / Munetaka Murakami: 66.4",
+        "one_off_flags": "Shohei Ohtani: pitcher resistance / Kyle Schwarber: clean / Munetaka Murakami: pitcher resistance"
       },
       {
         "names": "Joshua Báez + Max Muncy + Munetaka Murakami",
@@ -3344,24 +3342,24 @@
         "names": "Shohei Ohtani + Kyle Schwarber + Max Muncy + Matt Olson",
         "teams": "LAD vs PIT / PHI vs STL / LAD vs KC / ATL vs NYM",
         "avg_edge": 6.5,
-        "combo_score": 7.52,
+        "combo_score": 7.49,
         "type": "Aggressive 3",
         "volatility": "High",
         "labels": "Confirmed, Weather Edge, Hot Bat, EV Edge, Tough Pitcher / Confirmed, EV Edge, Carry Signal / Confirmed, Weather Edge, Hot Bat, Carry Signal / Projected, EV Edge, Sheet Match, Carry Signal",
         "reason": "independent games · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 75.0 / Max Muncy: 77.5 / Matt Olson: 68.9",
+        "leg_reliability": "Shohei Ohtani: 76.5 / Kyle Schwarber: 74.0 / Max Muncy: 77.5 / Matt Olson: 68.9",
         "one_off_flags": "Shohei Ohtani: pitcher resistance / Kyle Schwarber: clean / Max Muncy: pitcher resistance / Matt Olson: lineup/void risk"
       },
       {
         "names": "Kyle Schwarber + Max Muncy + Munetaka Murakami + Matt Olson",
         "teams": "PHI vs STL / LAD vs KC / CWS vs NYM / ATL vs NYM",
         "avg_edge": 6.4,
-        "combo_score": 7.36,
+        "combo_score": 7.33,
         "type": "Aggressive 3",
         "volatility": "High",
         "labels": "Confirmed, EV Edge, Carry Signal / Confirmed, Weather Edge, Hot Bat, Carry Signal / Confirmed, EV Edge, Tough Pitcher / Projected, EV Edge, Sheet Match, Carry Signal",
         "reason": "independent games · sheet/model agreement · sheet carry-through · no obvious one-off leg",
-        "leg_reliability": "Kyle Schwarber: 75.0 / Max Muncy: 77.5 / Munetaka Murakami: 66.4 / Matt Olson: 68.9",
+        "leg_reliability": "Kyle Schwarber: 74.0 / Max Muncy: 77.5 / Munetaka Murakami: 66.4 / Matt Olson: 68.9",
         "one_off_flags": "Kyle Schwarber: clean / Max Muncy: pitcher resistance / Munetaka Murakami: pitcher resistance / Matt Olson: lineup/void risk"
       }
     ]
@@ -3418,16 +3416,6 @@
       ]
     },
     {
-      "ballpark": "Fenway Park",
-      "environment_score": 60.2,
-      "top_player": "Bryce Eldridge",
-      "top_edge": 5.6,
-      "teams": [
-        "BOS",
-        "SF"
-      ]
-    },
-    {
       "ballpark": "Chase Field",
       "environment_score": 60.2,
       "top_player": "Corbin Carroll",
@@ -3462,10 +3450,20 @@
       "ballpark": "Yankee Stadium",
       "environment_score": 56.2,
       "top_player": "Spencer Jones",
-      "top_edge": 5.8,
+      "top_edge": 5.7,
       "teams": [
         "NYY",
         "TOR"
+      ]
+    },
+    {
+      "ballpark": "Fenway Park",
+      "environment_score": 55.7,
+      "top_player": "Bryce Eldridge",
+      "top_edge": 5.5,
+      "teams": [
+        "BOS",
+        "SF"
       ]
     }
   ],
@@ -3566,25 +3564,6 @@
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
-      "ballpark": "Fenway Park",
-      "teams": [
-        "BOS",
-        "SF"
-      ],
-      "environment_score": 60.2,
-      "park_hr_factor": 100.0,
-      "temperature": 67.0,
-      "wind_speed": 0.0,
-      "wind_direction": "Out To RF",
-      "humidity": 84.0,
-      "precip_pct": 0.0,
-      "condition_grade": "Watch",
-      "top_player": "Bryce Eldridge",
-      "top_edge": 5.6,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
-      "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
       "ballpark": "Chase Field",
       "teams": [
         "AZ",
@@ -3657,9 +3636,28 @@
       "precip_pct": 2.0,
       "condition_grade": "Neutral",
       "top_player": "Spencer Jones",
-      "top_edge": 5.8,
+      "top_edge": 5.7,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Fenway Park",
+      "teams": [
+        "BOS",
+        "SF"
+      ],
+      "environment_score": 55.7,
+      "park_hr_factor": 100.0,
+      "temperature": 70.0,
+      "wind_speed": 0.0,
+      "wind_direction": "Out To RF",
+      "humidity": "",
+      "precip_pct": "",
+      "condition_grade": "Neutral",
+      "top_player": "Bryce Eldridge",
+      "top_edge": 5.5,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=42.3467&lon=-71.0972",
+      "source_note": "NOAA link only"
     },
     {
       "ballpark": "Citizens Bank Park",
@@ -3676,7 +3674,7 @@
       "precip_pct": 2.0,
       "condition_grade": "Neutral",
       "top_player": "Kyle Schwarber",
-      "top_edge": 6.8,
+      "top_edge": 6.7,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=39.9061&lon=-75.1665",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
