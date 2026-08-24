@@ -18,8 +18,8 @@
 | 14 | Corbin Carroll | AZ | Kevin Gausman | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Tyler Stephenson | CIN | Carson Whisenhunt | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Rafael Devers | SF | Chase Burns | 2 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Josh Bell | MIN | Jeffrey Springs | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Fernando Tatis | SD | Braxton Ashcraft | 1 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Fernando Tatis Jr. | SD | Braxton Ashcraft | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Josh Bell | MIN | Jeffrey Springs | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 19 | Lawrence Butler | ATH | Zebby Matthews | 4 | 57.9 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
 | 20 | Bryce Harper | PHI | Logan Gilbert | 3 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
