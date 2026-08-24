@@ -19,9 +19,9 @@
 | 15 | Bryce Harper | PHI | Logan Gilbert | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Jo Adell | CLE | George Klassen | 4 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 17 | Tyler Stephenson | CIN | Carson Whisenhunt | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Miguel Vargas | CWS | Kumar Rocker | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Rafael Devers | SF | Chase Burns | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Corey Seager | TEX | José Urquidy | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Junior Caminero | TB | Framber Valdez | 3 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Miguel Vargas | CWS | Kumar Rocker | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Rafael Devers | SF | Chase Burns | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
