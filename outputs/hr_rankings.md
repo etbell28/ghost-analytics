@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Kumar Rocker | 2 | 66.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Pete Crow-Armstrong | CHC | Merrill Kelly | 1 | 66.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Kyle Schwarber | PHI | Logan Gilbert | 1 | 64.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Esmerlyn Valdez | PIT | Robbie Ray | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Rafael Flores | PIT | Robbie Ray | 5 | 62.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 6 | Abimelec Ortiz | WSH | Ryan Feltner | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Michael Busch | CHC | Merrill Kelly | 3 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Byron Buxton | MIN | Jeffrey Springs | 2 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Ian Happ | CHC | Merrill Kelly | 5 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 10 | Seiya Suzuki | CHC | Merrill Kelly | 2 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Corey Seager | TEX |  | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Bryce Harper | PHI | Logan Gilbert | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Jo Adell | CLE | George Klassen | 3 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Miguel Vargas | CWS | Kumar Rocker | 3 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Bryce Eldridge | SF | Chase Burns | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Josh Bell | MIN | Jeffrey Springs | 3 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Brandon Lowe | PIT | Robbie Ray | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 18 | Eduardo Valencia | DET | Drew Rasmussen | 4 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Kody Clemens | MIN | Jeffrey Springs | 4 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Junior Caminero | TB | Framber Valdez | 3 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Munetaka Murakami | CWS | Kumar Rocker | 2 | 66.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Pete Crow-Armstrong | CHC | Merrill Kelly | 1 | 66.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Kyle Schwarber | PHI | Logan Gilbert | 1 | 65.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Esmerlyn Valdez | PIT | Robbie Ray | 2 | 63.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Rafael Flores | PIT | Robbie Ray | 5 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 6 | Michael Busch | CHC | Merrill Kelly | 3 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Byron Buxton | MIN | Jeffrey Springs | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Oneil Cruz | PIT | Robbie Ray | 6 | 61.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 9 | Bryce Eldridge | SF | Chase Burns | 4 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Ian Happ | CHC | Merrill Kelly | 5 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Abimelec Ortiz | WSH | Ryan Feltner | 2 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Seiya Suzuki | CHC | Merrill Kelly | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 13 | Corey Seager | TEX |  | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Max Muncy | LAD | Zebby Matthews | 9 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 15 | Bryce Harper | PHI | Logan Gilbert | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Jo Adell | CLE | George Klassen | 4 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Sal Stewart | CIN |  | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Miguel Vargas | CWS | Kumar Rocker | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Rafael Devers | SF | Chase Burns | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Brandon Lowe | PIT | Robbie Ray | 4 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
 - Munetaka Murakami + Pete Crow-Armstrong | Avg HR Score: 66.3
-- Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 65.5
+- Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 65.7
 - Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 64.1
-- Esmerlyn Valdez + Rafael Flores | Avg HR Score: 63.1
-- Rafael Flores + Abimelec Ortiz | Avg HR Score: 62.5
+- Esmerlyn Valdez + Rafael Flores | Avg HR Score: 62.7
+- Rafael Flores + Michael Busch | Avg HR Score: 62.0
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 65.8
+- Munetaka Murakami + Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 65.9
 - Pete Crow-Armstrong + Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 64.8
-- Kyle Schwarber + Esmerlyn Valdez + Rafael Flores | Avg HR Score: 63.7
-- Esmerlyn Valdez + Rafael Flores + Abimelec Ortiz | Avg HR Score: 62.8
-- Rafael Flores + Abimelec Ortiz + Michael Busch | Avg HR Score: 62.3
+- Kyle Schwarber + Esmerlyn Valdez + Rafael Flores | Avg HR Score: 63.5
+- Esmerlyn Valdez + Rafael Flores + Michael Busch | Avg HR Score: 62.4
+- Rafael Flores + Michael Busch + Byron Buxton | Avg HR Score: 61.9
 
 ## Best 4-Leg Pairings
 
 - Munetaka Murakami + Pete Crow-Armstrong + Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 65.2
-- Pete Crow-Armstrong + Kyle Schwarber + Esmerlyn Valdez + Rafael Flores | Avg HR Score: 64.3
-- Kyle Schwarber + Esmerlyn Valdez + Rafael Flores + Abimelec Ortiz | Avg HR Score: 63.3
-- Esmerlyn Valdez + Rafael Flores + Abimelec Ortiz + Michael Busch | Avg HR Score: 62.6
-- Rafael Flores + Abimelec Ortiz + Michael Busch + Byron Buxton | Avg HR Score: 62.1
+- Pete Crow-Armstrong + Kyle Schwarber + Esmerlyn Valdez + Rafael Flores | Avg HR Score: 64.2
+- Kyle Schwarber + Esmerlyn Valdez + Rafael Flores + Michael Busch | Avg HR Score: 63.1
+- Esmerlyn Valdez + Rafael Flores + Michael Busch + Byron Buxton | Avg HR Score: 62.2
+- Rafael Flores + Michael Busch + Byron Buxton + Oneil Cruz | Avg HR Score: 61.7
