@@ -12,16 +12,16 @@
 | 8 | Mike Trout | LAA | Gavin Williams | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 9 | Eduardo Valencia | DET | Ian Seymour | 5 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 10 | Rafael Devers | SF | Brady Singer | 2 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Matt Olson | ATL | Tyler Glasnow | 3 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
-| 12 | Jac Caglianone | KC | Max Scherzer | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Cal Raleigh | SEA | Aaron Nola | 5 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 14 | Esmerlyn Valdez | PIT | Michael King | 4 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Bobby Witt | KC | Max Scherzer | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Byron Buxton | MIN | Gage Jump | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Jake Bauers | MIL | Zac Thornton | 4 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Zach Neto | LAA | Gavin Williams | 1 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Joshua Baez | STL | Chris Bassitt | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 20 | Carter Jensen | KC | Max Scherzer | 1 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Pete Crow-Armstrong | CHC | Brandon Pfaadt | 1 | 60.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Matt Olson | ATL | Tyler Glasnow | 3 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
+| 13 | Jac Caglianone | KC | Max Scherzer | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Cal Raleigh | SEA | Aaron Nola | 5 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 15 | Esmerlyn Valdez | PIT | Michael King | 4 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Bobby Witt | KC | Max Scherzer | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Byron Buxton | MIN | Gage Jump | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Jake Bauers | MIL | Zac Thornton | 4 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Zach Neto | LAA | Gavin Williams | 1 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Joshua Baez | STL | Chris Bassitt | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
 
 ## Best 2-Leg Pairings
 
