@@ -12,13 +12,13 @@
 | 8 | Mike Trout | LAA | Gavin Williams | 2 | 62.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 9 | Matt Olson | ATL | Tyler Glasnow | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
 | 10 | Cal Raleigh | SEA | Aaron Nola | 5 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 11 | Bobby Witt Jr. | KC | Max Scherzer | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Byron Buxton | MIN | Gage Jump | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Zach Neto | LAA | Gavin Williams | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Esmerlyn Valdez | PIT | Michael King | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Carter Jensen | KC | Max Scherzer | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Dominic Canzone | SEA | Aaron Nola | 2 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Rafael Devers | SF | Brady Singer | 2 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Rafael Devers | SF | Brady Singer | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Bobby Witt Jr. | KC | Max Scherzer | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Byron Buxton | MIN | Gage Jump | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 14 | Zach Neto | LAA | Gavin Williams | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Esmerlyn Valdez | PIT | Michael King | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Carter Jensen | KC | Max Scherzer | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Dominic Canzone | SEA | Aaron Nola | 2 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Pete Crow-Armstrong | CHC | Brandon Pfaadt | 1 | 60.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 19 | Bryce Harper | PHI | George Kirby | 3 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 20 | Joshua Báez | STL | Chris Bassitt | 5 | 59.5 | Longshot | Watch List | Elite Power, Strong Barrel |
