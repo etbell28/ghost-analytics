@@ -2,8 +2,8 @@
   "brand": "Ghost Analytics",
   "product": "BarrelIQ",
   "date": "Wednesday, August 26, 2026",
-  "generated_at": "10:58 AM EDT",
-  "generated_iso": "2026-08-26T10:58:08.147733-04:00",
+  "generated_at": "12:24 PM EDT",
+  "generated_iso": "2026-08-26T12:24:50.452835-04:00",
   "timezone": "Eastern Time",
   "status": {
     "mode": "live_refresh",
@@ -340,52 +340,6 @@
     },
     {
       "rank": 8,
-      "player": "Yordan Alvarez",
-      "team": "HOU",
-      "opponent": "NYY",
-      "matchup": "HOU vs NYY",
-      "batting_order": "2",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Yankee Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-26T23:05:00Z",
-      "confirmed": false,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 81.1,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 63.2,
-        "environment": 38.2,
-        "lineup_opportunity": 95.5,
-        "recent_form": 36.5,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 62.5,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 9,
       "player": "Joshua Baez",
       "team": "STL",
       "opponent": "BAL",
@@ -427,6 +381,52 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 59.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 9,
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "NYY",
+      "matchup": "HOU vs NYY",
+      "batting_order": "2",
+      "pitcher": "Elmer Rodríguez",
+      "pitcher_hand": "R",
+      "ballpark": "Yankee Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "279 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "weather_humidity": "50",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-26T23:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.7,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 81.1,
+        "pitcher_vulnerability": 19.1,
+        "batted_ball_fit": 63.2,
+        "environment": 60.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 36.5,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 62.1,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -524,6 +524,53 @@
     },
     {
       "rank": 12,
+      "player": "Spencer Jones",
+      "team": "NYY",
+      "opponent": "HOU",
+      "matchup": "NYY vs HOU",
+      "batting_order": "6",
+      "pitcher": "Peter Lambert",
+      "pitcher_hand": "R",
+      "ballpark": "Yankee Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "279 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "weather_humidity": "50",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-26T23:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.6,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 73.5,
+        "pitcher_vulnerability": 33.0,
+        "batted_ball_fit": 58.3,
+        "environment": 60.7,
+        "lineup_opportunity": 71.7,
+        "recent_form": 72.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 61.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 13,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "NYM",
@@ -568,7 +615,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Hunter Goodman",
       "team": "COL",
       "opponent": "WSH",
@@ -608,53 +655,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 57.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 14,
-      "player": "Spencer Jones",
-      "team": "NYY",
-      "opponent": "HOU",
-      "matchup": "NYY vs HOU",
-      "batting_order": "6",
-      "pitcher": "Peter Lambert",
-      "pitcher_hand": "R",
-      "ballpark": "Yankee Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-26T23:05:00Z",
-      "confirmed": false,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 73.5,
-        "pitcher_vulnerability": 33.0,
-        "batted_ball_fit": 58.3,
-        "environment": 38.2,
-        "lineup_opportunity": 71.7,
-        "recent_form": 72.7,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 58.3,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -887,6 +887,51 @@
     },
     {
       "rank": 20,
+      "player": "Ben Rice",
+      "team": "NYY",
+      "opponent": "HOU",
+      "matchup": "NYY vs HOU",
+      "batting_order": "2",
+      "pitcher": "Peter Lambert",
+      "pitcher_hand": "R",
+      "ballpark": "Yankee Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "279 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "weather_humidity": "50",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-26T23:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 64.1,
+        "pitcher_vulnerability": 33.0,
+        "batted_ball_fit": 47.1,
+        "environment": 60.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 34.9,
+        "bvp_pitch_mix": 56.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 60.0,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 21,
       "player": "Bryce Harper",
       "team": "PHI",
       "opponent": "STL",
@@ -931,7 +976,7 @@
       "sheet_note": "Elite hitter/sheet power; pitcher split less targetable"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -976,7 +1021,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "ATH",
@@ -1021,7 +1066,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "player": "Mike Trout",
       "team": "LAA",
       "opponent": "CLE",
@@ -1066,7 +1111,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -1112,7 +1157,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "AZ",
@@ -1157,7 +1202,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Coby Mayo",
       "team": "BAL",
       "opponent": "STL",
@@ -1202,7 +1247,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "TEX",
@@ -1247,7 +1292,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "TEX",
@@ -1292,7 +1337,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Kyle Stowers",
       "team": "MIA",
       "opponent": "BOS",
@@ -1335,56 +1380,11 @@
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
-    },
-    {
-      "rank": 30,
-      "player": "Christian Encarnacion-Strand",
-      "team": "BAL",
-      "opponent": "STL",
-      "matchup": "BAL vs STL",
-      "batting_order": "7",
-      "pitcher": "Michael McGreevy",
-      "pitcher_hand": "R",
-      "ballpark": "Busch Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "84",
-      "wind_speed": null,
-      "wind_direction": "103 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
-      "weather_humidity": "59",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-26T23:45:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 59.2,
-        "pitcher_vulnerability": 53.9,
-        "batted_ball_fit": 46.4,
-        "environment": 44.6,
-        "lineup_opportunity": 59.8,
-        "recent_form": 48.7,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 54.3,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
     }
   ],
   "confirmed_targets": [
     {
-      "rank": 21,
+      "rank": 22,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "ATH",
@@ -1429,7 +1429,7 @@
       "sheet_note": "Ballpark Pal top hitter 27.9%; best park/weather on slate"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "player": "Jonathan Aranda",
       "team": "TB",
       "opponent": "DET",
@@ -1654,7 +1654,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 102,
+      "rank": 103,
       "player": "Kevin McGonigle",
       "team": "DET",
       "opponent": "TB",
@@ -1699,7 +1699,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 108,
+      "rank": 109,
       "player": "Colt Keith",
       "team": "DET",
       "opponent": "TB",
@@ -1744,7 +1744,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 153,
+      "rank": 151,
       "player": "Hao-Yu Lee",
       "team": "DET",
       "opponent": "TB",
@@ -1789,7 +1789,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 154,
+      "rank": 152,
       "player": "Jorge Mateo",
       "team": "TB",
       "opponent": "DET",
@@ -1879,7 +1879,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 197,
+      "rank": 194,
       "player": "Liam Hicks",
       "team": "TB",
       "opponent": "DET",
@@ -1924,7 +1924,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 214,
+      "rank": 213,
       "player": "Jonny DeLuca",
       "team": "TB",
       "opponent": "DET",
@@ -1969,7 +1969,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 221,
+      "rank": 220,
       "player": "Max Clark",
       "team": "DET",
       "opponent": "TB",
@@ -2014,7 +2014,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 224,
+      "rank": 223,
       "player": "Cedric Mullins",
       "team": "TB",
       "opponent": "DET",
@@ -2059,7 +2059,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 231,
+      "rank": 230,
       "player": "Zach McKinstry",
       "team": "DET",
       "opponent": "TB",
@@ -2104,7 +2104,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 233,
+      "rank": 232,
       "player": "Richie Palacios",
       "team": "TB",
       "opponent": "DET",
@@ -2149,7 +2149,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 246,
+      "rank": 245,
       "player": "Chandler Simpson",
       "team": "TB",
       "opponent": "DET",
@@ -2521,52 +2521,6 @@
     },
     {
       "rank": 8,
-      "player": "Yordan Alvarez",
-      "team": "HOU",
-      "opponent": "NYY",
-      "matchup": "HOU vs NYY",
-      "batting_order": "2",
-      "pitcher": "",
-      "pitcher_hand": "",
-      "ballpark": "Yankee Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-26T23:05:00Z",
-      "confirmed": false,
-      "edge_index": 5.9,
-      "ghost_grade": "B-",
-      "confidence": "Watch",
-      "volatility": "Medium",
-      "labels": [
-        "Projected",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 81.1,
-        "pitcher_vulnerability": 41.2,
-        "batted_ball_fit": 63.2,
-        "environment": 38.2,
-        "lineup_opportunity": 95.5,
-        "recent_form": 36.5,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 62.5,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 9,
       "player": "Joshua Baez",
       "team": "STL",
       "opponent": "BAL",
@@ -2608,6 +2562,52 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 59.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 9,
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "NYY",
+      "matchup": "HOU vs NYY",
+      "batting_order": "2",
+      "pitcher": "Elmer Rodríguez",
+      "pitcher_hand": "R",
+      "ballpark": "Yankee Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "279 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "weather_humidity": "50",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-26T23:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.7,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 81.1,
+        "pitcher_vulnerability": 19.1,
+        "batted_ball_fit": 63.2,
+        "environment": 60.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 36.5,
+        "bvp_pitch_mix": 54.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 62.1,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -2705,6 +2705,53 @@
     },
     {
       "rank": 12,
+      "player": "Spencer Jones",
+      "team": "NYY",
+      "opponent": "HOU",
+      "matchup": "NYY vs HOU",
+      "batting_order": "6",
+      "pitcher": "Peter Lambert",
+      "pitcher_hand": "R",
+      "ballpark": "Yankee Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "279 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "weather_humidity": "50",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-26T23:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.6,
+      "ghost_grade": "B-",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "Hot Bat",
+        "EV Edge",
+        "Tough Pitcher"
+      ],
+      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
+      "components": {
+        "hitter_power": 73.5,
+        "pitcher_vulnerability": 33.0,
+        "batted_ball_fit": 58.3,
+        "environment": 60.7,
+        "lineup_opportunity": 71.7,
+        "recent_form": 72.7,
+        "bvp_pitch_mix": 50.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 61.5,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 13,
       "player": "Jake Bauers",
       "team": "MIL",
       "opponent": "NYM",
@@ -2749,7 +2796,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Hunter Goodman",
       "team": "COL",
       "opponent": "WSH",
@@ -2789,53 +2836,6 @@
         "sheet_carry": 42
       },
       "legacy_hr_score": 57.1,
-      "sheet_score": 50.0,
-      "sheet_carry_score": 42.0,
-      "sheet_note": ""
-    },
-    {
-      "rank": 14,
-      "player": "Spencer Jones",
-      "team": "NYY",
-      "opponent": "HOU",
-      "matchup": "NYY vs HOU",
-      "batting_order": "6",
-      "pitcher": "Peter Lambert",
-      "pitcher_hand": "R",
-      "ballpark": "Yankee Stadium",
-      "park_hr_factor": 0.0,
-      "weather_temp": "",
-      "wind_speed": null,
-      "wind_direction": "",
-      "weather_source": "NOAA link only",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "weather_humidity": "",
-      "weather_precip_pct": "",
-      "game_start_time": "2026-08-26T23:05:00Z",
-      "confirmed": false,
-      "edge_index": 5.4,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Hot Bat",
-        "EV Edge",
-        "Tough Pitcher"
-      ],
-      "label_summary": "Projected + Hot Bat + EV Edge + Tough Pitcher",
-      "components": {
-        "hitter_power": 73.5,
-        "pitcher_vulnerability": 33.0,
-        "batted_ball_fit": 58.3,
-        "environment": 38.2,
-        "lineup_opportunity": 71.7,
-        "recent_form": 72.7,
-        "bvp_pitch_mix": 50.0,
-        "sheet_consensus": 50.0,
-        "sheet_carry": 42
-      },
-      "legacy_hr_score": 58.3,
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
@@ -3068,6 +3068,51 @@
     },
     {
       "rank": 20,
+      "player": "Ben Rice",
+      "team": "NYY",
+      "opponent": "HOU",
+      "matchup": "NYY vs HOU",
+      "batting_order": "2",
+      "pitcher": "Peter Lambert",
+      "pitcher_hand": "R",
+      "ballpark": "Yankee Stadium",
+      "park_hr_factor": 0.0,
+      "weather_temp": "76",
+      "wind_speed": null,
+      "wind_direction": "279 deg",
+      "weather_source": "Open-Meteo forecast; MLB fallback",
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
+      "weather_humidity": "50",
+      "weather_precip_pct": "0",
+      "game_start_time": "2026-08-26T23:05:00Z",
+      "confirmed": false,
+      "edge_index": 5.2,
+      "ghost_grade": "C+",
+      "confidence": "Longshot",
+      "volatility": "High",
+      "labels": [
+        "Projected",
+        "EV Edge"
+      ],
+      "label_summary": "Projected + EV Edge",
+      "components": {
+        "hitter_power": 64.1,
+        "pitcher_vulnerability": 33.0,
+        "batted_ball_fit": 47.1,
+        "environment": 60.7,
+        "lineup_opportunity": 95.5,
+        "recent_form": 34.9,
+        "bvp_pitch_mix": 56.0,
+        "sheet_consensus": 50.0,
+        "sheet_carry": 42
+      },
+      "legacy_hr_score": 60.0,
+      "sheet_score": 50.0,
+      "sheet_carry_score": 42.0,
+      "sheet_note": ""
+    },
+    {
+      "rank": 21,
       "player": "Bryce Harper",
       "team": "PHI",
       "opponent": "STL",
@@ -3112,7 +3157,7 @@
       "sheet_note": "Elite hitter/sheet power; pitcher split less targetable"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "player": "Byron Buxton",
       "team": "MIN",
       "opponent": "ATH",
@@ -3157,7 +3202,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "player": "Mike Trout",
       "team": "LAA",
       "opponent": "CLE",
@@ -3202,7 +3247,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player": "Drake Baldwin",
       "team": "ATL",
       "opponent": "NYM",
@@ -3248,7 +3293,7 @@
       "sheet_note": "Strong barrel/EV but ISO lower"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player": "Pete Crow-Armstrong",
       "team": "CHC",
       "opponent": "AZ",
@@ -3293,7 +3338,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player": "Coby Mayo",
       "team": "BAL",
       "opponent": "STL",
@@ -3338,7 +3383,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player": "Randal Grichuk",
       "team": "CWS",
       "opponent": "TEX",
@@ -3383,7 +3428,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player": "Miguel Vargas",
       "team": "CWS",
       "opponent": "TEX",
@@ -3428,7 +3473,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player": "Kyle Stowers",
       "team": "MIA",
       "opponent": "BOS",
@@ -3473,7 +3518,7 @@
       "sheet_note": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "player": "Christian Encarnacion-Strand",
       "team": "BAL",
       "opponent": "STL",
@@ -3516,51 +3561,6 @@
       "sheet_score": 50.0,
       "sheet_carry_score": 42.0,
       "sheet_note": ""
-    },
-    {
-      "rank": 31,
-      "player": "Ronald Acuna",
-      "team": "ATL",
-      "opponent": "NYM",
-      "matchup": "ATL vs NYM",
-      "batting_order": "2",
-      "pitcher": "Roki Sasaki",
-      "pitcher_hand": "R",
-      "ballpark": "Truist Park",
-      "park_hr_factor": 0.0,
-      "weather_temp": "83",
-      "wind_speed": null,
-      "wind_direction": "353 deg",
-      "weather_source": "Open-Meteo forecast; MLB fallback",
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.8907&lon=-84.4677",
-      "weather_humidity": "48",
-      "weather_precip_pct": "0",
-      "game_start_time": "2026-08-26T23:15:00Z",
-      "confirmed": false,
-      "edge_index": 5.1,
-      "ghost_grade": "C+",
-      "confidence": "Longshot",
-      "volatility": "High",
-      "labels": [
-        "Projected",
-        "Watch"
-      ],
-      "label_summary": "Projected + Watch",
-      "components": {
-        "hitter_power": 57.4,
-        "pitcher_vulnerability": 53.4,
-        "batted_ball_fit": 43.1,
-        "environment": 55.9,
-        "lineup_opportunity": 95.5,
-        "recent_form": 0.0,
-        "bvp_pitch_mix": 54.0,
-        "sheet_consensus": 25.7,
-        "sheet_carry": 50.0
-      },
-      "legacy_hr_score": 56.6,
-      "sheet_score": 25.7,
-      "sheet_carry_score": 50.0,
-      "sheet_note": "EV helps but ISO not HR-friendly today"
     }
   ],
   "pairings": {
@@ -3648,18 +3648,6 @@
         "reason": "independent games",
         "leg_reliability": "Pete Alonso: 61.0 / Esmerlyn Valdez: 57.5",
         "one_off_flags": "Pete Alonso: lineup/void risk, park resistance / Esmerlyn Valdez: lineup/void risk, park resistance"
-      },
-      {
-        "names": "Pete Alonso + Yordan Alvarez",
-        "teams": "BAL vs STL / HOU vs NYY",
-        "avg_edge": 6.1,
-        "combo_score": 6.24,
-        "type": "Power Pair",
-        "volatility": "Medium",
-        "labels": "Projected, Hot Bat, EV Edge / Projected, EV Edge, Tough Pitcher",
-        "reason": "independent games",
-        "leg_reliability": "Pete Alonso: 61.0 / Yordan Alvarez: 54.8",
-        "one_off_flags": "Pete Alonso: lineup/void risk, park resistance / Yordan Alvarez: lineup/void risk, park resistance, pitcher resistance, weak sheet/model agreement"
       }
     ],
     "3": [],
@@ -3685,6 +3673,16 @@
       "teams": [
         "CLE",
         "LAA"
+      ]
+    },
+    {
+      "ballpark": "Yankee Stadium",
+      "environment_score": 60.7,
+      "top_player": "Yordan Alvarez",
+      "top_edge": 5.7,
+      "teams": [
+        "HOU",
+        "NYY"
       ]
     },
     {
@@ -3755,6 +3753,25 @@
       "top_player": "Jo Adell",
       "top_edge": 5.6,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=33.8003&lon=-117.8827",
+      "source_note": "Open-Meteo forecast; MLB fallback"
+    },
+    {
+      "ballpark": "Yankee Stadium",
+      "teams": [
+        "HOU",
+        "NYY"
+      ],
+      "environment_score": 60.7,
+      "park_hr_factor": 100.0,
+      "temperature": 76.0,
+      "wind_speed": 0.0,
+      "wind_direction": "279 deg",
+      "humidity": 50.0,
+      "precip_pct": 0.0,
+      "condition_grade": "Watch",
+      "top_player": "Yordan Alvarez",
+      "top_edge": 5.7,
+      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
       "source_note": "Open-Meteo forecast; MLB fallback"
     },
     {
@@ -3983,25 +4000,6 @@
       "top_edge": 6.2,
       "weather_url": "https://forecast.weather.gov/MapClick.php?lat=38.6226&lon=-90.1928",
       "source_note": "Open-Meteo forecast; MLB fallback"
-    },
-    {
-      "ballpark": "Yankee Stadium",
-      "teams": [
-        "HOU",
-        "NYY"
-      ],
-      "environment_score": 38.2,
-      "park_hr_factor": 100.0,
-      "temperature": "",
-      "wind_speed": 0.0,
-      "wind_direction": "",
-      "humidity": "",
-      "precip_pct": "",
-      "condition_grade": "Resist",
-      "top_player": "Yordan Alvarez",
-      "top_edge": 5.9,
-      "weather_url": "https://forecast.weather.gov/MapClick.php?lat=40.8296&lon=-73.9262",
-      "source_note": "NOAA link only"
     }
   ],
   "label_definitions": {
