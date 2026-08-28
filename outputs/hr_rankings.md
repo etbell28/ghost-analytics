@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Gerrit Cole | 2 | 67.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Bryce Eldridge | SF | Jose Cabrera | 3 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Ben Rice | NYY | Hayden Wesneski | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Spencer Jones | NYY | Hayden Wesneski | 6 | 62.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 5 | Rafael Devers | SF | Jose Cabrera | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Luis García Jr. | NYY | Hayden Wesneski | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Jackson Chourio | MIL | Sean Manaea | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Matt Olson | ATL | Yoshinobu Yamamoto | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
-| 9 | Jonah Cox | SF | Jose Cabrera | 4 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Jac Caglianone | KC | Spencer Arrighetti | 3 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Shohei Ohtani | LAD | Chris Sale | 1 | 57.4 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 12 | William Contreras | MIL | Sean Manaea | 3 | 57.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 13 | Carter Jensen | KC | Spencer Arrighetti | 1 | 56.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Bobby Witt Jr. | KC | Spencer Arrighetti | 2 | 55.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Andrew Vaughn | MIL | Sean Manaea | 4 | 55.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Trent Grisham | NYY | Hayden Wesneski | 1 | 55.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Gary Sánchez | MIL | Sean Manaea | 5 | 54.0 | Longshot | Watch List | Platoon Edge |
-| 18 | Daulton Varsho | HOU | Gerrit Cole | 5 | 53.1 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 19 | Vinnie Pasquantino | KC | Spencer Arrighetti | 4 | 53.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Shay Whitcomb | SF | Jose Cabrera | 6 | 52.3 | Longshot | Watch List | Strong Barrel |
+| 1 | Pete Alonso | BAL |  | 2 | 67.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Matt Olson | ATL | Tomoyuki Sugano | 3 | 66.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
+| 3 | Shohei Ohtani | LAD | Drew Anderson | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Yordan Alvarez | HOU | Christian Scott | 2 | 62.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Drake Baldwin | ATL | Tomoyuki Sugano | 1 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 6 | Jackson Chourio | MIL | Cody Bradford | 1 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Joshua Baez | STL | Jared Jones | 5 | 60.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 8 | Bryce Eldridge | SF |  | 3 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Jac Caglianone | KC | Tanner Bibee | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Rafael Devers | SF |  | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Christian Encarnacion-Strand | BAL |  | 5 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 12 | Carter Jensen | KC | Tanner Bibee | 1 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Michael Harris | ATL | Tomoyuki Sugano | 5 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 14 | Jonah Cox | SF |  | 4 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Spencer Jones | NYY | Patrick Sandoval | 6 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 16 | Ben Rice | NYY | Patrick Sandoval | 2 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Alec Burleson | STL | Jared Jones | 4 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Bobby Witt | KC | Tanner Bibee | 2 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | William Contreras | MIL | Cody Bradford | 3 | 55.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 20 | Andres Chaparro | WSH | Eury Pérez | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Bryce Eldridge | Avg HR Score: 65.7
-- Bryce Eldridge + Ben Rice | Avg HR Score: 63.2
-- Ben Rice + Spencer Jones | Avg HR Score: 62.7
-- Spencer Jones + Rafael Devers | Avg HR Score: 62.4
-- Rafael Devers + Luis García Jr. | Avg HR Score: 61.1
+- Pete Alonso + Matt Olson | Avg HR Score: 66.9
+- Matt Olson + Shohei Ohtani | Avg HR Score: 64.7
+- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 62.3
+- Yordan Alvarez + Drake Baldwin | Avg HR Score: 61.7
+- Drake Baldwin + Jackson Chourio | Avg HR Score: 61.1
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Bryce Eldridge + Ben Rice | Avg HR Score: 64.7
-- Bryce Eldridge + Ben Rice + Spencer Jones | Avg HR Score: 63.0
-- Ben Rice + Spencer Jones + Rafael Devers | Avg HR Score: 62.6
-- Spencer Jones + Rafael Devers + Luis García Jr. | Avg HR Score: 61.6
-- Rafael Devers + Luis García Jr. + Jackson Chourio | Avg HR Score: 60.6
+- Pete Alonso + Matt Olson + Shohei Ohtani | Avg HR Score: 65.4
+- Matt Olson + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 63.8
+- Shohei Ohtani + Yordan Alvarez + Drake Baldwin | Avg HR Score: 61.9
+- Yordan Alvarez + Drake Baldwin + Jackson Chourio | Avg HR Score: 61.4
+- Drake Baldwin + Jackson Chourio + Joshua Baez | Avg HR Score: 61.0
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Bryce Eldridge + Ben Rice + Spencer Jones | Avg HR Score: 64.2
-- Bryce Eldridge + Ben Rice + Spencer Jones + Rafael Devers | Avg HR Score: 62.8
-- Ben Rice + Spencer Jones + Rafael Devers + Luis García Jr. | Avg HR Score: 61.9
-- Spencer Jones + Rafael Devers + Luis García Jr. + Jackson Chourio | Avg HR Score: 61.0
-- Rafael Devers + Luis García Jr. + Jackson Chourio + Matt Olson | Avg HR Score: 60.2
+- Pete Alonso + Matt Olson + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 64.6
+- Matt Olson + Shohei Ohtani + Yordan Alvarez + Drake Baldwin | Avg HR Score: 63.1
+- Shohei Ohtani + Yordan Alvarez + Drake Baldwin + Jackson Chourio | Avg HR Score: 61.7
+- Yordan Alvarez + Drake Baldwin + Jackson Chourio + Joshua Baez | Avg HR Score: 61.2
+- Drake Baldwin + Jackson Chourio + Joshua Baez + Bryce Eldridge | Avg HR Score: 60.8
