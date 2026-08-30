@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Kyle Schwarber | PHI | Ryan Johnson | 1 | 68.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Pete Alonso | BAL | Jack Perkins | 2 | 65.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Bryce Harper | PHI | Ryan Johnson | 3 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Corbin Carroll | AZ | Yunior Marte | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Bryce Eldridge | SF | Mitch Bratt | 3 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 6 | Rafael Devers | SF | Mitch Bratt | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Christian Encarnacion-Strand | BAL | Jack Perkins | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 8 | Mike Trout | LAA | Cristopher Sánchez | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Lars Nootbaar | AZ | Yunior Marte | 1 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Jonah Cox | SF | Mitch Bratt | 1 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Zach Neto | LAA | Cristopher Sánchez | 1 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Samuel Basallo | BAL | Jack Perkins | 5 | 54.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 13 | Lawrence Butler | ATH | Shane Baz | 4 | 53.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 14 | Jose Siri | LAA | Cristopher Sánchez | 4 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Gunnar Henderson | BAL | Jack Perkins | 3 | 52.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Max Kepler | AZ | Yunior Marte | 5 | 51.2 | Longshot | Watch List | Platoon Edge |
-| 17 | Coby Mayo | BAL | Jack Perkins | 7 | 50.8 | Longshot | Watch List | Strong Barrel |
-| 18 | Dylan Beavers | BAL | Jack Perkins | 6 | 50.4 | Longshot | Watch List | Platoon Edge |
-| 19 | Tim Tawa | AZ | Yunior Marte | 6 | 49.8 | Longshot | Watch List | No major boost |
-| 20 | Zack Gelof | ATH | Shane Baz | 3 | 49.7 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Kyle Schwarber | PHI | Yusei Kikuchi | 1 | 67.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Munetaka Murakami | CWS | Zebby Matthews | 2 | 66.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Pete Alonso | BAL |  | 2 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 4 | Juan Soto | NYM | Ethan Pecko | 2 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Sal Stewart | CIN | Shota Imanaga | 3 | 63.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Yordan Alvarez | HOU | Zac Thornton | 2 | 62.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Oneil Cruz | PIT | Matthew Liberatore | 5 | 62.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 8 | Matt Olson | ATL | Mason Adams | 3 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
+| 9 | Bryce Harper | PHI | Yusei Kikuchi | 3 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Elly De La Cruz | CIN | Shota Imanaga | 2 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Jake Bauers | MIL | Kumar Rocker | 3 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Cal Raleigh | SEA | Max Scherzer | 5 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 13 | Junior Caminero | TB | Robbie Ray | 3 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Christian Encarnacion-Strand | BAL |  | 4 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Wilyer Abreu | BOS | Will Warren | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Shohei Ohtani | LAD | Framber Valdez | 1 | 59.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Dominic Canzone | SEA | Max Scherzer | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Corey Seager | TEX | Dustin May | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Pete Crow-Armstrong | CHC | Chase Burns | 1 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Tyler Stephenson | CIN | Shota Imanaga | 5 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Pete Alonso | Avg HR Score: 66.9
-- Pete Alonso + Bryce Harper | Avg HR Score: 63.8
-- Bryce Harper + Corbin Carroll | Avg HR Score: 61.0
-- Corbin Carroll + Bryce Eldridge | Avg HR Score: 59.5
-- Bryce Eldridge + Rafael Devers | Avg HR Score: 59.0
+- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 67.0
+- Munetaka Murakami + Pete Alonso | Avg HR Score: 65.5
+- Pete Alonso + Juan Soto | Avg HR Score: 64.1
+- Juan Soto + Sal Stewart | Avg HR Score: 64.0
+- Sal Stewart + Yordan Alvarez | Avg HR Score: 63.1
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Pete Alonso + Bryce Harper | Avg HR Score: 65.4
-- Pete Alonso + Bryce Harper + Corbin Carroll | Avg HR Score: 62.4
-- Bryce Harper + Corbin Carroll + Bryce Eldridge | Avg HR Score: 60.5
-- Corbin Carroll + Bryce Eldridge + Rafael Devers | Avg HR Score: 59.2
-- Bryce Eldridge + Rafael Devers + Christian Encarnacion-Strand | Avg HR Score: 58.8
+- Kyle Schwarber + Munetaka Murakami + Pete Alonso | Avg HR Score: 66.1
+- Munetaka Murakami + Pete Alonso + Juan Soto | Avg HR Score: 65.0
+- Pete Alonso + Juan Soto + Sal Stewart | Avg HR Score: 64.0
+- Juan Soto + Sal Stewart + Yordan Alvarez | Avg HR Score: 63.4
+- Sal Stewart + Yordan Alvarez + Oneil Cruz | Avg HR Score: 62.8
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Pete Alonso + Bryce Harper + Corbin Carroll | Avg HR Score: 63.9
-- Pete Alonso + Bryce Harper + Corbin Carroll + Bryce Eldridge | Avg HR Score: 61.7
-- Bryce Harper + Corbin Carroll + Bryce Eldridge + Rafael Devers | Avg HR Score: 60.0
-- Corbin Carroll + Bryce Eldridge + Rafael Devers + Christian Encarnacion-Strand | Avg HR Score: 59.0
-- Bryce Eldridge + Rafael Devers + Christian Encarnacion-Strand + Mike Trout | Avg HR Score: 58.7
+- Kyle Schwarber + Munetaka Murakami + Pete Alonso + Juan Soto | Avg HR Score: 65.6
+- Munetaka Murakami + Pete Alonso + Juan Soto + Sal Stewart | Avg HR Score: 64.7
+- Pete Alonso + Juan Soto + Sal Stewart + Yordan Alvarez | Avg HR Score: 63.6
+- Juan Soto + Sal Stewart + Yordan Alvarez + Oneil Cruz | Avg HR Score: 63.1
+- Sal Stewart + Yordan Alvarez + Oneil Cruz + Matt Olson | Avg HR Score: 62.5
