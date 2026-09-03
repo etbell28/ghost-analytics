@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Luis Castillo | 2 | 71.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Kyle Stowers | MIA | Michael Wacha | 2 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 2 | Lazaro Montes | SEA | Jack Perkins | 7 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 3 | Bryce Eldridge | SF | Lake Bachar | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Rafael Devers | SF | Lake Bachar | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Munetaka Murakami | CWS | Hunter Brown | 2 | 61.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Kyle Stowers | MIA | Michael Wacha | 1 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Joshua Baez | STL | Tarik Skubal | 5 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 8 | Junior Caminero | TB | Cal Quantrill | 3 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Pete Crow-Armstrong | CHC | Logan Henderson | 1 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Carter Jensen | KC | Sandy Alcantara | 1 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Jonathan Aranda | TB | Cal Quantrill | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Jake Bauers | MIL | Kevin Gausman | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Jac Caglianone | KC | Sandy Alcantara | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Oneil Cruz | PIT | Blade Tidwell | 5 | 58.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 15 | Jackson Chourio | MIL | Kevin Gausman | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Corey Seager | TEX | Shane McClanahan | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Leo Bernal | STL | Tarik Skubal | 6 | 58.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 18 | Pete Alonso | BAL | Jake Bennett | 2 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Cal Raleigh | SEA | Jack Perkins | 4 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Roman Anthony | BOS | Brandon Young | 1 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Carter Jensen | KC | Sandy Alcantara | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Jac Caglianone | KC | Sandy Alcantara | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Junior Caminero | TB | Cal Quantrill | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Joshua Baez | STL | Tarik Skubal | 5 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 7 | Roman Anthony | BOS | Brandon Young | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Wilyer Abreu | BOS | Brandon Young | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Pete Alonso | BAL | Jake Bennett | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Griffin Conine | MIA | Michael Wacha | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Jonathan Aranda | TB | Cal Quantrill | 4 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Pete Crow-Armstrong | CHC | Logan Henderson | 1 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Corey Seager | TEX | Shane McClanahan | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Heriberto Hernández | MIA | Michael Wacha | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Leo Bernal | STL | Tarik Skubal | 6 | 58.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 16 | Cal Raleigh | SEA | Jack Perkins | 4 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Jake Bauers | MIL | Kevin Gausman | 4 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Dominic Canzone | SEA | Jack Perkins | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Justin Foscue | TEX | Shane McClanahan | 5 | 57.2 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 20 | Coby Mayo | BAL | Jake Bennett | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Lazaro Montes | Avg HR Score: 67.8
-- Lazaro Montes + Bryce Eldridge | Avg HR Score: 63.6
-- Bryce Eldridge + Rafael Devers | Avg HR Score: 62.3
-- Rafael Devers + Munetaka Murakami | Avg HR Score: 61.6
-- Munetaka Murakami + Kyle Stowers | Avg HR Score: 61.4
+- Kyle Stowers + Lazaro Montes | Avg HR Score: 64.7
+- Lazaro Montes + Carter Jensen | Avg HR Score: 63.4
+- Carter Jensen + Jac Caglianone | Avg HR Score: 61.8
+- Jac Caglianone + Junior Caminero | Avg HR Score: 61.0
+- Junior Caminero + Joshua Baez | Avg HR Score: 60.6
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Lazaro Montes + Bryce Eldridge | Avg HR Score: 66.1
-- Lazaro Montes + Bryce Eldridge + Rafael Devers | Avg HR Score: 63.0
-- Bryce Eldridge + Rafael Devers + Munetaka Murakami | Avg HR Score: 62.0
-- Rafael Devers + Munetaka Murakami + Kyle Stowers | Avg HR Score: 61.6
-- Munetaka Murakami + Kyle Stowers + Joshua Baez | Avg HR Score: 61.1
+- Kyle Stowers + Lazaro Montes + Carter Jensen | Avg HR Score: 63.9
+- Lazaro Montes + Carter Jensen + Jac Caglianone | Avg HR Score: 62.6
+- Carter Jensen + Jac Caglianone + Junior Caminero | Avg HR Score: 61.4
+- Jac Caglianone + Junior Caminero + Joshua Baez | Avg HR Score: 60.8
+- Junior Caminero + Joshua Baez + Roman Anthony | Avg HR Score: 60.4
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Lazaro Montes + Bryce Eldridge + Rafael Devers | Avg HR Score: 65.0
-- Lazaro Montes + Bryce Eldridge + Rafael Devers + Munetaka Murakami | Avg HR Score: 62.6
-- Bryce Eldridge + Rafael Devers + Munetaka Murakami + Kyle Stowers | Avg HR Score: 61.9
-- Rafael Devers + Munetaka Murakami + Kyle Stowers + Joshua Baez | Avg HR Score: 61.3
-- Munetaka Murakami + Kyle Stowers + Joshua Baez + Junior Caminero | Avg HR Score: 60.9
+- Kyle Stowers + Lazaro Montes + Carter Jensen + Jac Caglianone | Avg HR Score: 63.2
+- Lazaro Montes + Carter Jensen + Jac Caglianone + Junior Caminero | Avg HR Score: 62.2
+- Carter Jensen + Jac Caglianone + Junior Caminero + Joshua Baez | Avg HR Score: 61.2
+- Jac Caglianone + Junior Caminero + Joshua Baez + Roman Anthony | Avg HR Score: 60.6
+- Junior Caminero + Joshua Baez + Roman Anthony + Wilyer Abreu | Avg HR Score: 60.2
