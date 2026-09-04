@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Lazaro Montes | SEA | Jack Perkins | 7 | 66.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 2 | Kyle Stowers | MIA | Michael Wacha | 2 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Joshua Báez | STL | Tarik Skubal | 4 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Carter Jensen | KC | Sandy Alcantara | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Leo Bernal | STL | Tarik Skubal | 5 | 62.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 6 | Jac Caglianone | KC | Sandy Alcantara | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 7 | Junior Caminero | TB | Cal Quantrill | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 8 | Cal Raleigh | SEA | Jack Perkins | 4 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Roman Anthony | BOS | Brandon Young | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Dominic Canzone | SEA | Jack Perkins | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Wilyer Abreu | BOS | Brandon Young | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Pete Alonso | BAL | Jake Bennett | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Griffin Conine | MIA | Michael Wacha | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Jonathan Aranda | TB | Cal Quantrill | 4 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Pete Crow-Armstrong | CHC | Logan Henderson | 1 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Corey Seager | TEX | Shane McClanahan | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Heriberto Hernández | MIA | Michael Wacha | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 18 | Jake Bauers | MIL | Kevin Gausman | 4 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Jordan Walker | STL | Tarik Skubal | 3 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Justin Foscue | TEX | Shane McClanahan | 5 | 57.2 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 1 | Lazaro Montes | SEA | Jack Perkins | 7 | 66.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 2 | Joshua Báez | STL | Tarik Skubal | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Leo Bernal | STL | Tarik Skubal | 5 | 61.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 4 | Cal Raleigh | SEA | Jack Perkins | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Dominic Canzone | SEA | Jack Perkins | 2 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Jordan Walker | STL | Tarik Skubal | 3 | 57.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Randy Arozarena | SEA | Jack Perkins | 1 | 51.6 | Longshot | Watch List | Premium Lineup Spot |
+| 8 | Julio Rodríguez | SEA | Jack Perkins | 3 | 51.3 | Longshot | Watch List | Premium Lineup Spot |
+| 9 | Thomas Saggese | STL | Tarik Skubal | 7 | 50.9 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 10 | Teoscar Hernández | LAD | Quinn Mathews | 3 | 50.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ramón Urías | STL | Tarik Skubal | 6 | 50.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Iván Herrera | STL | Tarik Skubal | 2 | 50.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 13 | Will Smith | LAD | Quinn Mathews | 5 | 49.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 14 | Zack Gelof | ATH | Kade Anderson | 2 | 49.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 15 | Henry Bolte | ATH | Kade Anderson | 1 | 48.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 16 | Freddie Freeman | LAD | Quinn Mathews | 4 | 47.9 | Longshot | Watch List | Premium Lineup Spot |
+| 17 | Brian Serven | ATH | Kade Anderson | 7 | 47.4 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 18 | Mookie Betts | LAD | Quinn Mathews | 2 | 47.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 19 | Lawrence Butler | ATH | Kade Anderson | 3 | 46.2 | Longshot | Watch List | Premium Lineup Spot |
+| 20 | Jonah Heim | ATH | Kade Anderson | 4 | 45.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Lazaro Montes + Kyle Stowers | Avg HR Score: 65.9
-- Kyle Stowers + Joshua Báez | Avg HR Score: 64.5
-- Joshua Báez + Carter Jensen | Avg HR Score: 63.2
-- Carter Jensen + Leo Bernal | Avg HR Score: 62.2
-- Leo Bernal + Jac Caglianone | Avg HR Score: 61.7
+- Lazaro Montes + Joshua Báez | Avg HR Score: 65.2
+- Joshua Báez + Leo Bernal | Avg HR Score: 62.8
+- Leo Bernal + Cal Raleigh | Avg HR Score: 61.0
+- Cal Raleigh + Dominic Canzone | Avg HR Score: 60.0
+- Dominic Canzone + Jordan Walker | Avg HR Score: 58.4
 
 ## Best 3-Leg Pairings
 
-- Lazaro Montes + Kyle Stowers + Joshua Báez | Avg HR Score: 65.3
-- Kyle Stowers + Joshua Báez + Carter Jensen | Avg HR Score: 63.8
-- Joshua Báez + Carter Jensen + Leo Bernal | Avg HR Score: 62.8
-- Carter Jensen + Leo Bernal + Jac Caglianone | Avg HR Score: 61.9
-- Leo Bernal + Jac Caglianone + Junior Caminero | Avg HR Score: 61.4
+- Lazaro Montes + Joshua Báez + Leo Bernal | Avg HR Score: 64.1
+- Joshua Báez + Leo Bernal + Cal Raleigh | Avg HR Score: 61.9
+- Leo Bernal + Cal Raleigh + Dominic Canzone | Avg HR Score: 60.6
+- Cal Raleigh + Dominic Canzone + Jordan Walker | Avg HR Score: 59.0
+- Dominic Canzone + Jordan Walker + Randy Arozarena | Avg HR Score: 56.1
 
 ## Best 4-Leg Pairings
 
-- Lazaro Montes + Kyle Stowers + Joshua Báez + Carter Jensen | Avg HR Score: 64.5
-- Kyle Stowers + Joshua Báez + Carter Jensen + Leo Bernal | Avg HR Score: 63.4
-- Joshua Báez + Carter Jensen + Leo Bernal + Jac Caglianone | Avg HR Score: 62.4
-- Carter Jensen + Leo Bernal + Jac Caglianone + Junior Caminero | Avg HR Score: 61.6
-- Leo Bernal + Jac Caglianone + Junior Caminero + Cal Raleigh | Avg HR Score: 61.1
+- Lazaro Montes + Joshua Báez + Leo Bernal + Cal Raleigh | Avg HR Score: 63.1
+- Joshua Báez + Leo Bernal + Cal Raleigh + Dominic Canzone | Avg HR Score: 61.4
+- Leo Bernal + Cal Raleigh + Dominic Canzone + Jordan Walker | Avg HR Score: 59.7
+- Cal Raleigh + Dominic Canzone + Jordan Walker + Randy Arozarena | Avg HR Score: 57.2
+- Dominic Canzone + Jordan Walker + Randy Arozarena + Julio Rodríguez | Avg HR Score: 54.9
