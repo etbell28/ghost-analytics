@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Merrill Kelly | 2 | 70.6 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Carter Jensen | KC | Jameson Taillon | 1 | 70.1 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Jac Caglianone | KC | Jameson Taillon | 3 | 69.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 4 | Munetaka Murakami | CWS | Zebby Matthews | 3 | 67.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Leo Bernal | STL | Ryan Feltner | 5 | 65.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 6 | Oneil Cruz | PIT | Ryan Johnson | 5 | 64.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 7 | Bobby Witt Jr. | KC | Jameson Taillon | 2 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 8 | Joshua Báez | STL | Ryan Feltner | 6 | 63.5 | Tier 3 | Watch List | Strong Barrel, Good Environment |
-| 9 | Brandon Lowe | PIT | Ryan Johnson | 2 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Salvador Perez | KC | Jameson Taillon | 4 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 11 | Corey Seager | TEX | Nick Martinez | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Jordan Walker | STL | Ryan Feltner | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 13 | Juan Soto | NYM | Matt Wilkinson | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Alec Burleson | STL | Ryan Feltner | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 15 | Kody Clemens | MIN | Erick Fedde | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Colson Montgomery | CWS | Zebby Matthews | 5 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Heriberto Hernández | MIA | Shota Imanaga | 1 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Spencer Jones | NYY | Walker Buehler | 6 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 19 | Roman Anthony | BOS | Shane Baz | 1 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Bryce Eldridge | SF | Nolan McLean | 3 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Leo Bernal | STL | Ryan Feltner | 5 | 65.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 2 | Joshua Báez | STL | Ryan Feltner | 6 | 63.6 | Tier 3 | Watch List | Strong Barrel, Good Environment |
+| 3 | Spencer Jones | NYY | Walker Buehler | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Jordan Walker | STL | Ryan Feltner | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 5 | Alec Burleson | STL | Ryan Feltner | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 6 | Yohandy Morales | WSH | Blake Snell | 6 | 60.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 7 | Ben Rice | NYY | Walker Buehler | 1 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Hunter Goodman | COL | Andre Pallante | 3 | 57.0 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 9 | Mickey Moniak | COL | Andre Pallante | 2 | 55.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Luis García Jr. | NYY | Walker Buehler | 3 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Teoscar Hernández | LAD | Jackson Kent | 3 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | James Wood | WSH | Blake Snell | 1 | 54.6 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 13 | Will Smith | LAD | Jackson Kent | 4 | 54.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Iván Herrera | STL | Ryan Feltner | 2 | 53.6 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
+| 15 | Nolan Gorman | STL | Ryan Feltner | 7 | 53.2 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 16 | Max Muncy | LAD | Jackson Kent | 5 | 53.0 | Longshot | Watch List | Strong Barrel |
+| 17 | Dominic Canzone | SEA | Kade Morris | 2 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Thomas Saggese | STL | Ryan Feltner | 8 | 52.8 | Longshot | Watch List | Strong Barrel, Good Environment, Hot Hitter/Streak |
+| 19 | Cal Raleigh | SEA | Kade Morris | 4 | 52.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Lazaro Montes | SEA | Kade Morris | 8 | 52.3 | Longshot | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Carter Jensen | Avg HR Score: 70.3
-- Carter Jensen + Jac Caglianone | Avg HR Score: 69.5
-- Jac Caglianone + Munetaka Murakami | Avg HR Score: 68.2
-- Munetaka Murakami + Leo Bernal | Avg HR Score: 66.5
-- Leo Bernal + Oneil Cruz | Avg HR Score: 65.1
+- Leo Bernal + Joshua Báez | Avg HR Score: 64.7
+- Joshua Báez + Spencer Jones | Avg HR Score: 63.3
+- Spencer Jones + Jordan Walker | Avg HR Score: 62.0
+- Jordan Walker + Alec Burleson | Avg HR Score: 61.0
+- Alec Burleson + Yohandy Morales | Avg HR Score: 60.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Carter Jensen + Jac Caglianone | Avg HR Score: 69.9
-- Carter Jensen + Jac Caglianone + Munetaka Murakami | Avg HR Score: 68.8
-- Jac Caglianone + Munetaka Murakami + Leo Bernal | Avg HR Score: 67.3
-- Munetaka Murakami + Leo Bernal + Oneil Cruz | Avg HR Score: 65.9
-- Leo Bernal + Oneil Cruz + Bobby Witt Jr. | Avg HR Score: 64.6
+- Leo Bernal + Joshua Báez + Spencer Jones | Avg HR Score: 64.1
+- Joshua Báez + Spencer Jones + Jordan Walker | Avg HR Score: 62.6
+- Spencer Jones + Jordan Walker + Alec Burleson | Avg HR Score: 61.7
+- Jordan Walker + Alec Burleson + Yohandy Morales | Avg HR Score: 60.9
+- Alec Burleson + Yohandy Morales + Ben Rice | Avg HR Score: 60.1
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Carter Jensen + Jac Caglianone + Munetaka Murakami | Avg HR Score: 69.3
-- Carter Jensen + Jac Caglianone + Munetaka Murakami + Leo Bernal | Avg HR Score: 68.0
-- Jac Caglianone + Munetaka Murakami + Leo Bernal + Oneil Cruz | Avg HR Score: 66.7
-- Munetaka Murakami + Leo Bernal + Oneil Cruz + Bobby Witt Jr. | Avg HR Score: 65.3
-- Leo Bernal + Oneil Cruz + Bobby Witt Jr. + Joshua Báez | Avg HR Score: 64.3
+- Leo Bernal + Joshua Báez + Spencer Jones + Jordan Walker | Avg HR Score: 63.4
+- Joshua Báez + Spencer Jones + Jordan Walker + Alec Burleson | Avg HR Score: 62.2
+- Spencer Jones + Jordan Walker + Alec Burleson + Yohandy Morales | Avg HR Score: 61.4
+- Jordan Walker + Alec Burleson + Yohandy Morales + Ben Rice | Avg HR Score: 60.4
+- Alec Burleson + Yohandy Morales + Ben Rice + Hunter Goodman | Avg HR Score: 59.4
