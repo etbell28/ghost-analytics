@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Andrew Painter | 2 | 66.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Hayden Wesneski | 1 | 65.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | James Wood | WSH | Casey Mize | 1 | 64.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Aaron Judge | NYY | Gabriel Hughes | 3 | 64.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 5 | Riley Greene | DET | Dean Kremer | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Yohandy Morales | WSH | Casey Mize | 7 | 62.2 | Tier 3 | Watch List | Elite Power, Strong Barrel |
-| 7 | Carter Jensen | KC | Corbin Burnes | 1 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Pete Alonso | BAL | Tanner Bibee | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Elly De La Cruz | CIN | Tarik Skubal | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Oneil Cruz | PIT | Sean Burke | 4 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Teoscar Hernández | LAD | Nick Lodolo | 5 | 60.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 12 | Matt Olson | ATL | Freddy Peralta | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Sheet Consensus |
-| 13 | Munetaka Murakami | CWS | Bubba Chandler | 3 | 59.9 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Will Smith | LAD | Nick Lodolo | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 15 | Spencer Jones | NYY | Gabriel Hughes | 5 | 59.6 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
-| 16 | Juan Soto | NYM | Sandy Alcantara | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Ronald Acuña Jr. | ATL | Freddy Peralta | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Heriberto Hernández | MIA | Sean Manaea | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Jonathan Aranda | TB | AJ Smith-Shawver | 2 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Cal Raleigh | SEA | Cal Quantrill | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | James Wood | WSH | Casey Mize | 1 | 64.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Elly De La Cruz | CIN | Tarik Skubal | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Yohandy Morales | WSH | Casey Mize | 7 | 62.0 | Tier 3 | Watch List | Elite Power, Strong Barrel |
+| 4 | Teoscar Hernández | LAD | Nick Lodolo | 5 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 5 | Will Smith | LAD | Nick Lodolo | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 6 | Cal Raleigh | SEA | Cal Quantrill | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Corey Seager | TEX | Bryce Miller | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Sal Stewart | CIN | Tarik Skubal | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Mookie Betts | LAD | Nick Lodolo | 2 | 58.7 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Dominic Canzone | SEA | Cal Quantrill | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Tyler Stephenson | CIN | Tarik Skubal | 4 | 57.3 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Freddie Freeman | LAD | Nick Lodolo | 4 | 56.8 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
+| 13 | Fernando Tatis Jr. | SD | Riley Cornelio | 1 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Rafael Devers | SF | Quinn Mathews | 2 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Max Muncy | LAD | Nick Lodolo | 8 | 56.0 | Longshot | Watch List | Strong Barrel, Good Environment |
+| 16 | Eugenio Suárez | CIN | Tarik Skubal | 5 | 55.2 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 17 | Joc Pederson | TEX | Bryce Miller | 1 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Alec Burleson | STL | Landen Roupp | 3 | 54.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Manny Machado | SD | Riley Cornelio | 3 | 54.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Bryce Eldridge | SF | Quinn Mathews | 3 | 54.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 66.4
-- Kyle Schwarber + James Wood | Avg HR Score: 65.4
-- James Wood + Aaron Judge | Avg HR Score: 64.5
-- Aaron Judge + Riley Greene | Avg HR Score: 63.1
-- Riley Greene + Yohandy Morales | Avg HR Score: 62.2
+- James Wood + Elly De La Cruz | Avg HR Score: 63.5
+- Elly De La Cruz + Yohandy Morales | Avg HR Score: 62.1
+- Yohandy Morales + Teoscar Hernández | Avg HR Score: 61.5
+- Teoscar Hernández + Will Smith | Avg HR Score: 60.6
+- Will Smith + Cal Raleigh | Avg HR Score: 60.0
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + James Wood | Avg HR Score: 65.9
-- Kyle Schwarber + James Wood + Aaron Judge | Avg HR Score: 65.0
-- James Wood + Aaron Judge + Riley Greene | Avg HR Score: 63.7
-- Aaron Judge + Riley Greene + Yohandy Morales | Avg HR Score: 62.8
-- Riley Greene + Yohandy Morales + Carter Jensen | Avg HR Score: 61.9
+- James Wood + Elly De La Cruz + Yohandy Morales | Avg HR Score: 63.0
+- Elly De La Cruz + Yohandy Morales + Teoscar Hernández | Avg HR Score: 61.7
+- Yohandy Morales + Teoscar Hernández + Will Smith | Avg HR Score: 61.1
+- Teoscar Hernández + Will Smith + Cal Raleigh | Avg HR Score: 60.3
+- Will Smith + Cal Raleigh + Corey Seager | Avg HR Score: 59.8
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + James Wood + Aaron Judge | Avg HR Score: 65.5
-- Kyle Schwarber + James Wood + Aaron Judge + Riley Greene | Avg HR Score: 64.3
-- James Wood + Aaron Judge + Riley Greene + Yohandy Morales | Avg HR Score: 63.4
-- Aaron Judge + Riley Greene + Yohandy Morales + Carter Jensen | Avg HR Score: 62.4
-- Riley Greene + Yohandy Morales + Carter Jensen + Pete Alonso | Avg HR Score: 61.7
+- James Wood + Elly De La Cruz + Yohandy Morales + Teoscar Hernández | Avg HR Score: 62.5
+- Elly De La Cruz + Yohandy Morales + Teoscar Hernández + Will Smith | Avg HR Score: 61.4
+- Yohandy Morales + Teoscar Hernández + Will Smith + Cal Raleigh | Avg HR Score: 60.7
+- Teoscar Hernández + Will Smith + Cal Raleigh + Corey Seager | Avg HR Score: 60.1
+- Will Smith + Cal Raleigh + Corey Seager + Sal Stewart | Avg HR Score: 59.6
