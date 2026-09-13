@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Kyle Leahy | 4 | 67.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Jake Bauers | MIL | Brady Singer | 3 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Corey Seager | TEX | Brandon Pfaadt | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Elly De La Cruz | CIN | Shane Drohan | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Kyle Schwarber | PHI | Tyler Mahle | 1 | 62.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Shea Langeliers | ATH | Bryan Woo | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Cal Raleigh | SEA | Gage Jump | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 8 | Jackson Chourio | MIL | Brady Singer | 1 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 9 | Corbin Carroll | AZ | Kumar Rocker | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 10 | Sal Stewart | CIN | Shane Drohan | 3 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Ketel Marte | AZ | Kumar Rocker | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Joshua Báez | STL | Sean Newcomb | 4 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Joc Pederson | TEX | Brandon Pfaadt | 1 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Lars Nootbaar | AZ | Kumar Rocker | 1 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Kyle Teel | CWS | Kyle Leahy | 2 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Brice Turang | MIL | Brady Singer | 2 | 57.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Garrett Mitchell | MIL | Brady Singer | 6 | 57.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Miguel Vargas | CWS | Kyle Leahy | 3 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Tyler Stephenson | CIN | Shane Drohan | 4 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Christian Yelich | MIL | Brady Singer | 4 | 56.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 1 | Corey Seager | TEX | Brandon Pfaadt | 2 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Shea Langeliers | ATH | Bryan Woo | 4 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Cal Raleigh | SEA | Gage Jump | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 4 | Corbin Carroll | AZ | Kumar Rocker | 5 | 59.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 5 | Ketel Marte | AZ | Kumar Rocker | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Joc Pederson | TEX | Brandon Pfaadt | 1 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Lars Nootbaar | AZ | Kumar Rocker | 1 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Dominic Canzone | SEA | Gage Jump | 3 | 57.2 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 9 | Lawrence Butler | ATH | Bryan Woo | 3 | 56.9 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Julio Rodríguez | SEA | Gage Jump | 5 | 55.3 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 11 | Randy Arozarena | SEA | Gage Jump | 2 | 55.0 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Henry Bolte | ATH | Bryan Woo | 1 | 55.0 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
+| 13 | Brandon Nimmo | TEX | Brandon Pfaadt | 4 | 54.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 14 | Jake Burger | TEX | Brandon Pfaadt | 7 | 53.2 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 15 | Gabriel Moreno | AZ | Kumar Rocker | 3 | 53.0 | Longshot | Watch List | Premium Lineup Spot |
+| 16 | Zack Gelof | ATH | Bryan Woo | 6 | 51.8 | Longshot | Watch List | Strong Barrel, Good Environment |
+| 17 | Donovan Walton | ATH | Bryan Woo | 5 | 50.4 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 18 | Jeff McNeil | ATH | Bryan Woo | 2 | 50.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Carlos Cortes | ATH | Bryan Woo | 7 | 49.9 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 20 | Josh Jung | TEX | Brandon Pfaadt | 3 | 49.8 | Longshot | Watch List | Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Munetaka Murakami + Jake Bauers | Avg HR Score: 65.8
-- Jake Bauers + Corey Seager | Avg HR Score: 64.3
-- Corey Seager + Elly De La Cruz | Avg HR Score: 63.3
-- Elly De La Cruz + Kyle Schwarber | Avg HR Score: 62.8
-- Kyle Schwarber + Shea Langeliers | Avg HR Score: 62.1
+- Corey Seager + Shea Langeliers | Avg HR Score: 63.0
+- Shea Langeliers + Cal Raleigh | Avg HR Score: 62.1
+- Cal Raleigh + Corbin Carroll | Avg HR Score: 60.5
+- Corbin Carroll + Ketel Marte | Avg HR Score: 58.9
+- Ketel Marte + Joc Pederson | Avg HR Score: 58.2
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Jake Bauers + Corey Seager | Avg HR Score: 65.2
-- Jake Bauers + Corey Seager + Elly De La Cruz | Avg HR Score: 63.8
-- Corey Seager + Elly De La Cruz + Kyle Schwarber | Avg HR Score: 63.1
-- Elly De La Cruz + Kyle Schwarber + Shea Langeliers | Avg HR Score: 62.3
-- Kyle Schwarber + Shea Langeliers + Cal Raleigh | Avg HR Score: 61.7
+- Corey Seager + Shea Langeliers + Cal Raleigh | Avg HR Score: 62.6
+- Shea Langeliers + Cal Raleigh + Corbin Carroll | Avg HR Score: 61.1
+- Cal Raleigh + Corbin Carroll + Ketel Marte | Avg HR Score: 59.9
+- Corbin Carroll + Ketel Marte + Joc Pederson | Avg HR Score: 58.6
+- Ketel Marte + Joc Pederson + Lars Nootbaar | Avg HR Score: 58.1
 
 ## Best 4-Leg Pairings
 
-- Munetaka Murakami + Jake Bauers + Corey Seager + Elly De La Cruz | Avg HR Score: 64.6
-- Jake Bauers + Corey Seager + Elly De La Cruz + Kyle Schwarber | Avg HR Score: 63.5
-- Corey Seager + Elly De La Cruz + Kyle Schwarber + Shea Langeliers | Avg HR Score: 62.7
-- Elly De La Cruz + Kyle Schwarber + Shea Langeliers + Cal Raleigh | Avg HR Score: 62.0
-- Kyle Schwarber + Shea Langeliers + Cal Raleigh + Jackson Chourio | Avg HR Score: 61.2
+- Corey Seager + Shea Langeliers + Cal Raleigh + Corbin Carroll | Avg HR Score: 61.8
+- Shea Langeliers + Cal Raleigh + Corbin Carroll + Ketel Marte | Avg HR Score: 60.5
+- Cal Raleigh + Corbin Carroll + Ketel Marte + Joc Pederson | Avg HR Score: 59.4
+- Corbin Carroll + Ketel Marte + Joc Pederson + Lars Nootbaar | Avg HR Score: 58.4
+- Ketel Marte + Joc Pederson + Lars Nootbaar + Dominic Canzone | Avg HR Score: 57.9
