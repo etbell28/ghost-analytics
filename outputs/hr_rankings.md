@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Jackson Merrill | SD | Mason Adams | 5 | 66.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 2 | Aaron Judge | NYY | Zebby Matthews | 3 | 66.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 3 | Fernando Tatis | SD | Mason Adams | 1 | 66.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Griffin Conine | MIA | Merrill Kelly | 3 | 64.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Riley Greene | DET | Max Scherzer | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Matt Olson | ATL | Shota Imanaga | 4 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Sheet Consensus |
-| 7 | Kyle Stowers | MIA | Merrill Kelly | 1 | 63.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Bryce Eldridge | SF | Matthew Liberatore | 2 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Oneil Cruz | PIT | Logan Henderson | 4 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Leo Bernal | STL | Anthony Molina | 3 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Ben Rice | NYY | Zebby Matthews | 1 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Yordan Alvarez | HOU | Daniel Lynch IV | 2 | 61.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 13 | James Wood | WSH | Zack Wheeler | 1 | 61.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Manny Machado | SD | Mason Adams | 3 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Jake Bauers | MIL | Jared Jones | 3 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Hunter Goodman | COL | Robbie Ray | 3 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Corey Seager | TEX | Jake Bennett | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Spencer Jones | NYY | Zebby Matthews | 6 | 60.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 19 | Carter Jensen | KC | Cristian Javier | 1 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Pete Alonso | BAL | Xzavion Curry | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 1 | Jackson Merrill | SD | Mason Adams | 5 | 66.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 2 | Fernando Tatis Jr. | SD | Mason Adams | 1 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Matt Olson | ATL | Shota Imanaga | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Sheet Consensus |
+| 4 | Pete Alonso | BAL | Xzavion Curry | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 5 | Yordan Alvarez | HOU | Daniel Lynch IV | 2 | 62.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 6 | James Wood | WSH | Zack Wheeler | 1 | 62.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Juan Soto | NYM | Chris Bassitt | 2 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Griffin Conine | MIA | Merrill Kelly | 3 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Corey Seager | TEX | Jake Bennett | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Carter Jensen | KC | Cristian Javier | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Cal Raleigh | SEA | Yusei Kikuchi | 4 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Oneil Cruz | PIT | Logan Henderson | 4 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Ronald Acuña Jr. | ATL | Shota Imanaga | 1 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Kyle Stowers | MIA | Merrill Kelly | 1 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Manny Machado | SD | Mason Adams | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 16 | Jake Bauers | MIL | Jared Jones | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Randy Arozarena | SEA | Yusei Kikuchi | 2 | 59.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Jahmai Jones | BOS | MacKenzie Gore | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Mike Trout | LAA | George Kirby | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Dominic Canzone | SEA | Yusei Kikuchi | 3 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Jackson Merrill + Aaron Judge | Avg HR Score: 66.7
-- Aaron Judge + Fernando Tatis | Avg HR Score: 66.2
-- Fernando Tatis + Griffin Conine | Avg HR Score: 65.3
-- Griffin Conine + Riley Greene | Avg HR Score: 64.4
-- Riley Greene + Matt Olson | Avg HR Score: 63.9
+- Jackson Merrill + Fernando Tatis Jr. | Avg HR Score: 65.6
+- Fernando Tatis Jr. + Matt Olson | Avg HR Score: 64.1
+- Matt Olson + Pete Alonso | Avg HR Score: 62.9
+- Pete Alonso + Yordan Alvarez | Avg HR Score: 62.6
+- Yordan Alvarez + James Wood | Avg HR Score: 62.4
 
 ## Best 3-Leg Pairings
 
-- Jackson Merrill + Aaron Judge + Fernando Tatis | Avg HR Score: 66.4
-- Aaron Judge + Fernando Tatis + Griffin Conine | Avg HR Score: 65.7
-- Fernando Tatis + Griffin Conine + Riley Greene | Avg HR Score: 64.9
-- Griffin Conine + Riley Greene + Matt Olson | Avg HR Score: 64.1
-- Riley Greene + Matt Olson + Kyle Stowers | Avg HR Score: 63.7
+- Jackson Merrill + Fernando Tatis Jr. + Matt Olson | Avg HR Score: 64.7
+- Fernando Tatis Jr. + Matt Olson + Pete Alonso | Avg HR Score: 63.7
+- Matt Olson + Pete Alonso + Yordan Alvarez | Avg HR Score: 62.8
+- Pete Alonso + Yordan Alvarez + James Wood | Avg HR Score: 62.5
+- Yordan Alvarez + James Wood + Juan Soto | Avg HR Score: 62.3
 
 ## Best 4-Leg Pairings
 
-- Jackson Merrill + Aaron Judge + Fernando Tatis + Griffin Conine | Avg HR Score: 66.0
-- Aaron Judge + Fernando Tatis + Griffin Conine + Riley Greene | Avg HR Score: 65.3
-- Fernando Tatis + Griffin Conine + Riley Greene + Matt Olson | Avg HR Score: 64.6
-- Griffin Conine + Riley Greene + Matt Olson + Kyle Stowers | Avg HR Score: 63.9
-- Riley Greene + Matt Olson + Kyle Stowers + Bryce Eldridge | Avg HR Score: 63.5
+- Jackson Merrill + Fernando Tatis Jr. + Matt Olson + Pete Alonso | Avg HR Score: 64.2
+- Fernando Tatis Jr. + Matt Olson + Pete Alonso + Yordan Alvarez | Avg HR Score: 63.4
+- Matt Olson + Pete Alonso + Yordan Alvarez + James Wood | Avg HR Score: 62.6
+- Pete Alonso + Yordan Alvarez + James Wood + Juan Soto | Avg HR Score: 62.4
+- Yordan Alvarez + James Wood + Juan Soto + Griffin Conine | Avg HR Score: 62.2
