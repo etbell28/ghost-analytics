@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Grant Holmes | 2 | 69.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | James Wood | WSH | Michael McGreevy | 1 | 65.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Ben Rice | NYY | Brandon Pfaadt | 1 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Matt Olson | ATL | Hayden Wesneski | 3 | 63.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak, Sheet Consensus |
-| 5 | Pete Alonso | BAL | Robert Gasser | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Elly De La Cruz | CIN | Matthew Boyd | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Spencer Jones | NYY | Brandon Pfaadt | 4 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Juan Soto | NYM | Andrew Painter | 2 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Josue De Paula | LAD | Yunior Marte | 1 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Riley Greene | DET | Sean Burke | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Munetaka Murakami | CWS | Jackson Jobe | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Pete Crow-Armstrong | CHC | Nick Lodolo | 1 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Sal Stewart | CIN | Matthew Boyd | 3 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Corey Seager | TEX | José Soriano | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Cal Raleigh | SEA | Jose Quintana | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Lazaro Montes | SEA | Jose Quintana | 8 | 58.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 17 | Jackson Merrill | SD | Eury Pérez | 5 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 18 | Luis Garcia | NYY | Brandon Pfaadt | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Fernando Tatis | SD | Eury Pérez | 1 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Mike Trout | LAA | Joe Ryan | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | Grant Holmes | 2 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | James Wood | WSH | Michael McGreevy | 1 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Pete Alonso | BAL | Robert Gasser | 2 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Elly De La Cruz | CIN | Matthew Boyd | 2 | 64.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Ben Rice | NYY | Brandon Pfaadt | 1 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Pete Crow-Armstrong | CHC | Nick Lodolo | 1 | 63.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Sal Stewart | CIN | Matthew Boyd | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 8 | Matt Olson | ATL | Hayden Wesneski | 3 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak, Sheet Consensus |
+| 9 | Spencer Jones | NYY | Brandon Pfaadt | 4 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Josue De Paula | LAD | Yunior Marte | 1 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Corey Seager | TEX | José Soriano | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Juan Soto | NYM | Andrew Painter | 2 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Riley Greene | DET | Sean Burke | 5 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 14 | Munetaka Murakami | CWS | Jackson Jobe | 5 | 60.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 15 | Cal Raleigh | SEA | Jose Quintana | 4 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Seiya Suzuki | CHC | Nick Lodolo | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Lazaro Montes | SEA | Jose Quintana | 8 | 59.5 | Longshot | Watch List | Elite Power, Strong Barrel |
+| 18 | Jackson Merrill | SD | Eury Pérez | 5 | 59.4 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 19 | Fernando Tatis Jr. | SD | Eury Pérez | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Randy Arozarena | SEA | Jose Quintana | 2 | 58.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + James Wood | Avg HR Score: 67.6
-- James Wood + Ben Rice | Avg HR Score: 65.0
-- Ben Rice + Matt Olson | Avg HR Score: 63.9
-- Matt Olson + Pete Alonso | Avg HR Score: 63.5
-- Pete Alonso + Elly De La Cruz | Avg HR Score: 62.8
+- Yordan Alvarez + James Wood | Avg HR Score: 68.3
+- James Wood + Pete Alonso | Avg HR Score: 66.8
+- Pete Alonso + Elly De La Cruz | Avg HR Score: 65.0
+- Elly De La Cruz + Ben Rice | Avg HR Score: 64.5
+- Ben Rice + Pete Crow-Armstrong | Avg HR Score: 63.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + James Wood + Ben Rice | Avg HR Score: 66.5
-- James Wood + Ben Rice + Matt Olson | Avg HR Score: 64.5
-- Ben Rice + Matt Olson + Pete Alonso | Avg HR Score: 63.7
-- Matt Olson + Pete Alonso + Elly De La Cruz | Avg HR Score: 63.0
-- Pete Alonso + Elly De La Cruz + Spencer Jones | Avg HR Score: 62.5
+- Yordan Alvarez + James Wood + Pete Alonso | Avg HR Score: 67.3
+- James Wood + Pete Alonso + Elly De La Cruz | Avg HR Score: 66.1
+- Pete Alonso + Elly De La Cruz + Ben Rice | Avg HR Score: 64.7
+- Elly De La Cruz + Ben Rice + Pete Crow-Armstrong | Avg HR Score: 64.1
+- Ben Rice + Pete Crow-Armstrong + Sal Stewart | Avg HR Score: 63.5
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + James Wood + Ben Rice + Matt Olson | Avg HR Score: 65.7
-- James Wood + Ben Rice + Matt Olson + Pete Alonso | Avg HR Score: 64.2
-- Ben Rice + Matt Olson + Pete Alonso + Elly De La Cruz | Avg HR Score: 63.3
-- Matt Olson + Pete Alonso + Elly De La Cruz + Spencer Jones | Avg HR Score: 62.8
-- Pete Alonso + Elly De La Cruz + Spencer Jones + Juan Soto | Avg HR Score: 62.4
+- Yordan Alvarez + James Wood + Pete Alonso + Elly De La Cruz | Avg HR Score: 66.6
+- James Wood + Pete Alonso + Elly De La Cruz + Ben Rice | Avg HR Score: 65.6
+- Pete Alonso + Elly De La Cruz + Ben Rice + Pete Crow-Armstrong | Avg HR Score: 64.4
+- Elly De La Cruz + Ben Rice + Pete Crow-Armstrong + Sal Stewart | Avg HR Score: 63.8
+- Ben Rice + Pete Crow-Armstrong + Sal Stewart + Matt Olson | Avg HR Score: 63.2
