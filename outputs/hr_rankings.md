@@ -2,45 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Emmanuel Rodriguez | MIN | Blade Tidwell | 8 | 52.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 2 | Kody Clemens | MIN | Blade Tidwell | 4 | 50.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Marcelo Mayer | SF | Zebby Matthews | 4 | 48.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 4 | Walker Jenkins | MIN | Blade Tidwell | 1 | 47.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Drew Gilbert | SF | Zebby Matthews | 1 | 47.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 6 | Jonah Cox | SF | Zebby Matthews | 2 | 46.5 | Longshot | Watch List | Premium Lineup Spot |
-| 7 | Ryan Jeffers | MIN | Blade Tidwell | 5 | 45.0 | Longshot | Watch List | No major boost |
-| 8 | Brooks Lee | MIN | Blade Tidwell | 3 | 44.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 9 | Bo Davidson | SF | Zebby Matthews | 3 | 44.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 10 | Alan Roden | MIN | Blade Tidwell | 6 | 42.7 | Longshot | Watch List | Platoon Edge |
-| 11 | Drew Cavanaugh | SF | Zebby Matthews | 6 | 41.7 | Longshot | Watch List | Platoon Edge |
-| 12 | Brett Harris | SF | Zebby Matthews | 5 | 41.6 | Longshot | Watch List | No major boost |
-| 13 | Osleivis Basabe | SF | Zebby Matthews | 7 | 41.0 | Longshot | Watch List | No major boost |
-| 14 | Luke Keaschall | MIN | Blade Tidwell | 2 | 40.7 | Longshot | Watch List | Premium Lineup Spot |
-| 15 | Ryan Kreidler | MIN | Blade Tidwell | 9 | 38.2 | Longshot | Watch List | No major boost |
-| 16 | Scott Bandura | SF | Zebby Matthews | 8 | 35.3 | Longshot | Watch List | Platoon Edge |
-| 17 | Christian Koss | SF | Zebby Matthews | 9 | 34.6 | Longshot | Watch List | No major boost |
-| 18 | Aaron Sabato | MIN | Blade Tidwell | 7 | 34.3 | Longshot | Watch List | No major boost |
+| 1 | Pete Alonso | BAL | Max Scherzer | 2 | 63.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 2 | James Wood | WSH | Drew Anderson | 1 | 60.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Emmanuel Rodriguez | MIN | Anthony Molina | 8 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 4 | Coby Mayo | BAL | Max Scherzer | 4 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 5 | Christian Encarnacion-Strand | BAL | Max Scherzer | 5 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 6 | Eduardo Valencia | DET | Jackson Kent | 4 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Gunnar Henderson | BAL | Max Scherzer | 3 | 54.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 8 | Riley Greene | DET | Jackson Kent | 3 | 53.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Kody Clemens | MIN | Anthony Molina | 4 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Samuel Basallo | BAL | Max Scherzer | 6 | 51.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Daylen Lile | WSH | Drew Anderson | 2 | 50.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 12 | Walker Jenkins | MIN | Anthony Molina | 1 | 50.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Hao-Yu Lee | DET | Jackson Kent | 2 | 49.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | CJ Abrams | WSH | Drew Anderson | 4 | 49.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 15 | Spencer Torkelson | DET | Jackson Kent | 7 | 48.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 16 | Dylan Beavers | BAL | Max Scherzer | 1 | 48.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 17 | Brooks Lee | MIN | Anthony Molina | 3 | 47.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 18 | Drew Gilbert | SF | Taj Bradley | 1 | 47.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 19 | Abimelec Ortiz | WSH | Drew Anderson | 3 | 47.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 20 | Sean Keys | TOR | Chris Bassitt | 5 | 47.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Emmanuel Rodriguez + Kody Clemens | Avg HR Score: 51.7
-- Kody Clemens + Marcelo Mayer | Avg HR Score: 49.6
-- Marcelo Mayer + Walker Jenkins | Avg HR Score: 48.2
-- Walker Jenkins + Drew Gilbert | Avg HR Score: 47.5
-- Drew Gilbert + Jonah Cox | Avg HR Score: 46.9
+- Pete Alonso + James Wood | Avg HR Score: 61.8
+- James Wood + Emmanuel Rodriguez | Avg HR Score: 58.0
+- Emmanuel Rodriguez + Coby Mayo | Avg HR Score: 55.5
+- Coby Mayo + Christian Encarnacion-Strand | Avg HR Score: 55.0
+- Christian Encarnacion-Strand + Eduardo Valencia | Avg HR Score: 54.7
 
 ## Best 3-Leg Pairings
 
-- Emmanuel Rodriguez + Kody Clemens + Marcelo Mayer | Avg HR Score: 50.7
-- Kody Clemens + Marcelo Mayer + Walker Jenkins | Avg HR Score: 49.0
-- Marcelo Mayer + Walker Jenkins + Drew Gilbert | Avg HR Score: 47.9
-- Walker Jenkins + Drew Gilbert + Jonah Cox | Avg HR Score: 47.2
-- Drew Gilbert + Jonah Cox + Ryan Jeffers | Avg HR Score: 46.2
+- Pete Alonso + James Wood + Emmanuel Rodriguez | Avg HR Score: 59.8
+- James Wood + Emmanuel Rodriguez + Coby Mayo | Avg HR Score: 57.1
+- Emmanuel Rodriguez + Coby Mayo + Christian Encarnacion-Strand | Avg HR Score: 55.2
+- Coby Mayo + Christian Encarnacion-Strand + Eduardo Valencia | Avg HR Score: 54.9
+- Christian Encarnacion-Strand + Eduardo Valencia + Gunnar Henderson | Avg HR Score: 54.5
 
 ## Best 4-Leg Pairings
 
-- Emmanuel Rodriguez + Kody Clemens + Marcelo Mayer + Walker Jenkins | Avg HR Score: 50.0
-- Kody Clemens + Marcelo Mayer + Walker Jenkins + Drew Gilbert | Avg HR Score: 48.5
-- Marcelo Mayer + Walker Jenkins + Drew Gilbert + Jonah Cox | Avg HR Score: 47.5
-- Walker Jenkins + Drew Gilbert + Jonah Cox + Ryan Jeffers | Avg HR Score: 46.6
-- Drew Gilbert + Jonah Cox + Ryan Jeffers + Brooks Lee | Avg HR Score: 45.9
+- Pete Alonso + James Wood + Emmanuel Rodriguez + Coby Mayo | Avg HR Score: 58.6
+- James Wood + Emmanuel Rodriguez + Coby Mayo + Christian Encarnacion-Strand | Avg HR Score: 56.5
+- Emmanuel Rodriguez + Coby Mayo + Christian Encarnacion-Strand + Eduardo Valencia | Avg HR Score: 55.1
+- Coby Mayo + Christian Encarnacion-Strand + Eduardo Valencia + Gunnar Henderson | Avg HR Score: 54.7
+- Christian Encarnacion-Strand + Eduardo Valencia + Gunnar Henderson + Riley Greene | Avg HR Score: 54.3
