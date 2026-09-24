@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Robbie Ray | 2 | 65.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 2 | Spencer Jones | NYY | Mason Englert | 5 | 65.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 3 | Yordan Alvarez | HOU | George Kirby | 2 | 65.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Corbin Carroll | AZ | Mason Adams | 7 | 64.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 5 | Ben Rice | NYY | Mason Englert | 1 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Munetaka Murakami | CWS | Seth Lugo | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Lars Nootbaar | AZ | Mason Adams | 1 | 64.1 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 8 | Juan Soto | NYM | Cody Bradford | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Ketel Marte | AZ | Mason Adams | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Hunter Goodman | COL | Merrill Kelly | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Will Smith | LAD | Robbie Ray | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Mike Trout | LAA | Jeffrey Springs | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Matt Olson | ATL | Andrew Abbott | 3 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Sheet Consensus |
-| 14 | Pete Crow-Armstrong | CHC | Ryan Gusto | 1 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Gabriel Moreno | AZ | Mason Adams | 3 | 60.5 | Tier 3 | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Jonathan Aranda | TB | Gerrit Cole | 2 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Luis García Jr. | NYY | Mason Englert | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Heliot Ramos | NYY | Mason Englert | 4 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Kyle Stowers | MIA | Kevin Gausman | 2 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Pavin Smith | AZ | Mason Adams | 5 | 58.2 | Longshot | Watch List | Platoon Edge |
+| 1 | Yordan Alvarez | HOU | George Kirby | 2 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Shohei Ohtani | LAD | Robbie Ray | 2 | 65.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 3 | Will Smith | LAD | Robbie Ray | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Mike Trout | LAA | Jeffrey Springs | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Cal Raleigh | SEA | Ethan Pecko | 4 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Teoscar Hernández | LAD | Robbie Ray | 5 | 57.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 7 | Fernando Tatis Jr. | SD | Yoshinobu Yamamoto | 1 | 56.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Mookie Betts | LAD | Robbie Ray | 1 | 56.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Dominic Canzone | SEA | Ethan Pecko | 3 | 56.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Jackson Merrill | SD | Yoshinobu Yamamoto | 5 | 55.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 11 | Zach Neto | LAA | Jeffrey Springs | 1 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Jose Siri | LAA | Jeffrey Springs | 6 | 54.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 13 | Lazaro Montes | SEA | Ethan Pecko | 8 | 54.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 14 | Max Muncy | LAD | Robbie Ray | 8 | 54.3 | Longshot | Watch List | Strong Barrel |
+| 15 | Freddie Freeman | LAD | Robbie Ray | 4 | 53.7 | Longshot | Watch List | Premium Lineup Spot |
+| 16 | Kyle Tucker | LAD | Robbie Ray | 6 | 51.2 | Longshot | Watch List | Hot Hitter/Streak |
+| 17 | Andy Pages | LAD | Robbie Ray | 7 | 51.1 | Longshot | Watch List | Platoon Edge |
+| 18 | Shea Langeliers | ATH | Walbert Ureña | 3 | 50.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Randy Arozarena | SEA | Ethan Pecko | 2 | 50.8 | Longshot | Watch List | Premium Lineup Spot |
+| 20 | Ty France | SD | Yoshinobu Yamamoto | 4 | 50.6 | Longshot | Watch List | Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Spencer Jones | Avg HR Score: 65.2
-- Spencer Jones + Yordan Alvarez | Avg HR Score: 65.1
-- Yordan Alvarez + Corbin Carroll | Avg HR Score: 64.7
-- Corbin Carroll + Ben Rice | Avg HR Score: 64.2
-- Ben Rice + Munetaka Murakami | Avg HR Score: 64.2
+- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 65.4
+- Shohei Ohtani + Will Smith | Avg HR Score: 64.0
+- Will Smith + Mike Trout | Avg HR Score: 61.8
+- Mike Trout + Cal Raleigh | Avg HR Score: 59.4
+- Cal Raleigh + Teoscar Hernández | Avg HR Score: 57.6
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Spencer Jones + Yordan Alvarez | Avg HR Score: 65.2
-- Spencer Jones + Yordan Alvarez + Corbin Carroll | Avg HR Score: 64.8
-- Yordan Alvarez + Corbin Carroll + Ben Rice | Avg HR Score: 64.5
-- Corbin Carroll + Ben Rice + Munetaka Murakami | Avg HR Score: 64.2
-- Ben Rice + Munetaka Murakami + Lars Nootbaar | Avg HR Score: 64.2
+- Yordan Alvarez + Shohei Ohtani + Will Smith | Avg HR Score: 64.6
+- Shohei Ohtani + Will Smith + Mike Trout | Avg HR Score: 63.0
+- Will Smith + Mike Trout + Cal Raleigh | Avg HR Score: 60.6
+- Mike Trout + Cal Raleigh + Teoscar Hernández | Avg HR Score: 58.7
+- Cal Raleigh + Teoscar Hernández + Fernando Tatis Jr. | Avg HR Score: 57.2
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Spencer Jones + Yordan Alvarez + Corbin Carroll | Avg HR Score: 64.9
-- Spencer Jones + Yordan Alvarez + Corbin Carroll + Ben Rice | Avg HR Score: 64.7
-- Yordan Alvarez + Corbin Carroll + Ben Rice + Munetaka Murakami | Avg HR Score: 64.5
-- Corbin Carroll + Ben Rice + Munetaka Murakami + Lars Nootbaar | Avg HR Score: 64.2
-- Ben Rice + Munetaka Murakami + Lars Nootbaar + Juan Soto | Avg HR Score: 64.1
+- Yordan Alvarez + Shohei Ohtani + Will Smith + Mike Trout | Avg HR Score: 63.6
+- Shohei Ohtani + Will Smith + Mike Trout + Cal Raleigh | Avg HR Score: 61.7
+- Will Smith + Mike Trout + Cal Raleigh + Teoscar Hernández | Avg HR Score: 59.8
+- Mike Trout + Cal Raleigh + Teoscar Hernández + Fernando Tatis Jr. | Avg HR Score: 58.1
+- Cal Raleigh + Teoscar Hernández + Fernando Tatis Jr. + Mookie Betts | Avg HR Score: 57.0
