@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Jack Perkins | 2 | 67.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Munetaka Murakami | CWS | Jose Quintana | 4 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Kyle Schwarber | PHI | Griffin Jax | 2 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Carter Jensen | KC | Tanner Bibee | 1 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Jac Caglianone | KC | Tanner Bibee | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Fernando Tatis Jr. | SD |  | 1 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Randal Grichuk | CWS | Jose Quintana | 3 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Miguel Vargas | CWS | Jose Quintana | 1 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Alec Burleson | STL | Dustin May | 3 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Corbin Carroll | AZ | Walker Buehler | 5 | 57.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 11 | Jonathan Aranda | TB | Aaron Nola | 2 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Mike Trout | LAA | Kade Anderson | 2 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Dominic Canzone | SEA | Ryan Johnson | 3 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Bobby Witt Jr. | KC | Tanner Bibee | 2 | 56.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Leo Bernal | STL | Dustin May | 5 | 55.5 | Longshot | Watch List | Platoon Edge |
-| 16 | Lars Nootbaar | AZ | Walker Buehler | 1 | 55.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Hunter Goodman | COL | Davis Martin | 3 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Jackson Merrill | SD |  | 4 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Tommy Pham | CWS | Jose Quintana | 2 | 55.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Junior Caminero | TB | Aaron Nola | 4 | 55.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | Jack Perkins | 2 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Mike Trout | LAA | Kade Anderson | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Dominic Canzone | SEA | Ryan Johnson | 3 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Lucas Spence | HOU | Jack Perkins | 7 | 55.7 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 5 | Cal Raleigh | SEA | Ryan Johnson | 4 | 55.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Shea Langeliers | ATH | Hayden Wesneski | 3 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Zack Gelof | ATH | Hayden Wesneski | 5 | 54.1 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 8 | Lawrence Butler | ATH | Hayden Wesneski | 2 | 53.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 9 | Jose Siri | LAA | Kade Anderson | 3 | 52.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Christian Walker | HOU | Jack Perkins | 6 | 52.4 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 11 | Zach Neto | LAA | Kade Anderson | 1 | 51.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Lazaro Montes | SEA | Ryan Johnson | 8 | 50.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 13 | Yainer Diaz | HOU | Jack Perkins | 5 | 50.5 | Longshot | Watch List | No major boost |
+| 14 | Henry Bolte | ATH | Hayden Wesneski | 1 | 50.0 | Longshot | Watch List | Premium Lineup Spot |
+| 15 | Randy Arozarena | SEA | Ryan Johnson | 2 | 49.7 | Longshot | Watch List | Premium Lineup Spot |
+| 16 | Isaac Paredes | HOU | Jack Perkins | 3 | 48.2 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Jeremy Peña | HOU | Jack Perkins | 1 | 48.1 | Longshot | Watch List | Premium Lineup Spot |
+| 18 | Taylor Trammell | HOU | Jack Perkins | 9 | 46.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 19 | Vaughn Grissom | LAA | Kade Anderson | 4 | 46.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Carlos Cortes | ATH | Hayden Wesneski | 7 | 45.8 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Munetaka Murakami | Avg HR Score: 66.5
-- Munetaka Murakami + Kyle Schwarber | Avg HR Score: 63.4
-- Kyle Schwarber + Carter Jensen | Avg HR Score: 61.6
-- Carter Jensen + Jac Caglianone | Avg HR Score: 60.0
-- Jac Caglianone + Fernando Tatis Jr. | Avg HR Score: 58.7
+- Yordan Alvarez + Mike Trout | Avg HR Score: 62.5
+- Mike Trout + Dominic Canzone | Avg HR Score: 56.8
+- Dominic Canzone + Lucas Spence | Avg HR Score: 56.2
+- Lucas Spence + Cal Raleigh | Avg HR Score: 55.7
+- Cal Raleigh + Shea Langeliers | Avg HR Score: 55.2
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Munetaka Murakami + Kyle Schwarber | Avg HR Score: 64.9
-- Munetaka Murakami + Kyle Schwarber + Carter Jensen | Avg HR Score: 62.8
-- Kyle Schwarber + Carter Jensen + Jac Caglianone | Avg HR Score: 60.6
-- Carter Jensen + Jac Caglianone + Fernando Tatis Jr. | Avg HR Score: 59.6
-- Jac Caglianone + Fernando Tatis Jr. + Randal Grichuk | Avg HR Score: 58.5
+- Yordan Alvarez + Mike Trout + Dominic Canzone | Avg HR Score: 60.6
+- Mike Trout + Dominic Canzone + Lucas Spence | Avg HR Score: 56.4
+- Dominic Canzone + Lucas Spence + Cal Raleigh | Avg HR Score: 56.0
+- Lucas Spence + Cal Raleigh + Shea Langeliers | Avg HR Score: 55.4
+- Cal Raleigh + Shea Langeliers + Zack Gelof | Avg HR Score: 54.9
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Munetaka Murakami + Kyle Schwarber + Carter Jensen | Avg HR Score: 64.0
-- Munetaka Murakami + Kyle Schwarber + Carter Jensen + Jac Caglianone | Avg HR Score: 61.8
-- Kyle Schwarber + Carter Jensen + Jac Caglianone + Fernando Tatis Jr. | Avg HR Score: 60.1
-- Carter Jensen + Jac Caglianone + Fernando Tatis Jr. + Randal Grichuk | Avg HR Score: 59.2
-- Jac Caglianone + Fernando Tatis Jr. + Randal Grichuk + Miguel Vargas | Avg HR Score: 58.3
+- Yordan Alvarez + Mike Trout + Dominic Canzone + Lucas Spence | Avg HR Score: 59.4
+- Mike Trout + Dominic Canzone + Lucas Spence + Cal Raleigh | Avg HR Score: 56.2
+- Dominic Canzone + Lucas Spence + Cal Raleigh + Shea Langeliers | Avg HR Score: 55.8
+- Lucas Spence + Cal Raleigh + Shea Langeliers + Zack Gelof | Avg HR Score: 55.1
+- Cal Raleigh + Shea Langeliers + Zack Gelof + Lawrence Butler | Avg HR Score: 54.5
