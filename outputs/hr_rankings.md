@@ -2,45 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Fernando Tatis Jr. | SD | Robert Gasser | 1 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Jake Bauers | MIL | Walker Buehler | 5 | 55.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 3 | Jackson Chourio | MIL | Walker Buehler | 1 | 53.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 4 | Manny Machado | SD | Robert Gasser | 3 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Jackson Merrill | SD | Robert Gasser | 2 | 52.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 6 | Brice Turang | MIL | Walker Buehler | 4 | 52.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 7 | Christian Yelich | MIL | Walker Buehler | 2 | 51.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 8 | William Contreras | MIL | Walker Buehler | 3 | 49.3 | Longshot | Watch List | Premium Lineup Spot |
-| 9 | Ty France | SD | Robert Gasser | 4 | 49.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 10 | Garrett Mitchell | MIL | Walker Buehler | 8 | 46.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 11 | Austin Hays | SD | Robert Gasser | 5 | 46.1 | Longshot | Watch List | Platoon Edge |
-| 12 | Xander Bogaerts | SD | Robert Gasser | 6 | 45.0 | Longshot | Watch List | Platoon Edge |
-| 13 | Luis Campusano | SD | Robert Gasser | 7 | 39.2 | Longshot | Watch List | Platoon Edge |
-| 14 | Cooper Pratt | MIL | Walker Buehler | 6 | 36.8 | Longshot | Watch List | No major boost |
-| 15 | Jake Cronenworth | SD | Robert Gasser | 8 | 35.9 | Longshot | Watch List | No major boost |
-| 16 | Sal Frelick | MIL | Walker Buehler | 7 | 35.6 | Longshot | Watch List | Platoon Edge |
-| 17 | Joey Ortiz | MIL | Walker Buehler | 9 | 34.4 | Longshot | Watch List | No major boost |
-| 18 | Samad Taylor | SD | Robert Gasser | 9 | 31.5 | Longshot | Watch List | Platoon Edge |
+| 1 | Munetaka Murakami | CWS | Parker Messick | 3 | 57.8 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Miguel Vargas | CWS | Parker Messick | 2 | 49.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Jo Adell | CLE | Hagen Smith | 4 | 47.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Randal Grichuk | CWS | Parker Messick | 8 | 45.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 5 | Kyle Teel | CWS | Parker Messick | 4 | 43.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 6 | Chase DeLauter | CLE | Hagen Smith | 3 | 40.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 7 | Jose Ramirez | CLE | Hagen Smith | 2 | 38.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 8 | Chase Meidroth | CWS | Parker Messick | 5 | 38.4 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
+| 9 | Colson Montgomery | CWS | Parker Messick | 9 | 37.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 10 | Nathaniel Lowe | CLE | Hagen Smith | 5 | 37.3 | Longshot | Watch List | Projected Lineup |
+| 11 | Sam Antonacci | CWS | Parker Messick | 1 | 37.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 12 | Braden Montgomery | CWS | Parker Messick | 7 | 36.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 13 | Patrick Bailey | CLE | Hagen Smith | 8 | 35.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 14 | Angel Martinez | CLE | Hagen Smith | 6 | 35.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 15 | Tristan Peters | CWS | Parker Messick | 6 | 31.2 | Longshot | Watch List | Projected Lineup |
+| 16 | Brayan Rocchio | CLE | Hagen Smith | 9 | 29.6 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
+| 17 | Steven Kwan | CLE | Hagen Smith | 1 | 29.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 18 | Travis Bazzana | CLE | Hagen Smith | 7 | 29.5 | Longshot | Watch List | Projected Lineup |
 
 ## Best 2-Leg Pairings
 
-- Fernando Tatis Jr. + Jake Bauers | Avg HR Score: 56.5
-- Jake Bauers + Jackson Chourio | Avg HR Score: 54.5
-- Jackson Chourio + Manny Machado | Avg HR Score: 53.3
-- Manny Machado + Jackson Merrill | Avg HR Score: 52.8
-- Jackson Merrill + Brice Turang | Avg HR Score: 52.1
+- Munetaka Murakami + Miguel Vargas | Avg HR Score: 53.8
+- Miguel Vargas + Jo Adell | Avg HR Score: 48.5
+- Jo Adell + Randal Grichuk | Avg HR Score: 46.3
+- Randal Grichuk + Kyle Teel | Avg HR Score: 44.2
+- Kyle Teel + Chase DeLauter | Avg HR Score: 41.9
 
 ## Best 3-Leg Pairings
 
-- Fernando Tatis Jr. + Jake Bauers + Jackson Chourio | Avg HR Score: 55.5
-- Jake Bauers + Jackson Chourio + Manny Machado | Avg HR Score: 54.1
-- Jackson Chourio + Manny Machado + Jackson Merrill | Avg HR Score: 53.0
-- Manny Machado + Jackson Merrill + Brice Turang | Avg HR Score: 52.5
-- Jackson Merrill + Brice Turang + Christian Yelich | Avg HR Score: 51.8
+- Munetaka Murakami + Miguel Vargas + Jo Adell | Avg HR Score: 51.6
+- Miguel Vargas + Jo Adell + Randal Grichuk | Avg HR Score: 47.5
+- Jo Adell + Randal Grichuk + Kyle Teel | Avg HR Score: 45.2
+- Randal Grichuk + Kyle Teel + Chase DeLauter | Avg HR Score: 43.0
+- Kyle Teel + Chase DeLauter + Jose Ramirez | Avg HR Score: 40.8
 
 ## Best 4-Leg Pairings
 
-- Fernando Tatis Jr. + Jake Bauers + Jackson Chourio + Manny Machado | Avg HR Score: 55.0
-- Jake Bauers + Jackson Chourio + Manny Machado + Jackson Merrill | Avg HR Score: 53.6
-- Jackson Chourio + Manny Machado + Jackson Merrill + Brice Turang | Avg HR Score: 52.7
-- Manny Machado + Jackson Merrill + Brice Turang + Christian Yelich | Avg HR Score: 52.2
-- Jackson Merrill + Brice Turang + Christian Yelich + William Contreras | Avg HR Score: 51.2
+- Munetaka Murakami + Miguel Vargas + Jo Adell + Randal Grichuk | Avg HR Score: 50.1
+- Miguel Vargas + Jo Adell + Randal Grichuk + Kyle Teel | Avg HR Score: 46.4
+- Jo Adell + Randal Grichuk + Kyle Teel + Chase DeLauter | Avg HR Score: 44.1
+- Randal Grichuk + Kyle Teel + Chase DeLauter + Jose Ramirez | Avg HR Score: 41.9
+- Kyle Teel + Chase DeLauter + Jose Ramirez + Chase Meidroth | Avg HR Score: 40.2
