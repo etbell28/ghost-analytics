@@ -2,45 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Parker Messick | 4 | 57.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 2 | Randal Grichuk | CWS | Parker Messick | 3 | 51.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Miguel Vargas | CWS | Parker Messick | 1 | 49.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Jo Adell | CLE | Hagen Smith | 4 | 47.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Tommy Pham | CWS | Parker Messick | 2 | 44.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 6 | Brenton Doyle | CWS | Parker Messick | 6 | 42.0 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 7 | Chase DeLauter | CLE | Hagen Smith | 3 | 40.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 8 | Kyle Teel | CWS | Parker Messick | 7 | 38.8 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 9 | Jose Ramirez | CLE | Hagen Smith | 2 | 38.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 10 | Chase Meidroth | CWS | Parker Messick | 5 | 38.4 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 11 | Nathaniel Lowe | CLE | Hagen Smith | 5 | 37.3 | Longshot | Watch List | Projected Lineup |
-| 12 | Patrick Bailey | CLE | Hagen Smith | 8 | 35.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 13 | Angel Martinez | CLE | Hagen Smith | 6 | 35.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 14 | Braden Montgomery | CWS | Parker Messick | 8 | 34.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 15 | Luisangel Acuna | CWS | Parker Messick | 9 | 30.1 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 16 | Brayan Rocchio | CLE | Hagen Smith | 9 | 29.6 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 17 | Steven Kwan | CLE | Hagen Smith | 1 | 29.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 18 | Travis Bazzana | CLE | Hagen Smith | 7 | 29.5 | Longshot | Watch List | Projected Lineup |
+| 1 | Munetaka Murakami | CWS | Parker Messick | 4 | 56.7 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Randal Grichuk | CWS | Parker Messick | 2 | 51.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Miguel Vargas | CWS | Parker Messick | 3 | 48.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Jo Adell | CLE | Hagen Smith | 4 | 46.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Tommy Pham | CWS | Parker Messick | 5 | 42.1 | Longshot | Watch List | Platoon Edge |
+| 6 | Brenton Doyle | CWS | Parker Messick | 6 | 41.2 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 7 | Chase DeLauter | CLE | Hagen Smith | 3 | 39.8 | Longshot | Watch List | Premium Lineup Spot |
+| 8 | Chase Meidroth | CWS | Parker Messick | 1 | 38.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Kyle Teel | CWS | Parker Messick | 7 | 38.0 | Longshot | Watch List | Strong Barrel |
+| 10 | José Ramírez | CLE | Hagen Smith | 2 | 37.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Colson Montgomery | CWS | Parker Messick | 9 | 37.0 | Longshot | Watch List | Strong Barrel |
+| 12 | Nathaniel Lowe | CLE | Hagen Smith | 5 | 36.4 | Longshot | Watch List | No major boost |
+| 13 | Angel Martínez | CLE | Hagen Smith | 6 | 34.1 | Longshot | Watch List | Platoon Edge |
+| 14 | Braden Montgomery | CWS | Parker Messick | 8 | 34.0 | Longshot | Watch List | Platoon Edge |
+| 15 | Steven Kwan | CLE | Hagen Smith | 1 | 28.7 | Longshot | Watch List | Premium Lineup Spot |
+| 16 | Travis Bazzana | CLE | Hagen Smith | 7 | 28.7 | Longshot | Watch List | No major boost |
+| 17 | Brayan Rocchio | CLE | Hagen Smith | 9 | 28.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 18 | Austin Hedges | CLE | Hagen Smith | 8 | 27.4 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Munetaka Murakami + Randal Grichuk | Avg HR Score: 54.5
-- Randal Grichuk + Miguel Vargas | Avg HR Score: 50.2
-- Miguel Vargas + Jo Adell | Avg HR Score: 48.1
-- Jo Adell + Tommy Pham | Avg HR Score: 46.0
-- Tommy Pham + Brenton Doyle | Avg HR Score: 43.5
+- Munetaka Murakami + Randal Grichuk | Avg HR Score: 54.0
+- Randal Grichuk + Miguel Vargas | Avg HR Score: 49.9
+- Miguel Vargas + Jo Adell | Avg HR Score: 47.5
+- Jo Adell + Tommy Pham | Avg HR Score: 44.2
+- Tommy Pham + Brenton Doyle | Avg HR Score: 41.7
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Randal Grichuk + Miguel Vargas | Avg HR Score: 52.7
-- Randal Grichuk + Miguel Vargas + Jo Adell | Avg HR Score: 49.2
-- Miguel Vargas + Jo Adell + Tommy Pham | Avg HR Score: 47.0
-- Jo Adell + Tommy Pham + Brenton Doyle | Avg HR Score: 44.7
-- Tommy Pham + Brenton Doyle + Chase DeLauter | Avg HR Score: 42.5
+- Munetaka Murakami + Randal Grichuk + Miguel Vargas | Avg HR Score: 52.2
+- Randal Grichuk + Miguel Vargas + Jo Adell | Avg HR Score: 48.7
+- Miguel Vargas + Jo Adell + Tommy Pham | Avg HR Score: 45.7
+- Jo Adell + Tommy Pham + Brenton Doyle | Avg HR Score: 43.2
+- Tommy Pham + Brenton Doyle + Chase DeLauter | Avg HR Score: 41.0
 
 ## Best 4-Leg Pairings
 
-- Munetaka Murakami + Randal Grichuk + Miguel Vargas + Jo Adell | Avg HR Score: 51.3
-- Randal Grichuk + Miguel Vargas + Jo Adell + Tommy Pham | Avg HR Score: 48.1
-- Miguel Vargas + Jo Adell + Tommy Pham + Brenton Doyle | Avg HR Score: 45.8
-- Jo Adell + Tommy Pham + Brenton Doyle + Chase DeLauter | Avg HR Score: 43.7
-- Tommy Pham + Brenton Doyle + Chase DeLauter + Kyle Teel | Avg HR Score: 41.6
+- Munetaka Murakami + Randal Grichuk + Miguel Vargas + Jo Adell | Avg HR Score: 50.7
+- Randal Grichuk + Miguel Vargas + Jo Adell + Tommy Pham | Avg HR Score: 47.1
+- Miguel Vargas + Jo Adell + Tommy Pham + Brenton Doyle | Avg HR Score: 44.6
+- Jo Adell + Tommy Pham + Brenton Doyle + Chase DeLauter | Avg HR Score: 42.4
+- Tommy Pham + Brenton Doyle + Chase DeLauter + Chase Meidroth | Avg HR Score: 40.4
