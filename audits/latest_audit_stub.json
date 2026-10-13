@@ -1,6 +1,6 @@
 {
   "report_date": "2026-10-13",
-  "generated_at": "2026-10-13T02:39:03.029714-04:00",
+  "generated_at": "2026-10-13T15:11:26.055172-04:00",
   "product": "BarrelIQ",
   "input_payload": "/home/runner/work/ghost-analytics/ghost-analytics/outputs/live_mlb_payload.json",
   "status": "framework_ready",
