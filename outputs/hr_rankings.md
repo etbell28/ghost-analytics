@@ -2,45 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Junior Caminero | TB |  | 4 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 2 | Jonathan Aranda | TB |  | 2 | 54.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 1 | Jonathan Aranda | TB | Shawn Armstrong | 2 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Junior Caminero | TB | Shawn Armstrong | 3 | 53.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 3 | Jo Adell | CLE | Freddy Peralta | 4 | 52.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 4 | Chase DeLauter | CLE | Freddy Peralta | 3 | 50.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 5 | Ryan Vilade | TB |  | 3 | 50.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 6 | Yandy Diaz | TB |  | 1 | 50.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 5 | Yandy Diaz | TB | Shawn Armstrong | 1 | 47.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 6 | Ryan Vilade | TB | Shawn Armstrong | 4 | 47.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
 | 7 | Nathaniel Lowe | CLE | Freddy Peralta | 5 | 47.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 8 | Jose Ramirez | CLE | Freddy Peralta | 2 | 45.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
 | 9 | Patrick Bailey | CLE | Freddy Peralta | 7 | 44.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 10 | Travis Bazzana | CLE | Freddy Peralta | 6 | 41.1 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 11 | Jonny DeLuca | TB |  | 6 | 41.0 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
+| 11 | Jonny DeLuca | TB | Shawn Armstrong | 5 | 39.5 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
 | 12 | Steven Kwan | CLE | Freddy Peralta | 1 | 39.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
 | 13 | Brayan Rocchio | CLE | Freddy Peralta | 9 | 36.6 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 14 | Chandler Simpson | TB |  | 5 | 36.5 | Longshot | Watch List | Projected Lineup |
-| 15 | Liam Hicks | TB |  | 7 | 35.9 | Longshot | Watch List | Projected Lineup |
-| 16 | Petey Halpin | CLE | Freddy Peralta | 8 | 34.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 17 | Ben Williamson | TB |  | 8 | 34.5 | Longshot | Watch List | Projected Lineup |
-| 18 | Taylor Walls | TB |  | 9 | 33.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 14 | Jorge Mateo | TB | Shawn Armstrong | 8 | 35.2 | Longshot | Watch List | Projected Lineup |
+| 15 | Petey Halpin | CLE | Freddy Peralta | 8 | 34.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 16 | Chandler Simpson | TB | Shawn Armstrong | 6 | 34.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 17 | Nick Fortes | TB | Shawn Armstrong | 7 | 34.5 | Longshot | Watch List | Projected Lineup |
+| 18 | Taylor Walls | TB | Shawn Armstrong | 9 | 31.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Junior Caminero + Jonathan Aranda | Avg HR Score: 55.1
-- Jonathan Aranda + Jo Adell | Avg HR Score: 53.3
+- Jonathan Aranda + Junior Caminero | Avg HR Score: 53.5
+- Junior Caminero + Jo Adell | Avg HR Score: 53.0
 - Jo Adell + Chase DeLauter | Avg HR Score: 51.5
-- Chase DeLauter + Ryan Vilade | Avg HR Score: 50.5
-- Ryan Vilade + Yandy Diaz | Avg HR Score: 50.4
+- Chase DeLauter + Yandy Diaz | Avg HR Score: 49.0
+- Yandy Diaz + Ryan Vilade | Avg HR Score: 47.3
 
 ## Best 3-Leg Pairings
 
-- Junior Caminero + Jonathan Aranda + Jo Adell | Avg HR Score: 54.2
-- Jonathan Aranda + Jo Adell + Chase DeLauter | Avg HR Score: 52.4
-- Jo Adell + Chase DeLauter + Ryan Vilade | Avg HR Score: 51.2
-- Chase DeLauter + Ryan Vilade + Yandy Diaz | Avg HR Score: 50.4
-- Ryan Vilade + Yandy Diaz + Nathaniel Lowe | Avg HR Score: 49.3
+- Jonathan Aranda + Junior Caminero + Jo Adell | Avg HR Score: 53.2
+- Junior Caminero + Jo Adell + Chase DeLauter | Avg HR Score: 52.1
+- Jo Adell + Chase DeLauter + Yandy Diaz | Avg HR Score: 50.1
+- Chase DeLauter + Yandy Diaz + Ryan Vilade | Avg HR Score: 48.4
+- Yandy Diaz + Ryan Vilade + Nathaniel Lowe | Avg HR Score: 47.3
 
 ## Best 4-Leg Pairings
 
-- Junior Caminero + Jonathan Aranda + Jo Adell + Chase DeLauter | Avg HR Score: 53.3
-- Jonathan Aranda + Jo Adell + Chase DeLauter + Ryan Vilade | Avg HR Score: 51.9
-- Jo Adell + Chase DeLauter + Ryan Vilade + Yandy Diaz | Avg HR Score: 51.0
-- Chase DeLauter + Ryan Vilade + Yandy Diaz + Nathaniel Lowe | Avg HR Score: 49.6
-- Ryan Vilade + Yandy Diaz + Nathaniel Lowe + Jose Ramirez | Avg HR Score: 48.4
+- Jonathan Aranda + Junior Caminero + Jo Adell + Chase DeLauter | Avg HR Score: 52.5
+- Junior Caminero + Jo Adell + Chase DeLauter + Yandy Diaz | Avg HR Score: 51.0
+- Jo Adell + Chase DeLauter + Yandy Diaz + Ryan Vilade | Avg HR Score: 49.4
+- Chase DeLauter + Yandy Diaz + Ryan Vilade + Nathaniel Lowe | Avg HR Score: 48.1
+- Yandy Diaz + Ryan Vilade + Nathaniel Lowe + Jose Ramirez | Avg HR Score: 46.9
