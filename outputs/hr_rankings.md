@@ -9,15 +9,15 @@
 | 5 | Junior Caminero | TB | Jacob Misiorowski | 3 | 50.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 6 | Brice Turang | MIL |  | 5 | 50.6 | Longshot | Watch List | Projected Lineup |
 | 7 | Christian Yelich | MIL |  | 3 | 50.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 8 | Garrett Mitchell | MIL |  | 8 | 46.5 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 8 | Garrett Mitchell | MIL |  | 6 | 49.8 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 | 9 | Yandy Diaz | TB | Jacob Misiorowski | 1 | 44.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 10 | Ryan Vilade | TB | Jacob Misiorowski | 7 | 40.3 | Longshot | Watch List | Projected Lineup |
+| 10 | Victor Mesa | TB | Jacob Misiorowski | 8 | 43.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 11 | Cooper Pratt | MIL |  | 7 | 37.4 | Longshot | Watch List | Projected Lineup |
-| 12 | Sal Frelick | MIL |  | 6 | 37.1 | Longshot | Watch List | Projected Lineup |
-| 13 | Liam Hicks | TB | Jacob Misiorowski | 4 | 36.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 14 | Jonny DeLuca | TB | Jacob Misiorowski | 5 | 36.8 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
+| 12 | Liam Hicks | TB | Jacob Misiorowski | 4 | 36.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 13 | Jonny DeLuca | TB | Jacob Misiorowski | 5 | 36.8 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
+| 14 | Richie Palacios | TB | Jacob Misiorowski | 7 | 35.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 15 | David Hamilton | MIL |  | 9 | 34.8 | Longshot | Watch List | Projected Lineup |
-| 16 | Richie Palacios | TB | Jacob Misiorowski | 8 | 33.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 16 | Sal Frelick | MIL |  | 8 | 33.7 | Longshot | Watch List | Projected Lineup |
 | 17 | Chandler Simpson | TB | Jacob Misiorowski | 6 | 31.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 18 | Taylor Walls | TB | Jacob Misiorowski | 9 | 28.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 
@@ -43,4 +43,4 @@
 - Jackson Chourio + William Contreras + Jonathan Aranda + Junior Caminero | Avg HR Score: 52.1
 - William Contreras + Jonathan Aranda + Junior Caminero + Brice Turang | Avg HR Score: 50.9
 - Jonathan Aranda + Junior Caminero + Brice Turang + Christian Yelich | Avg HR Score: 50.7
-- Junior Caminero + Brice Turang + Christian Yelich + Garrett Mitchell | Avg HR Score: 49.6
+- Junior Caminero + Brice Turang + Christian Yelich + Garrett Mitchell | Avg HR Score: 50.4
